@@ -12,7 +12,7 @@
 		"name": "NDTV Radio",
 		"name_h": "4KSP4KSo4KSh4KWA4KSf4KWA4KS14KWAIOCksOClh+CkoeCkv+Ckr+Cliw==",
 		"url": "http://stream1.ndtv.com:8080/on-ndtvindia?s=1419377869",
-                "samplerate": "",
+                "samplerate": "44100",
 		"image":"https://cdn.onlineradiobox.com/img/logo/4/11244.png",
                 "pub": "22-10-2018"
 	}
