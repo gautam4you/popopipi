@@ -1,5 +1,32 @@
 [
 {
+		"name": "BBC Hindi",
+		"name_h": "4KSs4KWA4KSs4KWA4KS44KWAIOCkueCkv+CkguCkpuClgA==",
+		"url": "http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-hinda_backup?type=.mp3",
+                "samplerate": "",
+		"image":"https://www.liveonlineradio.net/wp-content/uploads/2010/11/BBC-Hindi.jpg",
+                "pub": "22-10-2018"
+	}
+,
+{
+		"name": "NDTV Radio",
+		"name_h": "4KSP4KSo4KSh4KWA4KSf4KWA4KS14KWAIOCksOClh+CkoeCkv+Ckr+Cliw==",
+		"url": "http://stream1.ndtv.com:8080/on-ndtvindia?s=1419377869",
+                "samplerate": "",
+		"image":"https://cdn.onlineradiobox.com/img/logo/4/11244.png",
+                "pub": "22-10-2018"
+	}
+,
+{
+		"name": "ABP News TV",
+		"name_h": "4KSP4KSs4KWA4KSq4KWAIOCkuOCkruCkvuCkmuCkvuCksCDgpJ/gpYDgpLXgpYA=",
+		"url": "http://hlslivehindi-i.akamaihd.net/hls/live/703518/abphindi/masterhls_300.m3u8",
+                "samplerate": "",
+		"image":"http://www.nettv.live/uploads/allimg/18/1-1P6261210500-L.jpg",
+                "pub": "21-10-2018"
+	}
+,
+{
 		"name": "2B! Radio Sangam Shri Ram",
 		"name_h": "MiDgpKzgpYAhIOCksOClh+CkoeCkv+Ckr+CliyDgpLjgpILgpJfgpK4g4KS24KWN4KSw4KWAIOCksOCkvuCkrg==",
 		"url": "http://dard.out.airtime.pro:8000/dard_a",
