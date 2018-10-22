@@ -1,5 +1,23 @@
 [
 {
+		"name": "Hits bollywood",
+		"name_h": "4KSs4KWJ4KSy4KWA4KS14KWB4KShIOCkueCkv+Ckn+CljeCkuA==",
+		"url": "http://50.7.77.115:8174/;stream.mp3",
+                "samplerate": "",
+		"image":"https://images.8tracks.com/cover/i/002/354/252/Bollywood-article-pic-4534.jpg",
+                "pub": "22-10-2018"
+	}
+,
+{
+		"name": "Bollywood radio",
+		"name_h": "4KSs4KWJ4KSy4KWA4KS14KWB4KShIOCksOClh+CkoeCkv+Ckr+Cliw==",
+		"url": "http://radio.bollywoodradio.de/128",
+                "samplerate": "",
+		"image":"https://3.bp.blogspot.com/-WPf4pTat-dA/V_I5cr5d8uI/AAAAAAAAEKs/OjYMIGRd8_IlaU6Zpr8PqVGp_D7mU3u3ACLcB/s1600/Bollywood%2BRadio%2BFM%2BLive%2BStreaming%2BOnline.jpg",
+                "pub": "22-10-2018"
+	}
+,
+{
 		"name": "BBC Hindi",
 		"name_h": "4KSs4KWA4KSs4KWA4KS44KWAIOCkueCkv+CkguCkpuClgA==",
 		"url": "http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-hinda_backup?type=.mp3",
