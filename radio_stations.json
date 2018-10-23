@@ -3,7 +3,7 @@
 		"name": "Hits bollywood",
 		"name_h": "4KSs4KWJ4KSy4KWA4KS14KWB4KShIOCkueCkv+Ckn+CljeCkuA==",
 		"url": "http://50.7.77.115:8174/;stream.mp3",
-                "samplerate": "",
+                "samplerate": "11025",
 		"image":"https://images.8tracks.com/cover/i/002/354/252/Bollywood-article-pic-4534.jpg",
                 "pub": "22-10-2018"
 	}
@@ -30,7 +30,7 @@
 		"name": "NDTV Radio",
 		"name_h": "4KSP4KSo4KSh4KWA4KSf4KWA4KS14KWAIOCksOClh+CkoeCkv+Ckr+Cliw==",
 		"url": "http://stream1.ndtv.com:8080/on-ndtvindia?s=1419377869",
-                "samplerate": "44100",
+                "samplerate": "11025",
 		"image":"https://cdn.onlineradiobox.com/img/logo/4/11244.png",
                 "pub": "22-10-2018"
 	}
