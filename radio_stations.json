@@ -1,5 +1,14 @@
 [
 {
+		"name": "Sound asia Hindi FM",
+		"name_h": "4KSn4KWN4KS14KSo4KS/IOCkj+CktuCkv+Ckr+CkviDgpLngpL/gpILgpKbgpYAg4KSP4KSr4KSP4KSu",
+		"url": "http://196.207.21.198:88/stream",
+                "samplerate": "",
+		"image":"https://radiosindia.com/images/soundasiafm.jpg",
+                "pub": "23-10-2018"
+	}
+,
+{
 		"name": "Hits bollywood",
 		"name_h": "4KSs4KWJ4KSy4KWA4KS14KWB4KShIOCkueCkv+Ckn+CljeCkuA==",
 		"url": "http://50.7.77.115:8174/;stream.mp3",
