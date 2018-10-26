@@ -3,7 +3,7 @@
 		"name": "Dhol Radio",
 		"name_h": "4KSi4KWL4KSyIOCksOClh+CkoeCkv+Ckr+Cliw==",
 		"url": "http://gill.sukhpal.net:8000/;stream.mp3",
-                "samplerate": "",
+                "samplerate": "22050",
 		"image":"https://raw.githubusercontent.com/gautam4you/popopipi/master/dhol.png",
                 "pub": "26-10-2018"
 	}
