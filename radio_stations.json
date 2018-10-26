@@ -1,5 +1,14 @@
 [
 {
+		"name": "Masti Express",
+		"name_h": "4KSu4KS44KWN4KSk4KWAIOCkj+CkleCljeCkuOCkquCljeCksOClh+CkuCDgpKzgpYngpLLgpYDgpLXgpYHgpKE=",
+		"url": "http://radio.mastixpress.com:9852/;",
+                "samplerate": "",
+		"image":"https://raw.githubusercontent.com/gautam4you/popopipi/master/images.png",
+                "pub": "26-10-2018"
+	}
+,
+{
 		"name": "Radio XL Hindi",
 		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCkj+CkleCljeCkuOCkj+CksiDgpLngpL/gpILgpKbgpYA=",
 		"url": "http://sc18.strictlyhosting.co.uk:8000/;stream.mp3",
