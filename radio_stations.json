@@ -1,5 +1,14 @@
 [
 {
+		"name": "Humm 106.2 FM",
+		"name_h": "4KS54KSuIDEwNi4yIOCkj+Ckq+Ckj+Ckrg==",
+		"url": "http://93.190.141.15:7004/humm_64.mp3",
+                "samplerate": "",
+		"image":"https://cdn.webrad.io/images/logos/radio-net-pk/humm-106-2-fm.png",
+                "pub": "31-10-2018"
+	}
+,
+{
 		"name": "Dhol Radio",
 		"name_h": "4KSi4KWL4KSyIOCksOClh+CkoeCkv+Ckr+Cliw==",
 		"url": "http://gill.sukhpal.net:8000/;stream.mp3",
