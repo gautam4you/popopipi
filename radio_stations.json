@@ -1,5 +1,14 @@
 [
 {
+		"name": "Nitnut Radio",
+		"name_h": "4KSo4KS/4KSk4KWN4KSv4KSfIOCksOClh+CkoeCkv+Ckr+Cliw==",
+		"url": "http://master.shoutcast.com:8000/stream/?sid=990601",
+                "samplerate": "",
+		"image":"https://cdn.onlineradiobox.com/img/logo/6/68836.v7.png",
+                "pub": "05-11-2018"
+	}
+,
+{
 		"name": "Humm 106.2 FM",
 		"name_h": "4KS54KSuIDEwNi4yIOCkj+Ckq+Ckj+Ckrg==",
 		"url": "http://93.190.141.15:7004/humm_64.mp3",
@@ -1099,7 +1108,7 @@
 		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIDM2MCDgpI/gpKvgpI/gpK4=",
 		"url": "http://radio360aust.ddns.net:88/broadwave.mp3",
 "samplerate": "",
-		"image": "http://memestamil.com/hindifm/img/radio360.jpg"
+		"image": "https://cdn-profiles.tunein.com/s148872/images/logoq.png?t=152948"
 
 	},
 	{
