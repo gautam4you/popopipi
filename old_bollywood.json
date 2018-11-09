@@ -32,6 +32,14 @@
 		"feed_gender": "B",
 		"parent_link": ""
 	},
+      {
+		"img_url": "https://m.media-amazon.com/images/M/MV5BNzJkNzJiYTUtMTcwMC00YjdlLWExYjItZWFjZWQ4M2ZlYzMyXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_SY1000_CR0,0,701,1000_AL_.jpg",
+		"link": "PL058KYRnhLpcREVEhJmVzAcsbRmZ5wUc0",
+		"link_type": "P",
+		"description": "Yeh Jo Hai Zindagi (1984)",
+		"feed_gender": "S",
+		"parent_link": ""
+	},
 	{
 		"img_url": "https://images-na.ssl-images-amazon.com/images/I/51G2cqsj9QL._SY445_.jpg",
 		"link": "PLFlGspkI_qx5DBaLk-y7aMEuBKiSvBkj-",
