@@ -3,7 +3,7 @@
 		"name": "Ishara FM 100.7",
 		"name_h": "4KSH4KS24KS+4KSw4KS+IOCkj+Ckq+Ckj+CkriAxMDAuNw==",
 		"url": "http://nickerie.webhop.net:8000",
-                "samplerate": "",
+                "samplerate": "44100",
 		"image":"https://raw.githubusercontent.com/gautam4you/popopipi/master/ishara.jpg",
                 "pub": "15-11-2018"
 	}
