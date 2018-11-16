@@ -40,6 +40,30 @@
 		"feed_gender": "B",
 		"parent_link": ""
 	},
+{
+		"img_url": "https://m.media-amazon.com/images/M/MV5BOTRjZjc1NjItODNkMC00MGJlLWE5YTUtN2E3NTA4Y2EyMzE4XkEyXkFqcGdeQXVyNDY3ODQyMzE@._V1_SX300.jpg",
+		"link": "PL5_hRTe2yBxo7yGgNifcco5nP0KxTEDr0",
+		"link_type": "P",
+		"description": "Vikram Aur Betaal",
+		"feed_gender": "S",
+		"parent_link": ""
+	},
+{
+		"img_url": "https://1.bp.blogspot.com/-Fqvpcmpas40/WJCfk7sQMrI/AAAAAAAAAL4/tNFrOuyrcE4O2U7TwD4AgIN7LywQOlltwCLcB/s640/alif0.JPG",
+		"link": "PLC0fGavR7DukVkYJccjShFEvnsocJJoC8",
+		"link_type": "P",
+		"description": "Alif Laila",
+		"feed_gender": "S",
+		"parent_link": ""
+	},
+{
+		"img_url": "https://raw.githubusercontent.com/gautam4you/popopipi/master/mogli.jpeg",
+		"link": "PLPLOUQFFGH7yC0I4wwbZau__P8PglK6no",
+		"link_type": "P",
+		"description": "Mogli Cartoon",
+		"feed_gender": "S",
+		"parent_link": ""
+	}
  {
 		"img_url": "https://m.media-amazon.com/images/M/MV5BNDY2NTkxZjgtZDZkZS00YWU3LTgzYWYtYjhhNTY3MjFiOWI1XkEyXkFqcGdeQXVyNzM4MjU3NzY@._V1_.jpg",
 		"link": "PLoqigP6fJi7NB6aR04fxMP7o5tVEkvxGk",
