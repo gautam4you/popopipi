@@ -1,5 +1,14 @@
 [
 {
+		"name": "Hindi Worship Radio",
+		"name_h": "4KS54KS/4KSC4KSm4KWAIOCkquClguCknOCkviDgpLDgpYfgpKHgpL/gpK/gpYs=",
+		"url": "http://188.165.187.84:8102/",
+                "samplerate": "44100",
+		"image":"http://static.mytuner.mobi/media/radios/wyy3my9yslua.png",
+                "pub": "16-11-2018"
+	}
+,
+{
 		"name": "Ishara FM 100.7",
 		"name_h": "4KSH4KS24KS+4KSw4KS+IOCkj+Ckq+Ckj+CkriAxMDAuNw==",
 		"url": "http://nickerie.webhop.net:8000",
