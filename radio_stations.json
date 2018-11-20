@@ -12,7 +12,7 @@
 		"name": "StationZilla",
 		"name_h": "U3RhdGlvblppbGxh",
 		"url": "http://67.212.165.106:8191",
-                "samplerate": "22050",
+                "samplerate": "11025",
 		"image":"http://www.stationzilla.com/img/stationzillaNEW400x400.png",
                 "pub": "20-11-2018"
 	}
