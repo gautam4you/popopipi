@@ -1,5 +1,23 @@
 [
 {
+		"name": "Houston KI Jaan",
+		"name_h": "SG91c3RvbiBLSSBKYWFu",
+		"url": "http://ice8.securenetsystems.net/SGTRADIO?type=.flv",
+                "samplerate": "44100",
+		"image":"http://www.liveonlineradio.net/wp-content/uploads/2010/11/Houston-KI-Jaan.jpg",
+                "pub": "20-11-2018"
+	}
+,
+{
+		"name": "StationZilla",
+		"name_h": "U3RhdGlvblppbGxh",
+		"url": "http://67.212.165.106:8191",
+                "samplerate": "44100",
+		"image":"http://www.stationzilla.com/img/stationzillaNEW400x400.png",
+                "pub": "20-11-2018"
+	}
+,
+{
 		"name": "Hindi Worship Radio",
 		"name_h": "4KS54KS/4KSC4KSm4KWAIOCkquClguCknOCkviDgpLDgpYfgpKHgpL/gpK/gpYs=",
 		"url": "http://188.165.187.84:8102/",
