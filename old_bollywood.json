@@ -248,5 +248,21 @@
 		"description": "Akshay Kumar",
 		"feed_gender": "A/S",
 		"parent_link": ""
+	},
+{
+		"img_url": "https://github.com/gautam4you/popopipi/raw/master/Artist/alkayagni.jpg",
+		"link": "PLpFW3XG8zTxrWaFOk9KLLnddZ1jlQxAp6",
+		"link_type": "P",
+		"description": "Alka Yagni",
+		"feed_gender": "A/S",
+		"parent_link": ""
+	},
+{
+		"img_url": "https://github.com/gautam4you/popopipi/raw/master/Artist/amitab.jpg",
+		"link": "PLpFW3XG8zTxphBAPrte6rBk795qZZMZs-",
+		"link_type": "P",
+		"description": "Amitab Bhacchan",
+		"feed_gender": "A/S",
+		"parent_link": ""
 	}
 ]
