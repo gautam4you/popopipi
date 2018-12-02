@@ -216,5 +216,37 @@
 		"description": "Janvar",
 		"feed_gender": "M",
 		"parent_link": "PLoqigP6fJi7MAkQGvLf6MosSrleXapANG"
+	},
+{
+		"img_url": "https://github.com/gautam4you/popopipi/raw/master/Artist/kishorekumar.jpg",
+		"link": "PLpFW3XG8zTxoD8-x36Y_lKSm4wXInhM-1",
+		"link_type": "P",
+		"description": "Kishor Kumar",
+		"feed_gender": "A/S",
+		"parent_link": ""
+	},
+{
+		"img_url": "https://github.com/gautam4you/popopipi/raw/master/Artist/Aamir_Khan.jpg",
+		"link": "PLpFW3XG8zTxp_9b39tnf46tOT2AOujAaG",
+		"link_type": "P",
+		"description": "Aamir Khan",
+		"feed_gender": "A/S",
+		"parent_link": ""
+	},
+{
+		"img_url": "https://github.com/gautam4you/popopipi/raw/master/Artist/abhijit.jpg",
+		"link": "PLpFW3XG8zTxrhuVOAIVWHq-aM6VknGq0N",
+		"link_type": "P",
+		"description": "Abhijit",
+		"feed_gender": "A/S",
+		"parent_link": ""
+	},
+{
+		"img_url": "https://github.com/gautam4you/popopipi/raw/master/Artist/akshaykumar.jpg",
+		"link": "PLpFW3XG8zTxqy7-AlA9ShGqPu5vIgQa-I",
+		"link_type": "P",
+		"description": "Akshay Kumar",
+		"feed_gender": "A/S",
+		"parent_link": ""
 	}
 ]
