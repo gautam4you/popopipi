@@ -1,5 +1,14 @@
 [
 {
+		"name": "Desi Dance",
+		"name_h": "4KSm4KWH4KS44KWAIOCkqOClg+CkpOCljeCkrw==",
+		"url": "http://usa6.fastcast4u.com:5029/stream",
+                "samplerate": "44100",
+		"image":"http://static.radio.net/images/broadcasts/a6/0b/32594/c175.png",
+                "pub": "02-12-2018"
+	}
+,
+{
 		"name": "Mohabbat Radio",
 		"name_h": "4KSu4KWL4KS54KSs4KWN4KSs4KSkIOCksOClh+CkoeCkv+Ckr+Cliw==",
 		"url": "http://192.240.102.133:11316/live",
