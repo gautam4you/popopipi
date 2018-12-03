@@ -1,4 +1,21 @@
 [
+{
+		"name": "Radio Teentaal FM",
+		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIDMg4KSk4KS+4KSyIOCkj+Ckq+Ckj+Ckrg==",
+		"url": "http://s1.voscast.com:9484/;stream.mp3",
+"samplerate": "",
+		"image": "http://memestamil.com/hindifm/img/radio-teentaal-hindi.png"
+
+	},
+{
+		"name": "Radio central",
+		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCkleClh+CkguCkpuCljeCksOClgOCkrw==",
+		"url": "http://176.31.107.8:8459/;",
+"samplerate": "",
+		"image": "https://radiocentral.ch/assets/media/channels/radiocentral-live2.png",
+                "pub": "03-12-2018"
+
+	},
 	{
 		"name": "Bollywood Bio FM",
 		"name_h": "4KSs4KWJ4KSy4KWA4KS14KWB4KShIOCknOCliOCktSDgpI/gpKvgpI/gpK4=",
@@ -1057,14 +1074,7 @@
 		"image": "http://memestamil.com/hindifm/img/bombay-beats-hindi.png"
 
 	},
-	{
-		"name": "Radio Teentaal FM",
-		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIDMg4KSk4KS+4KSyIOCkj+Ckq+Ckj+Ckrg==",
-		"url": "http://s1.voscast.com:9484/;stream.mp3",
-"samplerate": "",
-		"image": "http://memestamil.com/hindifm/img/radio-teentaal-hindi.png"
-
-	},
+	
 	{
 		"name": "Radio BrisVaani FM",
 		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCkrOCljeCksOCkv+CkuOCljeCkteCkvuCko+ClgCDgpI/gpKvgpI/gpK4=",
