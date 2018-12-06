@@ -1,5 +1,14 @@
 [
 {
+		"name": "Luminous Radio - Hindi",
+		"name_h": "4KSa4KSu4KSV4KSm4KS+4KSwIOCksOClh+CkoeCkv+Ckr+CliyAtIOCkueCkv+CkguCkpuClgA==",
+		"url": "http://192.111.140.6:8601/stream",
+"samplerate": "44100",
+		"image": "https://cdn.onlineradiobox.com/img/logo/2/4002.v1.png",
+"pub": "05-12-2018"
+
+	},
+{
 		"name": "Bhojpuriya FM",
 		"name_h": "4KSt4KWL4KSc4KSq4KWB4KSw4KWAIOCkj+Ckq+Ckj+Ckrg==",
 		"url": "http://streaming.softnep.net:8143/;",
