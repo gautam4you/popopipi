@@ -40,7 +40,7 @@
 	},
 	{
 		"_name": "Hits FM - 91.2 MH",
-		"_image": "http://mitappsaj.appspot.com/fmimages/Hits_FM.jpg",
+		"_image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/hitsfm.png",
 		"_link": "http://usa4.fastcast4u.com:5098/"
 	},
 	{
@@ -120,7 +120,7 @@
 	},
 	{
 		"_name": "Mithilanchal FM 105.0",
-		"_image": "https://dl.dropboxusercontent.com/s/sgeeb3fp54gxglx/radio_station.jpg",
+		"_image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/mithilanchal.png",
 		"_link": "http://live.itech.host:8640/stream"
 	},
 	{
