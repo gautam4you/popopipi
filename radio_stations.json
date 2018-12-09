@@ -1,13 +1,14 @@
 [
 {
-		"name": "Luminous Radio - Hindi",
-		"name_h": "4KSa4KSu4KSV4KSm4KS+4KSwIOCksOClh+CkoeCkv+Ckr+CliyAtIOCkueCkv+CkguCkpuClgA==",
-		"url": "http://192.111.140.6:8601/stream",
+		"name": "Bhorukawa FM - 92.8 MHz",
+		"name_h": "4KSt4KWL4KSw4KWB4KSV4KS+4KS14KS+IOCkj+Ckq+Ckj+CkriAtIDkyLjgg4KSu4KWH4KSX4KS+4KS54KSf4KWN4KSw4KWN4KSc",
+		"url": "http://live.itechnepal.com:8374/stream",
 "samplerate": "44100",
-		"image": "https://cdn.onlineradiobox.com/img/logo/2/4002.v1.png",
-"pub": "05-12-2018"
+		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/bhorukawa.png",
+"pub": "09-12-2018"
 
 	},
+
 {
 		"name": "Bhojpuriya FM",
 		"name_h": "4KSt4KWL4KSc4KSq4KWB4KSw4KWAIOCkj+Ckq+Ckj+Ckrg==",
@@ -1280,6 +1281,15 @@
 		"url": "http://indifun.net:7000/;",
 "samplerate": "",
 		"image": "https://cdn.webrad.io/images/logos/onlineradios-in/indifun-radio.png"
+
+	},
+{
+		"name": "Luminous Radio - Hindi",
+		"name_h": "4KSa4KSu4KSV4KSm4KS+4KSwIOCksOClh+CkoeCkv+Ckr+CliyAtIOCkueCkv+CkguCkpuClgA==",
+		"url": "http://192.111.140.6:8601/stream",
+"samplerate": "44100",
+		"image": "https://cdn.onlineradiobox.com/img/logo/2/4002.v1.png",
+"pub": "05-12-2018"
 
 	}
 ]
