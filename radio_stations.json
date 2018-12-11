@@ -1,5 +1,23 @@
 [
 {
+		"name": "Sports Flash",
+		"name_h": "4KSW4KWH4KSyIOCkq+CljeCksuCliOCktg==",
+		"url": "http://perseus.shoutca.st:9373/live",
+"samplerate": "",
+		"image": "https://s3.amazonaws.com/s3-news-sportsflashes/1542457110-Sports-Flashes-Radio__Thumbnail-Web.jpg",
+"pub": "11-12-2018"
+
+	},
+{
+		"name": "Cricket Flash",
+		"name_h": "4KSV4KWN4KSw4KS/4KSV4KWH4KSfIOCkq+CljeCksuCliOCktg==",
+		"url": "http://hyades.shoutca.st:8574/;",
+"samplerate": "",
+		"image": "https://images.sportsflashes.com/1544509037-Cricket-SF-Radio__Thumbnail.jpg",
+"pub": "11-12-2018"
+
+	},
+{
 		"name": "Bhorukawa FM - 92.8 MHz",
 		"name_h": "4KSt4KWL4KSw4KWB4KSV4KS+4KS14KS+IOCkj+Ckq+Ckj+CkriAtIDkyLjgg4KSu4KWH4KSX4KS+4KS54KSf4KWN4KSw4KWN4KSc",
 		"url": "http://live.itechnepal.com:8374/stream",
