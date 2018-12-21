@@ -1,5 +1,14 @@
 [
 {
+		"name": "ShripadRadio",
+		"name_h": "U2hyaXBhZFJhZGlv",
+		"url": "http://144.217.203.184:8112/;stream/1",
+"samplerate": "",
+		"image": "https://lh3.googleusercontent.com/Ibqha4LDNmbNIQQnj5PPOHajohqiEuUUWFm4Y2twP_Lt4SzX3mI83Q8QUfXaUDuwKXA",
+"pub": "21-12-2018"
+
+	},
+{
 		"name": "Sports Flash",
 		"name_h": "4KSW4KWH4KSyIOCkq+CljeCksuCliOCktg==",
 		"url": "http://perseus.shoutca.st:9373/live",
