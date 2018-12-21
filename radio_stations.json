@@ -1,5 +1,13 @@
 [
 {
+		"name": "Radio 88",
+		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIDg4",
+		"url": "http://178.33.251.97:8686/;stream/1",
+"samplerate": "",
+		"image": "http://static.radio.net/images/broadcasts/66/45/32955/c175.png"
+
+	},
+{
 		"name": "M4U Radio FM",
 		"name_h": "4KSP4KSuIDQg4KSv4KWCIOCksOClh+CkoeCkv+Ckr+CliyDgpI/gpKvgpI/gpK4=",
 		"url": "http://72.44.89.82:8000/;",
