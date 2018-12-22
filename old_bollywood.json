@@ -1,5 +1,4 @@
-[
-{
+[{
 		"img_url": "https://i.ytimg.com/vi/5g5H5l5Maq4/maxresdefault.jpg",
 		"link": "PLpFW3XG8zTxrQOEvgUJPbdR7wXlbZyZKY",
 		"link_type": "P",
@@ -7,7 +6,7 @@
 		"feed_gender": "B",
 		"parent_link": "PLpFW3XG8zTxrQOEvgUJPbdR7wXlbZyZKY"
 	},
-{
+	{
 		"img_url": "https://asset21.ckassets.com/blog/wp-content/uploads/sites/5/2018/03/bollywood-comedy.jpg",
 		"link": "PLVeGq8yvmEoZl_X2XvH5nQ6OPC0vNMkcB",
 		"link_type": "P",
@@ -15,7 +14,7 @@
 		"feed_gender": "B",
 		"parent_link": "PLVeGq8yvmEoZl_X2XvH5nQ6OPC0vNMkcB"
 	},
-{
+	{
 		"img_url": "https://img.youtube.com/vi/TFr6G5zveS8/hqdefault.jpg",
 		"link": "RDQMtnE_iklUAEg",
 		"link_type": "P",
@@ -23,7 +22,7 @@
 		"feed_gender": "B",
 		"parent_link": "RDQMtnE_iklUAEg"
 	},
-{
+	{
 		"img_url": "https://i0.wp.com/www.vidmate.org.in/wp-content/uploads/Old-is-gold-hindi-songs-free-mp3-downloads.jpg?ssl=1",
 		"link": "PL5dxFpVs9q2mZxqWNNLsNdQEEhO9ilR6J",
 		"link_type": "P",
@@ -32,7 +31,7 @@
 		"parent_link": "PL5dxFpVs9q2mZxqWNNLsNdQEEhO9ilR6J"
 	},
 
-{
+	{
 		"img_url": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/rafi.jpeg",
 		"link": "siFJAW-3yZ4",
 		"link_type": "N",
@@ -40,7 +39,7 @@
 		"feed_gender": "B",
 		"parent_link": ""
 	},
-{
+	{
 		"img_url": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/madhu.jpeg",
 		"link": "flYnsr5MEYQ",
 		"link_type": "N",
@@ -48,7 +47,7 @@
 		"feed_gender": "B",
 		"parent_link": ""
 	},
- {
+	{
 		"img_url": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/rajesh.jpeg",
 		"link": "rzVnL1YRSFA",
 		"link_type": "N",
@@ -56,7 +55,7 @@
 		"feed_gender": "B",
 		"parent_link": ""
 	},
-{
+	{
 		"img_url": "http://viralbitch.com/wp-content/uploads/2014/08/malgudiDays.jpg",
 		"link": "PL_c7L8RcICKpLCrTT_ZlyBlooup2aHBjT",
 		"link_type": "P",
@@ -65,7 +64,7 @@
 		"parent_link": ""
 	},
 
-{
+	{
 		"img_url": "https://image3.mouthshut.com/images/imagesp/925668066s.jpg",
 		"link": "PLeg6v4C8wHIqi4V5NEUMz9A-6YxUsG-6l",
 		"link_type": "P",
@@ -73,7 +72,7 @@
 		"feed_gender": "S",
 		"parent_link": ""
 	},
-{
+	{
 		"img_url": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/vikram.jpeg",
 		"link": "PL5_hRTe2yBxo7yGgNifcco5nP0KxTEDr0",
 		"link_type": "P",
@@ -81,15 +80,45 @@
 		"feed_gender": "S",
 		"parent_link": ""
 	},
-{
+	{
 		"img_url": "https://1.bp.blogspot.com/-Fqvpcmpas40/WJCfk7sQMrI/AAAAAAAAAL4/tNFrOuyrcE4O2U7TwD4AgIN7LywQOlltwCLcB/s640/alif0.JPG",
 		"link": "PLC0fGavR7DukVkYJccjShFEvnsocJJoC8",
 		"link_type": "P",
 		"description": "Alif Laila",
 		"feed_gender": "S",
+		"root": {
+			"Title": "Alif Laila",
+			"Year": "1933",
+			"Rated": "N/A",
+			"Released": "N/A",
+			"Runtime": "N/A",
+			"Genre": "Fantasy",
+			"Director": "Balwant Bhatt, Shanti Dave",
+			"Writer": "N/A",
+			"Actors": "Bashir Qawal, Zohra",
+			"Plot": "N/A",
+			"Language": "Hindi",
+			"Country": "India",
+			"Awards": "N/A",
+			"Poster": "N/A",
+			"Ratings": [{
+				"Source": "Internet Movie Database",
+				"Value": "7.4/10"
+			}],
+			"Metascore": "N/A",
+			"imdbRating": "7.4",
+			"imdbVotes": "35",
+			"imdbID": "tt0155483",
+			"Type": "movie",
+			"DVD": "N/A",
+			"BoxOffice": "N/A",
+			"Production": "N/A",
+			"Website": "N/A",
+			"Response": "True"
+		},
 		"parent_link": ""
 	},
-{
+	{
 		"img_url": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/mogli.jpeg",
 		"link": "PLPLOUQFFGH7yC0I4wwbZau__P8PglK6no",
 		"link_type": "P",
@@ -97,7 +126,7 @@
 		"feed_gender": "S",
 		"parent_link": ""
 	},
-{
+	{
 		"img_url": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTU4MmQyNTMtNDZmNy00YzZjLThlMzYtNzY0OGVhYWIzNDY0XkEyXkFqcGdeQXVyNjEyODU0OTA@._V1_SX300.jpg",
 		"link": "PL736648C2016C16F9",
 		"link_type": "P",
@@ -105,7 +134,7 @@
 		"feed_gender": "S",
 		"parent_link": ""
 	},
- {
+	{
 		"img_url": "https://m.media-amazon.com/images/M/MV5BNDY2NTkxZjgtZDZkZS00YWU3LTgzYWYtYjhhNTY3MjFiOWI1XkEyXkFqcGdeQXVyNzM4MjU3NzY@._V1_.jpg",
 		"link": "PLoqigP6fJi7NB6aR04fxMP7o5tVEkvxGk",
 		"link_type": "P",
@@ -113,7 +142,7 @@
 		"feed_gender": "S",
 		"parent_link": ""
 	},
-      {
+	{
 		"img_url": "https://m.media-amazon.com/images/M/MV5BNzJkNzJiYTUtMTcwMC00YjdlLWExYjItZWFjZWQ4M2ZlYzMyXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_SY1000_CR0,0,701,1000_AL_.jpg",
 		"link": "PL058KYRnhLpcREVEhJmVzAcsbRmZ5wUc0",
 		"link_type": "P",
@@ -121,7 +150,7 @@
 		"feed_gender": "S",
 		"parent_link": ""
 	},
- 
+
 	{
 		"img_url": "https://images-na.ssl-images-amazon.com/images/I/51G2cqsj9QL._SY445_.jpg",
 		"link": "PLFlGspkI_qx5DBaLk-y7aMEuBKiSvBkj-",
@@ -210,7 +239,7 @@
 		"feed_gender": "M",
 		"parent_link": "PLoqigP6fJi7MAkQGvLf6MosSrleXapANG"
 	},
-{
+	{
 		"img_url": "https://github.com/gautam4you/popopipi/raw/master/Artist/kishorekumar.jpg",
 		"link": "PLpFW3XG8zTxoD8-x36Y_lKSm4wXInhM-1",
 		"link_type": "P",
@@ -218,7 +247,7 @@
 		"feed_gender": "A/S",
 		"parent_link": ""
 	},
-{
+	{
 		"img_url": "https://github.com/gautam4you/popopipi/raw/master/Artist/Aamir_Khan.jpg",
 		"link": "PLpFW3XG8zTxp_9b39tnf46tOT2AOujAaG",
 		"link_type": "P",
@@ -226,7 +255,7 @@
 		"feed_gender": "A/S",
 		"parent_link": ""
 	},
-{
+	{
 		"img_url": "https://github.com/gautam4you/popopipi/raw/master/Artist/abhijit.jpg",
 		"link": "PLpFW3XG8zTxrhuVOAIVWHq-aM6VknGq0N",
 		"link_type": "P",
@@ -234,7 +263,7 @@
 		"feed_gender": "A/S",
 		"parent_link": ""
 	},
-{
+	{
 		"img_url": "https://github.com/gautam4you/popopipi/raw/master/Artist/akshaykumar.jpg",
 		"link": "PLpFW3XG8zTxqy7-AlA9ShGqPu5vIgQa-I",
 		"link_type": "P",
@@ -242,7 +271,7 @@
 		"feed_gender": "A/S",
 		"parent_link": ""
 	},
-{
+	{
 		"img_url": "https://github.com/gautam4you/popopipi/raw/master/Artist/alkayagni.jpg",
 		"link": "PLpFW3XG8zTxrWaFOk9KLLnddZ1jlQxAp6",
 		"link_type": "P",
@@ -250,7 +279,7 @@
 		"feed_gender": "A/S",
 		"parent_link": ""
 	},
-{
+	{
 		"img_url": "https://github.com/gautam4you/popopipi/raw/master/Artist/amitab.jpg",
 		"link": "PLpFW3XG8zTxphBAPrte6rBk795qZZMZs-",
 		"link_type": "P",

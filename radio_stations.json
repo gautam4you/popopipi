@@ -1,9 +1,28 @@
 [
 {
+		"name": "Radio Dhanak",
+		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCkp+CkqOCklQ==",
+		"url": "http://usa12.fastcast4u.com:5618/stream?type=http&nocache=24",
+"samplerate": "",
+"pub": "22-12-2018",
+		"image": "http://static.radio.net/images/broadcasts/92/ef/115052/1/c175.png"
+
+	},
+{
+		"name": "RKs Own",
+		"name_h": "4KSG4KSw4KSV4KWHIOCkluClgeCkpg==",
+		"url": "http://51.255.235.165:5656/;stream/1",
+"samplerate": "",
+"pub": "22-12-2018",
+		"image": "http://www.liveonlineradio.net/wp-content/uploads/2016/11/rks-radio.jpg"
+
+	},
+{
 		"name": "Radio 88",
 		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIDg4",
 		"url": "http://178.33.251.97:8686/;stream/1",
 "samplerate": "",
+"pub": "21-12-2018",
 		"image": "http://static.radio.net/images/broadcasts/66/45/32955/c175.png"
 
 	},
