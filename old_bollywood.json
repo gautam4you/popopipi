@@ -61,6 +61,18 @@
 		"link_type": "P",
 		"description": "OM Namah Shivay",
 		"feed_gender": "S",
+                "root": {
+			"Title": "OM Namah Shivay",
+			"Year": "1997",
+			"Released": "11 Jul 1997",
+			"Genre": "Comedy, Family",
+			"Director": "Dheeraj Kumar",
+			"Actors": "Om Namah Shivay is an Indian television series portraying Hindu Puranic writings and featuring the divinity Shiva, as well as other god karthik(such as Shakti/Parvati, Brahma, Vishnu, Indra, and Sage Narada).The series is presumably named after the mantra Aum Namah Shivaya. It "depicts the spirituality, divinity and the moving power with which Lord Shiva governs the destiny of the universe.",
+			"Country": "India",
+			"imdbRating": "8.3 ",
+			"imdbVotes": "79 ",
+			"Type": "series/Episode "
+		},
 		"parent_link": ""
 	},
 	{
