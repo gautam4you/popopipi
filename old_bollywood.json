@@ -55,6 +55,14 @@
 		"feed_gender": "B",
 		"parent_link": ""
 	},
+{
+		"img_url": "https://images-na.ssl-images-amazon.com/images/I/418V7GzjqtL.jpg",
+		"link": "PLlX_EBNZW2Cf0ghXwi_d39FWfovhyo7UM",
+		"link_type": "P",
+		"description": "OM Namah Shivay",
+		"feed_gender": "S",
+		"parent_link": ""
+	},
 	{
 		"img_url": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/tenalirama.png",
 		"link": "PL9lLGTVFeSH90VNAgeESzZhBsBd6WpCoS",
@@ -84,7 +92,7 @@
 			"imdbRating": "8.3 ",
 			"imdbVotes": "79 ",
 			"imdbID": "tt7401524 ",
-			"Type": "series ",
+			"Type": "series/Episode ",
 			"totalSeasons ": "1 ",
 			"Response": "True "
 		},
@@ -101,7 +109,7 @@
 			"Year": "1987– ",
 			"Rated": "N / A ",
 			"Genre": "Drama ",
-			"Director": "N / A ",
+			"Director": "Shankar Nag, Kavitha Lankesh",
 			"Actors": "Master Manjunath,Raghuram Sitaram,Rohit Srinath,Girish Karnad: -Short stories of a south indian village by R.K.Narayanan",
 			"Plot": "",
 			"Language": "Hindi ",
@@ -111,7 +119,7 @@
 			"imdbRating": "9.5 ",
 			"imdbVotes": "2,113 ",
 			"imdbID": "tt0244911 ",
-			"Type": "series ",
+			"Type": "series/Episode ",
 			"totalSeasons ": "1 ",
 			"Response": "True "
 		},
@@ -143,7 +151,7 @@
 			"imdbRating": "9.5 ",
 			"imdbVotes": "2,113 ",
 			"imdbID": "tt0244911 ",
-			"Type": "series ",
+			"Type": "series/Episode",
 			"totalSeasons": "1 ",
 			"Response": "True "
 		},
@@ -230,7 +238,7 @@
 			"imdbRating": "7.4",
 			"imdbVotes": "231,929",
 			"imdbID": "tt3040964",
-			"Type": "movie",
+			"Type": "Serial/Episode",
 			"DVD": "30 Aug 2016 ",
 			"BoxOffice": "$363,995,937 ",
 			"Production": "Walt Disney Pictures ",
@@ -252,7 +260,7 @@
 			"Released": "N/A",
 			"Runtime": "N/A",
 			"Genre": "Comedy",
-			"Director": "N/A",
+			"Director": "Aanand Mahendroo",
 			"Writer": "Anand Mahendroo,Anand Mahendroo ",
 			"Actors": "The story revolves around three generations of the Diwan family,who live as an extended family in an ancestral bungalow in the suburbs of Mumbai.The serial takes the viewer through their various ups and downs.Their never - say - die attitude helps them overcome sibling rivalry,relationship troubles,business problems,irksome parents and in -laws.A distinctive feature of this show were its fast speaking characters ",
 			"Plot": "",
@@ -263,7 +271,7 @@
 			"imdbRating": "8.7 ",
 			"imdbVotes": "709 ",
 			"imdbID": "tt2445744 ",
-			"Type": "series ",
+			"Type": "series/episode ",
 			"totalSeasons": "1 ",
 			"Response": "True "
 		},
@@ -291,7 +299,7 @@
 			"imdbRating": "8.7 ",
 			"imdbVotes": "709 ",
 			"imdbID": "tt2445744 ",
-			"Type": "series ",
+			"Type": "series/episode ",
 			"totalSeasons": "1 ",
 			"Response": "True "
 		},
@@ -308,7 +316,7 @@
 			"Year": "1984– ",
 			"Rated": "N / A ",
 			"Genre": "Comedy ",
-			"Director": "N / A ",
+			"Director": "Manjul Sinha, Kundan Shah, Raman Kumar",
 			"Writer": "N / A ",
 			"Actors": "A sitcom about a couple,a brother -in -law,and the trouble they get into.",
 			"Plot": "",
@@ -320,7 +328,7 @@
 			"imdbRating": "8.6 ",
 			"imdbVotes": "183 ",
 			"imdbID": "tt0294230 ",
-			"Type": "series ",
+			"Type": "series/episode ",
 			"totalSeasons": "1 ",
 			"Response": "True "
 		},
@@ -352,7 +360,7 @@
 			"imdbRating": "9.7 ",
 			"imdbVotes": "567 ",
 			"imdbID": "tt0376182 ",
-			"Type": "movie ",
+			"Type": "Serial/episode",
 			"DVD": "06 Sep 2005 ",
 			"BoxOffice": "N / A ",
 			"Production": "N / A ",
@@ -393,7 +401,7 @@
 			"imdbRating": "7.4",
 			"imdbVotes": "231,929",
 			"imdbID": "tt3040964",
-			"Type": "movie",
+			"Type": "Serial/episode",
 			"Website": "http: //movies.disney.com/the-jungle-book-2016",
 			"Response": "True"
 		},
