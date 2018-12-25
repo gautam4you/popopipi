@@ -413,6 +413,7 @@
 		"link_type": "P",
 		"description": "Byomkesh Bakshi",
 		"feed_gender": "S",
+                "root": {"Title":"Byomkesh Bakshi","Year":"1993–1997","Rated":"N/A","Released":"N/A","Runtime":"N/A","Genre":"Adventure, Crime, Mystery","Director":"Basu Chatterjee","Writer":"N/A","Actors":"Rajit Kapoor, K.K. Raina, Kartik Dutta, Sukanya Kulkarni :- An intelligent detective from Kolkata solves many mystery that unsolved by police without any weapons","Plot":".","Language":"Hindi","Country":"India","Awards":"N/A","Poster":"https://images-na.ssl-images-amazon.com/images/M/MV5BNTk1ODYzOTEtNWE5NS00ODA3LTg2YzYtOTQ5NzhjNjViMmE3XkEyXkFqcGdeQXVyNjExODE1MDc@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"9.2/10"}],"Metascore":"N/A","imdbRating":"9.2","imdbVotes":"1,523","imdbID":"tt0157217","Type":"series/episode","totalSeasons":"2","Response":"True"},
 		"parent_link": ""
 	},
 	{
@@ -421,6 +422,7 @@
 		"link_type": "P",
 		"description": "Junior G",
 		"feed_gender": "S",
+                "root": {"Title":"Junior G","Year":"2001-","Rated":"N/A","Released":"N/A","Runtime":"N/A","Genre":"Fantasy,Superhero ","Director":"Ganshyam Pathak","Writer":"N/A","Actors":"A 12 years old boy blessed with magical divine powers fights evil persons like Fyumancho, Linda, Bobo, Madamme mercury, Helma, Dyana-the witch, Samahona, Bona and Magneto.","Plot":".","Language":"Hindi","Country":"India","Awards":"N/A","Poster":"https://images-na.ssl-images-amazon.com/images/M/MV5BNTk1ODYzOTEtNWE5NS00ODA3LTg2YzYtOTQ5NzhjNjViMmE3XkEyXkFqcGdeQXVyNjExODE1MDc@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"9.2/10"}],"Metascore":"N/A","imdbRating":"6.2","imdbVotes":"1,523","imdbID":"tt0157217","Type":"series/episode","totalSeasons":"2","Response":"True"},
 		"parent_link": ""
 	},
 	{
@@ -429,6 +431,7 @@
 		"link_type": "P",
 		"description": "Ramayan",
 		"feed_gender": "S",
+                "root": {"Title":"Ramayan","Year":"1987–1988","Rated":"N/A","Released":"25 Jan 1987","Runtime":"30 min","Genre":"Adventure, Drama, Fantasy","Director":"Ramanand Sagar","Writer":"N/A","Actors":"Arun Govil, Sunil Lahri, Deepika Chikhalia, Dara Singh :The Lord incarnated upon the earth nine times. The seventh was known as \"Ram Avatar.\" Ramanand Sagar's Ramayan is the story of the incarnation. It covers the entire story in detail up to Ram's coronation.","Plot":"","Language":"Hindi","Country":"India","Awards":"N/A","Poster":"https://m.media-amazon.com/images/M/MV5BODFjYWEyOTktMTU3OC00YTBhLWE4ZmEtNTJiYWUzYTYwMjIzXkEyXkFqcGdeQXVyNjU1NDgwMDg@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"9.0/10"}],"Metascore":"N/A","imdbRating":"9.0","imdbVotes":"2,198","imdbID":"tt0268093","Type":"series/episode","totalSeasons":"1","Response":"True"},
 		"parent_link": ""
 	},
 	{
