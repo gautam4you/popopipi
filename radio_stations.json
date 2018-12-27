@@ -1,5 +1,14 @@
 [
 {
+		"name": "My Masti Radio ",
+		"name_h": "4KSu4KS+4KSIIOCkruCkuOCljeCkpOClgCDgpLDgpYfgpKHgpL/gpK/gpYs=",
+		"url": "http://144.217.203.184:9056/;stream/1",
+"samplerate": "",
+"pub": "27-12-2018",
+		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/mymastiradio.jpg"
+
+	},
+{
 		"name": "Non Stop Hindi ",
 		"name_h": "Tm9uIFN0b3AgSGluZGkg",
 		"url": "http://198.178.123.14:8216/;stream/1",
