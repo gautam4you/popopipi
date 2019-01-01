@@ -56,19 +56,12 @@
 		"parent_link": ""
 	},
 {
-		"img_url": "http://www.gstatic.com/tv/thumb/tvbanners/10967910/p10967910_b_v8_aa.jpg",
-		"link": "PL0Jedq5WL3qETCgkN3712M_McjwVsU3Zf",
-		"link_type": "P",
-		"description": "Motu Patlu",
-		"feed_gender": "S",
-		"parent_link": ""
-	},
-{
 		"img_url": "https://images-na.ssl-images-amazon.com/images/I/418V7GzjqtL.jpg",
 		"link": "PLlX_EBNZW2Cf0ghXwi_d39FWfovhyo7UM",
 		"link_type": "P",
 		"description": "OM Namah Shivay",
 		"feed_gender": "S",
+                "root": {"Title":"Om Namah Shivay","Year":"2005–","Rated":"N/A","Released":"N/A","Runtime":"N/A","Genre":"Drama","Director":"Dheeraj Kumar","Writer":"N/A","Actors":"Sandeep Mehta, Sunil Nagar, Amit Pachori, Gayatri Shastri : The Hindu saga of Lord Shiva - Bolenath - Shankar and his consort Shakti - Parvati, along with Brahma, Vishnu, Indra and their goddess consorts beginning at creation. Shiva and Parvati's son Ganesh is introduced and followed too.","Plot":"","Language":"Hindi","Country":"India","Awards":"N/A","Poster":"N/A","Ratings":[{"Source":"Internet Movie Database","Value":"8.1/10"}],"Metascore":"N/A","imdbRating":"8.1","imdbVotes":"75","imdbID":"tt0853973","Type":"series","totalSeasons":"N/A","Response":"True"},
 		"parent_link": ""
 	},
 	{
