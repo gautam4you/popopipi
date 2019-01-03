@@ -1,5 +1,14 @@
 [
 {
+		"name": "Jeet FM",
+		"name_h": "SmVldCBGTQ==",
+		"url": "http://51.15.152.81:8619/;stream/1",
+"samplerate": "",
+"pub": "03-01-2018",
+		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/jeetfm.jpeg"
+
+	},
+{
 		"name": "Mehefil Radio ",
 		"name_h": "4KSu4KS54KSr4KS/4KSyIOCksOClh+CkoeCkv+Ckr+Cliw==",
 		"url": "http://mehefil.no-ip.com/;stream/1",
