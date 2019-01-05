@@ -1,11 +1,20 @@
 [
 {
+		"name": "MadhurAwaz ",
+		"name_h": "TWFkaHVyQXdheiANCg==",
+		"url": "http://144.217.203.184:9117/;stream/1",
+"samplerate": "",
+"pub": "05-01-2018",
+		"image":"https://mytuner.global.ssl.fastly.net/media/tvos_radios/dyru7mkepytt.png"
+
+	},
+{
 		"name": "Radio Taj ",
 		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCkpOCkvuCknA0K",
 		"url": "http://198.178.123.2:9484/;stream/1",
 "samplerate": "",
 "pub": "05-01-2018",
-		"image": "https://onlineradiofm.in/assets/image/radio/180/Screenshot_7.png"
+		"image":"https://onlineradiofm.in/assets/image/radio/180/Screenshot_7.png"
 
 	},
 {
