@@ -40,5 +40,12 @@
 		"directLink": "https://raw.githubusercontent.com/gautam4you/popopipi/master/sponcerd/finland.apk",
 		"info":"Finland Radio Stations (HD)"
 
+},
+{
+		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/sponcerd/hindiradio.png.png",
+		"playStoreUrl": "https://play.google.com/store/apps/details?id=com.app.hindi",
+		"directLink": "https://raw.githubusercontent.com/gautam4you/popopipi/master/sponcerd/hindiradio.apk",
+		"info":"FM Radio Hindi - all India radio stations"
+
 }
 ]
