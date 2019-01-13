@@ -1,6 +1,6 @@
 [
 {
-		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/sponcerd/nehakakar_images.png",
+		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/sponcerd/guru_images.png",
 		"playStoreUrl": "https://play.google.com/store/apps/details?id=com.app.gururandhawa",
 		"directLink": "https://raw.githubusercontent.com/gautam4you/popopipi/master/sponcerd/guru.apk",
 		"info":"Guru Randhawa Hit Songs (HD)"
@@ -25,6 +25,20 @@
 		"playStoreUrl": "4KSP4KS24KS/4KSv4KS+4KSIIOCksOClh+CkoeCkv+Ckr+Cliw==",
 		"directLink": "https://raw.githubusercontent.com/gautam4you/popopipi/master/sponcerd/oldbollywood.apk",
 		"info":"Old Bollywood Video Songs & Movies"
+
+},
+{
+		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/sponcerd/norway_image.png",
+		"playStoreUrl": "https://play.google.com/store/apps/details?id=com.app.norwayradio",
+		"directLink": "https://raw.githubusercontent.com/gautam4you/popopipi/master/sponcerd/norway.apk",
+		"info":"Norway Radio FM - all Norway radio stations"
+
+},
+{
+		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/sponcerd/finland_image.png",
+		"playStoreUrl": "https://play.google.com/store/apps/details?id=com.app.finlandradio",
+		"directLink": "https://raw.githubusercontent.com/gautam4you/popopipi/master/sponcerd/finland.apk",
+		"info":"Finland Radio Stations (HD)"
 
 }
 ]
