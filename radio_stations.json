@@ -1,5 +1,14 @@
 [
 {
+		"name": "Tune India Radio",
+		"name_h": "4KSf4KWN4KSv4KWC4KSoIOCkh+CkguCkoeCkv+Ckr+CkviDgpLDgpYfgpKHgpL/gpK/gpYs=",
+		"url": "https://s2.radio.co/se5e166e2f/listen",
+"samplerate": "",
+"pub": "17-01-2019",
+		"image":"https://mytuner.global.ssl.fastly.net/media/tvos_radios/pdLYxmgsuN.png"
+
+	},
+{
 		"name": "My Masti Radio",
 		"name_h": "4KSu4KS+4KSIIOCkruCkuOCljeCkpOClgCDgpLDgpYfgpKHgpL/gpK/gpYs=",
 		"url": "http://144.217.203.184:9056/;",
