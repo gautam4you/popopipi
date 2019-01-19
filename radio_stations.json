@@ -1,5 +1,14 @@
 [
 {
+		"name": "Mashup102 Radio",
+		"name_h": "TWFzaHVwMTAyIOCksOClh+CkoeCkv+Ckr+Cliw==",
+		"url": "http://163.172.213.155:8010/stream",
+"samplerate": "",
+"pub": "19-01-2019",
+		"image":"https://cdn.onlineradios.net/hindiradios/assets/img/radio-logos/mashup-102-radio.jpg"
+
+	},
+{
 		"name": "JSR Radio",
 		"name_h": "4KSc4KWH4KSP4KS44KSG4KSwIOCksOClh+CkoeCkv+Ckr+Cliw==",
 		"url": "http://198.7.59.28:8078/stream/1/",
