@@ -1,5 +1,14 @@
 [
 {
+		"name": "Radio Mastana",
+		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCkruCkuOCljeCkpOCkvuCkqOCkvg==",
+		"url": "http://radiomastanaaustralia.serverroom.net:9170/;stream.mp3",
+"samplerate": "",
+"pub": "21-01-2019",
+		"image":"https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/radiomastana.jpg"
+
+	},
+{
 		"name": "Mashup102 Radio",
 		"name_h": "TWFzaHVwMTAyIOCksOClh+CkoeCkv+Ckr+Cliw==",
 		"url": "http://163.172.213.155:8010/stream",
