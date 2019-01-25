@@ -56,14 +56,40 @@
 		"parent_link": ""
 	},
 {
-		"img_url": "https://m.media-amazon.com/images/M/MV5BMzMyZTZmNDUtYjA5YS00ODExLWI2ZWQtYjcxY2ViNzY0YWZhXkEyXkFqcGdeQXVyMzE2MzA5MzI@._V1_UY268_CR1,0,182,268_AL_.jpg",
-		"link": "PLE8QxoMjxnWBEMbtojLj65pjh7spCXb9q",
-		"link_type": "P",
-		"description": "Flop Show",
-		"feed_gender": "S",
-                "root": {"Title":"Flop Show","Year":"31 October 1989","Rated":"N/A","Released":"N/A","Runtime":"N/A","Genre":"Drama","Director":"Jaspal Bhatti","Writer":"N/A","Actors":"Flop Show has a distinctive opening sequence. It starts off with a dedication to those whom the specific episode is poking fun at. This is followed by the title song "Flop Show", which mocks the show itself as being misdirected. It features most of the main cast collectively playing musical instruments as a band. Jaspal Bhatti appears as an eye-patch wearing, menacing looking director (to correct, it's not Jaspal Bhatti, it's the music director H.N. Singh). The other cast members are dressed variously as a police inspector, a doctor, a peon, etc.","Plot":"","Language":"Hindi","Country":"India","Awards":"N/A","Poster":"N/A","Ratings":[{"Source":"Internet Movie Database","Value":"8.1/10"}],"Metascore":"N/A","imdbRating":"8.1","imdbVotes":"75","imdbID":"tt0853973","Type":"series","totalSeasons":"N/A","Response":"True"},
-		"parent_link": ""
+	"img_url": "https://m.media-amazon.com/images/M/MV5BMzMyZTZmNDUtYjA5YS00ODExLWI2ZWQtYjcxY2ViNzY0YWZhXkEyXkFqcGdeQXVyMzE2MzA5MzI@._V1_UY268_CR1,0,182,268_AL_.jpg",
+	"link": "PLE8QxoMjxnWBEMbtojLj65pjh7spCXb9q",
+	"link_type": "P",
+	"description": "Flop Show",
+	"feed_gender": "S",
+	"root": {
+		"Title": "Flop Show",
+		"Year": "31 October 1989",
+		"Rated": "N/A",
+		"Released": "N/A",
+		"Runtime": "N/A",
+		"Genre": "Drama",
+		"Director": "Jaspal Bhatti",
+		"Writer": "N/A",
+		"Actors": "Flop Show has a distinctive opening sequence. It starts off with a dedication to those whom the specific episode is poking fun at. This is followed by the title song Flop Show , which mocks the show itself as being misdirected. It features most of the main cast collectively playing musical instruments as a band. Jaspal Bhatti appears as an eye-patch wearing, menacing looking director (to correct, it's not Jaspal Bhatti, it's the music director H.N. Singh). The other cast members are dressed variously as a police inspector, a doctor, a peon, etc.",
+		"Plot": "",
+		"Language": "Hindi",
+		"Country": "India",
+		"Awards": "N/A",
+		"Poster": "N/A",
+		"Ratings": [{
+			"Source": "Internet Movie Database",
+			"Value": "8.1/10"
+		}],
+		"Metascore": "N/A",
+		"imdbRating": "8.1",
+		"imdbVotes": "75",
+		"imdbID": "tt0853973",
+		"Type": "series",
+		"totalSeasons": "N/A",
+		"Response": "True"
 	},
+	"parent_link": ""
+},
 {
 		"img_url": "https://images-na.ssl-images-amazon.com/images/I/418V7GzjqtL.jpg",
 		"link": "PLlX_EBNZW2Cf0ghXwi_d39FWfovhyo7UM",
