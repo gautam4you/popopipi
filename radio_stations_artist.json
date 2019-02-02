@@ -1,5 +1,45 @@
 [
 {
+		"name": "Kishore Radio",
+		"name_h": "4KSV4KS/4KS24KWL4KSwIOCksOClh+CkoeCkv+Ckr+Cliw==",
+		"url": "https://prclive4.listenon.in/KishoreRadio",
+                "samplerate": "",
+		"image":"https://onlineradiofm.in/assets/image/radio/180/City-Kishore-Kumar-Radio.png",
+                "pub": "02-02-2019"
+	},
+{
+		"name": "AshaBhosle radio",
+		"name_h": "4KSG4KS24KS+4KSt4KWL4KS44KSy4KWHIOCksOClh+CkoeCkv+Ckr+Cliw==",
+		"url": "https://prclive4.listenon.in/AshaBhosle",
+                "samplerate": "",
+		"image":"https://2.bp.blogspot.com/-06bHHrkqkkA/WaubCdm5SqI/AAAAAAAAFhg/y2fjQV6Bag4xfWAY2lP9-TuDKWJ63S_TwCPcBGAYYCw/s1600/Asha%2BBhosle%2BRadio%2BLive%2BOnline.jpg",
+                "pub": "02-02-2019"
+	},
+{
+		"name": "Mukesh Radio",
+		"name_h": "4KSu4KWB4KSV4KWH4KS2IOCksOClh+CkoeCkv+Ckr+Cliw==",
+		"url": "https://prclive4.listenon.in/Mukesh",
+                "samplerate": "",
+		"image":"https://onlineradiofm.in/assets/image/radio/180/City-Mukesh.png",
+                "pub": "02-02-2019"
+	},
+{
+		"name": "Burman Radio",
+		"name_h": "4KSs4KSw4KWN4KSu4KSoIOCksOClh+CkoeCkv+Ckr+Cliw==",
+		"url": "https://prclive4.listenon.in/BurmanRadio",
+                "samplerate": "",
+		"image":"https://images.adgully.com/img/800/201706/rd-burman.jpg",
+                "pub": "02-02-2019"
+	},
+{
+		"name": "Mohammad rafi",
+		"name_h": "4KSu4KWB4KS54KSu4KWN4KSu4KSmIOCksOCkq+CkvOClgA==",
+		"url": "https://prclive4.listenon.in/MRafi",
+                "samplerate": "",
+		"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Mohammed_Rafi_2016_postcard_of_India_crop-flip.jpg/220px-Mohammed_Rafi_2016_postcard_of_India_crop-flip.jpg",
+                "pub": "02-02-2019"
+	},
+{
 		"name": "BIG 92.7 Jodhpur",
 		"name_h": "OTIuNyDgpJzgpYvgpKfgpKrgpYHgpLA=",
 		"url": "http://sc-bb.1.fm:8017/",
