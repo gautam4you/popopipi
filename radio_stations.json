@@ -1,5 +1,14 @@
 [
 {
+		"name": "PRO Plus Radio",
+		"name_h": "4KSq4KWN4KSw4KWLIOCkquCljeCksuCkuCDgpLDgpYfgpKHgpL/gpK/gpYs=",
+		"url": "http://5.196.56.208:8308/;stream/1",
+                "samplerate": "",
+		"image":"https://i3.radionomy.com/radios/400/24efa415-3e4d-4e22-8e2a-4e7e9f16dcea.jpg",
+                "pub": "02-02-2019"
+	}
+,
+{
 		"name": "BIG 92.7 Jodhpur",
 		"name_h": "OTIuNyDgpJzgpYvgpKfgpKrgpYHgpLA=",
 		"url": "http://sc-bb.1.fm:8017/",

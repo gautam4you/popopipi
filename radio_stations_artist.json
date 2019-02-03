@@ -1,10 +1,19 @@
 [
 {
+		"name": "PRO Plus Radio",
+		"name_h": "4KSq4KWN4KSw4KWLIOCkquCljeCksuCkuCDgpLDgpYfgpKHgpL/gpK/gpYs=",
+		"url": "http://5.196.56.208:8308/;stream/1",
+                "samplerate": "",
+		"image":"https://i3.radionomy.com/radios/400/24efa415-3e4d-4e22-8e2a-4e7e9f16dcea.jpg",
+                "pub": "02-02-2019"
+	}
+,
+{
 		"name": "Kishore Radio",
 		"name_h": "4KSV4KS/4KS24KWL4KSwIOCksOClh+CkoeCkv+Ckr+Cliw==",
 		"url": "https://prclive4.listenon.in/KishoreRadio",
                 "samplerate": "",
-		"image":"https://onlineradiofm.in/assets/image/radio/180/City-Kishore-Kumar-Radio.png",
+		"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Kishore_Kumar_dans_Bhagam_Bhag_%281956%29.jpg/220px-Kishore_Kumar_dans_Bhagam_Bhag_%281956%29.jpg",
                 "pub": "02-02-2019"
 	},
 {
@@ -20,7 +29,7 @@
 		"name_h": "4KSu4KWB4KSV4KWH4KS2IOCksOClh+CkoeCkv+Ckr+Cliw==",
 		"url": "https://prclive4.listenon.in/Mukesh",
                 "samplerate": "",
-		"image":"https://onlineradiofm.in/assets/image/radio/180/City-Mukesh.png",
+		"image":"https://img.discogs.com/0ewvN38UbPbV8ktlU1F-FHaYiSE=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-954672-1282499534.jpeg.jpg",
                 "pub": "02-02-2019"
 	},
 {
