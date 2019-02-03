@@ -1,5 +1,23 @@
 [
 {
+		"name": "UDIT NARAYAN",
+		"name_h": "VURJVCDgpKjgpL7gpLDgpL7gpK/gpKM=",
+		"url": "https://prc.listenon.in/odm/songs/INH101002276.mp3",
+                "samplerate": "",
+		"image":"https://www.radiocity.in/images/songs/album/udit-narayan1469686650.jpg",
+                "pub": "02-02-2019"
+	}
+,
+{
+		"name": "Arjit Radio",
+		"name_h": "4KSF4KSw4KSc4KWA4KSkIOCksOClh+CkoeCkv+Ckr+Cliw==",
+		"url": "http://212.83.138.48:8740/;stream.mp3",
+                "samplerate": "",
+		"image":"https://cdn.onlineradios.net/hindiradios/assets/img/radio-logos/arijit-singh-radio.jpg",
+                "pub": "02-02-2019"
+	}
+,
+{
 		"name": "PRO Plus Radio",
 		"name_h": "4KSq4KWN4KSw4KWLIOCkquCljeCksuCkuCDgpLDgpYfgpKHgpL/gpK/gpYs=",
 		"url": "http://5.196.56.208:8308/;stream/1",
