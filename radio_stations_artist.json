@@ -1,5 +1,14 @@
 [
 {
+		"name": "iWiFM",
+		"name_h": "aVdpRk0=",
+		"url": "http://s2.myradiostream.com:29270/;",
+                "samplerate": "",
+		"image":"https://cdn.onlineradiobox.com/img/logo/3/29303.png",
+                "pub": "16-02-2019"
+	}
+,
+{
 		"name": "Gee Radio Hindu Religious ",
 		"name_h": "4KSc4KWAIOCksOClh+CkoeCkv+Ckr+CliyDgpLngpL/gpILgpKbgpYIg4KSn4KS+4KSw4KWN4KSu4KS/4KSV",
 		"url": "http://149.56.195.94:8303/",
