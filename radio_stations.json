@@ -1,5 +1,23 @@
 [
 {
+		"name": "iWiFM",
+		"name_h": "aVdpRk0=",
+		"url": "http://s2.myradiostream.com:29270/;",
+                "samplerate": "",
+		"image":"https://cdn.onlineradiobox.com/img/logo/3/29303.png",
+                "pub": "16-02-2019"
+	}
+{
+		"name": "92.7 Delhi",
+		"name_h": "OTIuNyDgpJzgpYvgpKfgpKrgpYHgpLA=",
+		"url": "http://sc-bb.1.fm:8017/",
+                "samplerate": "",
+		"image":"https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/jodhpur.jpg",
+                "pub": "16-01-2019"
+	}
+,
+,
+{
 		"name": "PRO Plus Radio",
 		"name_h": "4KSq4KWN4KSw4KWLIOCkquCljeCksuCkuCDgpLDgpYfgpKHgpL/gpK/gpYs=",
 		"url": "http://5.196.56.208:8308/;stream/1",
