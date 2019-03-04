@@ -1,5 +1,14 @@
 [
 {
+		"name": "Yoodlee",
+		"name_h": "WW9vZGxlZQ==",
+		"url": "http://us3.internet-radio.com:8250/live",
+                "samplerate": "",
+		"image":"",
+                "pub": "03-04-2019"
+	}
+,
+{
 		"name": "iWiFM",
 		"name_h": "aVdpRk0=",
 		"url": "http://s2.myradiostream.com:29270/;",
