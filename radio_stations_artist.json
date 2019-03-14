@@ -1,5 +1,15 @@
 [
 {
+		"name": "PRO Plus Radio",
+		"name_h": "4KSq4KWN4KSw4KWLIOCkquCljeCksuCkuCDgpLDgpYfgpKHgpL/gpK/gpYs=",
+		"url": "http://5.135.192.162:8000/;stream.mp3",
+                "samplerate": "",
+	"cat":"Hindi,Bollywood",
+"image":"https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/share.png",
+                "pub": "14-02-2019"
+	}
+,
+{
 		"name": "iWiFM",
 		"name_h": "aVdpRk0=",
 		"url": "http://s2.myradiostream.com:29270/;",
