@@ -1,15 +1,5 @@
 [
 {
-		"name": "BMCI Radio ",
-		"name_h": "Qk1DSSDgpLDgpYfgpKHgpL/gpK/gpYs=",
-		"url": "http://185.193.112.155:18952/;stream/1",
-                "samplerate": "",
-                "cat": "Bollywood,Hindi",
-		"image":"https://pbs.twimg.com/profile_images/701498053019062272/DgMhicHT_400x400.png",
-                "pub": "23-03-2019"
-	}
-,
-{
 		"name": "Bollywood Evergreen",
 		"name_h": "4KSs4KWJ4KSy4KWA4KS14KWB4KShIOCkuOCkpuCkvuCkrOCkueCkvuCksA==",
 		"url": "http://192.240.102.133:11454/stream",
