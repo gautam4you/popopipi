@@ -267,16 +267,6 @@
 
 	},
 	{
-		"name": "RKs Own",
-		"name_h": "4KSG4KSw4KSV4KWHIOCkluClgeCkpg==",
-		"url": "http://51.255.235.165:5656/;stream/1",
-		"samplerate": "",
-		"pub": "22-12-2018",
-		"cat": "Web,Hindi",
-		"image": "http://www.liveonlineradio.net/wp-content/uploads/2016/11/rks-radio.jpg"
-
-	},
-	{
 		"name": "Radio 88",
 		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIDg4",
 		"url": "http://178.33.251.97:8686/;stream/1",
@@ -292,7 +282,7 @@
 		"url": "http://72.44.89.82:8000/;",
 		"samplerate": "",
 		"cat": "Web,Hindi",
-		"image": "http://memestamil.com/hindifm/img/m4uradio.jpg"
+		"image": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/LvyHmr7Cdw.png"
 
 	},
 	{
@@ -313,26 +303,6 @@
 		"cat": "Web,Hindi",
 		"image": "https://lh3.googleusercontent.com/Ibqha4LDNmbNIQQnj5PPOHajohqiEuUUWFm4Y2twP_Lt4SzX3mI83Q8QUfXaUDuwKXA",
 		"pub": "21-12-2018"
-
-	},
-	{
-		"name": "Sports Flash",
-		"name_h": "4KSW4KWH4KSyIOCkq+CljeCksuCliOCktg==",
-		"url": "http://perseus.shoutca.st:9373/live",
-		"samplerate": "",
-		"cat": "Sports",
-		"image": "https://images.sportsflashes.com/1545906026-Thumbnail-(1).jpg",
-		"pub": "11-12-2018"
-
-	},
-	{
-		"name": "Cricket Flash",
-		"name_h": "4KSV4KWN4KSw4KS/4KSV4KWH4KSfIOCkq+CljeCksuCliOCktg==",
-		"url": "http://hyades.shoutca.st:8574/;",
-		"samplerate": "",
-		"cat": "Sports",
-		"image": "https://images.sportsflashes.com/1544509037-Cricket-SF-Radio__Thumbnail.jpg",
-		"pub": "11-12-2018"
 
 	},
 	{
