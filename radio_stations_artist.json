@@ -1,5 +1,15 @@
 [
 {
+		"name": "Hindi Cricket",
+		"name_h": "SGluZGkgQ3JpY2tldA==",
+		"url": "https://securestreams2.autopo.st:1079/sportsflashes_cricket",
+                "samplerate": "",
+                "cat": "cricket",
+		"image":"https://images.sportsflashes.com/1549545514-sflogo.png",
+                "pub": "26-03-2019"
+	}
+,
+{
 		"name": "Nuke Hindi",
 		"name_h": "TnVrZSBIaW5kaQ==",
 		"url": "http://live.nukeradio.com:8016/stream3;",
