@@ -1,5 +1,15 @@
 [
 {
+		"name": "Hit 95 FM ",
+		"name_h": "OTUg4KSP4KSr4KSP4KSu",
+		"url": "http://50.7.77.115:8174/;?type=.mp3/;stream.mp3",
+                "samplerate": "",
+                "cat": "Bollywood,Hindi",
+		"image":"http://hit95fm.in/img/zabardast-hit95fm-logo.png",
+                "pub": "17-04-2019"
+	}
+,
+{
 		"name": "Hindi Cricket",
 		"name_h": "SGluZGkgQ3JpY2tldA==",
 		"url": "https://securestreams2.autopo.st:1079/sportsflashes_cricket",
