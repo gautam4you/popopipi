@@ -1,5 +1,35 @@
 [
 {
+		"name": "Purani Jeans",
+		"name_h": "4KSq4KWB4KSw4KS+4KSj4KWAIOCknOClgOCkqOCljeCkuA==",
+		"url": "https://puranijeanshdliv-lh.akamaihd.net/i/PuraniJeansHDLive_1_1@334555/index_1_a-p.m3u8",
+		"samplerate": "",
+		"cat": "Web,Hindi",
+		"pub": "23-04-2019",
+		"image": "https://onlineradiofm.in/assets/image/radio/180/retro-hindi.png"
+
+	},
+{
+		"name": "1600 AM Hindi",
+		"name_h": "MTYwMCDgpI/gpI/gpK4g4KSo4KSC",
+		"url": "http://ca2.radioboss.fm/proxy/southas1?mp=/stream",
+		"samplerate": "",
+		"cat": "Web,Hindi",
+		"pub": "23-04-2019",
+		"image": "https://radiosindia.com/images/1600am.jpg"
+
+	},
+{
+		"name": "Australian Indian Radio",
+		"name_h": "4KSR4KS44KWN4KSf4KWN4KSw4KWH4KSy4KS/4KSv4KS+4KSIIOCkreCkvuCksOCkpOClgOCkryDgpLDgpYfgpKHgpL/gpK/gpYs=",
+		"url": "http://webcast.indianradio.net.au:8000/;",
+		"samplerate": "",
+		"cat": "Web,Hindi",
+		"pub": "23-04-2019",
+		"image": "https://i1.sndcdn.com/avatars-000246714889-8qel5x-t500x500.jpg"
+
+	},
+{
 		"name": "Radio Pehchaan",
 		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCkquCkueCkmuCkvuCkqA==",
 		"url": "http://radiopehchaan.live-streams.nl:8027/live",
@@ -475,15 +505,6 @@
 		"cat": "Hindi,Bollywood",
 		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/ishara.jpg",
 		"pub": "15-11-2018"
-	},
-	{
-		"name": "Nitnut Radio",
-		"name_h": "4KSo4KS/4KSk4KWN4KSv4KSfIOCksOClh+CkoeCkv+Ckr+Cliw==",
-		"url": "http://master.shoutcast.com:8000/stream/?sid=990601",
-		"samplerate": "",
-		"cat": "Hindi,Bollywood,Web",
-		"image": "https://cdn.onlineradiobox.com/img/logo/6/68836.v7.png",
-		"pub": "05-11-2018"
 	},
 	{
 		"name": "Humm 106.2 FM",
@@ -979,15 +1000,6 @@
 		"samplerate": "11025",
 		"cat": "Hindi,Bollywood,Web",
 		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/awz.jpg",
-		"pub": "27-09-2018"
-	},
-	{
-		"name": "Australian Hindi",
-		"name_h": "4KSR4KS44KWN4KSf4KWN4KSw4KWH4KSy4KS/4KSv4KS+4KSIIOCkueCkv+CkguCkpuClgA==",
-		"url": "http://101.187.125.210:8000/;",
-		"samplerate": "",
-		"cat": "Hindi,Bollywood,Web",
-		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/aus.jpg",
 		"pub": "27-09-2018"
 	},
 	{
