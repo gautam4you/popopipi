@@ -6,7 +6,7 @@
 		"samplerate": "",
 		"cat": "Web,Hindi",
 		"pub": "23-04-2019",
-		"image": "https://onlineradiofm.in/assets/image/radio/180/retro-hindi.png"
+		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/retrohindi.png"
 
 	},
 {
@@ -75,7 +75,7 @@
 		"url": "http://50.7.77.115:8174/;?type=.mp3/;stream.mp3",
                 "samplerate": "",
                 "cat": "Bollywood,Hindi",
-		"image":"http://hit95fm.in/img/zabardast-hit95fm-logo.png",
+		"image":"https://onlineradiofm.in/assets/image/radio/180/zabardast-hit95fm-logo.png",
                 "pub": "17-04-2019"
 	}
 ,
@@ -577,15 +577,6 @@
 		"cat": "News",
 		"image": "https://cdn.onlineradiobox.com/img/logo/4/11244.png",
 		"pub": "22-10-2018"
-	},
-	{
-		"name": "ABP News TV",
-		"name_h": "4KSP4KSs4KWA4KSq4KWAIOCkuOCkruCkvuCkmuCkvuCksCDgpJ/gpYDgpLXgpYA=",
-		"url": "http://hlslivehindi-i.akamaihd.net/hls/live/703518/abphindi/masterhls_300.m3u8",
-		"samplerate": "",
-		"cat": "News",
-		"image": "http://www.nettv.live/uploads/allimg/18/1-1P6261210500-L.jpg",
-		"pub": "21-10-2018"
 	},
 	{
 		"name": "2B! Radio Sangam Shri Ram",
