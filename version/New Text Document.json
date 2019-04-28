@@ -3,5 +3,5 @@
   "versionName":"1.0.0",
   "content":"1.add something#2.add something",//use # to wrap
   "minSupport":19,	//min support version. while your app versionCode less than  minSupport,You must update app
-  "url":"https://raw.githubusercontent.com/gautam4you/popopipi/master/sponcerd/Bhojpuri.apk"
+  "url":"https://github.com/gautam4you/popopipi/tree/master/version/IndianLiveTV.apk"
 }
