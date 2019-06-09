@@ -1,0 +1,7 @@
+{
+  "versionCode":4,
+  "versionName":"1.0.0",
+  "content":"1.Changed player color #2. For update first go app setting give storage permission then update.",//use # to wrap
+  "minSupport":19,	//min support version. while your app versionCode less than  minSupport,You must update app
+  "url":"https://raw.githubusercontent.com/gautam4you/popopipi/master/version/IndianLiveTV.apk"
+}
