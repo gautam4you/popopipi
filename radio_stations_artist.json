@@ -1,5 +1,77 @@
 [
 {
+		"name": "ARIJIT SINGH RADIO ",
+		"name_h": "QVJJSklUIFNJTkdIIFJBRElP",
+		"url": "http://southradios.net:9090/arijitsinghradio",
+		"samplerate": "",
+		"cat": "Artist",
+		"image": "https://cdn.onlineradios.net/hindiradios/assets/img/radio-logos/arijit-singh-radio.jpg",
+		"pub": "28-06-2019"
+	},
+{
+		"name": "AR Rahman Radio ",
+		"name_h": "4KSP4KSG4KSwIOCksOCkueCkruCkvuCkqCDgpLDgpYfgpKHgpL/gpK/gpYs=",
+		"url": "http://southradios.net:9090/arrahmanhindiradio",
+		"samplerate": "",
+		"cat": "Artist",
+		"image": "https://radiosindia.com/images/arrahman.jpg",
+		"pub": "28-06-2019"
+	},
+{
+		"name": "FNF FM",
+		"name_h": "Rk5GIEZN",
+		"url": "http://192.99.8.192:5032/stream",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood",
+		"image": "https://radiosindia.com/images/fnffm.jpg",
+		"pub": "28-06-2019"
+	},
+	{
+		"name": "Indie Pop Bollywood",
+		"name_h": "4KSH4KSC4KSh4KWAIOCkquClieCkqiDgpKzgpYngpLLgpYDgpLXgpYHgpKE=",
+		"url": "http://103.16.47.70:7111/;stream.mp3",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood",
+		"image": "https://radiosindia.com/images/bestofindiepopradio.jpg",
+		"pub": "28-06-2019"
+	},
+	{
+		"name": "Ghazals Hindi",
+		"name_h": "4KSX4KS84KSc4KS84KSyIOCkueCkv+CkguCkpuClgA==",
+		"url": "http://103.16.47.70:9777/;stream.mp3",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood",
+		"image": "https://radiosindia.com/images/bestofghazals.jpg",
+		"pub": "28-06-2019"
+	},
+	{
+		"name": "S1 Dhamaka Hindi",
+		"name_h": "4KS4MSDgpKfgpK7gpL7gpJXgpL4g4KS54KS/4KSC4KSm4KWA",
+		"url": "http://162.244.81.30:8050/;",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood",
+		"image": "https://radiosindia.com/images/radios1dhamaka.jpg",
+		"pub": "28-06-2019"
+	},
+	{
+		"name": "b & w classics Bollywood",
+		"name_h": "YiAmIHcgY2xhc3NpY3MgQm9sbHl3b29k",
+		"url": "http://103.16.47.70:7888/;",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood",
+		"image": "https://radiosindia.com/images/bwclassics.jpg",
+		"pub": "28-06-2019"
+	},
+	{
+		"name": "60s forever Bollywood",
+		"name_h": "NjAg4KSV4KWHIOCkpuCktuCklSDgpLngpK7gpYfgpLbgpL4g4KSV4KWHIOCksuCkv+CkjyDgpKzgpYngpLLgpYDgpLXgpYHgpKE=",
+		"url": "http://103.16.47.70:6222/;",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood",
+		"image": "https://radiosindia.com/images/60sforever.jpg",
+		"pub": "28-06-2019"
+	},
+{
 		"name": "Hindi Music Radio",
 		"name_h": "4KS54KS/4KSC4KSm4KWAIOCkuOCkguCkl+ClgOCkpCDgpLDgpYfgpKHgpL/gpK/gpYs=",
 		"url": "http://5.196.56.208:8308/;stream/1",
