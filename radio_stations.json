@@ -13,7 +13,7 @@
 		"name": "Hit 95 FM ",
 		"name_h": "OTUg4KSP4KSr4KSP4KSu",
 		"url": "http://50.7.77.115:8174/;?type=.mp3/;stream.mp3",
-                "samplerate": "44100",
+                "samplerate": "11025",
                 "cat": "Bollywood,Hindi",
 		"image":"http://hit95fm.in/img/zabardast-hit95fm-logo.png",
                 "pub": "17-04-2019"
