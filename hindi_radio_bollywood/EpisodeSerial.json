@@ -1,8 +1,8 @@
 {
 	"active": true,
-	"width": 240,
-	"height": 240,
-	"round": true,
+	"width": 279,
+	"height": 402,
+	"round": false,
 	"SerialList": [{
 			"videosListId": "PLPZMKG27ffai3BXjT9bqIh35AIMCOkrDy",
 			"type": "YP",
