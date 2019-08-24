@@ -1,0 +1,50 @@
+{
+  "active": true,
+  "RadioList": [
+    {
+      "feedUrl": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_p",
+      "thumbnail": "https://img.youtube.com/vi/RnUxV_rEx1U/default.jpg",
+      "title": "Test 1",
+      "titleHindi": "Test @",
+      "bitRate": 42000,
+      "cat": "Test 1",
+      "active": true
+    },
+    {
+      "feedUrl": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_p",
+      "thumbnail": "https://img.youtube.com/vi/RnUxV_rEx1U/default.jpg",
+      "title": "Test 1",
+      "titleHindi": "Test @",
+      "bitRate": 42000,
+      "cat": "Test 2",
+      "active": true
+    },
+    {
+      "feedUrl": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_p",
+      "thumbnail": "https://img.youtube.com/vi/RnUxV_rEx1U/default.jpg",
+      "title": "Test 1",
+      "titleHindi": "Test @",
+      "bitRate": 42000,
+      "cat": "Test 3",
+      "active": true
+    },
+    {
+      "feedUrl": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_p",
+      "thumbnail": "https://img.youtube.com/vi/RnUxV_rEx1U/default.jpg",
+      "title": "Test 1",
+      "titleHindi": "Test @",
+      "bitRate": 42000,
+      "cat": "Test 4",
+      "active": true
+    },
+    {
+      "feedUrl": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_p",
+      "thumbnail": "https://img.youtube.com/vi/RnUxV_rEx1U/default.jpg",
+      "title": "Test 1",
+      "titleHindi": "Test @",
+      "bitRate": 42000,
+      "cat": "Test 1",
+      "active": true
+    }
+  ]
+}
