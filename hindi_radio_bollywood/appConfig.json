@@ -1,86 +1,84 @@
-{ 
-  "active": true,
-  "ads": {
-    "active": true,
-    "bannerAdsUnite":"ca-app-pub-3940256099942544/6300978111",
-    "fullAdsUnite":"ca-app-pub-3940256099942544/1033173712",
-    "rewardVideosAdsUnite":"ca-app-pub-3940256099942544/5224354917",
-    "adsAppId":"ca-app-pub-3940256099942544~3347511713"
-  },
-  "ytKey": "AIzaSyCg3WitBUQl5ifC2QygQaZUPOSRMKfSD5E",
-  "GridSize": 2,
-  "HomeVideosList": [
-    {
-      "videosListId": "PLpeT3TZU-3DQzVS5agXAeP5QInz6O2xUQ",
-      "type": "YP",
-      "extraLink": "",
-      "title": "Recents1",
-      "moreButton": true
-    },
-    {
-      "videosListId": "PLqq-6Pq4lTTZh5U8RbdXq0WaYvZBz2rbn",
-      "type": "YP",
-      "extraLink": "",
-      "title": "Recents2",
-      "moreButton": true
-    },
-    {
-      "videosListId": "UCjXfkj5iapKHJrhYfAF9ZGg",
-      "type": "EXT",
-      "extraLink": "EpisodeSerial.json",
-      "title": "Breaking",
-      "moreButton": true
-    },
-    {
-      "videosListId": "PLgXFWqXsY3qzGSW5Vq8MQ-GpVDvfGdOtc",
-      "type": "YP",
-      "extraLink": "",
-      "title": "Recents3",
-      "moreButton": true
-    },
-    {
-      "videosListId": "PLSHGh2u-pOIswXZORDItFWjFtnQKxKLgk",
-      "type": "YP",
-      "extraLink": "",
-      "title": "Recents4",
-      "moreButton": true
-    },
-    {
-      "videosListId": "PLFgquLnL59alCl_2TQvOiD5Vgm1hCaGSI",
-      "type": "YP",
-      "extraLink": "",
-      "title": "Recents5",
-      "moreButton": true
-    },
-    {
-      "videosListId": "UCjXfkj5iapKHJrhYfAF9ZGg",
-      "type": "C",
-      "extraLink": "",
-      "title": "Movies",
-      "moreButton": true
-    },
-    {
-      "videosListId": "",
-      "type": "C",
-      "extraLink": "http://google.com",
-      "title": "Breaking",
-      "moreButton": true
-    }
-  ],
-  "ExtraHomeVideosList": [
-    {
-      "videosListId": "PLFgquLnL59alCl_2TQvOiD5Vgm1hCaGSI",
-      "type": "YP",
-      "extraLink": "",
-      "title": "Recents6",
-      "moreButton": true
-    },
-    {
-      "videosListId": "PLv3TTBr1W_9tppikBxAE_G6qjWdBljBHJ",
-      "type": "YP",
-      "extraLink": "",
-      "title": "Recents7",
-      "moreButton": true
-    }
-  ]
+{
+	"active": true,
+	"ads": {
+		"active": true,
+		"bannerAdsUnite": "ca-app-pub-3940256099942544/6300978111",
+		"fullAdsUnite": "ca-app-pub-3940256099942544/1033173712",
+		"rewardVideosAdsUnite": "ca-app-pub-3940256099942544/5224354917",
+		"adsAppId": "ca-app-pub-3940256099942544~3347511713"
+	},
+	"ytKey": "AIzaSyCg3WitBUQl5ifC2QygQaZUPOSRMKfSD5E",
+	"GridSize": 2,
+	"HomeVideosList": [{
+			"videosListId": "PLpeT3TZU-3DQzVS5agXAeP5QInz6O2xUQ",
+			"type": "YP",
+			"extraLink": "",
+			"title": "Recents1",
+			"moreButton": true
+		},
+		{
+			"videosListId": "PLqq-6Pq4lTTZh5U8RbdXq0WaYvZBz2rbn",
+			"type": "YP",
+			"extraLink": "",
+			"title": "Recents2",
+			"moreButton": true
+		},
+		{
+			"videosListId": "UCjXfkj5iapKHJrhYfAF9ZGg",
+			"type": "EXT",
+			"extraLink": "EpisodeSerial.json",
+			"title": "Breaking",
+			"moreButton": true
+		},
+		{
+			"videosListId": "PLgXFWqXsY3qzGSW5Vq8MQ-GpVDvfGdOtc",
+			"type": "YP",
+			"extraLink": "",
+			"title": "Recents3",
+			"moreButton": true
+		},
+		{
+			"videosListId": "PLSHGh2u-pOIswXZORDItFWjFtnQKxKLgk",
+			"type": "YP",
+			"extraLink": "",
+			"title": "Recents4",
+			"moreButton": true
+		},
+		{
+			"videosListId": "PLFgquLnL59alCl_2TQvOiD5Vgm1hCaGSI",
+			"type": "YP",
+			"extraLink": "",
+			"title": "Recents5",
+			"moreButton": true
+		},
+		{
+			"videosListId": "UCjXfkj5iapKHJrhYfAF9ZGg",
+			"type": "C",
+			"extraLink": "",
+			"title": "Movies",
+			"moreButton": true
+		},
+		{
+			"videosListId": "",
+			"type": "C",
+			"extraLink": "http://google.com",
+			"title": "Breaking",
+			"moreButton": true
+		}
+	],
+	"ExtraHomeVideosList": [{
+			"videosListId": "PLFgquLnL59alCl_2TQvOiD5Vgm1hCaGSI",
+			"type": "YP",
+			"extraLink": "",
+			"title": "Recents6",
+			"moreButton": true
+		},
+		{
+			"videosListId": "PLv3TTBr1W_9tppikBxAE_G6qjWdBljBHJ",
+			"type": "YP",
+			"extraLink": "",
+			"title": "Recents7",
+			"moreButton": true
+		}
+	]
 }
