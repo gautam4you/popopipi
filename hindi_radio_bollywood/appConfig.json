@@ -24,6 +24,14 @@
       "title": "Recents2",
       "moreButton": true
     },
+,
+    {
+      "videosListId": "UCjXfkj5iapKHJrhYfAF9ZGg",
+      "type": "EXT",
+      "extraLink": "EpisodeSerial.json",
+      "title": "Breaking",
+      "moreButton": true
+    },
     {
       "videosListId": "PLgXFWqXsY3qzGSW5Vq8MQ-GpVDvfGdOtc",
       "type": "YP",
@@ -73,13 +81,6 @@
       "type": "YP",
       "extraLink": "",
       "title": "Recents7",
-      "moreButton": true
-    },
-    {
-      "videosListId": "UCjXfkj5iapKHJrhYfAF9ZGg",
-      "type": "EXT",
-      "extraLink": "EpisodeSerial.json",
-      "title": "Breaking",
       "moreButton": true
     }
   ]
