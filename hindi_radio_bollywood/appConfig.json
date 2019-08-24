@@ -77,8 +77,8 @@
     },
     {
       "videosListId": "UCjXfkj5iapKHJrhYfAF9ZGg",
-      "type": "C",
-      "extraLink": "http://google.com",
+      "type": "EXT",
+      "extraLink": "EpisodeSerial.json",
       "title": "Breaking",
       "moreButton": true
     }
