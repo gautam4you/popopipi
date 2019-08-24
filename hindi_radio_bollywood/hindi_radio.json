@@ -347,8 +347,7 @@
 			"bitRate": "",
 			"pub": "03-01-2018",
 			"cat": "Web,Hindi",
-			"thumbnail": "https://image.winudf.com/v2/image/Y29tLndSYWRpb01laGZpbF8xMV9zY3JlZW5fMF8xNTM3OTU3MzYyXzAwNg/screen-0.jpg?h=355&fakeurl=1&type=.jpg"
-
+			"thumbnail": "https://image.winudf.com/v2/image/Y29tLndSYWRpb01laGZpbF8xMV9zY3JlZW5fMF8xNTM3OTU3MzYyXzAwNg/screen-0.jpg?h = 355 & fakeurl = 1 & type = .jpg"
 		},
 		{
 			"title": "Non Stop Hindi ",
@@ -386,6 +385,7 @@
 			"feedUrl": "http://72.44.89.82:8000/;",
 			"bitRate": "",
 			"cat": "Web,Hindi",
+			"pub": "03-12-2018",
 			"thumbnail": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/LvyHmr7Cdw.png"
 
 		},
@@ -436,6 +436,7 @@
 			"feedUrl": "http://s1.voscast.com:9484/;stream.mp3",
 			"bitRate": "",
 			"cat": "Hindi",
+			"pub": "03-12-2018",
 			"thumbnail": "https://onlineradiofm.in/assets/image/radio/180/radioteental.jpg"
 
 		},
@@ -591,7 +592,7 @@
 			"feedUrl": "http://radio.bollywoodradio.de/128",
 			"bitRate": "",
 			"cat": "Hindi,Bollywood,Web",
-			"thumbnail": "https://3.bp.blogspot.com/-WPf4pTat-dA/V_I5cr5d8uI/AAAAAAAAEKs/OjYMIGRd8_IlaU6Zpr8PqVGp_D7mU3u3ACLcB/s1600/Bollywood%2BRadio%2BFM%2BLive%2 BStreaming % 2 BOnline.jpg",
+			"thumbnail": "",
 			"pub": "22-10-2018"
 		},
 		{
@@ -709,7 +710,7 @@
 			"feedUrl": "http://perseus.shoutca.st:8536/;",
 			"bitRate": "",
 			"cat": "Hindi,Bollywood,Web",
-			"thumbnail": "https://media.licdn.com/dms/image/C4D0BAQHRUgWvTbcJBA/company-logo_200_200/0?e=2159024400&v=beta&t=2FKQwvPErcQt_zpA22mwRcyE_l_a3RP_L8LdOM-Wcrk",
+			"thumbnail": "https://media.licdn.com/dms/image/C4D0BAQHRUgWvTbcJBA/company-logo_200_200/0?e = 2159024400 & v = beta & t = 2 FKQwvPErcQt_zpA22mwRcyE_l_a3RP_L8LdOM - Wcrk ",
 			"pub": "09-09-2018"
 		},
 		{
@@ -1725,7 +1726,7 @@
 			"titleHindi": "c3BpY2VyYWRpby5jYQ==",
 			"feedUrl": "http://149.56.147.197:9091/",
 			"bitRate": "",
-			"thumbnail": "http://marci1683.marci.io/img/albums/cache/custom_skin_3_Meet%20Bros%20Anjjan%20and%20Kanika%20Kapoor%7C%7CChittiyaan%20Kalaiyaan%20(From%20Roy%20).jpg",
+			"thumbnail": "http://marci1683.marci.io/img/albums/cache/custom_skin_3_Meet%20Bros%20Anjjan%20and%20Kanika%20Kapoor%7C%7CChittiyaan%20 Kalaiyaan % 20(From % 20 Roy % 20).jpg ",
 			"pub": "19-02-2019"
 		},
 		{
