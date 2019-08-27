@@ -1,23 +1,40 @@
-[
-{
-		"name": "Bhajan Radio  ",
-		"name_h": "4KSt4KSc4KSoIOCksOClh+CkoeCkv+Ckr+Cliw==",
-		"url": "http://192.99.35.215:5086/stream",
+[{
+		"name": "Bhakti World - Shiva  ",
+		"name_h": "4KSt4KSV4KWN4KSk4KS/IOCkteCkv+CktuCljeCktSAtIOCktuCkv+CktQ==",
+		"url": "http://hot.out.airtime.pro:8000/hot_a",
 		"samplerate": "",
 		"cat": "Hindi,Devotional",
-		"image": "https://static-media.streema.com/media/cache/c1/a5/c1a5b9705f7644eb8486184af6682427.jpg",
-		"pub": "17-08-2019"
+		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/shiva.png",
+		"pub": "27-08-2019"
 	},
-{
+	{
+		"name": "Bhakti World - Hanuman  ",
+		"name_h": "4KSt4KSV4KWN4KSk4KS/IOCkteCkv+CktuCljeCktSAtIOCkueCkqOClgeCkruCkvuCkqA==",
+		"url": "http://2bhanuman.out.airtime.pro:8000/2bhanuman_a",
+		"samplerate": "",
+		"cat": "Hindi,Devotional",
+		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/hanuman.jpg",
+		"pub": "27-08-2019"
+	},
+	{
+		"name": "Bhakti World - Ganesh  ",
+		"name_h": "4KSt4KSV4KWN4KSk4KS/IOCkteCkv+CktuCljeCktSAtIOCkl+Cko+Clh+Cktg==",
+		"url": "http://radio2bindia.out.airtime.pro:8000/radio2bindia_a",
+		"samplerate": "",
+		"cat": "Hindi,Devotional",
+		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/ganesha.jpg",
+		"pub": "27-08-2019"
+	},
+	{
 		"name": "Bhakti World  ",
 		"name_h": "4KSt4KSV4KWN4KSk4KS/IOCknOCkl+CkpA==",
-		"url": "http://67.212.165.106:8191/;stream.mp3",
+		"url": "http://ibadat.out.airtime.pro:8000/ibadat_a",
 		"samplerate": "",
 		"cat": "Hindi,Devotional",
-		"image": "https://cdn.webrad.io/images/logos/onlineradios-in/bhakti.png",
-		"pub": "17-08-2019"
+		"image": "https://cdn.onlineradiobox.com/img/logo/8/79898.v1.png",
+		"pub": "27-08-2019"
 	},
-{
+	{
 		"name": "Radioazad FM   ",
 		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWL4KSc4KS84KS+4KSmIOCkj+Ckq+Ckj+Ckrg==",
 		"url": "http://162.244.80.30:8234/;stream.mp3",
@@ -26,7 +43,7 @@
 		"image": "https://cdn.onlineradios.net/hindiradios/assets/img/radio-logos/radio-azard-fm.jpg",
 		"pub": "11-08-2019"
 	},
-{
+	{
 		"name": "Hungama 90s SuperHits  ",
 		"name_h": "4KS54KSC4KSX4KS+4KSu4KS+IDkwIOCkleClhyDgpKbgpLbgpJUg4KSV4KWAIOCkuOClgeCkquCksOCkueCkv+Ckn+CljeCkuA==",
 		"url": "http://103.16.47.70:7444/;stream.mp3",
@@ -35,7 +52,7 @@
 		"image": "https://cdn.onlineradios.net/hindiradios/assets/img/radio-logos/hungama-90s-super-hits.jpg",
 		"pub": "11-08-2019"
 	},
-{
+	{
 		"name": "ARIJIT SINGH RADIO ",
 		"name_h": "QVJJSklUIFNJTkdIIFJBRElP",
 		"url": "http://southradios.net:9090/arijitsinghradio",
@@ -44,7 +61,7 @@
 		"image": "https://cdn.onlineradios.net/hindiradios/assets/img/radio-logos/arijit-singh-radio.jpg",
 		"pub": "28-06-2019"
 	},
-{
+	{
 		"name": "AR Rahman Radio ",
 		"name_h": "4KSP4KSG4KSwIOCksOCkueCkruCkvuCkqCDgpLDgpYfgpKHgpL/gpK/gpYs=",
 		"url": "http://southradios.net:9090/arrahmanhindiradio",
@@ -53,7 +70,7 @@
 		"image": "https://radiosindia.com/images/arrahman.jpg",
 		"pub": "28-06-2019"
 	},
-{
+	{
 		"name": "FNF FM",
 		"name_h": "Rk5GIEZN",
 		"url": "http://192.99.8.192:5032/stream",
@@ -107,7 +124,7 @@
 		"image": "https://radiosindia.com/images/60sforever.jpg",
 		"pub": "28-06-2019"
 	},
-{
+	{
 		"name": "Hindi Music Radio",
 		"name_h": "4KS54KS/4KSC4KSm4KWAIOCkuOCkguCkl+ClgOCkpCDgpLDgpYfgpKHgpL/gpK/gpYs=",
 		"url": "http://5.196.56.208:8308/;stream/1",
@@ -117,7 +134,7 @@
 		"image": "https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/fb/bd/56/fbbd56ba-76c0-b1ac-073a-68556d08dd28/source/512x512bb.jpg"
 
 	},
-{
+	{
 		"name": "Red 93.5 FM",
 		"name_h": "4KSy4KS+4KSyIDkzLjUg4KSP4KSr4KSP4KSu",
 		"url": "http://prclive1.listenon.in:8808/;",
@@ -128,7 +145,7 @@
 
 	},
 
-{
+	{
 		"name": "Purani Jeans",
 		"name_h": "4KSq4KWB4KSw4KS+4KSj4KWAIOCknOClgOCkqOCljeCkuA==",
 		"url": "https://puranijeanshdliv-lh.akamaihd.net/i/PuraniJeansHDLive_1_1@334555/index_1_a-p.m3u8",
@@ -138,7 +155,7 @@
 		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/retrohindi.png"
 
 	},
-{
+	{
 		"name": "1600 AM Hindi",
 		"name_h": "MTYwMCDgpI/gpI/gpK4g4KSo4KSC",
 		"url": "http://ca2.radioboss.fm/proxy/southas1?mp=/stream",
@@ -148,7 +165,7 @@
 		"image": "https://radiosindia.com/images/1600am.jpg"
 
 	},
-{
+	{
 		"name": "Australian Indian Radio",
 		"name_h": "4KSR4KS44KWN4KSf4KWN4KSw4KWH4KSy4KS/4KSv4KS+4KSIIOCkreCkvuCksOCkpOClgOCkryDgpLDgpYfgpKHgpL/gpK/gpYs=",
 		"url": "http://webcast.indianradio.net.au:8000/;",
@@ -158,7 +175,7 @@
 		"image": "https://i1.sndcdn.com/avatars-000246714889-8qel5x-t500x500.jpg"
 
 	},
-{
+	{
 		"name": "Radio Pehchaan",
 		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCkquCkueCkmuCkvuCkqA==",
 		"url": "http://radiopehchaan.live-streams.nl:8027/live",
@@ -168,7 +185,7 @@
 		"image": "https://static-media.streema.com/media/cache/6d/8c/6d8caa8224cbbf4569eae6b4b3b7a18a.jpg"
 
 	},
-{
+	{
 		"name": "Radio Anardana ",
 		"name_h": "4KSF4KSo4KS+4KSw4KSm4KS+4KSo4KS+IOCksOClh+CkoeCkv+Ckr+Cliw==",
 		"url": "http://85.25.185.202:8055/;",
@@ -178,7 +195,7 @@
 		"image": "https://radiosindia.com/images/radioanardana.jpg"
 
 	},
-{
+	{
 		"name": "Easy 96",
 		"name_h": "4KSG4KS44KS+4KSoIDk2",
 		"url": "http://ice8.securenetsystems.net/EASY96",
@@ -198,67 +215,61 @@
 		"image": "http://asianradio.online/wp-content/uploads/2017/02/cropped-asian-radio-online.jpg"
 
 	},
-{
+	{
 		"name": "Hit 95 FM ",
 		"name_h": "OTUg4KSP4KSr4KSP4KSu",
 		"url": "http://50.7.77.115:8174/;?type=.mp3/;stream.mp3",
-                "samplerate": "",
-                "cat": "Bollywood,Hindi",
-		"image":"https://onlineradiofm.in/assets/image/radio/180/zabardast-hit95fm-logo.png",
-                "pub": "17-04-2019"
-	}
-,
-{
+		"samplerate": "",
+		"cat": "Bollywood,Hindi",
+		"image": "https://onlineradiofm.in/assets/image/radio/180/zabardast-hit95fm-logo.png",
+		"pub": "17-04-2019"
+	},
+	{
 		"name": "Hindi Cricket",
 		"name_h": "SGluZGkgQ3JpY2tldA==",
 		"url": "https://securestreams2.autopo.st:1079/sportsflashes_cricket",
-                "samplerate": "",
-                "cat": "cricket",
-		"image":"https://images.sportsflashes.com/1549545514-sflogo.png",
-                "pub": "26-03-2019"
-	}
-,
-{
+		"samplerate": "",
+		"cat": "cricket",
+		"image": "https://images.sportsflashes.com/1549545514-sflogo.png",
+		"pub": "26-03-2019"
+	},
+	{
 		"name": "Nuke Hindi",
 		"name_h": "TnVrZSBIaW5kaQ==",
 		"url": "http://live.nukeradio.com:8016/stream3;",
-                "samplerate": "",
-                "cat": "Bollywood,Hindi",
-		"image":"https://radiosindia.com/images/nukehindioldhits.jpg",
-                "pub": "24-03-2019"
-	}
-,
-{
+		"samplerate": "",
+		"cat": "Bollywood,Hindi",
+		"image": "https://radiosindia.com/images/nukehindioldhits.jpg",
+		"pub": "24-03-2019"
+	},
+	{
 		"name": "Sada Bahar",
 		"name_h": "U2FkYSBCYWhhcg==",
 		"url": "http://192.240.102.133:8512/stream/;",
-                "samplerate": "",
-                "cat": "Bollywood,Hindi",
-		"image":"https://cdn.onlineradiobox.com/img/logo/7/3777.png",
-                "pub": "24-03-2019"
-	}
-,
-{
+		"samplerate": "",
+		"cat": "Bollywood,Hindi",
+		"image": "https://cdn.onlineradiobox.com/img/logo/7/3777.png",
+		"pub": "24-03-2019"
+	},
+	{
 		"name": "Bollywood Evergreen",
 		"name_h": "4KSs4KWJ4KSy4KWA4KS14KWB4KShIOCkuOCkpuCkvuCkrOCkueCkvuCksA==",
 		"url": "http://192.240.102.133:11454/stream",
-                "samplerate": "",
-                "cat": "Bollywood,Hindi",
-		"image":"https://cdn.onlineradiobox.com/img/logo/6/3776.v1.png",
-                "pub": "15-03-2019"
-	}
-,
-{
+		"samplerate": "",
+		"cat": "Bollywood,Hindi",
+		"image": "https://cdn.onlineradiobox.com/img/logo/6/3776.v1.png",
+		"pub": "15-03-2019"
+	},
+	{
 		"name": "iWiFM",
 		"name_h": "aVdpRk0=",
 		"url": "http://s2.myradiostream.com:29270/;",
-                "samplerate": "",
-		"image":"https://cdn.onlineradiobox.com/img/logo/3/29303.png",
-                "pub": "16-02-2019"
-	}
-,
+		"samplerate": "",
+		"image": "https://cdn.onlineradiobox.com/img/logo/3/29303.png",
+		"pub": "16-02-2019"
+	},
 
-{
+	{
 		"name": "Bhojpuri Love Guru ",
 		"name_h": "4KSt4KWL4KSc4KSq4KWB4KSw4KWAIOCksuCktSDgpJfgpYHgpLDgpYE=",
 		"url": "https://prclive4.listenon.in/Bhojpuri",
@@ -1681,24 +1692,23 @@
 		"pub": "05-12-2018"
 
 	},
-{
+	{
 		"name": "spiceradio.ca",
 		"name_h": "c3BpY2VyYWRpby5jYQ==",
 		"url": "http://149.56.147.197:9091/",
-                "samplerate": "",
-		"image":"http://marci1683.marci.io/img/albums/cache/custom_skin_3_Meet%20Bros%20Anjjan%20and%20Kanika%20Kapoor%7C%7CChittiyaan%20Kalaiyaan%20(From%20Roy%20).jpg",
-                "pub": "19-02-2019"
-	}
-,
-{
+		"samplerate": "",
+		"image": "http://marci1683.marci.io/img/albums/cache/custom_skin_3_Meet%20Bros%20Anjjan%20and%20Kanika%20Kapoor%7C%7CChittiyaan%20Kalaiyaan%20(From%20Roy%20).jpg",
+		"pub": "19-02-2019"
+	},
+	{
 		"name": "GRadio Bollywood",
 		"name_h": "R1JhZGlvIOCkrOClieCksuClgOCkteClgeCkoQ==",
 		"url": "http://149.56.195.94:8057/;",
-                "samplerate": "",
-		"image":"https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/geeradio.png",
-                "pub": "17-02-2019"
+		"samplerate": "",
+		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/geeradio.png",
+		"pub": "17-02-2019"
 	},
-{
+	{
 		"name": "Gee Radio Hindu Religious ",
 		"name_h": "4KSc4KWAIOCksOClh+CkoeCkv+Ckr+CliyDgpLngpL/gpILgpKbgpYIg4KSn4KS+4KSw4KWN4KSu4KS/4KSV",
 		"url": "http://149.56.195.94:8303/",
@@ -1707,14 +1717,32 @@
 		"image": "https://lh3.googleusercontent.com/sYW16w5AVdB676idSo0kUOtFJu8EsBhcWyLcvqPf9eZQsc1E1ugJntrzwEqsvQKVSYk",
 		"pub": "16-02-2019"
 	},
-{
+	{
+		"name": "Bhajan Radio  ",
+		"name_h": "4KSt4KSc4KSoIOCksOClh+CkoeCkv+Ckr+Cliw==",
+		"url": "http://192.99.35.215:5086/stream",
+		"samplerate": "",
+		"cat": "Hindi,Devotional",
+		"image": "https://static-media.streema.com/media/cache/c1/a5/c1a5b9705f7644eb8486184af6682427.jpg",
+		"pub": "17-08-2019"
+	},
+	{
+		"name": "Bhakti World  ",
+		"name_h": "4KSt4KSV4KWN4KSk4KS/IOCknOCkl+CkpA==",
+		"url": "http://67.212.165.106:8191/;stream.mp3",
+		"samplerate": "",
+		"cat": "Hindi,Devotional",
+		"image": "https://cdn.webrad.io/images/logos/onlineradios-in/bhakti.png",
+		"pub": "17-08-2019"
+	},
+	{
 		"name": "PRO Plus Radio",
 		"name_h": "4KSq4KWN4KSw4KWLIOCkquCljeCksuCkuCDgpLDgpYfgpKHgpL/gpK/gpYs=",
 		"url": "http://5.135.192.162:8000/;stream.mp3",
-                "samplerate": "",
-	"cat":"Hindi,Bollywood",
-"image":"https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/share.png",
-                "pub": "14-02-2019"
+		"samplerate": "",
+		"cat": "Hindi,Bollywood",
+		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/share.png",
+		"pub": "14-02-2019"
 	}
 
 
