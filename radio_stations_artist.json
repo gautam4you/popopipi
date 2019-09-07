@@ -1,4 +1,59 @@
-[{
+[
+{
+		"name": "HUMM FM  ",
+		"name_h": "4KS54KSu4KWN4KSuIOCkj+Ckq+Ckj+Ckrg==",
+		"url": "https://cp12.serverse.com/proxy/hummfm?mp=/live",
+		"samplerate": "",
+		"cat": "Hindi,web",
+		"image": "https://cdn-radiotime-logos.tunein.com/s108804q.png",
+		"pub": "07-09-2019"
+	},
+{
+		"name": "Hungama Dil Se",
+		"name_h": "4KS54KSC4KSX4KS+4KSu4KS+IOCkpuCkv+CksiDgpLjgpYc=",
+		"url": "http://103.16.47.70:7333/;stream.nsv",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood",
+		"image": "https://d368qv66y0shpj.cloudfront.net/featured_content/347160f7c385ec130ac12c4f6c107216_200x200.jpg",
+		"pub": "30-08-2018"
+	},
+	{
+		"name": "Hungama Classical",
+		"name_h": "SHVuZ2FtYSDgpLbgpL7gpLjgpY3gpKTgpY3gpLDgpYDgpK8=",
+		"url": "http://103.16.47.70:9999/;stream.nsv",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood",
+		"image": "https://d368qv66y0shpj.cloudfront.net/featured_content/946f1eeebc4ae350cd011b5e65ba6a92_200x200.jpg",
+		"pub": "30-08-2018"
+	},
+	{
+		"name": "Hungama Dance Masti",
+		"name_h": "4KS54KSC4KSX4KS+4KSu4KS+IOCkoeCkvuCkguCkuCDgpK7gpLjgpY3gpKTgpYA=",
+		"url": "http://103.16.47.70:9222/;stream.nsv",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood",
+		"image": "https://d368qv66y0shpj.cloudfront.net/featured_content/9db33d20bf6eb622b88ac5240031a5a0_200x200.jpg",
+		"pub": "30-08-2018"
+	},
+	{
+		"name": "Hungama Evergreen",
+		"name_h": "SHVuZ2FtYSDgpLjgpKbgpL7gpKzgpLngpL7gpLAg4KSs4KWJ4KSy4KWA4KS14KWB4KSh",
+		"url": "http://103.16.47.70:7666/;stream.nsv",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood",
+		"image": "https://d368qv66y0shpj.cloudfront.net/featured_content/87e13ac99d76ef735f9b00db46606f4b_200x200.jpg",
+		"pub": "30-08-2018"
+	},
+	{
+		"name": "Hungama Hot Now",
+		"name_h": "4KS54KSC4KSX4KSu4KS+IOCkueClieCknyDgpIXgpKwg4KSs4KWJ4KSy4KWA4KS14KWB4KSh",
+		"url": "http://103.16.47.70:7222/;stream.nsv",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood",
+		"image": "https://d368qv66y0shpj.cloudfront.net/featured_content/65e8fb1f34672cc1cff6753087450bb9_200x200.jpg",
+		"pub": "19-08-2018"
+	},
+{
 		"name": "Bhakti World - Shiva  ",
 		"name_h": "4KSt4KSV4KWN4KSk4KS/IOCkteCkv+CktuCljeCktSAtIOCktuCkv+CktQ==",
 		"url": "http://hot.out.airtime.pro:8000/hot_a",
@@ -1177,51 +1232,6 @@
 		"cat": "Hindi,Bollywood",
 		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/ristey.jpg",
 		"pub": "14-09-2018"
-	},
-	{
-		"name": "Hungama Dil Se",
-		"name_h": "4KS54KSC4KSX4KS+4KSu4KS+IOCkpuCkv+CksiDgpLjgpYc=",
-		"url": "http://103.16.47.70:7333/;stream.nsv",
-		"samplerate": "",
-		"cat": "Hindi,Bollywood",
-		"image": "https://d368qv66y0shpj.cloudfront.net/featured_content/347160f7c385ec130ac12c4f6c107216_200x200.jpg",
-		"pub": "30-08-2018"
-	},
-	{
-		"name": "Hungama Classical",
-		"name_h": "SHVuZ2FtYSDgpLbgpL7gpLjgpY3gpKTgpY3gpLDgpYDgpK8=",
-		"url": "http://103.16.47.70:9999/;stream.nsv",
-		"samplerate": "",
-		"cat": "Hindi,Bollywood",
-		"image": "https://d368qv66y0shpj.cloudfront.net/featured_content/946f1eeebc4ae350cd011b5e65ba6a92_200x200.jpg",
-		"pub": "30-08-2018"
-	},
-	{
-		"name": "Hungama Dance Masti",
-		"name_h": "4KS54KSC4KSX4KS+4KSu4KS+IOCkoeCkvuCkguCkuCDgpK7gpLjgpY3gpKTgpYA=",
-		"url": "http://103.16.47.70:9222/;stream.nsv",
-		"samplerate": "",
-		"cat": "Hindi,Bollywood",
-		"image": "https://d368qv66y0shpj.cloudfront.net/featured_content/9db33d20bf6eb622b88ac5240031a5a0_200x200.jpg",
-		"pub": "30-08-2018"
-	},
-	{
-		"name": "Hungama Evergreen",
-		"name_h": "SHVuZ2FtYSDgpLjgpKbgpL7gpKzgpLngpL7gpLAg4KSs4KWJ4KSy4KWA4KS14KWB4KSh",
-		"url": "http://103.16.47.70:7666/;stream.nsv",
-		"samplerate": "",
-		"cat": "Hindi,Bollywood",
-		"image": "https://d368qv66y0shpj.cloudfront.net/featured_content/87e13ac99d76ef735f9b00db46606f4b_200x200.jpg",
-		"pub": "30-08-2018"
-	},
-	{
-		"name": "Hungama Hot Now",
-		"name_h": "4KS54KSC4KSX4KSu4KS+IOCkueClieCknyDgpIXgpKwg4KSs4KWJ4KSy4KWA4KS14KWB4KSh",
-		"url": "http://103.16.47.70:7222/;stream.nsv",
-		"samplerate": "",
-		"cat": "Hindi,Bollywood",
-		"image": "https://d368qv66y0shpj.cloudfront.net/featured_content/65e8fb1f34672cc1cff6753087450bb9_200x200.jpg",
-		"pub": "19-08-2018"
 	},
 	{
 		"name": "Asian Radio",
