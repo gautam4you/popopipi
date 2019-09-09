@@ -1,11 +1,29 @@
 [
 {
+		"name": "Jazbaa FM ",
+		"name_h": "4KSc4KWb4KWN4KSs4KS+IOCkq+Ckrg==",
+		"url": "https://stream.radio.co/s0e4cf6d8e/listen",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood",
+		"image": "https://cdn.onlineradios.net/hindiradios/assets/img/radio-logos/jazbaa-fm-hindi-radio.jpg",
+		"pub": "09-09-2019"
+	},
+{
+		"name": "Radio Tarana  ",
+		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCkpOCksOCkvuCkqOCkvg==",
+		"url": "http://peridot.streamguys.com:7150/Tarana.aac",
+		"samplerate": "",
+		"cat": "Hindi,web",
+		"image": "https://cdn.webrad.io/images/logos/radio-org-nz/tarana.png",
+		"pub": "09-09-2019"
+	},
+{
 		"name": "HUMM FM  ",
 		"name_h": "4KS54KSu4KWN4KSuIOCkj+Ckq+Ckj+Ckrg==",
 		"url": "https://cp12.serverse.com/proxy/hummfm?mp=/live",
 		"samplerate": "",
 		"cat": "Hindi,web",
-		"image": "https://cdn-radiotime-logos.tunein.com/s108804q.png",
+		"image": "https://pbs.twimg.com/profile_images/1024400715895136256/ya7ODreI_400x400.jpg",
 		"pub": "07-09-2019"
 	},
 {
