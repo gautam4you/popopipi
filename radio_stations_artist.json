@@ -1,5 +1,23 @@
 [
 {
+		"name": "5 rivers radio ",
+		"name_h": "NSDgpKjgpKbgpL/gpK/gpL7gpIEg4KSw4KWH4KSh4KS/4KSv4KWL",
+		"url": "http://188.165.240.90:9510/;stream/1",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood",
+		"image": "http://www.5riversradio.com/images/sukhdev.jpg",
+		"pub": "08-10-2019"
+	},
+{
+		"name": "Desi Music Mix! ",
+		"name_h": "4KSm4KWH4KS44KWAIOCkruCljeCkr+ClguCknOCkv+CklSDgpK7gpL/gpJXgpY3gpLgh",
+		"url": "http://66.23.234.242:8012/;stream/1",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood",
+		"image": "http://www.desimixradio.com/wp-content/uploads/2018/12/desimix-isolated-logo-ver2.png",
+		"pub": "08-10-2019"
+	},
+{
 		"name": "Sitara FM ",
 		"name_h": "4KS44KS/4KSk4KS+4KSwIOCkj+Ckq+Ckj+Ckrg==",
 		"url": "http://server-25.stream-server.nl:8348/stream",
