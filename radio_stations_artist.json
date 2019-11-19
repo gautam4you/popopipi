@@ -1,5 +1,50 @@
 [
 {
+		"name": "CyberFM India",
+		"name_h": "Q3liZXJGTSBJbmRpYQ==",
+		"url": "http://node-23.zeno.fm/uqxv1xvuzrquv.aac?rj-ttl=5&rj-tok=AAABboRtn2MAagx_n7kB50VPKA",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood",
+		"image": "https://onlineradiofm.in/assets/image/radio/180/ciberfmindia.png",
+		"pub": "19-11-2019"
+	},
+{
+		"name": "Abee radio",
+		"name_h": "QWJlZSByYWRpbw==",
+		"url": "https://abee.radioca.st/stream",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood",
+		"image": "https://onlineradiofm.in/assets/image/radio/180/abeeradio.png",
+		"pub": "19-11-2019"
+	},
+{
+		"name": "Radio Selfie ",
+		"name_h": "UmFkaW8gU2VsZmll",
+		"url": "https://streams.radio.co/s69032f19e/listen",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood",
+		"image": "https://onlineradiofm.in/assets/image/radio/180/radio-selfie.png",
+		"pub": "19-11-2019"
+	},
+{
+		"name": "Bollywood Punjabi Radio ",
+		"name_h": "Qm9sbHl3b29kIFB1bmphYmkgUmFkaW8=",
+		"url": "http://node-18.zeno.fm/1k0y9f0cm0quv?rj-ttl=5&rj-tok=AAABboRo2dYAx9HyD1m-UZeG3w",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood",
+		"image": "https://onlineradiofm.in/assets/image/radio/180/bollywood-punjabi-radio-logo.png",
+		"pub": "19-11-2019"
+	},
+{
+		"name": "Arijit radio ",
+		"name_h": "QXJpaml0IHJhZGlv",
+		"url": "http://southradios.net:9090/arijitsinghradio",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood",
+		"image": "https://onlineradiofm.in/assets/image/radio/180/arijit.jpg",
+		"pub": "19-11-2019"
+	},
+{
 		"name": "5 rivers radio ",
 		"name_h": "NSDgpKjgpKbgpL/gpK/gpL7gpIEg4KSw4KWH4KSh4KS/4KSv4KWL",
 		"url": "http://188.165.240.90:9510/;stream/1",
