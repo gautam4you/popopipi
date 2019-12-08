@@ -1,5 +1,41 @@
 [
 {
+		"name": "Purani Jeans",
+		"name_h": "UHVyYW5pIEplYW5z",
+		"url": "https://puranijeanshdliv-lh.akamaihd.net/i/PuraniJeansHDLive_1_1@334555/index_1_a-p.m3u8?sd=10&rebase=on",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood",
+		"image": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/uvclzz6a6d7x.jpeg",
+		"pub": "12-12-2019"
+	},
+{
+		"name": "Aaj Tak News",
+		"name_h": "QWFqIFRhayBOZXdz",
+		"url": "https://vidcdn.vidgyor.com/at-origin/liveabr/at-origin/live5/chunks.m3u8",
+		"samplerate": "",
+		"cat": "Hindi,news",
+		"image": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/xewda5eu3nvm.png",
+		"pub": "12-12-2019"
+	},
+{
+		"name": "News Nation",
+		"name_h": "TmV3cyBOYXRpb24=",
+		"url": "https://hls.newsnation.in/NN_HTTP_LIVE/ngrp:mystream_all/chunklist_b234967.m3u8",
+		"samplerate": "",
+		"cat": "Hindi,news",
+		"image": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/7esa5aubsxkz.png",
+		"pub": "12-12-2019"
+	},
+{
+		"name": "Shemaroo Bhakti",
+		"name_h": "4KS24KWH4KSu4KS+4KSw4KWCIOCkreCkleCljeCkpOCkvyDgpLDgpYfgpKHgpL/gpK/gpYs=",
+		"url": "https://radiobhakti.shemaroo.com/hariomradio/Stream1_aac/chunklist_w324991546.m3u8",
+		"samplerate": "",
+		"cat": "Hindi,Devotional",
+		"image": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/lhwpswmyudvr.png",
+		"pub": "12-12-2019"
+	},
+{
 		"name": "CyberFM India",
 		"name_h": "Q3liZXJGTSBJbmRpYQ==",
 		"url": "http://node-23.zeno.fm/uqxv1xvuzrquv.aac?rj-ttl=5&rj-tok=AAABboRtn2MAagx_n7kB50VPKA",
