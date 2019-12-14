@@ -11,7 +11,7 @@
 {
 		"name": "News Nation",
 		"name_h": "TmV3cyBOYXRpb24=",
-		"url": "https://hls.newsnation.in/NN_HTTP_LIVE/ngrp:mystream_all/chunklist_b234137.m3u8",
+		"url": "https://hls.newsnation.in/NN_HTTP_LIVE/ngrp:mystream_all/chunklist.m3u8",
 		"samplerate": "",
 		"cat": "Hindi,news",
 		"image": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/7esa5aubsxkz.png",
