@@ -1,5 +1,14 @@
 [
 {
+		"name": "RHI",
+		"name_h": "UkhJ",
+		"url": "http://radio.bongonet.net:8012/rhi",
+		"samplerate": "",
+		"cat": "Hindi,news",
+		"image": "https://onlineradiofm.in/assets/image/radio/180/bongonet.png",
+		"pub": "14-12-2019"
+	},
+{
 		"name": "Aaj Tak News",
 		"name_h": "QWFqIFRhayBOZXdz",
 		"url": "https://vidcdn.vidgyor.com/at-origin/liveabr/at-origin/live5/chunks.m3u8",
