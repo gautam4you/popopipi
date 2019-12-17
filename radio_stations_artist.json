@@ -1,5 +1,22 @@
 [
 {
+		"name": "Radio Love Guru",
+		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCksuCktSDgpJfgpYHgpLDgpYE=",
+		"url": "https://prclive4.listenon.in/Ishq",
+		"samplerate": "",
+		"image": "https://i.ebayimg.com/images/g/p8AAAOSws65TozqX/s-l300.jpg"
+
+	},
+{
+		"name": "Radio City Hindi",
+		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCkuOCkv+Ckn+ClgCDgpLngpL/gpILgpKbgpYA=",
+		"url": "https://prclive4.listenon.in/Hindi",
+		"samplerate": "",
+		"cat": "Hindi,bollywood",
+		"image": "https://www.radiocity.in//images/other-channels/other-radio-theme/hindi-left14968163721517206126.jpg",
+		"pub": "17-12-2019"
+	},
+{
 		"name": "RHI",
 		"name_h": "UkhJ",
 		"url": "http://radio.bongonet.net:8012/rhi",
@@ -1694,14 +1711,6 @@
 		"url": "http://media.guardian.co.tt:8000/aakashvaniradio",
 		"samplerate": "",
 		"image": "http://static.radio.net/images/broadcasts/51/c7/23196/c175.png"
-
-	},
-	{
-		"name": "Radio Love Guru",
-		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCksuCktSDgpJfgpYHgpLDgpYE=",
-		"url": "https://prclive4.listenon.in/Ishq",
-		"samplerate": "",
-		"image": "https://i.ebayimg.com/images/g/p8AAAOSws65TozqX/s-l300.jpg"
 
 	},
 	{
