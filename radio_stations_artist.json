@@ -1,9 +1,19 @@
 [
 {
+		"name": "Cric Blast Radio",
+		"name_h": "Q3JpYyBCbGFzdCBSYWRpbw==",
+		"url": "http://protostar.shoutca.st:8228/stream",
+		"samplerate": "",
+                "pub": "28-12-2019",
+		"image": "https://static-s.aa-cdn.net/img/gp/20600011932449/zJtYLqEqqXti6mTfgbyloEO5ZldNufbxs6-FqiTGvA3_WIL-5zxks82_MGE-pbl-f9k=s300?v=1"
+
+	},
+{
 		"name": "vahonfm",
 		"name_h": "dmFob25mbQ==",
 		"url": "http://94.23.148.11:8058/;",
 		"samplerate": "",
+                "pub": "28-12-2019",
 		"image": "https://vahonfm.nl/wp-content/uploads/2019/04/mstile-310x310-300x300.png"
 
 	},
