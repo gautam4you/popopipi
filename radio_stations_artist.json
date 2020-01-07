@@ -1,9 +1,40 @@
 [
 {
+		"name": "Radio Junction",
+		"name_h": "UmFkaW8gSnVuY3Rpb24=",
+		"url": "http://85.25.185.202:8152/stream",
+		"samplerate": "",
+                 "cat": "Hindi,bollywood",
+                "pub": "07-01-2020",
+		"image": "http://shortfilmsite.com/images/radiojunction.jpg"
+
+	},
+{
+		"name": "Radio Dhoom Hindi",
+		"name_h": "UmFkaW8gRGhvb20gSGluZGk=",
+		"url": "http://ca7.rcast.net:8018/;stream.mp3",
+		"samplerate": "",
+                "cat": "Hindi,bollywood",
+                "pub": "07-01-2020",
+		"image": "http://shortfilmsite.com/images/radiodhoom.jpg"
+
+	},
+{
+		"name": "Radio Dabang 105.3 Houston",
+		"name_h": "UmFkaW8gRGFiYW5nIDEwNS4zIEhvdXN0b24=",
+		"url": "http://ca6.rcast.net:8052/;stream",
+		"samplerate": "",
+                "cat": "Hindi,bollywood",
+                "pub": "07-01-2020",
+		"image": "http://shortfilmsite.com/images/radiodabang.jpg"
+
+	},
+{
 		"name": "Radio Wao",
 		"name_h": "UmFkaW8gV2Fv",
 		"url": "http://streamer.radio.co/sf85ba5561/listen#.mp3",
 		"samplerate": "",
+                 "cat": "Hindi,bollywood",
                 "pub": "05-01-2020",
 		"image": "http://shortfilmsite.com/images/radiowao1.jpg"
 
@@ -13,6 +44,7 @@
 		"name_h": "U3Vub2ggRWRpbmJ1cmdo",
 		"url": "http://streams.radio.co/sb82905b73/listen",
 		"samplerate": "",
+                "cat": "Hindi,bollywood",
                 "pub": "05-01-2020",
 		"image": "http://shortfilmsite.com/images/sunohedinburgh.jpg"
 
@@ -22,6 +54,7 @@
 		"name_h": "TWVyYSBTYW5nZWV0IFVTQSBXZXN0",
 		"url": "http://18683.live.streamtheworld.com/MS_WEST_S01_SC",
 		"samplerate": "",
+                "cat": "Hindi,bollywood",
                 "pub": "05-01-2020",
 		"image": "http://shortfilmsite.com/images/merasangeet.jpg"
 
@@ -31,6 +64,7 @@
 		"name_h": "UmFkaW8gT2xpdmUgQ2x1Yg==",
 		"url": "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_OLIVE_CLUB_S04_SC",
 		"samplerate": "",
+                "cat": "Hindi,bollywood",
                 "pub": "05-01-2020",
 		"image": "http://shortfilmsite.com/images/radiooliveclub.jpg"
 
@@ -40,6 +74,7 @@
 		"name_h": "UmFkaW8gT2xpdmUgSGl0cw==",
 		"url": "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_OLIVE_HITS_S02_SC",
 		"samplerate": "",
+                "cat": "Hindi,bollywood",
                 "pub": "05-01-2020",
 		"image": "http://shortfilmsite.com/images/radioolivehits.jpg"
 
@@ -49,6 +84,7 @@
 		"name_h": "UmFkaW8gT2xpdmUgMTA2LjM=",
 		"url": "http://playerservices.streamtheworld.com/api/livestream-redirect/OLIVE1063.mp3",
 		"samplerate": "",
+                "cat": "Hindi,bollywood",
                 "pub": "05-01-2020",
 		"image": "http://shortfilmsite.com/images/radioolive.jpg"
 
@@ -58,6 +94,7 @@
 		"name_h": "Q3JpYyBCbGFzdCBSYWRpbw==",
 		"url": "http://protostar.shoutca.st:8228/stream",
 		"samplerate": "",
+                "cat": "Hindi,bollywood",
                 "pub": "28-12-2019",
 		"image": "https://static-s.aa-cdn.net/img/gp/20600011932449/zJtYLqEqqXti6mTfgbyloEO5ZldNufbxs6-FqiTGvA3_WIL-5zxks82_MGE-pbl-f9k=s300?v=1"
 
@@ -67,6 +104,7 @@
 		"name_h": "dmFob25mbQ==",
 		"url": "http://94.23.148.11:8058/;",
 		"samplerate": "",
+                "cat": "Hindi,bollywood",
                 "pub": "28-12-2019",
 		"image": "https://vahonfm.nl/wp-content/uploads/2019/04/mstile-310x310-300x300.png"
 
@@ -76,6 +114,7 @@
 		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCksuCktSDgpJfgpYHgpLDgpYE=",
 		"url": "https://prclive4.listenon.in/Ishq",
 		"samplerate": "",
+                "cat": "Hindi,bollywood",
 		"image": "https://i.ebayimg.com/images/g/p8AAAOSws65TozqX/s-l300.jpg"
 
 	},
