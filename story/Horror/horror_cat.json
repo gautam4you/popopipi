@@ -7,5 +7,14 @@
                  "rent": "free",
 		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/horror.jpg"
 
+	},
+{
+		"name": "Chudail Ki Darawni Kahani",
+		"name_h": "Q2h1ZGFpbCBLaSBEYXJhd25pIEthaGFuaQ==",
+		"url": "https://raw.githubusercontent.com/gautam4you/popopipi/master/story/Horror/horror2.json",
+		"pub": "04-05-2019",
+                 "rent": "free",
+		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/horror.jpg"
+
 	}
 ]
