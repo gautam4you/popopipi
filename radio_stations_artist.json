@@ -1,5 +1,126 @@
 [
 {
+		"name": "Tez",
+		"name_h": "VGV6",
+		"url": "https://vidcdn.vidgyor.com/tez-origin/liveabr/tez-origin/live3/chunks.m3u8",
+		"samplerate": "",
+		"cat": "Hindi,news",
+		"image": "http://shortfilmsite.com/images/tv/tez.jpg",
+		"pub": "08-01-2020"
+	},
+{
+		"name": "Dilli Aajtak",
+		"name_h": "RGlsbGkgQWFqdGFr",
+		"url": "https://vidcdn.vidgyor.com/dilliaajtak-origin/liveabr/dilliaajtak-origin/live4/chunks.m3u8",
+		"samplerate": "",
+		"cat": "Hindi,news",
+		"image": "http://shortfilmsite.com/images/dilliaajtak1.jpg",
+		"pub": "08-01-2020"
+	},
+{
+		"name": "AIR News 24x7",
+		"name_h": "QUlSIE5ld3MgMjR4Nw==",
+		"url": "http://esdcdn2-lh.akamaihd.net/i/esdcdn2_1@528073/master.m3u8",
+		"samplerate": "",
+		"cat": "Hindi,news",
+		"image": "http://shortfilmsite.com/images/air.jpg",
+		"pub": "08-01-2020"
+	},
+{
+		"name": "ABP News",
+		"name_h": "QUJQIE5ld3M=",
+		"url": "https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_136.m3u8",
+		"samplerate": "",
+		"cat": "Hindi,news",
+		"image": "http://shortfilmsite.com/images/abpnews.jpg",
+		"pub": "08-01-2020"
+	},
+{
+		"name": "Aaj Tak News",
+		"name_h": "QWFqIFRhayBOZXdz",
+		"url": "https://vidcdn.vidgyor.com/at-origin/liveabr/at-origin/live5/chunks.m3u8",
+		"samplerate": "",
+		"cat": "Hindi,news",
+		"image": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/xewda5eu3nvm.png",
+		"pub": "12-12-2019"
+	},
+{
+		"name": "News Nation",
+		"name_h": "TmV3cyBOYXRpb24=",
+		"url": "https://hls.newsnation.in/NN_HTTP_LIVE/ngrp:mystream_all/chunklist.m3u8",
+		"samplerate": "",
+		"cat": "Hindi,news",
+		"image": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/7esa5aubsxkz.png",
+		"pub": "12-12-2019"
+	},
+	{
+		"name": "NDTV Radio",
+		"name_h": "4KSP4KSo4KSh4KWA4KSf4KWA4KS14KWAIOCksOClh+CkoeCkv+Ckr+Cliw==",
+		"url": "http://stream1.ndtv.com:8080/on-ndtvindia?s=1419377869",
+		"samplerate": "11025",
+		"cat": "News",
+		"image": "https://cdn.onlineradiobox.com/img/logo/4/11244.png",
+		"pub": "22-10-2018"
+	},
+{
+		"name": "Udit Narayan Hits",
+		"name_h": "VWRpdCBOYXJheWFuIEhpdHM=",
+		"url": "http://stream.zenolive.com/saztm64ts0quv",
+		"samplerate": "",
+                 "cat": "Artist",
+                "pub": "08-01-2020",
+		"image": "http://shortfilmsite.com/images/uditnarayan.jpg"
+
+	},
+{
+		"name": "Mohammed Rafi Radio",
+		"name_h": "TW9oYW1tZWQgUmFmaSBSYWRpbw==",
+		"url": "http://stream.zenolive.com/161u376u2gruv",
+		"samplerate": "",
+                 "cat": "Artist",
+                "pub": "08-01-2020",
+		"image": "http://shortfilmsite.com/images/mohammedrafiradio.jpg"
+
+	},
+{
+		"name": "Kumar Sanu",
+		"name_h": "S3VtYXIgc2FudQ==",
+		"url": "http://stream.zenolive.com/602qmg5ts0quv",
+		"samplerate": "",
+                 "cat": "Artist",
+                "pub": "08-01-2020",
+		"image": "http://shortfilmsite.com/images/kumarsanu.jpg"
+
+	},
+{
+		"name": "Arijit radio ",
+		"name_h": "QXJpaml0IHJhZGlv",
+		"url": "http://southradios.net:9090/arijitsinghradio",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood",
+		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/arijit.jpg",
+		"pub": "19-11-2019"
+	},
+{
+		"name": "Nusrat Fateh Ali Khan",
+		"name_h": "TnVzcmF0IEZhdGVoIEFsaSBLaGFu",
+		"url": "http://radio.esplservers.com:8579/stream",
+		"samplerate": "",
+                 "cat": "Artist",
+                "pub": "08-01-2020",
+		"image": "http://shortfilmsite.com/images/nusratfatehalikhan.jpg"
+
+	},
+	{
+		"name": "Hindi Music Radio",
+		"name_h": "SGluZGkgTXVzaWMgUmFkaW8=",
+		"url": "http://stream.zenolive.com/8e9q38tg7zquv",
+		"samplerate": "",
+		"cat": "Hindi,bollywood",
+		"image": "http://shortfilmsite.com/images/hindimusicradio.jpg",
+		"pub": "08-01-2020"
+	},
+{
 		"name": "Radio Junction",
 		"name_h": "UmFkaW8gSnVuY3Rpb24=",
 		"url": "http://85.25.185.202:8152/stream",
@@ -136,24 +257,7 @@
 		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/bongonet.png",
 		"pub": "14-12-2019"
 	},
-{
-		"name": "Aaj Tak News",
-		"name_h": "QWFqIFRhayBOZXdz",
-		"url": "https://vidcdn.vidgyor.com/at-origin/liveabr/at-origin/live5/chunks.m3u8",
-		"samplerate": "",
-		"cat": "Hindi,news",
-		"image": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/xewda5eu3nvm.png",
-		"pub": "12-12-2019"
-	},
-{
-		"name": "News Nation",
-		"name_h": "TmV3cyBOYXRpb24=",
-		"url": "https://hls.newsnation.in/NN_HTTP_LIVE/ngrp:mystream_all/chunklist.m3u8",
-		"samplerate": "",
-		"cat": "Hindi,news",
-		"image": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/7esa5aubsxkz.png",
-		"pub": "12-12-2019"
-	},
+
 {
 		"name": "Shemaroo Bhakti",
 		"name_h": "4KS24KWH4KSu4KS+4KSw4KWCIOCkreCkleCljeCkpOCkvyDgpLDgpYfgpKHgpL/gpK/gpYs=",
@@ -199,15 +303,7 @@
 		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/bollywood-punjabi-radio-logo.png",
 		"pub": "19-11-2019"
 	},
-{
-		"name": "Arijit radio ",
-		"name_h": "QXJpaml0IHJhZGlv",
-		"url": "http://southradios.net:9090/arijitsinghradio",
-		"samplerate": "",
-		"cat": "Hindi,Bollywood",
-		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/arijit.jpg",
-		"pub": "19-11-2019"
-	},
+
 {
 		"name": "5 rivers radio ",
 		"name_h": "NSDgpKjgpKbgpL/gpK/gpL7gpIEg4KSw4KWH4KSh4KS/4KSv4KWL",
@@ -917,24 +1013,6 @@
 		"samplerate": "",
 		"cat": "Hindi,Bollywood,Web",
 		"image": "https://3.bp.blogspot.com/-WPf4pTat-dA/V_I5cr5d8uI/AAAAAAAAEKs/OjYMIGRd8_IlaU6Zpr8PqVGp_D7mU3u3ACLcB/s1600/Bollywood%2BRadio%2BFM%2BLive%2 BStreaming % 2 BOnline.jpg",
-		"pub": "22-10-2018"
-	},
-	{
-		"name": "BBC Hindi",
-		"name_h": "4KSs4KWA4KSs4KWA4KS44KWAIOCkueCkv+CkguCkpuClgA==",
-		"url": "http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-hinda_backup?type=.mp3",
-		"samplerate": "",
-		"cat": "News",
-		"image": "http://static.mytuner.mobi/media/radios/NeWjCrQbjG.png",
-		"pub": "22-10-2018"
-	},
-	{
-		"name": "NDTV Radio",
-		"name_h": "4KSP4KSo4KSh4KWA4KSf4KWA4KS14KWAIOCksOClh+CkoeCkv+Ckr+Cliw==",
-		"url": "http://stream1.ndtv.com:8080/on-ndtvindia?s=1419377869",
-		"samplerate": "11025",
-		"cat": "News",
-		"image": "https://cdn.onlineradiobox.com/img/logo/4/11244.png",
 		"pub": "22-10-2018"
 	},
 	{
