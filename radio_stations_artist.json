@@ -1,5 +1,23 @@
 [
 {
+		"name": "Radio Pragya",
+		"name_h": "UmFkaW8gUHJhZ3lh",
+		"url": "http://stream.zeno.fm/mu8fmzhy6mruv",
+		"samplerate": "",
+		"cat": "Hindi,bollywood",
+		"image": "http://shortfilmsite.com/images/radiopragya.jpg",
+		"pub": "09-01-2020"
+	},
+{
+		"name": "Radio Dhadak",
+		"name_h": "UmFkaW8gRGhhZGFr",
+		"url": "http://malta2044.startdedicated.com:8126/stream",
+		"samplerate": "",
+		"cat": "Hindi,bollywood",
+		"image": "http://shortfilmsite.com/images/radiodhadak.jpg",
+		"pub": "09-01-2020"
+	},
+{
 		"name": "Radio Dhadak",
 		"name_h": "UmFkaW8gRGhhZGFr",
 		"url": "http://malta2044.startdedicated.com:8126/stream",
@@ -80,15 +98,7 @@
 		"image": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/7esa5aubsxkz.png",
 		"pub": "12-12-2019"
 	},
-	{
-		"name": "NDTV Radio",
-		"name_h": "4KSP4KSo4KSh4KWA4KSf4KWA4KS14KWAIOCksOClh+CkoeCkv+Ckr+Cliw==",
-		"url": "http://stream1.ndtv.com:8080/on-ndtvindia?s=1419377869",
-		"samplerate": "11025",
-		"cat": "News",
-		"image": "https://cdn.onlineradiobox.com/img/logo/4/11244.png",
-		"pub": "22-10-2018"
-	},
+
 {
 		"name": "Udit Narayan Hits",
 		"name_h": "VWRpdCBOYXJheWFuIEhpdHM=",
