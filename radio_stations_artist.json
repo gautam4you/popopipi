@@ -1,4 +1,13 @@
 [
+	{
+		"name": "BIG 92.7 Jodhpur",
+		"name_h": "OTIuNyDgpJzgpYvgpKfgpKrgpYHgpLA=",
+		"url": "http://sc-bb.1.fm:8017/",
+		"samplerate": "",
+		"cat": "Hindi,bollywood",
+		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/jodhpur.jpg",
+		"pub": "29-01-2019"
+	},
 {
 		"name": "Radio Pragya",
 		"name_h": "UmFkaW8gUHJhZ3lh",
@@ -62,6 +71,24 @@
 		"cat": "Hindi,news",
 		"image": "http://shortfilmsite.com/images/air.jpg",
 		"pub": "08-01-2020"
+	},
+{
+		"name": "AIR Almora",
+		"name_h": "QUlSIEFsbW9yYQ==",
+		"url": "https://airlsmp8-lh.akamaihd.net/i/AIRLSMP170_1@358837/master.m3u8",
+		"samplerate": "",
+		"cat": "Hindi",
+		"image": "http://shortfilmsite.com/images/air.jpg",
+		"pub": "12-01-2020"
+	},
+{
+		"name": "AIR Patna",
+		"name_h": "QUlSIFBhdG5h",
+		"url": "http://nondelhi-lh.akamaihd.net/i/airpatna_1@832724/master.m3u8",
+		"samplerate": "",
+		"cat": "Hindi",
+		"image": "http://shortfilmsite.com/images/air.jpg",
+		"pub": "12-01-2020"
 	},
 {
 		"name": "ABP News",
@@ -711,15 +738,6 @@
 		"cat": "Hindi",
 		"image": "http://www.mediainfoline.com/wp-content/uploads/2018/05/Radio-City-Love-Guru-Bhojpuri-logo.jpg",
 		"pub": "13-02-2019"
-	},
-	{
-		"name": "BIG 92.7 Jodhpur",
-		"name_h": "OTIuNyDgpJzgpYvgpKfgpKrgpYHgpLA=",
-		"url": "http://sc-bb.1.fm:8017/",
-		"samplerate": "",
-		"cat": "Hindi",
-		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/jodhpur.jpg",
-		"pub": "29-01-2019"
 	},
 	{
 		"name": "Radio Mastana",
