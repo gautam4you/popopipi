@@ -1,4 +1,31 @@
 [
+{
+		"name": "Mirchi 90S Radio",
+		"name_h": "TWlyY2hpIDkwUyBSYWRpbw==",
+		"url": "https://pehlanashahdlive-lh.akamaihd.net/i/PehlaNashaHDLive_1@335229/master.m3u8",
+		"samplerate": "",
+		"cat": "Hindi,bollywood",
+		"image": "http://shortfilmsite.com/images/mirchi90sradio.jpg",
+		"pub": "15-01-2020"
+	},
+{
+		"name": "Bollywood Dil Se",
+		"name_h": "Qm9sbHl3b29kIERpbCBTZQ==",
+		"url": "http://103.16.47.70:7333/;stream.mp3",
+		"samplerate": "",
+		"cat": "Hindi,bollywood",
+		"image": "http://shortfilmsite.com/images/bollywooddilseradio1.jpg",
+		"pub": "15-01-2020"
+	},
+{
+		"name": "Hot Now Bollywood",
+		"name_h": "SG90IE5vdyBCb2xseXdvb2Q=",
+		"url": "http://103.16.47.70:7222/;stream.mp3",
+		"samplerate": "",
+		"cat": "Hindi,bollywood",
+		"image": "http://shortfilmsite.com/images/hotnowbollywoodradio1.jpg",
+		"pub": "15-01-2020"
+	},
 	{
 		"name": "BIG 92.7 Jodhpur",
 		"name_h": "OTIuNyDgpJzgpYvgpKfgpKrgpYHgpLA=",
