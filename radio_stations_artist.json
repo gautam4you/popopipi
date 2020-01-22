@@ -1,5 +1,23 @@
 [
 {
+		"name": "Ama Radio",
+		"name_h": "QW1hIFJhZGlv",
+		"url": "http://192.240.102.3:8922/;",
+		"samplerate": "",
+		"cat": "Hindi,bollywood",
+		"image": "http://shortfilmsite.com/images/amaradio.jpg",
+		"pub": "22-01-2020"
+	},
+{
+		"name": "Radio Rasonic",
+		"name_h": "UmFkaW8gUmFzb25pYw==",
+		"url": "http://108.59.9.147:8136/;",
+		"samplerate": "",
+		"cat": "Hindi,bollywood",
+		"image": "http://shortfilmsite.com/images/radiorasonic.jpg",
+		"pub": "22-01-2020"
+	},
+{
 		"name": "Mirchi 90S Radio",
 		"name_h": "TWlyY2hpIDkwUyBSYWRpbw==",
 		"url": "https://pehlanashahdlive-lh.akamaihd.net/i/PehlaNashaHDLive_1@335229/master.m3u8",
@@ -25,6 +43,15 @@
 		"cat": "Hindi,bollywood",
 		"image": "http://shortfilmsite.com/images/hotnowbollywoodradio1.jpg",
 		"pub": "15-01-2020"
+	},
+	{
+		"name": "Suvidha Radio",
+		"name_h": "4KS44KWB4KS14KS/4KSn4KS+IOCksOClh+CkoeCkv+Ckr+Cliw==",
+		"url": "http://79.143.187.96:8053/live",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood,Web",
+		"image": "https://cdn.webrad.io/images/logos/onlineradios-in/suvidha-hindi.png",
+		"pub": "15-09-2018"
 	},
 	{
 		"name": "BIG 92.7 Jodhpur",
@@ -1574,15 +1601,6 @@
 		"samplerate": "44100",
 		"cat": "Hindi,Bollywood",
 		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/pahalanasha.jpg",
-		"pub": "15-09-2018"
-	},
-	{
-		"name": "Suvidha Radio",
-		"name_h": "4KS44KWB4KS14KS/4KSn4KS+IOCksOClh+CkoeCkv+Ckr+Cliw==",
-		"url": "http://176.31.107.8:8927/live",
-		"samplerate": "",
-		"cat": "Hindi,Bollywood,Web",
-		"image": "http://www.liveonlineradio.net/wp-content/uploads/2011/12/Logo-Suvidha-2.jpg",
 		"pub": "15-09-2018"
 	},
 	{
