@@ -746,7 +746,7 @@
 		"url": "http://50.7.77.115:8174/;?type=.mp3/;stream.mp3",
 		"samplerate": "",
 		"cat": "Bollywood,Hindi",
-		"image": "https://onlineradiofm.in/assets/image/radio/180/zabardast-hit95fm-logo.png",
+		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/zabardast-hit95fm-logo.png",
 		"pub": "17-04-2019"
 	},
 	{
@@ -958,7 +958,7 @@
 		"url": "http://s1.voscast.com:9484/;stream.mp3",
 		"samplerate": "",
 		"cat": "Hindi",
-		"image": "https://onlineradiofm.in/assets/image/radio/180/radioteental.jpg"
+		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/radioteental.jpg"
 
 	},
 	{
@@ -968,16 +968,6 @@
 		"samplerate": "",
 		"cat": "Hindi",
 		"image": "https://radiocentral.ch/assets/media/channels/radiocentral-live2.png",
-		"pub": "03-12-2018"
-
-	},
-	{
-		"name": "Bollywood Bio FM",
-		"name_h": "4KSs4KWJ4KSy4KWA4KS14KWB4KShIOCknOCliOCktSDgpI/gpKvgpI/gpK4=",
-		"url": "http://hubble.shoutca.st:8104/;",
-		"samplerate": "",
-		"cat": "Hindi,Bollywood,Web",
-		"image": "http://www.allindiafmradios.online/apanel/media/upload/Desi%20Bollywood%20Hindi%20Online%20Fm%20Radio.jpg",
 		"pub": "03-12-2018"
 
 	},
@@ -1065,10 +1055,10 @@
 	{
 		"name": "Humm 106.2 FM",
 		"name_h": "4KS54KSuIDEwNi4yIOCkj+Ckq+Ckj+Ckrg==",
-		"url": "http://93.190.141.15:7004/humm_64.mp3",
+		"url": "https://cp12.serverse.com/proxy/hummfm?mp=/live",
 		"samplerate": "",
 		"cat": "Hindi,Bollywood,Web",
-		"image": "https://cdn.webrad.io/images/logos/radio-net-pk/humm-106-2-fm.png",
+		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/hmm.png",
 		"pub": "31-10-2018"
 	},
 	{
@@ -1086,7 +1076,7 @@
 		"url": "http://sc18.strictlyhosting.co.uk:8000/;stream.mp3",
 		"samplerate": "22050",
 		"cat": "Hindi,Bollywood,Web",
-		"image": "https://cdn.webrad.io/images/logos/onlineradios-in/radio-xl-1296-am-hindi.png",
+		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/radioxl.png",
 		"pub": "23-10-2018"
 	},
 	{
@@ -1366,7 +1356,7 @@
 		"url": "http://ice8.securenetsystems.net/CINA?&playSessionID=38D1C936-C443-7619-6C4477E916F7CC6B",
 		"samplerate": "44100",
 		"cat": "Hindi,Bollywood,Web",
-		"image": "https://img3.androidappsapk.co/300/1/b/0/com.radioson.CINA1650AM.png",
+		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/cina.jpg",
 		"pub": "10-10-2018"
 	},
 	{
@@ -1820,15 +1810,6 @@
 
 	},
 	{
-		"name": "Radio City Classics",
-		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCkuOCkv+Ckn+ClgCDgpJXgpY3gpLLgpL7gpLjgpL/gpJXgpY3gpLg=",
-		"url": "http://prclive1.listenon.in:9928/",
-		"samplerate": "",
-		"cat": "Hindi,Bollywood,Web",
-		"image": "http://memestamil.com/hindifm/img/radiocityclassics.png"
-
-	},
-	{
 		"name": "Radio City Smaran",
 		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCkuOCkv+Ckn+ClgCDgpLjgpY3gpK7gpLDgpKM=",
 		"url": "http://prclive1.listenon.in:9950/",
@@ -1901,7 +1882,7 @@
 		"name_h": "4KSP4KSv4KSwIOCkj+Ckq+Ckj+CkriDgpJfgpYvgpLLgpY3gpKE=",
 		"url": "http://airfmgold-lh.akamaihd.net/i/fmgold_1@507591/index_1_a-p.m3u8",
 		"samplerate": "44100",
-		"image": "http://memestamil.com/hindifm/img/FMGold.jpg"
+		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/fmgold.jpeg"
 
 	},
 	{
@@ -1909,23 +1890,7 @@
 		"name_h": "4KSP4KSv4KSwIOCkj+Ckq+Ckj+CkriDgpIfgpILgpKbgpY3gpLDgpKfgpKjgpYHgpLc=",
 		"url": "http://fmrainbow-lh.akamaihd.net/i/fmrainbow_1@507812/index_1_a-p.m3u8",
 		"samplerate": "44100",
-		"image": "http://memestamil.com/hindifm/img/FMGold.jpg"
-
-	},
-	{
-		"name": "City 1016 FM",
-		"name_h": "4KS44KWA4KSf4KWAIDEwMTYg4KSP4KSr4KSP4KSu",
-		"url": "http://18183.live.streamtheworld.com/ARNCITY_SC",
-		"samplerate": "",
-		"image": "http://memestamil.com/hindifm/img/city-101.png"
-
-	},
-	{
-		"name": "Radio HSL",
-		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCkj+CkmuCkj+CkuOCkj+Cksg==",
-		"url": "http://50.7.68.251:7064/",
-		"samplerate": "",
-		"image": "http://memestamil.com/hindifm/img/HSL-logo.png"
+		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/ranbow.jpg"
 
 	},
 	{
@@ -1942,7 +1907,7 @@
 		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCkrOCljeCksOCkv+CkuOCljeCkteCkvuCko+ClgCDgpI/gpKvgpI/gpK4=",
 		"url": "http://jatish.serverroom.net:7664/",
 		"samplerate": "",
-		"image": "http://memestamil.com/hindifm/img/brisvaani-radio.png"
+		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/c300.png"
 
 	},
 	{
@@ -1955,27 +1920,11 @@
 
 	},
 	{
-		"name": "City Dilse FM",
-		"name_h": "4KS44KS/4KSf4KWAIOCkpuCkv+CksuCkuOClhyDgpI/gpKvgpI/gpK4=",
-		"url": "http://19393.live.streamtheworld.com/CITY_DIL_SE.mp3",
-		"samplerate": "",
-		"image": "http://memestamil.com/hindifm/img/citydilse.jpg"
-
-	},
-	{
 		"name": "City Dance FM",
 		"name_h": "4KS44KS/4KSf4KWAIOCkoeCkvuCkguCkuCDgpI/gpKvgpI/gpK4=",
 		"url": "https://prclive4.listenon.in/Dance",
 		"samplerate": "",
-		"image": "http://memestamil.com/hindifm/img/citydance.jpg"
-
-	},
-	{
-		"name": "Desi Radio Hits",
-		"name_h": "4KSm4KWH4KS44KWAIOCksOClh+CkoeCkv+Ckr+CliyDgpLngpL/gpJ/gpY3gpLg=",
-		"url": "http://server1.desiradiohits.com:8823/;stream.mp3",
-		"samplerate": "",
-		"image": "http://memestamil.com/hindifm/img/desiradiohits.jpg"
+		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/citydance.jpg"
 
 	},
 	{
@@ -1995,14 +1944,6 @@
 
 	},
 	{
-		"name": "Radio 90.5 FM",
-		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIDkwLjUg4KSP4KSr4KSP4KSu",
-		"url": "http://icy3.abacast.com/clcomm-radio90aac-64?type=.flv&source=v5player",
-		"samplerate": "",
-		"image": "http://memestamil.com/hindifm/img/radio90fm.jpg"
-
-	},
-	{
 		"name": "Fun Ka Antenna",
 		"name_h": "4KSu4KSc4KS84KS+IOCkleCkviDgpI/gpILgpJ/gpYDgpKjgpL4=",
 		"url": "https://prclive4.listenon.in/FunKaAntenna",
@@ -2019,35 +1960,11 @@
 
 	},
 	{
-		"name": "CITY 92 FM",
-		"name_h": "4KS44KWA4KSf4KWAIDkyIOCkj+Ckq+Ckj+Ckrg==",
-		"url": "http://188.165.192.5:8359/stream",
-		"samplerate": "",
-		"image": "http://memestamil.com/hindifm/img/city92fm.jpg"
-
-	},
-	{
 		"name": "Radio Spice Box Punjabi",
 		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCkuOCljeCkquCkvuCkh+CkuCDgpKzgpYngpJXgpY3gpLgg4KSq4KSC4KSc4KS+4KSs4KWA",
 		"url": "http://mehramedia.com:8039/;",
 		"samplerate": "",
-		"image": "http://memestamil.com/hindifm/img/radiospicebox.jpg"
-
-	},
-	{
-		"name": "Radio Firangi",
-		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCkq+Ckv+CksOCkguCkl+ClgA==",
-		"url": "http://streaming.radio.co/s47e8ad3e4/listen",
-		"samplerate": "",
-		"image": "http://memestamil.com/hindifm/img/radiofirangi.jpg"
-
-	},
-	{
-		"name": "DJ Gaurav FM",
-		"name_h": "4KSh4KWA4KSc4KWHIOCkl+CljOCksOCktSDgpI/gpKvgpI/gpK4=",
-		"url": "http://199.195.194.140:8035/;stream.mp3",
-		"samplerate": "",
-		"image": "http://memestamil.com/hindifm/img/djgaurav.jpg"
+		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/246x0w.png"
 
 	},
 	{
@@ -2125,14 +2042,6 @@
 		"samplerate": "",
 		"image": "http://marci1683.marci.io/img/albums/cache/custom_skin_3_Meet%20Bros%20Anjjan%20and%20Kanika%20Kapoor%7C%7CChittiyaan%20Kalaiyaan%20(From%20Roy%20).jpg",
 		"pub": "19-02-2019"
-	},
-	{
-		"name": "GRadio Bollywood",
-		"name_h": "R1JhZGlvIOCkrOClieCksuClgOCkteClgeCkoQ==",
-		"url": "http://149.56.195.94:8057/;",
-		"samplerate": "",
-		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/geeradio.png",
-		"pub": "17-02-2019"
 	},
 	{
 		"name": "Gee Radio Hindu Religious ",
