@@ -1,5 +1,50 @@
 [
 {
+		"name": "Mirchi Drive Radio",
+		"name_h": "4KSu4KS/4KSw4KWN4KSa4KWAIOCkoeCljeCksOCkvuCkh+CktSDgpLDgpYfgpKHgpL/gpK/gpYs=",
+		"url": "https://driveradio-lh.akamaihd.net/i/DriveRadio_1@793591/master.m3u8",
+		"samplerate": "",
+		"cat": "Hindi,bollywood",
+		"image": "http://shortfilmsite.com/images/mirchidriveradio.jpg",
+		"pub": "26-01-2020"
+	},
+{
+		"name": "Club Mirchi",
+		"name_h": "4KSV4KWN4KSy4KSsIOCkruCkv+CksOCljeCkmuClgA==",
+		"url": "https://clubmirchihdlive-lh.akamaihd.net/i/ClubMirchiHDLive_1_1@336269/master.m3u8",
+		"samplerate": "",
+		"cat": "Hindi,bollywood",
+		"image": "http://shortfilmsite.com/images/clubmirchi.jpg",
+		"pub": "26-01-2020"
+	},
+{
+		"name": "Meethi Mirchi",
+		"name_h": "4KSu4KWA4KSg4KWAIOCkruCkv+CksOCljeCkmuClgA==",
+		"url": "http://meethimirchihdl-lh.akamaihd.net/i/MeethiMirchiHDLive_1_1@320572/master.m3u8",
+		"samplerate": "",
+		"cat": "Hindi,bollywood",
+		"image": "http://shortfilmsite.com/images/meethimirchi.jpg",
+		"pub": "26-01-2020"
+	},
+{
+		"name": "Bolly Vibes Radio",
+		"name_h": "4KSs4KWJ4KSy4KWAIOCkteCkvuCkh+CkrOCljeCkuCDgpLDgpYfgpKHgpL/gpK/gpYs=",
+		"url": "http://91.121.164.210:8448/stream",
+		"samplerate": "",
+		"cat": "Hindi,bollywood",
+		"image": "http://shortfilmsite.com/images/bollyvibes.jpg",
+		"pub": "26-01-2020"
+	},
+{
+		"name": "Top FM Mauritius",
+		"name_h": "4KS24KWA4KSw4KWN4KS3IOCkj+Ckq+Ckj+CkriDgpK7gpYngpLDgpYDgpLbgpLg=",
+		"url": "http://live2.topfmradio.com:7230/;",
+		"samplerate": "",
+		"cat": "Hindi,bollywood",
+		"image": "http://shortfilmsite.com/images/topfm.jpg",
+		"pub": "26-01-2020"
+	},
+{
 		"name": "Ama Radio",
 		"name_h": "QW1hIFJhZGlv",
 		"url": "http://192.240.102.3:8922/;",
