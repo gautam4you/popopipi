@@ -72,13 +72,6 @@
                 "name_bh": "4KSF4KSw4KWN4KSV4KS44KWN4KSf4KS+4KSwIOCkteClgOCkoeCkv+Ckr+Cliw==
 ",
 		"type": "S"
-	},
-{
-		"id": "PLTED-dZCklauAcRh7WF0n3y8WnwiC9E-a",
-		"name": "Hindi Old Songs",
-		"search_key": "Hindi Old Classic Songs Video",
-                "name_bh": "4KS54KS/4KSC4KSm4KWAIOCkquClgeCksOCkvuCkqOClhyDgpJfgpL7gpKjgpYc=",
-		"type": "S"
 	}
 	
 ]
