@@ -1,5 +1,32 @@
 [
 {
+		"name": "Hamara Solan Radio",
+		"name_h": "4KS54KSu4KS+4KSw4KS+IOCkuOCli+CksuCkqCDgpLDgpYfgpKHgpL/gpK/gpYs=",
+		"url": "http://188.166.176.244:9040/stream2",
+		"samplerate": "",
+		"cat": "Hindi,bollywood",
+		"image": "http://shortfilmsite.com/images/hamarasolanradio.jpg",
+		"pub": "03-03-2020"
+	},
+{
+		"name": "Namaste Radio",
+		"name_h": "4KSo4KSu4KS44KWN4KSk4KWHIOCksOClh+CkoeCkv+Ckr+Cliw==",
+		"url": "https://streaming.radio.co/s9e801bdbc/listen",
+		"samplerate": "",
+		"cat": "Hindi,bollywood",
+		"image": "http://shortfilmsite.com/images/namasteradio.jpg",
+		"pub": "03-03-2020"
+	},
+{
+		"name": "Neeshon Radio",
+		"name_h": "4KSo4KWH4KS54KS44KSoIOCksOClh+CkoeCkv+Ckr+Cliw==",
+		"url": "https://s2.radio.co/s378110d57/listen",
+		"samplerate": "",
+		"cat": "Hindi,bollywood",
+		"image": "http://shortfilmsite.com/images/neeshonradio.jpg",
+		"pub": "03-03-2020"
+	},
+{
 		"name": "Mirchi Drive Radio",
 		"name_h": "4KSu4KS/4KSw4KWN4KSa4KWAIOCkoeCljeCksOCkvuCkh+CktSDgpLDgpYfgpKHgpL/gpK/gpYs=",
 		"url": "https://driveradio-lh.akamaihd.net/i/DriveRadio_1@793591/master.m3u8",
