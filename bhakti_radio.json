@@ -90,41 +90,6 @@
     "image": "https://cdn.onlineradiobox.com/img/logo/8/79898.v1.png",
     "pub": "27-08-2019"
   },
-   {
-    "name": "StationZilla",
-    "name_h": "U3RhdGlvblppbGxh",
-    "url": "http://67.212.165.106:8191",
-    "samplerate": "11025",
-    "cat": "Hindi,Devotional",
-    "image": "http://www.stationzilla.com/img/stationzillaNEW400x400.png",
-    "pub": "20-11-2018"
-  },
-  {
-    "name": "Hindi Worship Radio",
-    "name_h": "4KS54KS/4KSC4KSm4KWAIOCkquClguCknOCkviDgpLDgpYfgpKHgpL/gpK/gpYs=",
-    "url": "http://188.165.187.84:8102/",
-    "samplerate": "44100",
-    "cat": "Hindi,Devotional",
-    "image": "http://static.mytuner.mobi/media/radios/wyy3my9yslua.png",
-    "pub": "16-11-2018"
-  },
-    {
-    "name": "Sai Baba Radio",
-    "name_h": "4KS44KS+4KSI4KSCIOCkrOCkvuCkrOCkviDgpLDgpYfgpKHgpL/gpK/gpYs=",
-    "url": "https://prclive4.listenon.in/SaiRadio",
-    "samplerate": "",
-    "cat": "Hindi,Devotional",
-    "image": "http://www.saibabaofindia.com/march09/sai-bhakti-radio-banner.jpg"
-  },
-    {
-    "name": "Gee Radio Hindu Religious ",
-    "name_h": "4KSc4KWAIOCksOClh+CkoeCkv+Ckr+CliyDgpLngpL/gpILgpKbgpYIg4KSn4KS+4KSw4KWN4KSu4KS/4KSV",
-    "url": "http://149.56.195.94:8303/",
-    "samplerate": "",
-    "cat": "Hindi,Devotional",
-    "image": "https://lh3.googleusercontent.com/sYW16w5AVdB676idSo0kUOtFJu8EsBhcWyLcvqPf9eZQsc1E1ugJntrzwEqsvQKVSYk",
-    "pub": "16-02-2019"
-  },
   {
     "name": "Bhajan Radio  ",
     "name_h": "4KSt4KSc4KSoIOCksOClh+CkoeCkv+Ckr+Cliw==",
@@ -132,15 +97,6 @@
     "samplerate": "",
     "cat": "Hindi,Devotional",
     "image": "https://static-media.streema.com/media/cache/c1/a5/c1a5b9705f7644eb8486184af6682427.jpg",
-    "pub": "17-08-2019"
-  },
-  {
-    "name": "Bhakti World  ",
-    "name_h": "4KSt4KSV4KWN4KSk4KS/IOCknOCkl+CkpA==",
-    "url": "http://67.212.165.106:8191/;stream.mp3",
-    "samplerate": "",
-    "cat": "Hindi,Devotional",
-    "image": "https://cdn.webrad.io/images/logos/onlineradios-in/bhakti.png",
     "pub": "17-08-2019"
   }
   ]
