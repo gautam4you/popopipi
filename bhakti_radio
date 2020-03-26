@@ -1,0 +1,145 @@
+[
+   {
+    "name": "Shemaroo Bhakti",
+    "name_h": "4KS24KWH4KSu4KS+4KSw4KWCIOCkreCkleCljeCkpOCkvyDgpLDgpYfgpKHgpL/gpK/gpYs=",
+    "url": "https://radiobhakti.shemaroo.com/hariomradio/Stream1_aac/chunklist_w324991546.m3u8",
+    "samplerate": "",
+    "cat": "Hindi,Devotional",
+    "image": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/lhwpswmyudvr.png",
+    "pub": "12-12-2019"
+  },
+  {
+    "name": "Bhakti World - Shiva  ",
+    "name_h": "4KSt4KSV4KWN4KSk4KS/IOCkteCkv+CktuCljeCktSAtIOCktuCkv+CktQ==",
+    "url": "http://hot.out.airtime.pro:8000/hot_a",
+    "samplerate": "",
+    "cat": "Hindi,Devotional",
+    "image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/shiva.png",
+    "pub": "27-08-2019"
+  },
+  {
+    "name": "Bhakti World - Hanuman  ",
+    "name_h": "4KSt4KSV4KWN4KSk4KS/IOCkteCkv+CktuCljeCktSAtIOCkueCkqOClgeCkruCkvuCkqA==",
+    "url": "http://2bhanuman.out.airtime.pro:8000/2bhanuman_a",
+    "samplerate": "",
+    "cat": "Hindi,Devotional",
+    "image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/hanuman.jpg",
+    "pub": "27-08-2019"
+  },
+  {
+    "name": "Bhakti World - Ganesh  ",
+    "name_h": "4KSt4KSV4KWN4KSk4KS/IOCkteCkv+CktuCljeCktSAtIOCkl+Cko+Clh+Cktg==",
+    "url": "http://radio2bindia.out.airtime.pro:8000/radio2bindia_a",
+    "samplerate": "",
+    "cat": "Hindi,Devotional",
+    "image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/ganesha.jpg",
+    "pub": "27-08-2019"
+  },
+  {
+    "name": "Bhakti World  ",
+    "name_h": "4KSt4KSV4KWN4KSk4KS/IOCknOCkl+CkpA==",
+    "url": "http://ibadat.out.airtime.pro:8000/ibadat_a",
+    "samplerate": "",
+    "cat": "Hindi,Devotional",
+    "image": "https://cdn.onlineradiobox.com/img/logo/8/79898.v1.png",
+    "pub": "27-08-2019"
+  },
+   {
+    "name": "StationZilla",
+    "name_h": "U3RhdGlvblppbGxh",
+    "url": "http://67.212.165.106:8191",
+    "samplerate": "11025",
+    "cat": "Hindi,Devotional",
+    "image": "http://www.stationzilla.com/img/stationzillaNEW400x400.png",
+    "pub": "20-11-2018"
+  },
+  {
+    "name": "Hindi Worship Radio",
+    "name_h": "4KS54KS/4KSC4KSm4KWAIOCkquClguCknOCkviDgpLDgpYfgpKHgpL/gpK/gpYs=",
+    "url": "http://188.165.187.84:8102/",
+    "samplerate": "44100",
+    "cat": "Hindi,Devotional",
+    "image": "http://static.mytuner.mobi/media/radios/wyy3my9yslua.png",
+    "pub": "16-11-2018"
+  },
+    {
+    "name": "2B! Radio Sangam Shri Ram",
+    "name_h": "MiDgpKzgpYAhIOCksOClh+CkoeCkv+Ckr+CliyDgpLjgpILgpJfgpK4g4KS24KWN4KSw4KWAIOCksOCkvuCkrg==",
+    "url": "http://dard.out.airtime.pro:8000/dard_a",
+    "samplerate": "",
+    "cat": "Hindi,Devotional",
+    "image": "http://www.2bradioindia.com/wp-content/uploads/edd/2018/02/ram.png",
+    "pub": "19-10-2018"
+  },
+  {
+    "name": "2B! Radio Sangam Shiva",
+    "name_h": "MiDgpKzgpYAhIOCksOClh+CkoeCkv+Ckr+CliyDgpLjgpILgpJfgpK4g4KS24KS/4KS1",
+    "url": "http://hot.out.airtime.pro:8000/hot_a",
+    "samplerate": "",
+    "cat": "Hindi,Devotional",
+    "image": "http://www.2bradioindia.com/wp-content/uploads/edd/2018/02/shiva.png",
+    "pub": "19-10-2018"
+  },
+  {
+    "name": "2B! Radio Sangam Krishna",
+    "name_h": "MiDgpKzgpYAhIOCksOClh+CkoeCkv+Ckr+CliyDgpLjgpILgpJfgpK4g4KSV4KWD4KS34KWN4KSj",
+    "url": "http://millenniumhits.out.airtime.pro:8000/millenniumhits_a",
+    "samplerate": "",
+    "cat": "Hindi,Devotional",
+    "image": "http://www.2bradioindia.com/wp-content/uploads/edd//2018/02/krishna.png",
+    "pub": "19-10-2018"
+  },
+  {
+    "name": "2B! Radio Sangam Guruvar",
+    "name_h": "MiDgpKzgpYAhIOCksOClh+CkoeCkv+Ckr+CliyDgpLjgpILgpJfgpK4g4KSX4KWB4KSw4KWB4KS14KS+4KSw",
+    "url": "http://iskon2b.out.airtime.pro:8000/iskon2b_a",
+    "samplerate": "",
+    "cat": "Hindi,Devotional",
+    "image": "http://www.2bradioindia.com/wp-content//uploads/edd//2018/02/guruvar.png",
+    "pub": "19-10-2018"
+  },
+  {
+    "name": "2B! Radio Sangam Ganesha",
+    "name_h": "MiDgpKzgpYAhIOCksOClh+CkoeCkv+Ckr+CliyDgpLjgpILgpJfgpK4g4KSX4KSj4KWH4KS2",
+    "url": "http://radio2bindia.out.airtime.pro:8000/radio2bindia_a",
+    "samplerate": "",
+    "cat": "Hindi,Devotional",
+    "image": "http://www.2bradioindia.com/wp-content/uploads/edd//2018/02/ganesha.png",
+    "pub": "19-10-2018"
+  },
+    {
+    "name": "Sai Baba Radio",
+    "name_h": "4KS44KS+4KSI4KSCIOCkrOCkvuCkrOCkviDgpLDgpYfgpKHgpL/gpK/gpYs=",
+    "url": "https://prclive4.listenon.in/SaiRadio",
+    "samplerate": "",
+    "cat": "Hindi,Devotional",
+    "image": "http://www.saibabaofindia.com/march09/sai-bhakti-radio-banner.jpg"
+  },
+    {
+    "name": "Gee Radio Hindu Religious ",
+    "name_h": "4KSc4KWAIOCksOClh+CkoeCkv+Ckr+CliyDgpLngpL/gpILgpKbgpYIg4KSn4KS+4KSw4KWN4KSu4KS/4KSV",
+    "url": "http://149.56.195.94:8303/",
+    "samplerate": "",
+    "cat": "Hindi,Devotional",
+    "image": "https://lh3.googleusercontent.com/sYW16w5AVdB676idSo0kUOtFJu8EsBhcWyLcvqPf9eZQsc1E1ugJntrzwEqsvQKVSYk",
+    "pub": "16-02-2019"
+  },
+  {
+    "name": "Bhajan Radio  ",
+    "name_h": "4KSt4KSc4KSoIOCksOClh+CkoeCkv+Ckr+Cliw==",
+    "url": "http://192.99.35.215:5086/stream",
+    "samplerate": "",
+    "cat": "Hindi,Devotional",
+    "image": "https://static-media.streema.com/media/cache/c1/a5/c1a5b9705f7644eb8486184af6682427.jpg",
+    "pub": "17-08-2019"
+  },
+  {
+    "name": "Bhakti World  ",
+    "name_h": "4KSt4KSV4KWN4KSk4KS/IOCknOCkl+CkpA==",
+    "url": "http://67.212.165.106:8191/;stream.mp3",
+    "samplerate": "",
+    "cat": "Hindi,Devotional",
+    "image": "https://cdn.webrad.io/images/logos/onlineradios-in/bhakti.png",
+    "pub": "17-08-2019"
+  }
+  ]
