@@ -1,0 +1,872 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/NLilsVpWa-QdN6vnwj3ULMiX7NE\"",
+  "pageInfo": {
+    "totalResults": 18,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/AG1XAwOfnrbyUApg_tFT8SPDH20\"",
+      "id": "UExvcWlnUDZmSmk3T2JRaWo2M21YdjVNZ05zTEhYS1lMVy4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2019-09-25T02:08:47.000Z",
+        "channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
+        "title": "Shiv Shakthi Hindi Devotonal Movie || Ranjeet Raj, Manhar Desai || Eagle Hindi Movies",
+        "description": "Shiv Shakthi Hindi Devotonal Movie || Ranjeet Raj, Manhar Desai || Eagle Hindi Movies\n\nConnect to Eagle Home Entertainments:\n\n+919990022424 , Info@eaglemovies.com\n---------------------------------------------------------------------------------------\n\nSubscribe to \"EAGLE HOME ENTERTAINMENT \" Channels \n\n►Eagle Music Official - https://goo.gl/xaysev \n►Eagle Hindi Movies - https://goo.gl/kzFGes\n►Eagle Comedy - https://goo.gl/6byHWQ\n►Eagle Bhojpuri Movies - https://goo.gl/J8yGyO\n►Eagle Learning - https://goo.gl/00NOQt\n►Eagle Health - https://goo.gl/uFUzdD",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Kzl-s_R2PeM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Kzl-s_R2PeM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Kzl-s_R2PeM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Kzl-s_R2PeM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Kzl-s_R2PeM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "look jonson",
+        "playlistId": "PLoqigP6fJi7ObQij63mXv5MgNsLHXKYLW",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Kzl-s_R2PeM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Kzl-s_R2PeM",
+        "videoPublishedAt": "2018-12-19T10:52:45.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/cF9qZO5931w-Yk2zww402PZO_W4\"",
+      "id": "UExvcWlnUDZmSmk3T2JRaWo2M21YdjVNZ05zTEhYS1lMVy45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2019-09-25T02:06:26.000Z",
+        "channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
+        "title": "Jai Maa Vaishnodevi I English Subtitles I Watch online Full Movie I GULSHAN KUMAR I GAJENDRA CHAUHAN",
+        "description": "Watch Jai Maa Vaishnodevi Full Movie (Subscribe: http://www.youtube.com/tseriesbhakti)\nArtists: Gulshan Kumar, Gajendra Chauhan, Kiran Juneja\nSingers: Anuradha Paudwal, Suresh Wadkar, Sonu Nigam\nMusic: Amar - Utpal, Surindra Kohli\nAuthor: Naqsh Lalaypuri, Bharat Acharya, Balvir Nirdosh\nProducer: Gulshan Kumar\nDirector: Shantilal Soni\n\nIf You like the video don't forget to share with others & also share your views.\n\nSubscribe: http://www.youtube.com/tseriesbhakti\nBhakti Sagar: http://www.facebook.com/Bhaktisagar\nTo set popular Bhakti Dhun as your HelloTune, Airtel subscribers Dial 57878881 (toll free) \nFor Spiritual Voice Alerts, Airtel subscribers Dial 589991 (toll free)\n\nIf You like the video don't forget to share with others & also share your views.\nStay connected with us!!!\n► Subscribe: http://www.youtube.com/tseriesbhakti\n► Like us on Facebook: https://www.facebook.com/BhaktiSagarTseries/\n► Follow us on Twitter: https://twitter.com/tseriesbhakti\n\nFor Spiritual Voice Alerts, Airtel subscribers Dial 589991 (toll free) \nTo set popular Bhakti Dhun as your HelloTune, Airtel subscribers Dial 57878881 facebook: https://www.facebook.com/BhaktiSagarTseries/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mZvHEoO0qUQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mZvHEoO0qUQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mZvHEoO0qUQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mZvHEoO0qUQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mZvHEoO0qUQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "look jonson",
+        "playlistId": "PLoqigP6fJi7ObQij63mXv5MgNsLHXKYLW",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mZvHEoO0qUQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "mZvHEoO0qUQ",
+        "videoPublishedAt": "2011-12-23T21:43:26.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/OS_TbcRs87zZaPpFvYVaBMmy0OU\"",
+      "id": "UExvcWlnUDZmSmk3T2JRaWo2M21YdjVNZ05zTEhYS1lMVy5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2019-09-25T02:06:47.000Z",
+        "channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
+        "title": "Char Dham - Hindi Film",
+        "description": "Char Dham - Hindi Film\nProducer: Gulshan Kumar\nSingers: Hariharan, Sonu Nigam, Anuradha Paudwal\nArtists: Aloknath, Kulbhushan Kharbanda, Gulshan Kumar\nMusic Label: T-Series\n\nIf You like the video don't forget to share with others & also share your views.\n\nSubscribe: http://www.youtube.com/tseriesbhakti\nBhakti Sagar: \nTo set popular Bhakti Dhun as your HelloTune, Airtel subscribers Dial 57878881 (toll free) \nFor Spiritual Voice Alerts, Airtel subscribers Dial 589991 (toll free)\n\nIf You like the video don't forget to share with others & also share your views.\nStay connected with us!!!\n► Subscribe: http://www.youtube.com/tseriesbhakti\n► Like us on Facebook: https://www.facebook.com/BhaktiSagarTseries/\n► Follow us on Twitter: https://twitter.com/tseriesbhakti\n\nFor Spiritual Voice Alerts, Airtel subscribers Dial 589991 (toll free) \nTo set popular Bhakti Dhun as your HelloTune, Airtel subscribers Dial 57878881 facebook: https://www.facebook.com/BhaktiSagarTseries/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hl5dQ4hhrm4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hl5dQ4hhrm4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hl5dQ4hhrm4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hl5dQ4hhrm4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "look jonson",
+        "playlistId": "PLoqigP6fJi7ObQij63mXv5MgNsLHXKYLW",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hl5dQ4hhrm4"
+        }
+      },
+      "contentDetails": {
+        "videoId": "hl5dQ4hhrm4",
+        "videoPublishedAt": "2012-01-24T11:40:42.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/dXZg4KY0Wym-S3EmTvIGI32o9xU\"",
+      "id": "UExvcWlnUDZmSmk3T2JRaWo2M21YdjVNZ05zTEhYS1lMVy45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2019-08-09T01:03:36.000Z",
+        "channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
+        "title": "चल काँवरिया शिव के धाम I Chal Kanwariya Shiv Ke Dham I Watch online Hindi Full Movie, Full Hind Film",
+        "description": "Watch Hindi Devotional Movie  on Lord Shiva Chal Kanwairya Shiv ke Dham\n\nSubscribe: http://www.youtube.com/tseriesbhakti\nFull Hindi Movie Chal Kanwariya Shiv Ke Dham\nSingers: Anuradha Paudwal, Sonu Nigam, Hariharan\nMusic Director: Surendra Kohli\nLyrics: Balbir Nirdosh, Shyam Raj, Abhilash, Rahul Kumar\nVideo Director: Shantilal Soni\nWrtier: Darshan Laad\nArtists: Sanjay Mitra, Surendar Paal, Beena, Gulshan Kumar\nProducer: Gulshan Kumar, Super Cassettes Industries Pvt. Ltd.\nAlbum: Chal Kanwariya Shiv Ke Dham\nMusic Label: T-Series\n\nIf You like the video don't forget to share with others & also share your views.\nStay connected with us!!!\n► Subscribe: http://www.youtube.com/tseriesbhakti\n► Like us on Facebook: https://www.facebook.com/BhaktiSagarTseries/\n► Follow us on Twitter: https://twitter.com/tseriesbhakti\n\nFor Spiritual Voice Alerts, Airtel subscribers Dial 589991 (toll free) \nTo set popular Bhakti Dhun as your HelloTune, Airtel subscribers Dial 57878881\n\nIf You like the video don't forget to share with others & also share your views.\nStay connected with us!!!\n► Subscribe: http://www.youtube.com/tseriesbhakti\n► Like us on Facebook: https://www.facebook.com/BhaktiSagarTseries/\n► Follow us on Twitter: https://twitter.com/tseriesbhakti\n\nFor Spiritual Voice Alerts, Airtel subscribers Dial 589991 (toll free) \nTo set popular Bhakti Dhun as your HelloTune, Airtel subscribers Dial 57878881 facebook: https://www.facebook.com/BhaktiSagarTseries/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UvRU4BCOX8Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UvRU4BCOX8Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UvRU4BCOX8Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UvRU4BCOX8Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UvRU4BCOX8Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "look jonson",
+        "playlistId": "PLoqigP6fJi7ObQij63mXv5MgNsLHXKYLW",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UvRU4BCOX8Q"
+        }
+      },
+      "contentDetails": {
+        "videoId": "UvRU4BCOX8Q",
+        "videoPublishedAt": "2012-04-03T07:51:27.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/nt_GypdHtFu4_zCQk6DLsLb-x4w\"",
+      "id": "UExvcWlnUDZmSmk3T2JRaWo2M21YdjVNZ05zTEhYS1lMVy45NzUwQkI1M0UxNThBMkU0",
+      "snippet": {
+        "publishedAt": "2019-10-18T15:01:53.000Z",
+        "channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
+        "title": "\"Maa Durga Shakti\" | Full Hindi Devotional Movie | Devaraj | Durga Shree",
+        "description": "Star cast: Devaraj,Durga Shree,Charu Hassan,\nDirector: Surya Producer:S.K.Gupta\nMusic: Rajesh Ramnath Lyricist: Raqueeb Alam\nSingers:Jaya Lakshmi,Radha Shree",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-K8iAdXnL7E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-K8iAdXnL7E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-K8iAdXnL7E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-K8iAdXnL7E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-K8iAdXnL7E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "look jonson",
+        "playlistId": "PLoqigP6fJi7ObQij63mXv5MgNsLHXKYLW",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-K8iAdXnL7E"
+        }
+      },
+      "contentDetails": {
+        "videoId": "-K8iAdXnL7E",
+        "videoPublishedAt": "2014-07-15T14:08:36.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/7mU4thpA3SiPQQcj3fxnzGZAKvE\"",
+      "id": "UExvcWlnUDZmSmk3T2JRaWo2M21YdjVNZ05zTEhYS1lMVy5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2019-09-25T02:08:30.000Z",
+        "channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
+        "title": "Shiv Parvathi (HD) Hindi Full Length Movie || Aravind Trivedi,Mallika Sarabhai || Eagle Hindi Movies",
+        "description": "Watch Shiv Parvathi (HD) Hindi Full Length Movie. Features Aravind Trivedi, Mallika Sarabhai & Others Directed by Chandrakant, Produced by S. Shah, Music by Piyush Pawar.\n\nSubscribe to \"EAGLE HOME ENTERTAINMENT \" Channels \n\n►Eagle Hindi Movies - https://goo.gl/kzFGes\n►Eagle Music - https://goo.gl/lIKhwF\n►Eagle Comedy - https://goo.gl/6byHWQ\n►Eagle Bhojpuri Movies - https://goo.gl/J8yGyO\n►Eagle Learning - https://goo.gl/00NOQt\n►Eagle Helth - https://goo.gl/uFUzdD",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/b2FPpdPM0vQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/b2FPpdPM0vQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/b2FPpdPM0vQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/b2FPpdPM0vQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/b2FPpdPM0vQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "look jonson",
+        "playlistId": "PLoqigP6fJi7ObQij63mXv5MgNsLHXKYLW",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "b2FPpdPM0vQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "b2FPpdPM0vQ",
+        "videoPublishedAt": "2016-01-23T11:35:29.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/XgSFBA4vlzyC8VIu1OsLJdVG_PU\"",
+      "id": "UExvcWlnUDZmSmk3T2JRaWo2M21YdjVNZ05zTEhYS1lMVy41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2019-02-13T01:24:03.000Z",
+        "channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
+        "title": "Hanuman Full Movie | Hindi Movies 2019 Full Movie | Bollywood Movies | Animated Movies",
+        "description": "#HindiMovies2019 #HindiDubbedMovies2019 #BollywoodMovies2019 #Hanuman #Ramayana \n\nHanuman Full movie is a story when Hanuman was born to Anjani a female Apsara and Kesari, by the blessings of Vayu-Dev, the Wind God. Hanuman, who is the 11th rudra avatar of supreme being GOD Shiva himself. He was blessed with supreme intelligence, strength and divine powers. As a baby, Hanuman was quite naughty and used his powers to pester the saints living in the nearby forest. On the insistence of Vayu, Indra and the other Gods came together to bless baby Hanuman of immortal life. Amongst the other blessing a few are: no fear/harm from the Brahmastra, no harm could befall him from any weapons, fire and water. He could overcome death and he could transform his body to take the smallest form or attain the biggest form of life. Blessed with divine powers Hanuman grew up to be powerful and mighty.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OOadNFNYFSs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OOadNFNYFSs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OOadNFNYFSs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "look jonson",
+        "playlistId": "PLoqigP6fJi7ObQij63mXv5MgNsLHXKYLW",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "OOadNFNYFSs"
+        }
+      },
+      "contentDetails": {
+        "videoId": "OOadNFNYFSs",
+        "videoPublishedAt": "2016-10-17T11:00:01.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/_8z7sMrCJuwnlhRXB-kSR_4vVZk\"",
+      "id": "UExvcWlnUDZmSmk3T2JRaWo2M21YdjVNZ05zTEhYS1lMVy45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2019-06-08T15:12:45.000Z",
+        "channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
+        "title": "Sati Anusaya Full Movie | Hindi Bhakti Movies | Sati Ansuya Katha | Hindi Devotional Movies",
+        "description": "Presenting Full Hindi Bhakti Movies (Hindi Devotional Movies) 'Sati Anusaya'. Anusaya was wife of an ancient Indian rishi (sage) named Atri, in Hindu mythology.\n\nTo Subscribe Click on the link below: \n►http://bit.ly/2hMdfTk\n\nPopular Videos:\n⦿ Bhakt Changuna Full Movie - https://youtu.be/odhBWK3EWw8\n⦿ Saptashrungi Ki Katha Full Movie - https://youtu.be/odhBWK3EWw8\n⦿ Mahalakshmi Vrat Katha - https://youtu.be/JKyz9gaxnzg\n\nCredits:\nDirector: Raju Fulkar\nExecutive Producer:  Praveen Wankhede\nMusic: Rituja Fulkar\nSinger: Suresh Badkar, Amrita Gokhale, Prasad Ranade, Adwate Padwaradhan\nStarcast: Vinita Suke, Atul Despande, Yogesh Soman, Prasann Ketkar, Ravi Mahajan, Narendra Doke, Sunil Godbole\nCopyright: Soundtrack Records and Cassette Mfg Co.\n\nTo Subscribe Click on the link below: \n►http://bit.ly/2hMdfTk",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P8e21IyXcs4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P8e21IyXcs4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P8e21IyXcs4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/P8e21IyXcs4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/P8e21IyXcs4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "look jonson",
+        "playlistId": "PLoqigP6fJi7ObQij63mXv5MgNsLHXKYLW",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "P8e21IyXcs4"
+        }
+      },
+      "contentDetails": {
+        "videoId": "P8e21IyXcs4",
+        "videoPublishedAt": "2017-06-16T08:37:46.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/oNSPif_8klCLu7gtNLXeX9EVq00\"",
+      "id": "UExvcWlnUDZmSmk3T2JRaWo2M21YdjVNZ05zTEhYS1lMVy5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2019-06-08T15:12:54.000Z",
+        "channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
+        "title": "Maa Bhawani l Latest South Devotional Movie l Hindi Dubbed Movie 2017",
+        "description": "Maa Bhawani l \nLatest South Devotional Movie L Hindi Dubbed Movie 2017\nWatch Till The End..\nDon,t Forget To Subscribe My Youtube Channel..\nhttps://www.youtube.com/channel/UCBHokeZOjggKtbo4fRed1uQ",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yzTu-uF6PqU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yzTu-uF6PqU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yzTu-uF6PqU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yzTu-uF6PqU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yzTu-uF6PqU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "look jonson",
+        "playlistId": "PLoqigP6fJi7ObQij63mXv5MgNsLHXKYLW",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yzTu-uF6PqU"
+        }
+      },
+      "contentDetails": {
+        "videoId": "yzTu-uF6PqU",
+        "videoPublishedAt": "2017-10-19T05:30:01.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/JYTudyoBOFhLPO2nV8KYkGllJqo\"",
+      "id": "UExvcWlnUDZmSmk3T2JRaWo2M21YdjVNZ05zTEhYS1lMVy5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2019-09-08T12:37:04.000Z",
+        "channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
+        "title": "Ayodhyapati Ram Hindi Full Movie with Hindi Songs | Hindi Dubbed Devotional Movies 2018",
+        "description": "Ayodhyapati Ram is a 2011 Telugu dubbed hindi devotional film, produced by Kalapi Nagada under Cinekorn Entertainment banner and directed by Bapu. Starring Nandamuri Balakrishna, Nayanthara in the lead roles, Akkineni Nageswara Rao, Srikanth, Roja appear in supporting roles and music composed by Ilaiyaraaja. The film is based on the epic Ramayana. The film was Bapu's final directional venture. The film depicts Rama's rule of Ayodhya after he returns home from Lanka, his separation from Sita and her reclusive life in the forest as she raises their children Lava and Kusa. The film won seven Andhra Pradesh State Nandi Awards, including the Nandi Award for Best Feature Film – (Gold) for the year 2011. This film is a remake of a Telugu film Lava Kusha, released in year 1963. It was known as the first color film in Telugu Cinema. \nThe story begins with Rama (Nandamuri Balakrishna) returning to Ayodhya after defeating Ravana along with Goddess Sita (Nayanthara) and crowned as the emperor, settles down to a harmonious lifestyle. When his spies inform him that his reputation may be at stake as Sita had spent over a year in Ravana's Lanka, he asks Lakshman (Srikanth) to ensure that Sita is sent to exile. A devastated, pregnant, and distraught Sita is rescued by Valmiki (Akkineni Nageswara Rao), who takes her to his Ashram by renaming her as Lokapavni, where she subsequently gives birth to twin sons Lava (Master Gaurav) & Kusha (Master Dhanush Kumar). Lord Hanuman (Vindu Dara Singh) also accompanies Sita and serves her in the form of tribal child Balaraju (Master Pavan Sriram). Valmiki trains them in every possible way, including knowledge, warfare, and religion. Ten years later, the twins decide to visit a drought and famine-ravaged Ayodhya to get the blessings of Srirama and Sita as well recite the Ramayan and this is where they will find out that Srirama has exiled Sita, and they return home disappointed and refuse to recite the Ramayan anymore. The twins then stop the Aswamedha horse is not realizing that they will soon be thrust into confrontation with none other than Lakshman, Srirama and the entire army of Ayodhya. After that, they know about their father none other than Sri Rama. Sita reunites her two sons Kusha and Lava with their father Rama and returns to her mother (Bhudevi).\n\nAkkineni Nageswara Rao as Valmiki\nNandamuri Balakrishna as Lord Rama\nNayanthara as Goddess Sita\nSrikanth as Lakshmana\nK. R. Vijaya as Kousalya Devi\nRoja as Bhudevi\nMurali Mohan as Janaka Maha Raju\nM. Balaiah as Maharshi Vashistha\nBrahmanandam as Tippadu\nVindu Dara Singh as Hanuman\nMaster Gaurav as Lava\nMaster Dhanush Kumar as Kusha\nMaster Pavan Sriram as Balaraju (Child Hanuman)\nRaghunatha Reddy\nA.V.S as Narada\nSameer as Bharata\nSudha as Queen Sunayana (Janaka's wife)\nSana as Kaikeyi\n\nWatch all the Latest Hit Movies, Hit Films, Telugu Devotional Songs, Trailers 2018 Tollywood, Hindi Full Movies, Full Kannada new Movies, Kannada Comedy Movies, Tamil, Telugu, Free Movie Download, 2018, Malayalam Movies, Full Action Movies, Best Action Movies 2017, 2018 only on Cinekorn Movies. Subscribe Now and Stay Tuned. \n\nLeave a Like if you Loved the Movie and Do Not forget to Subscribe to Our Channel. \n\nYouTube - www.youtube.com/cinekornmovies\nGoogle + - https://plus.google.com/u/0/+CINEKORNMovies\nFacebook - https://www.facebook.com/CinekornEnt\nTwitter - https://twitter.com/cinekornent\nInstagram - https://www.instagram.com/cinekornentertainment #CinekornMovies #HindiDubbedMovies2018 #ActionMovies #CinekornMovies #HindiDubbedMovies2018 #ActionMovies",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/S2dYU99K53s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/S2dYU99K53s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/S2dYU99K53s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/S2dYU99K53s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/S2dYU99K53s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "look jonson",
+        "playlistId": "PLoqigP6fJi7ObQij63mXv5MgNsLHXKYLW",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "S2dYU99K53s"
+        }
+      },
+      "contentDetails": {
+        "videoId": "S2dYU99K53s",
+        "videoPublishedAt": "2018-05-12T15:30:01.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/7tgQahjmApdho_SrgfIBnD8qqtM\"",
+      "id": "UExvcWlnUDZmSmk3T2JRaWo2M21YdjVNZ05zTEhYS1lMVy41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2019-09-08T12:37:57.000Z",
+        "channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
+        "title": "Shree Krishna Leela HD Hindi Devotional Movie || Aarthi, Srinath, Rama Krishna || Eagle Hindi Movies",
+        "description": "Watch Sri Krishna Leela Hindi Devotional Movie On Eagle Hindi Movies. In this Movie Staring As Aarthi, Srinath, Rama Krishna.\n\n\nSubscribe to \"EAGLE HOME ENTERTAINMENT \" Channels \n\n►Eagle Music Official - https://goo.gl/xaysev \n►Eagle Hindi Movies - https://goo.gl/kzFGes\n►Eagle Comedy - https://goo.gl/6byHWQ\n►Eagle Bhojpuri Movies - https://goo.gl/J8yGyO\n►Eagle Learning - https://goo.gl/00NOQt\n►Eagle Health - https://goo.gl/uFUzdD",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/a7HCfbi-jsI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/a7HCfbi-jsI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/a7HCfbi-jsI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/a7HCfbi-jsI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/a7HCfbi-jsI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "look jonson",
+        "playlistId": "PLoqigP6fJi7ObQij63mXv5MgNsLHXKYLW",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "a7HCfbi-jsI"
+        }
+      },
+      "contentDetails": {
+        "videoId": "a7HCfbi-jsI",
+        "videoPublishedAt": "2018-06-26T15:30:00.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/wlNm-ZP12HIKPI7JTWmT46LXU5g\"",
+      "id": "UExvcWlnUDZmSmk3T2JRaWo2M21YdjVNZ05zTEhYS1lMVy5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2019-06-08T15:13:26.000Z",
+        "channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
+        "title": "Dhanya Tulsi Mahima - Bhakti Movie | Hindi Devotional Movie | Hindi Movies | Bhakti Film",
+        "description": "Presenting Superhit Bhakti Movie 'Dhanya Tulsi Mahima' (Devotional Movie, Hindi Movies, Bhakti Film, Bhakti Picture). Movie directed by Raju Fulkar.\n\nSubscribe For Best Hindi Devotional Movies and Songs: \nhttp://bit.ly/BhaktiIndia\n\nPopular Movies:\n⦿ Sant Dnyaneshwar Maharaj - https://youtu.be/fngF6IXCcaE\n⦿ Sant Janabai संत जनाबाई - https://youtu.be/3wPo62bsdUQ\n⦿ Behen Bhai Ki Kahani - https://youtu.be/YBUWiV_oSOQ\n⦿ Bhakta Pundalik - https://youtu.be/cFtvyHZT0kc\n\nCredits:\nDirector: Raju Fulkar\nMusic: Rahul Ghorpade\nLyrics: Rutuja Fulkar\n\nCopyright: Soundtrack Records and Cassette Mfg Co.\n\nSubscribe For Best Hindi Devotional Movies and Songs: \nhttp://bit.ly/BhaktiIndia",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8uD0V8bibIg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8uD0V8bibIg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8uD0V8bibIg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8uD0V8bibIg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8uD0V8bibIg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "look jonson",
+        "playlistId": "PLoqigP6fJi7ObQij63mXv5MgNsLHXKYLW",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8uD0V8bibIg"
+        }
+      },
+      "contentDetails": {
+        "videoId": "8uD0V8bibIg",
+        "videoPublishedAt": "2018-08-09T04:00:00.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/9BFmkkqxwCfRrj128pDxTIH-5pc\"",
+      "id": "UExvcWlnUDZmSmk3T2JRaWo2M21YdjVNZ05zTEhYS1lMVy5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2019-06-08T15:07:43.000Z",
+        "channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
+        "title": "jai bajrangbali 1976",
+        "description": "enjoy the movie.jai shree Ram jai Bajrangbali",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Hi9MYwyaL1U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Hi9MYwyaL1U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Hi9MYwyaL1U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Hi9MYwyaL1U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "look jonson",
+        "playlistId": "PLoqigP6fJi7ObQij63mXv5MgNsLHXKYLW",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Hi9MYwyaL1U"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Hi9MYwyaL1U",
+        "videoPublishedAt": "2018-08-12T04:04:17.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/sMflbUSZmypHqcUhqCOfcLACezA\"",
+      "id": "UExvcWlnUDZmSmk3T2JRaWo2M21YdjVNZ05zTEhYS1lMVy40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2019-06-08T15:13:19.000Z",
+        "channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
+        "title": "JAI MAA GANGE | जय माँ गंगे | माँ गंगा की पृथ्वी पर आने की सम्पूर्ण भक्ति फिल्म |",
+        "description": "#devotionalfilm  #ganga #maaganga #maashakti #bhaktimahima\n\nhttps://www.facebook.com/profile.php?id=100007927606751\n\nShakti\nCults of goddess worship are ancient in India. The branch of Hinduism that worships the goddess, known as Devi, is called Shaktism. Followers of Shaktism recognize Shakti as the power that underlies the male principle, and Devi is often depicted as Parvati the consort of Shiva or as Lakshmi the consort of Vishnu. She is also depicted in other guises, such as the fierce Kali or Durga. Shaktism is closely related with Tantric Hinduism, which teaches rituals and practices for purification of the mind and body.The Mother Goddess has many forms. Some are gentle, some are fierce. Shaktas use chants, real magic, holy diagrams, yoga and rituals to call forth cosmic forces\n\nSaiva\nSaivism is the Hindu sect that worships the god Shiva. Shiva is sometimes depicted as the fierce god Bhairava. Saivists are more attracted to asceticism than adherents of other Hindu sects, and may be found wandering India with ashen faces performing self-purification rituals. They worship in the temple and practice yoga, striving to be one with Siva within.\n\nVaishnava\nVaishnavism is the sect within Hinduism that worships Vishnu, the preserver god of the Hindu Trimurti ('three images', the Trinity), and his ten incarnations. It is a devotional sect, and followers worship many deities, including Ram and Krishna, both thought to be incarnations of Vishnu. The adherents of this sect are generally non-ascetic, monastic and devoted to meditative practice and ecstatic chanting.Vaishnavites are mainly dualistic. They are deeply devotional. Their religion is rich in saints, temples and scriptures.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mN7FYzVQRrw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mN7FYzVQRrw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mN7FYzVQRrw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mN7FYzVQRrw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mN7FYzVQRrw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "look jonson",
+        "playlistId": "PLoqigP6fJi7ObQij63mXv5MgNsLHXKYLW",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mN7FYzVQRrw"
+        }
+      },
+      "contentDetails": {
+        "videoId": "mN7FYzVQRrw",
+        "videoPublishedAt": "2018-12-19T08:32:21.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/brxB9niDd7dHvLmB2JPflIMO01Y\"",
+      "id": "UExvcWlnUDZmSmk3T2JRaWo2M21YdjVNZ05zTEhYS1lMVy4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2019-02-11T17:06:09.000Z",
+        "channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
+        "title": "Ramayana: The Epic | Christmas Special Movie | Hindi Animated Movies For Kids | Wow Legends",
+        "description": "Ramayana: The Epic | Christmas Special Movie | Hindi Animated Movies For Kids | Wow Legends\n\nLord Rama, son of King Dashrath was sent into exile for 12 years. He was accompanied by his wife Sita and his brother Laxman, but she is deceitfully kidnapped by Ravana, The King of Lanka. Thus a might war takes place between Ram & Ravana. Later, Hanuman, a worshiper of ram, also joins him with his monkey warriors. Will Sita be saved by Ram? Watch this epic story to find out.\n\nCLICK - SUBSCRIBE, SHARE, LIKE.\n#WowKidzFilmFestival #RamayanaTheEpic #MoviesForKids #WowLegends\n\nFollow Wowkidz:\nBlog- http://wowkidztv.blogspot.in/\nFacebook- https://www.facebook.com/WowKidzTV/\nInstagram- https://www.instagram.com/wowkidztv/\nTwitter- https://twitter.com/WowKidzTv\n\nIf you read this then comment \"I am a Wow Kid\" :)\n\nSubscribe to our other channels:\nWOW KIDZ: https://goo.gl/1XxMQT\nWOWKIDZ RHYMES & SHOWS: https://goo.gl/xg7wnh\nWOWKIDZ COMEDY: https://goo.gl/HQtaCG\nWOWKIDZ ACTION: https://goo.gl/1cnYvc\nWOW CARTOONS: https://goo.gl/k48CzX  \nWOW LEGENDS: https://goo.gl/GjTgVy  \nWOW TEENZ: https://goo.gl/jAsQ3m\nWOW WORLD: https://goo.gl/xAZto6  \nWOWKIDZ FIRANGI: https://goo.gl/zKw3a1\nWOWKIDZ INDONESIA: https://goo.gl/dBPaJ8\nWOWKIDZ Español: https://goo.gl/Mx7PQD\nWOW TOONS: https://goo.gl/43AmBf\nWOW KIDZ MOVIES: https://goo.gl/HT5iQk\nWOW KIDZ FUN N LEARN: https://goo.gl/HHtHNV\nWOW KIDZ URDU: https://goo.gl/Gb1wLP\nWOW KIDZ JUNIOR: https://goo.gl/TdynY4\nWOW KIDZ VIETNAM: https://goo.gl/KuYjb6\nMOTU PATLU: https://goo.gl/9g53Ac\nCHACHA BHATIJA: https://goo.gl/N18LTt\nKISNA: https://goo.gl/Wb21mD",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jbckdEVT5TU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jbckdEVT5TU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jbckdEVT5TU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jbckdEVT5TU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jbckdEVT5TU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "look jonson",
+        "playlistId": "PLoqigP6fJi7ObQij63mXv5MgNsLHXKYLW",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jbckdEVT5TU"
+        }
+      },
+      "contentDetails": {
+        "videoId": "jbckdEVT5TU",
+        "videoPublishedAt": "2018-12-30T12:58:18.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/F_zpRSP_-DIjs3qyoKIKGXx13OU\"",
+      "id": "UExvcWlnUDZmSmk3T2JRaWo2M21YdjVNZ05zTEhYS1lMVy4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2019-09-25T02:07:44.000Z",
+        "channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
+        "title": "शिव - विवाह | फुल फिल्म | महा शिव रात्रि के शुभ अवसर पर जरूर देखे |",
+        "description": "#शिवरात्रि  #shivparvathi #lordshiva #mahashivratri\nDevotional Full Movie  - Shiv Vivah\nशिव - विवाह | फुल फिल्म | महा शिव रात्रि के शुभअवसर पर जरूर देखे |\n\nhttps://www.facebook.com/profile.php?id=100007927606751\n\nShakti\nCults of goddess worship are ancient in India. The branch of Hinduism that worships the goddess, known as Devi, is called Shaktism. Followers of Shaktism recognize Shakti as the power that underlies the male principle, and Devi is often depicted as Parvati the consort of Shiva or as Lakshmi the consort of Vishnu. She is also depicted in other guises, such as the fierce Kali or Durga. Shaktism is closely related with Tantric Hinduism, which teaches rituals and practices for purification of the mind and body.The Mother Goddess has many forms. Some are gentle, some are fierce. Shaktas use chants, real magic, holy diagrams, yoga and rituals to call forth cosmic forces\n\nSaiva\nSaivism is the Hindu sect that worships the god Shiva. Shiva is sometimes depicted as the fierce god Bhairava. Saivists are more attracted to asceticism than adherents of other Hindu sects, and may be found wandering India with ashen faces performing self-purification rituals. They worship in the temple and practice yoga, striving to be one with Siva within.\n\nVaishnava\nVaishnavism is the sect within Hinduism that worships Vishnu, the preserver god of the Hindu Trimurti ('three images', the Trinity), and his ten incarnations. It is a devotional sect, and followers worship many deities, including Ram and Krishna, both thought to be incarnations of Vishnu. The adherents of this sect are generally non-ascetic, monastic and devoted to meditative practice and ecstatic chanting.Vaishnavites are mainly dualistic. They are deeply devotional. Their religion is rich in saints, temples and scriptures.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kAU3iEaPTKs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kAU3iEaPTKs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kAU3iEaPTKs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kAU3iEaPTKs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kAU3iEaPTKs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "look jonson",
+        "playlistId": "PLoqigP6fJi7ObQij63mXv5MgNsLHXKYLW",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kAU3iEaPTKs"
+        }
+      },
+      "contentDetails": {
+        "videoId": "kAU3iEaPTKs",
+        "videoPublishedAt": "2019-02-18T12:27:00.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/gjuoNOz01ugHFsNRoVvpLTNiX8w\"",
+      "id": "UExvcWlnUDZmSmk3T2JRaWo2M21YdjVNZ05zTEhYS1lMVy5DNzE1RjZEMUZCMjA0RDBB",
+      "snippet": {
+        "publishedAt": "2020-01-12T04:38:57.000Z",
+        "channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
+        "title": "Jai Jai Shiv Shankar Hindi Dubbed Full Length Movie || K.R. Vijaya, Rajesh || Eagle Hindi Movies",
+        "description": "Watch Jai Jai Shiv Shankar Hindi Dubbed Full Length Movie. Features K.R. Vijaya, Rajesh, Radha Ravi, Disco Shanti & Others. Produced by S.K. Gupta, Music by Dushyant Dubey.\n\nSubscribe to \"EAGLE HOME ENTERTAINMENT \" Channels \n\n►Eagle Hindi Movies - https://goo.gl/kzFGes\n►Eagle Music - https://goo.gl/lIKhwF\n►Eagle Comedy - https://goo.gl/6byHWQ\n►Eagle Bhojpuri Movies - https://goo.gl/J8yGyO\n►Eagle Learning - https://goo.gl/00NOQt\n►Eagle Health - https://goo.gl/uFUzdD",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3RrpCuFKvYM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3RrpCuFKvYM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3RrpCuFKvYM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3RrpCuFKvYM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3RrpCuFKvYM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "look jonson",
+        "playlistId": "PLoqigP6fJi7ObQij63mXv5MgNsLHXKYLW",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3RrpCuFKvYM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "3RrpCuFKvYM",
+        "videoPublishedAt": "2017-11-27T12:47:52.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/1JWIIG56kK1_4G2ilz2y4UWR2vE\"",
+      "id": "UExvcWlnUDZmSmk3T2JRaWo2M21YdjVNZ05zTEhYS1lMVy43MTI1NDIwOTMwQjIxMzNG",
+      "snippet": {
+        "publishedAt": "2020-01-12T04:39:17.000Z",
+        "channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
+        "title": "Har Har Mahadev (1974) Full Hindi Movie | Dara Singh, Jayshree Gadkar, Padma Khanna",
+        "description": "Lord Shiva is impressed with Ravana's devotion and empowers him to be the most powerful human being. Things take a turn when Ravana decides to lift a mountain in a bid to prove his prowess.\n\nMovie:- Har Har Mahadev (1974)\nStarcast:- Dara Singh, Jayshree Gadkar, Padma Khanna \nDirected & Produced by:- Chandrakant\nMusic by:- Kalyanji-Anandji\n---------------------------------------------------------------------\nEnjoy and stay connected with us!!\n\nSubscribe to Goldmines Hindi:- \nhttps://goo.gl/97SvE2\n---------------------------------------------------------------------",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tXn5YUJXMz8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tXn5YUJXMz8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tXn5YUJXMz8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tXn5YUJXMz8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tXn5YUJXMz8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "look jonson",
+        "playlistId": "PLoqigP6fJi7ObQij63mXv5MgNsLHXKYLW",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "tXn5YUJXMz8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "tXn5YUJXMz8",
+        "videoPublishedAt": "2019-05-31T14:30:02.000Z"
+      }
+    }
+  ]
+}
