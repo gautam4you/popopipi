@@ -1,0 +1,617 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/4D-q-bT37_IMbUVtvi5inUxPa6c\"",
+  "pageInfo": {
+    "totalResults": 13,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/dFdUfV6eeWUKHhi3rnh_28FIXpE\"",
+      "id": "UExvcWlnUDZmSmk3TmNvZ0pzZnptSmVHaHQ0elNlM2x1ai45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2019-09-08T12:39:33.000Z",
+        "channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
+        "title": "Shri Krishna leela l ramanand sager HD",
+        "description": "कुज्जा मथुरा से एक कुबड़ा महिला है, जिसने हिंदू भगवान कृष्ण को बचाया और सुंदर बना दिया है।\n\nइस प्रकरण को भागवत पुराण और सूर सागर में सूरदास में वर्णित किया गया है। आधुनिक दिन के उपदेशों, साथ ही साथ रमणंद सागर द्वारा टेलीविज़न श्रृंखला कृष्णा, इस प्रकरण को याद करते हैं।\n\nभागवत पुराण बताता है कि उनके मित्र सुदामा, कृष्णा और उनके बड़े भाई बलराम से मिलने के बाद मथुरा की सड़कों पर जाते थे और राजा कम्सा के एक युवा छात्रा नौकर कुबु का सामना करते थे। उसके पास एक खूबसूरत चेहरा था और उसके साथ मलहम की थाली ले जाती थी। कृष्णा अपनी सुंदरता की प्रशंसा करता है और एक वरदान के बदले बदबू में पूछता है। वह खुद त्रिवेक के रूप में पेश करती है, जो तीन जगहों पर आना है। कृष्णा के आकर्षण से भरी मेहनत की, वह उसे मरहम देता है कि वह राजा के लिए ले जा रहा था। प्रसन्न, कृष्ण अपने पैरों पर अपने पैरों को दबाते हैं और अपने ठोड़ी के नीचे दोनों हाथों की एक उंगली डालते हैं और उंगलियों को उठाते हैं, जिससे उसके शरीर को सीधा किया जाता था। कुब्जा एक खूबसूरत औरत के साथ परिपूर्ण कूल्हों और स्तनों में बदल जाती है। कुबजा अपने उद्धारकर्ता के लिए इच्छा से दूर हो जाता है और कृष्ण के ऊपरी वस्त्र को खींचकर उसे अपने घर में आमंत्रित करता है। हालांकि, कृष्णा अपनी यात्रा के उद्देश्य को पूरा करने के बाद विनम्रतापूर्वक गिरावट और अपने घर लौटने का वादा करता है\n\nरामानंद सागर की श्रृंखला में, कृष्णा झुका और बदसूरत कुज्जा से मिलता है, जो राजा के लिए चंदन की पेस्ट करता है कृष्णा उसे एक बालकों शरारत टोन में flatters बदसूरत कुबजा परेशान हो जाता है और अपमानित महसूस करता है, यह एक व्यंग्यात्मक गाथा को देखते हुए। हालांकि, कृष्णा ने उसे समझाया कि वह अपनी शारीरिक स्थिति की बात नहीं कर रहा है बल्कि उसकी आत्मा की आंतरिक सुंदरता के लिए और भविष्यवाणी करता है कि उसके शारीरिक विकृति का अभिशाप जल्द ही गायब हो जाएगा। कृष्णा उसे चंदन का पेस्ट देने के लिए कहता है, जो वह इसे कम्सा को वितरित करेगा। कृष्णा कृष्ण के इरादे से शक है लेकिन धीरे-धीरे उस पर भरोसा करना शुरू होता है। कुज्जा को यह आशंका है कि अगर कृष्ण को पेस्ट दे, तो कम्सा उसे सिर काट सकता है, लेकिन कृष्ण ने उसे दिलासा दिलाया कि वह तानाशा",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qJNiQOiHCbY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qJNiQOiHCbY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qJNiQOiHCbY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qJNiQOiHCbY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "look jonson",
+        "playlistId": "PLoqigP6fJi7NcogJsfzmJeGht4zSe3luj",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qJNiQOiHCbY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "qJNiQOiHCbY",
+        "videoPublishedAt": "2018-03-10T22:31:14.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/WsaH6H9jDPUUiacm2knO3JH_2D0\"",
+      "id": "UExvcWlnUDZmSmk3TmNvZ0pzZnptSmVHaHQ0elNlM2x1ai5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2019-09-08T12:37:58.000Z",
+        "channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
+        "title": "Shree Krishna Leela HD Hindi Devotional Movie || Aarthi, Srinath, Rama Krishna || Eagle Hindi Movies",
+        "description": "Watch Sri Krishna Leela Hindi Devotional Movie On Eagle Hindi Movies. In this Movie Staring As Aarthi, Srinath, Rama Krishna.\n\n\nSubscribe to \"EAGLE HOME ENTERTAINMENT \" Channels \n\n►Eagle Music Official - https://goo.gl/xaysev \n►Eagle Hindi Movies - https://goo.gl/kzFGes\n►Eagle Comedy - https://goo.gl/6byHWQ\n►Eagle Bhojpuri Movies - https://goo.gl/J8yGyO\n►Eagle Learning - https://goo.gl/00NOQt\n►Eagle Health - https://goo.gl/uFUzdD",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/a7HCfbi-jsI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/a7HCfbi-jsI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/a7HCfbi-jsI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/a7HCfbi-jsI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/a7HCfbi-jsI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "look jonson",
+        "playlistId": "PLoqigP6fJi7NcogJsfzmJeGht4zSe3luj",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "a7HCfbi-jsI"
+        }
+      },
+      "contentDetails": {
+        "videoId": "a7HCfbi-jsI",
+        "videoPublishedAt": "2018-06-26T15:30:00.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/s0SA7QjjGvKjbZOXckKIMZ_venY\"",
+      "id": "UExvcWlnUDZmSmk3TmNvZ0pzZnptSmVHaHQ0elNlM2x1ai40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2019-09-08T12:37:02.000Z",
+        "channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
+        "title": "Ayodhyapati Ram Hindi Full Movie with Hindi Songs | Hindi Dubbed Devotional Movies 2018",
+        "description": "Ayodhyapati Ram is a 2011 Telugu dubbed hindi devotional film, produced by Kalapi Nagada under Cinekorn Entertainment banner and directed by Bapu. Starring Nandamuri Balakrishna, Nayanthara in the lead roles, Akkineni Nageswara Rao, Srikanth, Roja appear in supporting roles and music composed by Ilaiyaraaja. The film is based on the epic Ramayana. The film was Bapu's final directional venture. The film depicts Rama's rule of Ayodhya after he returns home from Lanka, his separation from Sita and her reclusive life in the forest as she raises their children Lava and Kusa. The film won seven Andhra Pradesh State Nandi Awards, including the Nandi Award for Best Feature Film – (Gold) for the year 2011. This film is a remake of a Telugu film Lava Kusha, released in year 1963. It was known as the first color film in Telugu Cinema. \nThe story begins with Rama (Nandamuri Balakrishna) returning to Ayodhya after defeating Ravana along with Goddess Sita (Nayanthara) and crowned as the emperor, settles down to a harmonious lifestyle. When his spies inform him that his reputation may be at stake as Sita had spent over a year in Ravana's Lanka, he asks Lakshman (Srikanth) to ensure that Sita is sent to exile. A devastated, pregnant, and distraught Sita is rescued by Valmiki (Akkineni Nageswara Rao), who takes her to his Ashram by renaming her as Lokapavni, where she subsequently gives birth to twin sons Lava (Master Gaurav) & Kusha (Master Dhanush Kumar). Lord Hanuman (Vindu Dara Singh) also accompanies Sita and serves her in the form of tribal child Balaraju (Master Pavan Sriram). Valmiki trains them in every possible way, including knowledge, warfare, and religion. Ten years later, the twins decide to visit a drought and famine-ravaged Ayodhya to get the blessings of Srirama and Sita as well recite the Ramayan and this is where they will find out that Srirama has exiled Sita, and they return home disappointed and refuse to recite the Ramayan anymore. The twins then stop the Aswamedha horse is not realizing that they will soon be thrust into confrontation with none other than Lakshman, Srirama and the entire army of Ayodhya. After that, they know about their father none other than Sri Rama. Sita reunites her two sons Kusha and Lava with their father Rama and returns to her mother (Bhudevi).\n\nAkkineni Nageswara Rao as Valmiki\nNandamuri Balakrishna as Lord Rama\nNayanthara as Goddess Sita\nSrikanth as Lakshmana\nK. R. Vijaya as Kousalya Devi\nRoja as Bhudevi\nMurali Mohan as Janaka Maha Raju\nM. Balaiah as Maharshi Vashistha\nBrahmanandam as Tippadu\nVindu Dara Singh as Hanuman\nMaster Gaurav as Lava\nMaster Dhanush Kumar as Kusha\nMaster Pavan Sriram as Balaraju (Child Hanuman)\nRaghunatha Reddy\nA.V.S as Narada\nSameer as Bharata\nSudha as Queen Sunayana (Janaka's wife)\nSana as Kaikeyi\n\nWatch all the Latest Hit Movies, Hit Films, Telugu Devotional Songs, Trailers 2018 Tollywood, Hindi Full Movies, Full Kannada new Movies, Kannada Comedy Movies, Tamil, Telugu, Free Movie Download, 2018, Malayalam Movies, Full Action Movies, Best Action Movies 2017, 2018 only on Cinekorn Movies. Subscribe Now and Stay Tuned. \n\nLeave a Like if you Loved the Movie and Do Not forget to Subscribe to Our Channel. \n\nYouTube - www.youtube.com/cinekornmovies\nGoogle + - https://plus.google.com/u/0/+CINEKORNMovies\nFacebook - https://www.facebook.com/CinekornEnt\nTwitter - https://twitter.com/cinekornent\nInstagram - https://www.instagram.com/cinekornentertainment #CinekornMovies #HindiDubbedMovies2018 #ActionMovies #CinekornMovies #HindiDubbedMovies2018 #ActionMovies",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/S2dYU99K53s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/S2dYU99K53s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/S2dYU99K53s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/S2dYU99K53s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/S2dYU99K53s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "look jonson",
+        "playlistId": "PLoqigP6fJi7NcogJsfzmJeGht4zSe3luj",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "S2dYU99K53s"
+        }
+      },
+      "contentDetails": {
+        "videoId": "S2dYU99K53s",
+        "videoPublishedAt": "2018-05-12T15:30:01.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/kCTYRIqdhmoatDaQAiPGVhN8gHQ\"",
+      "id": "UExvcWlnUDZmSmk3TmNvZ0pzZnptSmVHaHQ0elNlM2x1ai5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2019-08-19T17:37:41.000Z",
+        "channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
+        "title": "Ye Hai Stree Shakti | ये है स्त्री शक्ति - Hindi Devotional Full Movie",
+        "description": "Watch Full Hindi Devotional Movie \"Ye Hai Stree Shakti\" Starring Reena Roy, Rakesh Pandey,Vishnu Sharma,Sunita Rao,Radha Kishan, Gautam Adarsh, Dharmesh Tiwari, Mohini Sharma, Kanika Shivpuri, Meenakshi Patil, Nishigandha Vad, Preeti Shroff.\nLyrics & Music: Ravindra Jain\nProducer: Ramchandra Alley\nDirector & Writer: Dhermesh Tiwari\n\nSubscribe to this channel and stay tuned:\nhttp://bit.ly/UltraBhakti",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/um179RyoPc4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/um179RyoPc4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/um179RyoPc4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/um179RyoPc4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/um179RyoPc4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "look jonson",
+        "playlistId": "PLoqigP6fJi7NcogJsfzmJeGht4zSe3luj",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "um179RyoPc4"
+        }
+      },
+      "contentDetails": {
+        "videoId": "um179RyoPc4",
+        "videoPublishedAt": "2019-07-04T02:00:05.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/UJlaTPPtnQuXM0GFfCTttIoANts\"",
+      "id": "UExvcWlnUDZmSmk3TmNvZ0pzZnptSmVHaHQ0elNlM2x1ai45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2019-08-19T17:36:27.000Z",
+        "channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
+        "title": "JAI MAA GANGE | जय माँ गंगे | माँ गंगा की पृथ्वी पर आने की सम्पूर्ण भक्ति फिल्म |",
+        "description": "#devotionalfilm  #ganga #maaganga #maashakti #bhaktimahima\n\nhttps://www.facebook.com/profile.php?id=100007927606751\n\nShakti\nCults of goddess worship are ancient in India. The branch of Hinduism that worships the goddess, known as Devi, is called Shaktism. Followers of Shaktism recognize Shakti as the power that underlies the male principle, and Devi is often depicted as Parvati the consort of Shiva or as Lakshmi the consort of Vishnu. She is also depicted in other guises, such as the fierce Kali or Durga. Shaktism is closely related with Tantric Hinduism, which teaches rituals and practices for purification of the mind and body.The Mother Goddess has many forms. Some are gentle, some are fierce. Shaktas use chants, real magic, holy diagrams, yoga and rituals to call forth cosmic forces\n\nSaiva\nSaivism is the Hindu sect that worships the god Shiva. Shiva is sometimes depicted as the fierce god Bhairava. Saivists are more attracted to asceticism than adherents of other Hindu sects, and may be found wandering India with ashen faces performing self-purification rituals. They worship in the temple and practice yoga, striving to be one with Siva within.\n\nVaishnava\nVaishnavism is the sect within Hinduism that worships Vishnu, the preserver god of the Hindu Trimurti ('three images', the Trinity), and his ten incarnations. It is a devotional sect, and followers worship many deities, including Ram and Krishna, both thought to be incarnations of Vishnu. The adherents of this sect are generally non-ascetic, monastic and devoted to meditative practice and ecstatic chanting.Vaishnavites are mainly dualistic. They are deeply devotional. Their religion is rich in saints, temples and scriptures.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mN7FYzVQRrw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mN7FYzVQRrw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mN7FYzVQRrw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mN7FYzVQRrw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mN7FYzVQRrw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "look jonson",
+        "playlistId": "PLoqigP6fJi7NcogJsfzmJeGht4zSe3luj",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mN7FYzVQRrw"
+        }
+      },
+      "contentDetails": {
+        "videoId": "mN7FYzVQRrw",
+        "videoPublishedAt": "2018-12-19T08:32:21.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/oldXuyYcHlWBc3dKDhS8VdGS4nU\"",
+      "id": "UExvcWlnUDZmSmk3TmNvZ0pzZnptSmVHaHQ0elNlM2x1ai5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2019-08-15T07:39:32.000Z",
+        "channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
+        "title": "\"Vishnu Leela\" | Full Devotional Movie | Sudha Chandran | Prabhu",
+        "description": "Watch New Hindi Dubbed Full Movie \"VISHNU LEELA\" (2014)..\n\nStar Cast:Sudha Chandaran, Prabhu, N M Nambiar, Vijayakanth, Jayasree \nDirector: K.Shankar Producer:Shrikat A. Singh\nMusic: M.S.Vishwanathan Lyricist:Rashid Kanpuri\nGenre:Mythology,Obscure",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7LchN_ho2_Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7LchN_ho2_Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7LchN_ho2_Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7LchN_ho2_Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "look jonson",
+        "playlistId": "PLoqigP6fJi7NcogJsfzmJeGht4zSe3luj",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7LchN_ho2_Q"
+        }
+      },
+      "contentDetails": {
+        "videoId": "7LchN_ho2_Q",
+        "videoPublishedAt": "2014-10-10T17:15:29.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/qpkySOJiURpRggKmgZMMlaWYIdI\"",
+      "id": "UExvcWlnUDZmSmk3TmNvZ0pzZnptSmVHaHQ0elNlM2x1ai41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2019-08-15T07:39:25.000Z",
+        "channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
+        "title": "Bhagwan Samaye Sansar Mein (1976) | Full Movie | Kanan Kaushal | Ashish Kumar | Bharat Bhushan",
+        "description": "Film: Bhagwan Samaye Sansar Mein\nCast: Kanan Kaushal | Ashish Kumar | Bharat Bhushan\n\nDevrishi Narad informs Bhagwan Shri Vishnu of atrocities committed by Mahaant on low caste untouchables. Narad is told that a devotee by the name of Eknath has already been born in Paithan, the grandson of Chakrapani, who will ensure equality for all. Eknath turns out to be precocious and is sent out to Janardhan Swami's Ashram. Years later he returns, weds his childhood sweetheart, Girija; visits the Char Dhams (Dwarka, Badrinath, Jaggannath Puri, & Rameshwaram) and sets out to do his fated task much to Mahaant and the Jagirdar Amar's chagrin - who arrest and put him behind bars. \n\nFor popular Mantras, Bhajans, Aartis, Devotional Songs and Darshan\nSUBSCRIBE to: http://www.YouTube.com/BhaktiSongs\nSai Devotees can now watch Exclusive Sai Baba videos, Aartis, Bhajans & Chants \nSUBSCRIBE to - https://www.youtube.com/saibhaktihd \nFor more Indian Devotional Videos, Click here\nDivine India: https://www.youtube.com/user/TheDivineIndia \nGurbani: https://www.youtube.com/user/gurbani \n\nTop 50 Devotional Chants is the most precious collection of unique chants.\nDownload App Now: https://play.google.com/store/apps/details?id=com.shemaroo.devotionalchants ,\nSign up for Free and get daily updates on New Videos, exclusive Web Shows, contests & much more\nhttp://youtube.shemaroo.com/default.aspx \nSend us your feedback and suggestions at : connect@shemaroo.com\nDownload ShemarooMe APP for more devotional songs and share it with your friends and Family:\nhttps://shemaroome.app.link/eiEEAzHk3W \nGive a missed call on 18002665151 \nwww.shemaroome.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yVlQoy9J9Xc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yVlQoy9J9Xc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yVlQoy9J9Xc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yVlQoy9J9Xc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yVlQoy9J9Xc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "look jonson",
+        "playlistId": "PLoqigP6fJi7NcogJsfzmJeGht4zSe3luj",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yVlQoy9J9Xc"
+        }
+      },
+      "contentDetails": {
+        "videoId": "yVlQoy9J9Xc",
+        "videoPublishedAt": "2012-10-08T07:28:49.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/z2u7kXZ67_0hUsDuMArZq44WZuk\"",
+      "id": "UExvcWlnUDZmSmk3TmNvZ0pzZnptSmVHaHQ0elNlM2x1ai4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2019-08-15T07:39:17.000Z",
+        "channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
+        "title": "Shri Satyanarayan Vrat Katha with English Subtitles I Hindi Movie",
+        "description": "Watch Hindi Film Satyanarayan Vrat Katha with English Subtitles\nComposer: Kirti Anurag\nLyricist: Pt. Kiran Mishr\nSingers: Sonu Nigam, Anuradha Paudwal, Hariharan, Suresh Wadkar\nDirector: Vijay Pandey\nActors: Sudhir Dalvi Dharmesh Tiwari Dinesh Kaushik Narendra Suri Roopa Divetiya Gulshan Kumar Beena\nProducers: Gulshan Kumar Super Cassettes Industries Ltd.\nWriter: Prashant Pandey\nCategory\nClassics Drama Indian CinemaLabel: T-Series\n\nIf You like the video don't forget to share with others & also share your views.\nStay connected with us!!!\n► Subscribe: http://www.youtube.com/tseriesbhakti\n► Like us on Facebook: https://www.facebook.com/BhaktiSagarTseries/\n► Follow us on Twitter: https://twitter.com/tseriesbhakti\n\nFor Spiritual Voice Alerts, Airtel subscribers Dial 589991 (toll free) \nTo set popular Bhakti Dhun as your HelloTune, Airtel subscribers Dial 57878881 facebook: https://www.facebook.com/BhaktiSagarTseries/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dNNNHpvuO_8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dNNNHpvuO_8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dNNNHpvuO_8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dNNNHpvuO_8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "look jonson",
+        "playlistId": "PLoqigP6fJi7NcogJsfzmJeGht4zSe3luj",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dNNNHpvuO_8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "dNNNHpvuO_8",
+        "videoPublishedAt": "2015-08-13T05:39:59.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/54nCi8PvlzO8NgTyoj4IcTr1igI\"",
+      "id": "UExvcWlnUDZmSmk3TmNvZ0pzZnptSmVHaHQ0elNlM2x1ai4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2019-08-15T07:38:45.000Z",
+        "channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
+        "title": "Vishnu Puran | Full Movie | Hindi Devotional Movie | Mythological Movie",
+        "description": "Hindi Devotional Movie Vishnu Puran (1973) Mythological Movie\nStarring: Manish, Shilapi, Ashim Kumar, Anita, Praveen Kumar, S.N. Tripathi,  Mahipal.\nProducer: Banu Banerjee, Director: Shridhar Prasad\n\nSynopsis : Beautiful Gandharva Kanya invites the wrath of Gandharav Raj Ambuj when she decides to take the advise of Devi Maa Gauri and get married to a Manav, Dharamketu. Ambuj soon humiliates and blinds Dharamketu, and the only way he can regain his sight is by listening to Vishnu Puran.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/c3v9aZ-WR-U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/c3v9aZ-WR-U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/c3v9aZ-WR-U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/c3v9aZ-WR-U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/c3v9aZ-WR-U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "look jonson",
+        "playlistId": "PLoqigP6fJi7NcogJsfzmJeGht4zSe3luj",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "c3v9aZ-WR-U"
+        }
+      },
+      "contentDetails": {
+        "videoId": "c3v9aZ-WR-U",
+        "videoPublishedAt": "2016-11-19T08:47:32.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/IRQd1FXCG6N4i6gkwTkXiQV3G2A\"",
+      "id": "UExvcWlnUDZmSmk3TmNvZ0pzZnptSmVHaHQ0elNlM2x1ai41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2019-08-15T07:38:13.000Z",
+        "channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
+        "title": "Matsya Avatar Story of Lord Vishnu",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VqUcfYFELBM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VqUcfYFELBM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VqUcfYFELBM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VqUcfYFELBM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "look jonson",
+        "playlistId": "PLoqigP6fJi7NcogJsfzmJeGht4zSe3luj",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VqUcfYFELBM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "VqUcfYFELBM",
+        "videoPublishedAt": "2013-07-17T11:29:31.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/VXBshCOMT3S30ZTwUkBT1Er1HaI\"",
+      "id": "UExvcWlnUDZmSmk3TmNvZ0pzZnptSmVHaHQ0elNlM2x1ai4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2019-08-15T07:37:55.000Z",
+        "channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
+        "title": "Shri Krishna (श्री कृष्ण) Full Movie - Bhojpuri Movies Full 2015 - Cartoon Stories For Kids",
+        "description": "Presenting Very Interesting Shri Krishna (श्री कृष्ण) Full Movie in Bhojpuri 2015. Enjoy Cartoon Stories For Kids. Sit back and enjoy.\n\nKrishna is the eighth incarnation of Lord Vishnu in Hinduism. The name Krishna appears as the 57th and 550th name of Lord Vishnu in Vishnu Sahasranama of the Mahabharata, and is also listed in the 24 Keshava Namas of Lord Vishnu which are recited and praised at the beginning of all Vedic pujas. A puja is the ritualistic worship offered in Hinduism.\n\nAccording to the Bhagavata Purana, which is a sattvic purana, Krishna is termed as Svayam Bhagavan since he was the purna-avatara or full incarnation of the Supreme God Vishnu. Krishna is often described and portrayed as an infant or young boy playing a flute as in the Bhagavata Purana, or as a youthful prince giving direction and guidance as in the Bhagavad Gita.The stories of Krishna appear across a broad spectrum of Hindu philosophical and theological traditions.They portray him in various perspectives: a God-child, a prankster, a model lover, a divine hero ,and the supreme being.The principal scriptures discussing Krishna's story are the Mahabharata, the Harivamsa, the Bhagavata Purana, and the Vishnu Purana.\n\nTo make your kids more creative, innovative & intelligent Click on the link below and SUBSCRIBE :- http://goo.gl/wU8ToL\n\nIts Absolutely Free !!!!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/D_hzXsc7JUU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/D_hzXsc7JUU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/D_hzXsc7JUU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/D_hzXsc7JUU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/D_hzXsc7JUU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "look jonson",
+        "playlistId": "PLoqigP6fJi7NcogJsfzmJeGht4zSe3luj",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "D_hzXsc7JUU"
+        }
+      },
+      "contentDetails": {
+        "videoId": "D_hzXsc7JUU",
+        "videoPublishedAt": "2014-10-22T00:30:00.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/3UT3Ixj9QjMHU6FzkSZgo8vVqFI\"",
+      "id": "UExvcWlnUDZmSmk3TmNvZ0pzZnptSmVHaHQ0elNlM2x1ai4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2019-08-15T07:37:19.000Z",
+        "channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
+        "title": "Krishna and Garuda - Birth Of Garuda - Animated Full Movie - Stories for Kids",
+        "description": "Krishna & Garuda -\nGaruda was born to Sage Kashyapa and was the largest being on the earth, big enough to block out the sun. He had a golden body, a white face, red wings, the head of an eagle and the body of a man. Garuda was an ardent devotee of Lord Vishnu and a symbol of the force of speed and martial prowess. \nBecause of his sheer size, the Gods were scared he would harm them. But eventually he was resorted to his normal form. His mother was the queen of birds and his father had another wife who was the queen of serpents. The queen of serpents imprisoned Garuda’s mother by cheating her in a bet. Garuda was asked to get celestial nectar, as a fee for releasing his mother. He reached heaven and after numerous hurdles, with the help of Lord Vishnu, he got the nectar and freed his mother. \nThanks to his selfless nature, Vishnu blessed him and made him his mount. His devotion to Vishnu surpassed all others and he was his mount in every from that Vishnu attained, be it as Krishna, Rama, Narasimha or Lord Balaji. When Vishnu took the incarnation as Krishna, Garuda helped him find the Syamantaka Jewel and even helped him marry Sathyabhama. Later Narakasura, a cruel demon was killed by Sathyabhama with the help of Krishna and Garuda.\n\nSubscribe to our Cartoons for Kids Channel: \nhttps://goo.gl/uPjXWn\n\n#krishna #birthofgaruda #krishnaandgaruda #mythologicalstories #storiesforkids #cartoons - Krishna and Garuda - Birth Of Garuda - Animated Full Movie - Stories for Kids",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_DwFpme1CbQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_DwFpme1CbQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_DwFpme1CbQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_DwFpme1CbQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_DwFpme1CbQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "look jonson",
+        "playlistId": "PLoqigP6fJi7NcogJsfzmJeGht4zSe3luj",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_DwFpme1CbQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "_DwFpme1CbQ",
+        "videoPublishedAt": "2015-12-05T04:34:20.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/zhYTlViPcJLMLcCN7lLjVWRhhew\"",
+      "id": "UExvcWlnUDZmSmk3TmNvZ0pzZnptSmVHaHQ0elNlM2x1ai41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2019-08-15T07:36:59.000Z",
+        "channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
+        "title": "विष्णु लीला ॥  vishnu puran ॥  krishna leela ॥  om namah shivay ॥  shiv puran ॥  ramanand sagarstory",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UujCGBOtuAw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UujCGBOtuAw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UujCGBOtuAw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "look jonson",
+        "playlistId": "PLoqigP6fJi7NcogJsfzmJeGht4zSe3luj",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UujCGBOtuAw"
+        }
+      },
+      "contentDetails": {
+        "videoId": "UujCGBOtuAw",
+        "videoPublishedAt": "2018-06-10T03:41:58.000Z"
+      }
+    }
+  ]
+}
