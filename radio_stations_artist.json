@@ -5,7 +5,7 @@
 		"url": "http://51.15.208.163:8081/radio/AIRLSMP072_1/icecast.audio",
 		"samplerate": "",
 		"cat": "Hindi,bollywood",
-		"image": "https://onlineradiofm.in/assets/image/radio/180/airsasaram.jpg",
+		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/airsasaram.jpg",
 		"pub": "01-04-2020"
 	},
 	{
@@ -14,7 +14,7 @@
 		"url": "http://185.80.220.12:8046/stream",
 		"samplerate": "",
 		"cat": "Hindi,bollywood",
-		"image": "https://onlineradiofm.in/assets/image/radio/180/bollywood-beyond11.png",
+		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/bollywood-beyond11.png",
 		"pub": "01-04-2020"
 	},
 	{
