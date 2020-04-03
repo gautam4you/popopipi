@@ -1,920 +1,871 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/CXF26M6ggKQs5AJDZikBmS0u5Ic\"",
+  "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/NLilsVpWa-QdN6vnwj3ULMiX7NE\"",
   "pageInfo": {
-    "totalResults": 19,
+    "totalResults": 18,
     "resultsPerPage": 50
   },
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/nEpmIDr6_niKfzfZBB5lRSrYyRI\"",
-      "id": "UExvcWlnUDZmSmk3TjJXczBkSlR5bWd2MmlRcGZnRkxoTS45RTgxNDRBMzUwRjQ0MDhC",
+      "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/AG1XAwOfnrbyUApg_tFT8SPDH20\"",
+      "id": "UExvcWlnUDZmSmk3T2JRaWo2M21YdjVNZ05zTEhYS1lMVy4zRjM0MkVCRTg0MkYyQTM0",
       "snippet": {
-        "publishedAt": "2020-02-20T01:27:08.000Z",
+        "publishedAt": "2019-09-25T02:08:47.000Z",
         "channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
-        "title": "Neha kakkar|Dil chahiya full Hd video song neha kakker|Neha kakker new song",
-        "description": "#nehakakkar\n#Dilchahiyasong\n#alltipsvideo\n\nDil chahiya Neha kakker song, new song Neha kakker, new song Neha kakker 2018,new song, new song 2018,all tips video\n\nSubscribe our channel: -\n\nLike comment share\nThank for watching video🎥",
+        "title": "Shiv Shakthi Hindi Devotonal Movie || Ranjeet Raj, Manhar Desai || Eagle Hindi Movies",
+        "description": "Shiv Shakthi Hindi Devotonal Movie || Ranjeet Raj, Manhar Desai || Eagle Hindi Movies\n\nConnect to Eagle Home Entertainments:\n\n+919990022424 , Info@eaglemovies.com\n---------------------------------------------------------------------------------------\n\nSubscribe to \"EAGLE HOME ENTERTAINMENT \" Channels \n\n►Eagle Music Official - https://goo.gl/xaysev \n►Eagle Hindi Movies - https://goo.gl/kzFGes\n►Eagle Comedy - https://goo.gl/6byHWQ\n►Eagle Bhojpuri Movies - https://goo.gl/J8yGyO\n►Eagle Learning - https://goo.gl/00NOQt\n►Eagle Health - https://goo.gl/uFUzdD",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/3tj9pE-mUC4/default.jpg",
+            "url": "https://i.ytimg.com/vi/Kzl-s_R2PeM/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/3tj9pE-mUC4/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Kzl-s_R2PeM/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/3tj9pE-mUC4/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Kzl-s_R2PeM/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/3tj9pE-mUC4/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/Kzl-s_R2PeM/sddefault.jpg",
             "width": 640,
             "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Kzl-s_R2PeM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
         "channelTitle": "look jonson",
-        "playlistId": "PLoqigP6fJi7N2Ws0dJTymgv2iQpfgFLhM",
+        "playlistId": "PLoqigP6fJi7ObQij63mXv5MgNsLHXKYLW",
         "position": 0,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "3tj9pE-mUC4"
+          "videoId": "Kzl-s_R2PeM"
         }
       },
       "contentDetails": {
-        "videoId": "3tj9pE-mUC4",
-        "videoPublishedAt": "2018-12-07T03:53:53.000Z"
+        "videoId": "Kzl-s_R2PeM",
+        "videoPublishedAt": "2018-12-19T10:52:45.000Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/FyGmP-am7cJG0A3FYKO7HnjRdo4\"",
-      "id": "UExvcWlnUDZmSmk3TjJXczBkSlR5bWd2MmlRcGZnRkxoTS4yMUQyQTQzMjRDNzMyQTMy",
+      "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/cF9qZO5931w-Yk2zww402PZO_W4\"",
+      "id": "UExvcWlnUDZmSmk3T2JRaWo2M21YdjVNZ05zTEhYS1lMVy45RTgxNDRBMzUwRjQ0MDhC",
       "snippet": {
-        "publishedAt": "2020-02-20T01:25:18.000Z",
+        "publishedAt": "2019-09-25T02:06:26.000Z",
         "channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
-        "title": "Maahi Ve Full Video Song Wajah Tum Ho | Neha Kakkar, Sana, Sharman, Gurmeet | Vishal Pandya",
-        "description": "Presenting \"Maahi Ve\" Full Video Song from the Bollywood movie \"Wajah Tum Ho \" directed by Vishal Pandya and produced by T-Series Films starring Sana Khan, Sharman Joshi, Gurmeet Choudhary and Rajniesh Duggall in the lead roles. Film Releasing 2nd December 2016.\n\nSong ♫Also Available On:\niTunes: https://geo.itunes.apple.com/in/album/wajah-tum-ho-original-motion/id1173179702?ls=1&app=itunes\nHungama : http://www.hungama.com/#/music/album-wajah-tum-ho-songs/22190172\nSaavn: http://www.saavn.com/s/album/hindi/Wajah-Tum-Ho-2016/vhcba5to7JU_\n\nFor Caller Tunes :\nMahi Ve http://bit.ly/2eZatIo\nMahi Ve - Tujhe Chaha http://bit.ly/2eZc6pw\n \nSet \"Mahi Ve\" as your caller tune - sms WAJAH13 To 54646\nSet \"Mahi Ve - Tujhe Chaha\" as your caller tune - sms WAJAH14 To 54646\n________________________________________\nOperator Codes: \n1.Mahi Ve\nVodafone Subscribers Dial 5378823775\nAirtel Subscribers Dial 5432115992343\nReliance Subscribers SMS CT 8823775 to 51234\nIdea Subscribers Dial 567898823775\nTata DoCoMo Subscribers dial 5432118823775\nAircel Subscribers sms DT 6461249  To 53000\nBSNL (South / East) Subscribers sms BT 8823775 To 56700\nBSNL (North / West) Subscribers sms BT 6461249 To 56700\nVirgin Subscribers sms TT 8823775 To 58475\nMTS Subscribers  sms CT 6461242 to 55777\nVideocon Subscribers dial 54321100509222\nTelenor Subscribers dial 50016458233\nMTNL Subscribers sms PT 8823775 To 56789\n\n2. Mahi Ve - Tujhe Chaha\nVodafone Subscribers Dial 5378823783\nAirtel Subscribers Dial 5432115992377\nReliance Subscribers SMS CT 8823783 to 51234\nIdea Subscribers Dial 567898823783\nTata DoCoMo Subscribers dial 5432118823783\nAircel Subscribers sms DT 6461251  To 53000\nBSNL (South / East) Subscribers sms BT 8823783 To 56700\nBSNL (North / West) Subscribers sms BT 6461251 To 56700\nVirgin Subscribers sms TT 8823783 To 58475\nMTS Subscribers  sms CT 6461244 to 55777\nVideocon Subscribers dial 54321100509224\nTelenor Subscribers dial 50016458234\nMTNL Subscribers sms PT 8823783 To 56789\n\nSong Credits :\nSong: Maahi Ve \nSinger : Neha Kakkar \nMusic : Gourov Roshin  \nLyrics : Kumaar  \nBacking Vocals - Amit Gupta. \nMixed And Mastered By Kohinoor And Roshin Balu\nMusic Label: T-Series\n\nOriginal Song Credits\nFilm-Kaante.  \nSong Name : Maahi Ve \nSinger- Richa Sharma.  \nMusic - Anand Raj Anand.  \nLyricist- Dev Kohli.  \n\nEnjoy and stay connected with us!!\nSubscribe to T-Series Channel for unlimited entertainment\nhttp://www.youtube.com/user/tseries?sub_confirmation=1\n\n\n\n\nLike us on Facebook\nhttp://www.facebook.com/tseriesmusic\n\nFollow us on\nhttp://www.twitter.com/tseries\n\nFollow us on\nhttp://www.instagram.com/tseries.official\n\n\n\n----------------------------------------------",
+        "title": "Jai Maa Vaishnodevi I English Subtitles I Watch online Full Movie I GULSHAN KUMAR I GAJENDRA CHAUHAN",
+        "description": "Watch Jai Maa Vaishnodevi Full Movie (Subscribe: http://www.youtube.com/tseriesbhakti)\nArtists: Gulshan Kumar, Gajendra Chauhan, Kiran Juneja\nSingers: Anuradha Paudwal, Suresh Wadkar, Sonu Nigam\nMusic: Amar - Utpal, Surindra Kohli\nAuthor: Naqsh Lalaypuri, Bharat Acharya, Balvir Nirdosh\nProducer: Gulshan Kumar\nDirector: Shantilal Soni\n\nIf You like the video don't forget to share with others & also share your views.\n\nSubscribe: http://www.youtube.com/tseriesbhakti\nBhakti Sagar: http://www.facebook.com/Bhaktisagar\nTo set popular Bhakti Dhun as your HelloTune, Airtel subscribers Dial 57878881 (toll free) \nFor Spiritual Voice Alerts, Airtel subscribers Dial 589991 (toll free)\n\nIf You like the video don't forget to share with others & also share your views.\nStay connected with us!!!\n► Subscribe: http://www.youtube.com/tseriesbhakti\n► Like us on Facebook: https://www.facebook.com/BhaktiSagarTseries/\n► Follow us on Twitter: https://twitter.com/tseriesbhakti\n\nFor Spiritual Voice Alerts, Airtel subscribers Dial 589991 (toll free) \nTo set popular Bhakti Dhun as your HelloTune, Airtel subscribers Dial 57878881 facebook: https://www.facebook.com/BhaktiSagarTseries/",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/un2HVdq4dfw/default.jpg",
+            "url": "https://i.ytimg.com/vi/mZvHEoO0qUQ/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/un2HVdq4dfw/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/mZvHEoO0qUQ/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/un2HVdq4dfw/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/mZvHEoO0qUQ/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/un2HVdq4dfw/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/mZvHEoO0qUQ/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/un2HVdq4dfw/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/mZvHEoO0qUQ/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
         "channelTitle": "look jonson",
-        "playlistId": "PLoqigP6fJi7N2Ws0dJTymgv2iQpfgFLhM",
+        "playlistId": "PLoqigP6fJi7ObQij63mXv5MgNsLHXKYLW",
         "position": 1,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "un2HVdq4dfw"
+          "videoId": "mZvHEoO0qUQ"
         }
       },
       "contentDetails": {
-        "videoId": "un2HVdq4dfw",
-        "videoPublishedAt": "2016-12-22T11:30:01.000Z"
+        "videoId": "mZvHEoO0qUQ",
+        "videoPublishedAt": "2011-12-23T21:43:26.000Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/B1tiEWUF4wzYwnmOW0Omzflng-4\"",
-      "id": "UExvcWlnUDZmSmk3TjJXczBkSlR5bWd2MmlRcGZnRkxoTS41QTY1Q0UxMTVCODczNThE",
+      "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/OS_TbcRs87zZaPpFvYVaBMmy0OU\"",
+      "id": "UExvcWlnUDZmSmk3T2JRaWo2M21YdjVNZ05zTEhYS1lMVy5ENDU4Q0M4RDExNzM1Mjcy",
       "snippet": {
-        "publishedAt": "2020-02-20T01:25:08.000Z",
+        "publishedAt": "2019-09-25T02:06:47.000Z",
         "channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
-        "title": "Garmi Song  [ Full Video ] , Varun Dhawan, Nora F, Shraddha K, Badshah, Neha Kakkar,Pravu Deva",
-        "description": "garmi song,\ngarmi video song,\nGarmi full video song,\ngarmi song,\n\nPresenting Garmi song composed & penned by Badshah. This foot-tapping soundtrack is sung by Neha Kakkar, Badshah. The movie features Varun Dhawan, Shraddha Kapoor, Nora Fatehi, and Prabhu Deva in lead roles and directed by Remo D'Souza, produced by Bhushan Kumar, Divya Khosla Kumar, Krishan Kumar & Lizelle D’Souza. Gulshan Kumar And T-Series Present A T-Series Films Production In Association With Remo D’Souza Entertainment Pvt. Ltd. & Dance Film Company Ltd. Uk, Bhushan Kumar’s Street Dancer 3D.  🎬 Releasing► on 24 January 2020 #Garmisong #StreetDancer3D #varundhawan #shraddhakapoor #norafatehi\n\nGARMI FULL VIDEO SONG LYRICS,\n\nArre yaar koyi AC chalao na yaar,\n\nSahi hai,\nHaaye garmi,\n\n[Badshah]\nBaaki Saari Fake Lage,\nDekh Ke Tujhko Break Lage,\nDoor Se Theek Hai Rani,\nPaas Aaun Toh Sek Lage,\n\n[Neha Kakkar]\nPara Itna High Hua Ki,\nThermometer Toot Gaya,\nSaiyaan Ji Ka Tapak Tapak Ke,\nHaaye Paseena Chhut Gaya,\n\n[Badshah]\nKaisi Gundagardi Hai,\nBandi Tu Bedardi Hai,\nSardi Mein Bhi Kardi Hai,\n\nHaye Garmi, Haaye Garmi,\nHaye Garmi… Haaye Garmi,\n\n[Badshah Rap]\nDecember Mein Kardi Summer,\nTu Lamborghini Main Hoon Hummer,\nWaise Bhi Koi Jaldi Nai Mujhko,\nMain Bachpan Se Hi Hoon Latecomer,\n\nMillion Mein Tu Baby Ik,\nHilti Kamar Jaise Snake,\nTeri Sundarta Pe Likh Doon Baby,\nDo Foot Lamba Lekh,\n\nKardu Sau Baat Ki Ik,\nLeti Tu Mujhko Maata Tek,\nGarmi Kehte Hai Kisko,\nMujhko Gale Laga Ke Dekh,\n\nAise Na Tu Dekh Bhare,\nDil Kyun Mera Break Kare,\nLaal Dress Mein Rani Bilkul,\nRed Velvet Ka Cake Lage,\n\n[Neha Kakkar]\nTere Jaise Jaane Kitno Ke,\nDil Chaknachoor Hue,\nMere Pichhe Marke Aashiq,\nKitne Hi Mashhoor Hue,\n\n[Badshah],\nKaisi Gundagardi Hai,\nSardi Mein Bhi Kardi Hai,\nKardi hai,\n\n[Badshah]\nHaaye Garmi… Haaye Garmi,\nHaaye Garmi,\n(Garmi Garmi Garmi,\nHaaye Garmi,\n(Garmi Garmi Garmi,\n\nBadshah..!\n\nGarmi,\nGarmi song,\nGarmi full song,\nGarmi full video song,\n\nGarmi street dancer,\nGarmi song street dancer,\nGarmi full song street dancer,\nGarmi full video song street dancer,\n\nGarmi varun dhavan,\nGarmi song varun dhavan,\nGarmi full song varun dhavan\n\nTags :\nGarmi Song Full Video,\ngarmi song varun dhawan,\ngarmi song street dancer ,\ngarmi song shradha kapoor,\ngarmi video song,\ngarmi song badsaha,\ngarmi song neha kakkar,\ngarmi full video,\ngarmi video dance song,\n\nGarmi Song Full Video,\ngarmi song varun dhawan,\ngarmi song street dancer ,\ngarmi song shradha kapoor,\ngarmi video song,\ngarmi song badsaha,\ngarmi song neha kakkar,\ngarmi full video,\ngarmi video dance song,\n\n\nGarmi Song Full Video,\ngarmi song varun dhawan,\ngarmi song street dancer ,\ngarmi song shradha kapoor,\ngarmi video song,\ngarmi song badsaha,\ngarmi song neha kakkar,\ngarmi full video,\ngarmi video dance song,\n\nGarmi Song Full Video,\ngarmi song varun dhawan,\ngarmi song street dancer ,\ngarmi song shradha kapoor,\ngarmi video song,\ngarmi song badsaha,\ngarmi song neha kakkar,\ngarmi full video,\ngarmi video dance song,\n\nGarmi Song Full Video,\ngarmi song varun dhawan,\ngarmi song street dancer ,\ngarmi song shradha kapoor,\ngarmi video song,\ngarmi song badsaha,\ngarmi song neha kakkar,\ngarmi full video,\ngarmi video dance song,\n\n\nGarmi Song Full Video,\ngarmi song varun dhawan,\ngarmi song street dancer ,\ngarmi song shradha kapoor,\ngarmi video song,\ngarmi song badsaha,\ngarmi song neha kakkar,\ngarmi full video,\ngarmi video dance song,\n\n@LatestLoveSongs \n#LatestLoveSong",
+        "title": "Char Dham - Hindi Film",
+        "description": "Char Dham - Hindi Film\nProducer: Gulshan Kumar\nSingers: Hariharan, Sonu Nigam, Anuradha Paudwal\nArtists: Aloknath, Kulbhushan Kharbanda, Gulshan Kumar\nMusic Label: T-Series\n\nIf You like the video don't forget to share with others & also share your views.\n\nSubscribe: http://www.youtube.com/tseriesbhakti\nBhakti Sagar: \nTo set popular Bhakti Dhun as your HelloTune, Airtel subscribers Dial 57878881 (toll free) \nFor Spiritual Voice Alerts, Airtel subscribers Dial 589991 (toll free)\n\nIf You like the video don't forget to share with others & also share your views.\nStay connected with us!!!\n► Subscribe: http://www.youtube.com/tseriesbhakti\n► Like us on Facebook: https://www.facebook.com/BhaktiSagarTseries/\n► Follow us on Twitter: https://twitter.com/tseriesbhakti\n\nFor Spiritual Voice Alerts, Airtel subscribers Dial 589991 (toll free) \nTo set popular Bhakti Dhun as your HelloTune, Airtel subscribers Dial 57878881 facebook: https://www.facebook.com/BhaktiSagarTseries/",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/3imi7WsibPY/default.jpg",
+            "url": "https://i.ytimg.com/vi/hl5dQ4hhrm4/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/3imi7WsibPY/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/hl5dQ4hhrm4/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/3imi7WsibPY/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/hl5dQ4hhrm4/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/3imi7WsibPY/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/hl5dQ4hhrm4/sddefault.jpg",
             "width": 640,
             "height": 480
           }
         },
         "channelTitle": "look jonson",
-        "playlistId": "PLoqigP6fJi7N2Ws0dJTymgv2iQpfgFLhM",
+        "playlistId": "PLoqigP6fJi7ObQij63mXv5MgNsLHXKYLW",
         "position": 2,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "3imi7WsibPY"
+          "videoId": "hl5dQ4hhrm4"
         }
       },
       "contentDetails": {
-        "videoId": "3imi7WsibPY",
-        "videoPublishedAt": "2019-12-26T05:58:21.000Z"
+        "videoId": "hl5dQ4hhrm4",
+        "videoPublishedAt": "2012-01-24T11:40:42.000Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/0YSd9YBigskgjSBX8uspjNNbMns\"",
-      "id": "UExvcWlnUDZmSmk3TjJXczBkSlR5bWd2MmlRcGZnRkxoTS5EQUE1NTFDRjcwMDg0NEMz",
+      "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/dXZg4KY0Wym-S3EmTvIGI32o9xU\"",
+      "id": "UExvcWlnUDZmSmk3T2JRaWo2M21YdjVNZ05zTEhYS1lMVy45ODRDNTg0QjA4NkFBNkQy",
       "snippet": {
-        "publishedAt": "2019-08-31T01:16:44.000Z",
+        "publishedAt": "2019-08-09T01:03:36.000Z",
         "channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
-        "title": "LET'S TALK ABOUT LOVE Video Song | BAAGHI | Tiger Shroff, Shraddha Kapoor | RAFTAAR, NEHA KAKKAR",
-        "description": "T-Series presents LET'S TALK ABOUT LOVE Video Song from upcoming movie Baaghi, starring Tiger Shroff & Shraddha Kapoor in lead roles, directed by Sabbir Khan & produced by Sajid Nadiawala. The song is beautifully sung Raftaar, Neha Kakkar, Manj and the music composition of Manj Musik & lyrics by Raftaar & Sabbir Khan.\n\n👉 Click to watch BAAGHI Trailer - https://youtu.be/ZsSP0Qszt-U\n\nSONG : LET'S TALK ABOUT LOVE\nSINGERS : RAFTAAR, NEHA KAKKAR, MANJ MUSIK\nMUSIC : MANJ MUSIK\nLYRICS : RAFTAAR , SABBIR KHAN\nMixed And Mastered By: Eric Pillai (Future Sound Of Bombay)\nMUSIC LABEL :T-SERIES\n\nBuy it on iTunes - https://geo.itunes.apple.com/in/album/lets-talk-about-love-from/id1097485227?ls=1&app=itunes\n\nListen it on Hungama - http://www.hungama.com/#/music/album-baaghi-songs/17940485\n\nFor Caller Tunes : \nLets Talk About Love - Tu Hai Pyaar Mera http://bit.ly/TuHaiPyaarMeraLove\nLets Talk About Love http://bit.ly/LetsTalkAboutLovee\n\n\nEnjoy and stay connected with us!!\n\nSubscribe to T-Series Channel for unlimited entertainment\nhttp://www.youtube.com/user/tseries?sub_confirmation=1\n\n\n\n\nLike us on Facebook\nhttp://www.facebook.com/tseriesmusic\n\nFollow us on\nhttp://www.twitter.com/tseries\n\nFollow us on\nhttp://www.instagram.com/tseries.official\n\n\n\n________________________________\n\nSet \"Tu Hai Pyaar Mera - Lets Talk About Love\" as your caller tune - \nSet \"Lets Talk About Love\" as your caller tune -  \n_____________________________\n\n\nOPERATOR CODES : \n\n1.Tu Hai Pyaar Mera - Lets Talk About Love\n\nVodafone Subscribers Dial 5377595673\nAirtel Subscribers Dial 5432115375908\nReliance Subscribers Dial 595032108\nIdea Subscribers Dial 567897595673\nTata DoCoMo Subscribers dial 5432117595673\nAircel Subscribers sms DT 5948259  To 53000\nBSNL (South / East) Subscribers sms BT 7595673 To 56700\nBSNL (North / West) Subscribers sms BT 5948259 To 56700\nVirgin Subscribers sms TT 7595673 To 58475\nVideocon Subscribers dial 54321100464298\nMTNL Subscribers sms PT 7595673 To 56789\n\n\n2.Lets Talk About Love\n\nVodafone Subscribers Dial 5377595672\nAirtel Subscribers Dial 5432115376222\nReliance Subscribers Dial 595032106\nIdea Subscribers Dial 567897595672\nTata DoCoMo Subscribers dial 5432117595672\nAircel Subscribers sms DT 5948257  To 53000\nBSNL (South / East) Subscribers sms BT 7595672 To 56700\nBSNL (North / West) Subscribers sms BT 5948257 To 56700\nVirgin Subscribers sms TT 7595672 To 58475\nVideocon Subscribers dial 54321100464299\nMTNL Subscribers sms PT 7595672 To 56789",
+        "title": "चल काँवरिया शिव के धाम I Chal Kanwariya Shiv Ke Dham I Watch online Hindi Full Movie, Full Hind Film",
+        "description": "Watch Hindi Devotional Movie  on Lord Shiva Chal Kanwairya Shiv ke Dham\n\nSubscribe: http://www.youtube.com/tseriesbhakti\nFull Hindi Movie Chal Kanwariya Shiv Ke Dham\nSingers: Anuradha Paudwal, Sonu Nigam, Hariharan\nMusic Director: Surendra Kohli\nLyrics: Balbir Nirdosh, Shyam Raj, Abhilash, Rahul Kumar\nVideo Director: Shantilal Soni\nWrtier: Darshan Laad\nArtists: Sanjay Mitra, Surendar Paal, Beena, Gulshan Kumar\nProducer: Gulshan Kumar, Super Cassettes Industries Pvt. Ltd.\nAlbum: Chal Kanwariya Shiv Ke Dham\nMusic Label: T-Series\n\nIf You like the video don't forget to share with others & also share your views.\nStay connected with us!!!\n► Subscribe: http://www.youtube.com/tseriesbhakti\n► Like us on Facebook: https://www.facebook.com/BhaktiSagarTseries/\n► Follow us on Twitter: https://twitter.com/tseriesbhakti\n\nFor Spiritual Voice Alerts, Airtel subscribers Dial 589991 (toll free) \nTo set popular Bhakti Dhun as your HelloTune, Airtel subscribers Dial 57878881\n\nIf You like the video don't forget to share with others & also share your views.\nStay connected with us!!!\n► Subscribe: http://www.youtube.com/tseriesbhakti\n► Like us on Facebook: https://www.facebook.com/BhaktiSagarTseries/\n► Follow us on Twitter: https://twitter.com/tseriesbhakti\n\nFor Spiritual Voice Alerts, Airtel subscribers Dial 589991 (toll free) \nTo set popular Bhakti Dhun as your HelloTune, Airtel subscribers Dial 57878881 facebook: https://www.facebook.com/BhaktiSagarTseries/",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/_c5B2I5k7KM/default.jpg",
+            "url": "https://i.ytimg.com/vi/UvRU4BCOX8Q/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/_c5B2I5k7KM/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/UvRU4BCOX8Q/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/_c5B2I5k7KM/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/UvRU4BCOX8Q/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/_c5B2I5k7KM/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/UvRU4BCOX8Q/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/_c5B2I5k7KM/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/UvRU4BCOX8Q/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
         "channelTitle": "look jonson",
-        "playlistId": "PLoqigP6fJi7N2Ws0dJTymgv2iQpfgFLhM",
+        "playlistId": "PLoqigP6fJi7ObQij63mXv5MgNsLHXKYLW",
         "position": 3,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "_c5B2I5k7KM"
+          "videoId": "UvRU4BCOX8Q"
         }
       },
       "contentDetails": {
-        "videoId": "_c5B2I5k7KM",
-        "videoPublishedAt": "2016-03-25T07:30:00.000Z"
+        "videoId": "UvRU4BCOX8Q",
+        "videoPublishedAt": "2012-04-03T07:51:27.000Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/Dnk9HQbWf-6aTuhsWPyLKg3xWyY\"",
-      "id": "UExvcWlnUDZmSmk3TjJXczBkSlR5bWd2MmlRcGZnRkxoTS41Mzk2QTAxMTkzNDk4MDhF",
+      "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/nt_GypdHtFu4_zCQk6DLsLb-x4w\"",
+      "id": "UExvcWlnUDZmSmk3T2JRaWo2M21YdjVNZ05zTEhYS1lMVy45NzUwQkI1M0UxNThBMkU0",
       "snippet": {
-        "publishedAt": "2019-08-31T01:15:52.000Z",
+        "publishedAt": "2019-10-18T15:01:53.000Z",
         "channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
-        "title": "Nachange Saari Raat Full Video Song | JUNOONIYAT | Pulkit Samrat,Yami Gautam| T-Series",
-        "description": "T-Series presents the FULL VIDEO SONG of Nachange Saari Raat from the film Junooniyat, with Pulkit Samrat and Yami Gautam, starring together once again after the super success of the film Sanam Re earlier this year. Junooniyat is directed by Vivek Agnihotri. Nachange Saari Raat is sung by Meet Bros, feat. Neeraj Shridhar & Tulsi Kumar. The music directors are Meet Bros Anjaan and lyrics are by Kumaar.\n\nSONG - NACHANGE SAARI RAAT\nSINGER - MEET BROS,FEAT. NEERAJ SHRIDHAR,TULSI KUMAR\nMUSIC - MEET BROS ANJJAN\nLYRICS - KUMAAR\nRAP SUNG BY - MEET BROS\nPROGRAMMED BY- ABHIJIT NALANI\nMUSIC ASSISTANT - UDDIPAN SHARMA , AMBRESH SHROFF\nRECORDED BY - GAUTAM CHAKRABORTTY AND UDDIPAN SHARMA @MEET BROS RECORDING STUDIO\nMIXED AND MASTERED BY - ERIC PILLAI (FUTURE SOUND OF BOMBAY)\nPRODUCTION MANAGED BY- SURAJ KUMAR, RUHIR SAXENA\nMUSIC ON T-SERIES\n\nBuy it on iTunes - https://itunes.apple.com/in/album/nachange-saari-raat-from-junooniyat/id1116731798?ls=1&app=itunes.\n\nListen it on Hungama - http://www.hungama.com/#/music/album-junooniyat-songs/18302984\n\n\nFor Caller Tune : \nBhangade Di Queen - Nachange Saari Raat http://bit.ly/1Ub1pPL\nNachange Saari Raat http://bit.ly/1qGAWz8\n\n\nEnjoy and stay connected with us!!\n\nSubscribe to T-Series Channel for unlimited entertainment\nhttp://www.youtube.com/user/tseries?sub_confirmation=1\n\n\n\n\nLike us on Facebook\nhttp://www.facebook.com/tseriesmusic\n\nFollow us on\nhttp://www.twitter.com/tseries\n\nFollow us on\nhttp://www.instagram.com/tseries.official\n\n\n\n----------------------------------------------\n\nSet \"Bhangade Di Queen - Nachange Saari Raat' as your caller tune - sms JUNON2 To 54646\n\nSet \"Nachange Saari Raat' as your caller tune - sms JUNON1 To 54646\n\n----------------------------------------------\n\nOPERATOR CODES : \n\n1. Bhangade Di Queen - Nachange Saari Raat\n\nVodafone Subscribers Dial 5377891412\nAirtel Subscribers Dial 5432115451175\nReliance Subscribers Dial 595032713\nIdea Subscribers Dial 567897891412\nTata DoCoMo Subscribers dial 5432117891412\nAircel Subscribers sms DT 6058423 To 53000\nBSNL (South / East) Subscribers sms BT 7891412 To 56700\nBSNL (North / West) Subscribers sms BT 6058423 To 56700\nVirgin Subscribers sms TT 7891412 To 58475\nMTS Subscribers  sms CT 6058460 to 55777\nVideocon Subscribers dial 54321100474605\nTelenor Subscribers dial 50016058585\nMTNL Subscribers sms PT 7891412 To 56789\n\n\n2.Nachange Saari Raat\n\nVodafone Subscribers Dial 5377891409\nAirtel Subscribers Dial 5432115451165\nReliance Subscribers Dial 595032717\nIdea Subscribers Dial 567897891409\nTata DoCoMo Subscribers dial 5432117891409\nAircel Subscribers sms DT 6058427 To 53000\nBSNL (South / East) Subscribers sms BT 7891409 To 56700\nBSNL (North / West) Subscribers sms BT 6058427 To 56700\nVirgin Subscribers sms TT 7891409 To 58475\nMTS Subscribers  sms CT 6058464 to 55777\nVideocon Subscribers dial 54321100474609\nTelenor Subscribers dial 50016058589\nMTNL Subscribers sms PT 7891409 To 56789",
+        "title": "\"Maa Durga Shakti\" | Full Hindi Devotional Movie | Devaraj | Durga Shree",
+        "description": "Star cast: Devaraj,Durga Shree,Charu Hassan,\nDirector: Surya Producer:S.K.Gupta\nMusic: Rajesh Ramnath Lyricist: Raqueeb Alam\nSingers:Jaya Lakshmi,Radha Shree",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/rxMmistOjCA/default.jpg",
+            "url": "https://i.ytimg.com/vi/-K8iAdXnL7E/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/rxMmistOjCA/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/-K8iAdXnL7E/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/rxMmistOjCA/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/-K8iAdXnL7E/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/rxMmistOjCA/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/-K8iAdXnL7E/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/rxMmistOjCA/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/-K8iAdXnL7E/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
         "channelTitle": "look jonson",
-        "playlistId": "PLoqigP6fJi7N2Ws0dJTymgv2iQpfgFLhM",
+        "playlistId": "PLoqigP6fJi7ObQij63mXv5MgNsLHXKYLW",
         "position": 4,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "rxMmistOjCA"
+          "videoId": "-K8iAdXnL7E"
         }
       },
       "contentDetails": {
-        "videoId": "rxMmistOjCA",
-        "videoPublishedAt": "2016-06-30T05:41:04.000Z"
+        "videoId": "-K8iAdXnL7E",
+        "videoPublishedAt": "2014-07-15T14:08:36.000Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/r8ROiIEH2M8Yh6dCvIogVgNRZhw\"",
-      "id": "UExvcWlnUDZmSmk3TjJXczBkSlR5bWd2MmlRcGZnRkxoTS4zMDg5MkQ5MEVDMEM1NTg2",
+      "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/7mU4thpA3SiPQQcj3fxnzGZAKvE\"",
+      "id": "UExvcWlnUDZmSmk3T2JRaWo2M21YdjVNZ05zTEhYS1lMVy5GM0Q3M0MzMzY5NTJFNTdE",
       "snippet": {
-        "publishedAt": "2019-08-31T01:15:40.000Z",
+        "publishedAt": "2019-09-25T02:08:30.000Z",
         "channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
-        "title": "Dil Meri Na Sune Lyrical - Genius | Utkarsh, Ishita | Atif Aslam | Himesh Reshammiya | Manoj",
-        "description": "Here's presenting the Lyrical version of season's chartbuster Romantic song \" Dil Meri Na Sune\" Crooned by Atif Aslam. Music Composed by Himesh Reshammiya and the heart-warming lyrics are penned by Manoj Muntashir.\n\nStay updated with latest videos from Tips Music, Subscribe on below link.\nhttp://bit.ly/TipsOfficial\n\nAvailable on : \nGaana : http://gaana.com/song/dil-meri-na-sune\nJioSaavn : http://bit.ly/DilMeriNaSuneOnSaavn\niTunes : http://bit.ly/DilMeriNaSuneItunes\n\nSet 'Dil Meri Na Sune' song as your Mobile Callertune (India Only)\nVodafone Users Dial 53710572855\nIdea Users Dial 5678910572855\nAirtel Users Dial 5432116565336\n\nSong Credits :\nSinger : Atif Aslam \nMusic: Himesh Reshammiya,\nLyrics : Manoj Muntashir, \nEdit & Gfx : Nadeem Akhtar (Paperboyz Studioz)\nChoreography : Adil Shaikh\nMusic Produced by : Aditya Dev, \nAditya Dev’s Music Assistant : Gaurav Singh\nHimesh Reshammiya’s Team : Suhas Parab, Subhash Parab & Priyesh Vakil. \nFlute : Tejas Vinchurkar\nSound Engineers : Salman Shaikh, Sakar Apte and Anudutt Shamain at HR Musik Studio.\nMixed and Mastered : by Salman Shaikh at HR Musik Studio.\n\nMovie Credits :\nK.C. Sharma & Kamal Mukut Present\nAn Anil Sharma Productions & Soham RockStar Entertainment's\nAn Anil Sharma Film\n\nProducer - Deepak Mukut\nIntroducing - Utkarsh Sharma & Ishita Chauhan\nStarring - Mithun Chakraborty, Ayesha Jhulka, Nawazuddin Siddiqui, Malti Chehar, Abhimanyu Singh, K K Raina, Dev Gil\nWritten, Produced & Directed by Anil Sharma \n\nSong Lyrics :\n\nWooo Wooo Oooo\nWooo Wooo Oooo\n\nMaine Chaani Ishq Ki Gali\nBas Teri Aahatein Mili\nMaine Chaha Chahoon Na Tujhe\nPar Meri Ek Na Chali\n\nIshq Mein Nigahon Ko \nMilti Hai Baarishein\nPhir Bhi Kyun Kar Raha\nDil Teri Khwaishein\n\nDil Meri Na Sune\nDil Ki Main Na Sunu\nDil Meri Na Sune\nDil Ka Main Kya Karu\n\nDil Meri Na Sune\nDil Ki Main Na Sunu\nDil Meri Na Sune\nDil Ka Main Kya Karu\n\nWooo Wooo Oooo\nWooo Wooo Oooo\n\nLaaya Kahan Mujh ko \nYeh Mohh Tera\nRaatein Na Ab Meri \nNa Mera Savera\nJaan Lega Meri  \nYeh Ishq Mera..\n\nIshq Mein Nigahon Ko \nMilti Hai Baarishein\nPhir Bhi Kyun Kar Raha\nDil Teri Khwaishein\n\nDil Meri Na Sune\nDil Ki Main Na Sunu\nDil Meri Na Sune\nDil Ka Main Kya Karu\n\nDil Meri Na Sune\nDil Ki Main Na Sunu\nDil Meri Na Sune\nDil Ka Main Kya Karu\n\nDil Toh Hai Dil Ka Kya\nGustakh Hai Yeh\nDarta Nahi Paagal \nBebaak Hai Yeh\nHai Raqeeb Khud Ka Hi.. \nIttefaq Hai Yeh\n\nIshq Mein Nigahon Ko \nMilti Hai Baarishein\nPhir Bhi Kyun Kar Raha\nDil Teri Khwaishein\n\nDil Meri Na Sune\nDil Ki Main Na Sunu\nDil Meri Na Sune\nDil Ka Main Kya Karu\n\nDil Meri Na Sune\nDil Ki Main Na Sunu\nDil Meri Na Sune\nDil Ka Main Kya Karu\n\n#DilMeriNaSune #AtifAslam #HimeshReshammiya #UtkarshSharma #IshitaChauhan #HimeshSongs #HimeshNewMovies #HimeshNewMovies #HimeshMovieTrailer #TeraFitoor #ArijitSingh\n\nJoin Us On\nhttp://youtube.com/tipsofficial\nhttps://youtube.com/tipsfilms\nhttp://youtube.com/dilapnapunjabi\nhttp://youtube.com/jhankargaane\nhttp://youtube.com/volume\nhttp://youtube.com/bhaktiprem\nhttps://www.facebook.com/TipsMusic\nhttps://www.instagram.com/tips\nhttps://twitter.com/tipsofficial",
+        "title": "Shiv Parvathi (HD) Hindi Full Length Movie || Aravind Trivedi,Mallika Sarabhai || Eagle Hindi Movies",
+        "description": "Watch Shiv Parvathi (HD) Hindi Full Length Movie. Features Aravind Trivedi, Mallika Sarabhai & Others Directed by Chandrakant, Produced by S. Shah, Music by Piyush Pawar.\n\nSubscribe to \"EAGLE HOME ENTERTAINMENT \" Channels \n\n►Eagle Hindi Movies - https://goo.gl/kzFGes\n►Eagle Music - https://goo.gl/lIKhwF\n►Eagle Comedy - https://goo.gl/6byHWQ\n►Eagle Bhojpuri Movies - https://goo.gl/J8yGyO\n►Eagle Learning - https://goo.gl/00NOQt\n►Eagle Helth - https://goo.gl/uFUzdD",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/YZLKoG_vhDY/default.jpg",
+            "url": "https://i.ytimg.com/vi/b2FPpdPM0vQ/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/YZLKoG_vhDY/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/b2FPpdPM0vQ/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/YZLKoG_vhDY/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/b2FPpdPM0vQ/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/YZLKoG_vhDY/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/b2FPpdPM0vQ/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/YZLKoG_vhDY/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/b2FPpdPM0vQ/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
         "channelTitle": "look jonson",
-        "playlistId": "PLoqigP6fJi7N2Ws0dJTymgv2iQpfgFLhM",
+        "playlistId": "PLoqigP6fJi7ObQij63mXv5MgNsLHXKYLW",
         "position": 5,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "YZLKoG_vhDY"
+          "videoId": "b2FPpdPM0vQ"
         }
       },
       "contentDetails": {
-        "videoId": "YZLKoG_vhDY",
-        "videoPublishedAt": "2018-08-03T07:30:11.000Z"
+        "videoId": "b2FPpdPM0vQ",
+        "videoPublishedAt": "2016-01-23T11:35:29.000Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/NGQq0g419d5ZNqm7-NINC_k0dXg\"",
-      "id": "UExvcWlnUDZmSmk3TjJXczBkSlR5bWd2MmlRcGZnRkxoTS45ODRDNTg0QjA4NkFBNkQy",
+      "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/XgSFBA4vlzyC8VIu1OsLJdVG_PU\"",
+      "id": "UExvcWlnUDZmSmk3T2JRaWo2M21YdjVNZ05zTEhYS1lMVy41MjE1MkI0OTQ2QzJGNzNG",
       "snippet": {
-        "publishedAt": "2019-08-31T01:14:48.000Z",
+        "publishedAt": "2019-02-13T01:24:03.000Z",
         "channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
-        "title": "Oh Humsafar | Full Song | Neha Kakkar | T-Series | Lyrical Video",
-        "description": "Music Room Productions present Bhushan Kumar's 'Oh Humsafar \nlyrical video song' featuring Neha Kakkar & Himansh Kohli, This latest love song is composed Tony Kakkar, sung by Neha Kakkar & Tony Kakkar, video directed by Charit Desai and the Lyrics of this new romantic song are penned by  Manoj Muntashir\n\nSong: Oh Humsafar\nSingers: Neha Kakkar & Tony Kakkar\nMusic: Tony Kakkar\nLyrics:  Manoj Muntashir\nVideo Director: Charit Desai\nDirector Of Photography:  Sunita Radia\nEditor:  Manan Sagar\nProgrammed and Arranged by Aditya Dev\nFlute - Naveen \nRecorded by Rahul Sharma at AMV studio \nMixed and Mastered by Eric Pillai\nMusic Label: T-Series \nMusic Supervisor: Raj Chanana\nA & R Team: Shivam Chanana, Sonal Chawla, Vivin Sachdeva\nHead  Of Production:  Hanif Chunawala \nVice President – Creative: Anjali Bhushan\nSenior Vice President Films:  Shiv Chanana\nPresident – Digital & Legal:   Neeraj Kalyan\nPresident – Marketing, Media & Publishing: Vinod Bhanushali\n\nDisclaimer: We dont own the music rights. \nThis is just a lyrical video \n\"Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.\"",
+        "title": "Hanuman Full Movie | Hindi Movies 2019 Full Movie | Bollywood Movies | Animated Movies",
+        "description": "#HindiMovies2019 #HindiDubbedMovies2019 #BollywoodMovies2019 #Hanuman #Ramayana \n\nHanuman Full movie is a story when Hanuman was born to Anjani a female Apsara and Kesari, by the blessings of Vayu-Dev, the Wind God. Hanuman, who is the 11th rudra avatar of supreme being GOD Shiva himself. He was blessed with supreme intelligence, strength and divine powers. As a baby, Hanuman was quite naughty and used his powers to pester the saints living in the nearby forest. On the insistence of Vayu, Indra and the other Gods came together to bless baby Hanuman of immortal life. Amongst the other blessing a few are: no fear/harm from the Brahmastra, no harm could befall him from any weapons, fire and water. He could overcome death and he could transform his body to take the smallest form or attain the biggest form of life. Blessed with divine powers Hanuman grew up to be powerful and mighty.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/dRsYtpdc78o/default.jpg",
+            "url": "https://i.ytimg.com/vi/OOadNFNYFSs/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/dRsYtpdc78o/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/OOadNFNYFSs/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/dRsYtpdc78o/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/OOadNFNYFSs/hqdefault.jpg",
             "width": 480,
             "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/dRsYtpdc78o/sddefault.jpg",
-            "width": 640,
-            "height": 480
           }
         },
         "channelTitle": "look jonson",
-        "playlistId": "PLoqigP6fJi7N2Ws0dJTymgv2iQpfgFLhM",
+        "playlistId": "PLoqigP6fJi7ObQij63mXv5MgNsLHXKYLW",
         "position": 6,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "dRsYtpdc78o"
+          "videoId": "OOadNFNYFSs"
         }
       },
       "contentDetails": {
-        "videoId": "dRsYtpdc78o",
-        "videoPublishedAt": "2018-04-17T14:31:22.000Z"
+        "videoId": "OOadNFNYFSs",
+        "videoPublishedAt": "2016-10-17T11:00:01.000Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/wPGTv4V0vk6DSEtZb-yAY_tHU2c\"",
-      "id": "UExvcWlnUDZmSmk3TjJXczBkSlR5bWd2MmlRcGZnRkxoTS5EMEEwRUY5M0RDRTU3NDJC",
+      "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/_8z7sMrCJuwnlhRXB-kSR_4vVZk\"",
+      "id": "UExvcWlnUDZmSmk3T2JRaWo2M21YdjVNZ05zTEhYS1lMVy45NDk1REZENzhEMzU5MDQz",
       "snippet": {
-        "publishedAt": "2019-08-15T14:39:43.000Z",
+        "publishedAt": "2019-06-08T15:12:45.000Z",
         "channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
-        "title": "Gali Gali Full Video Song | KGF | Neha Kakkar | Mouni Roy | Tanishk Bagchi | Rashmi Virag |T-SERIES",
-        "description": "Gali Gali Full Video Song | KGF | Neha Kakkar | Mouni Roy | Tanishk Bagchi | Rashmi Virag |T-SERIES\n\nPresenting the full video song \"Gali Gali\"  from the movie KGF. Ritesh Sidhwani, Farhan Akhtar And AA Films Presents A Hombale Film Production Starring Yash, Srinidhi Shetty, Ayyapa, B Suresh, Srinivas Murthy, Archana Jois, Roopa Rayappa, Master Anmol, Ananth Nag, Malavika, Achut Kumar, Naga Bharana, Dinesh Mangalur, Harish roi, Ninasam Ashwath, introducing Avinash, Ram, Lucky, Vinay, Puneeth Rudranag.\n\n#NehaKakkar #KGFSong #GaliGaliVideo\n\n♪ STREAMING ON ♪\niTunes : http://bit.ly/Gali-Gali-KGF-Chapter1-iTunes\nHungama : http://bit.ly/Gali-Gali-KGF-Chapter1-Hungama\nSaavn : http://bit.ly/Gali-Gali-KGF-Chapter1-Saavn\nGaana : http://bit.ly/Gali-Gali-KGF-Chapter1-Gaana\nApple Music : http://bit.ly/Gali-Gali-KGF-Chapter1-Apple-Music\nAmazon Prime Music : http://bit.ly/Gali-Gali-KGF-Chapter1-Amazon-Prime-Music\nGoogle Play : http://bit.ly/Gali-Gali-KGF-Chapter1-Google-Play\nWynk : http://bit.ly/Gali-Gali-KGF-Chapter1-Wynk\nIdea Music : http://bit.ly/Gali-Gali-KGF-Chapter1-Idea-Music\n-----------------------------------------------------------------------------------------------------\nFor Caller Tunes :\nGali Gali https://bit.ly/2QUcnjA\nGali Gali - Maine Tere Liye https://bit.ly/2CbGRpc\nGali Gali - Tera Kasoor https://bit.ly/2Qv5Xbm\n________________________________________\n♪ Song Name - Gali Gali\n♪ Singer - Neha Kakkar\n♪ Music - Tanishk Bagchi\n♪ Movie - KGF\n♪ Re-Composed And Programmed - Tanishk Bagchi\n♪ Lyrics- Rashmi Virag\n♪ Original Lyrics - Anand Bakshi\n♪ Song Mixed And Mastered - Eric Pillai @Future Sound Of Bombay\n♪ Mix Assistant Engineers - Michael Edwin Pillai\n\nOriginally Composed by Kalyanji Anandji\nOrginal Lyrics by Anand Bakshi\n________________________________________\nEnjoy & stay connected with us!\n► Subscribe to T-Series: http://bit.ly/TSeriesYouTube\n► Like us on Facebook: https://www.facebook.com/tseriesmusic\n► Follow us on Twitter: https://twitter.com/tseries\n► Follow us on Instagram: http://bit.ly/InstagramTseries",
+        "title": "Sati Anusaya Full Movie | Hindi Bhakti Movies | Sati Ansuya Katha | Hindi Devotional Movies",
+        "description": "Presenting Full Hindi Bhakti Movies (Hindi Devotional Movies) 'Sati Anusaya'. Anusaya was wife of an ancient Indian rishi (sage) named Atri, in Hindu mythology.\n\nTo Subscribe Click on the link below: \n►http://bit.ly/2hMdfTk\n\nPopular Videos:\n⦿ Bhakt Changuna Full Movie - https://youtu.be/odhBWK3EWw8\n⦿ Saptashrungi Ki Katha Full Movie - https://youtu.be/odhBWK3EWw8\n⦿ Mahalakshmi Vrat Katha - https://youtu.be/JKyz9gaxnzg\n\nCredits:\nDirector: Raju Fulkar\nExecutive Producer:  Praveen Wankhede\nMusic: Rituja Fulkar\nSinger: Suresh Badkar, Amrita Gokhale, Prasad Ranade, Adwate Padwaradhan\nStarcast: Vinita Suke, Atul Despande, Yogesh Soman, Prasann Ketkar, Ravi Mahajan, Narendra Doke, Sunil Godbole\nCopyright: Soundtrack Records and Cassette Mfg Co.\n\nTo Subscribe Click on the link below: \n►http://bit.ly/2hMdfTk",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/1BVgpX4w0Wk/default.jpg",
+            "url": "https://i.ytimg.com/vi/P8e21IyXcs4/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/1BVgpX4w0Wk/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/P8e21IyXcs4/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/1BVgpX4w0Wk/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/P8e21IyXcs4/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/1BVgpX4w0Wk/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/P8e21IyXcs4/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/1BVgpX4w0Wk/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/P8e21IyXcs4/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
         "channelTitle": "look jonson",
-        "playlistId": "PLoqigP6fJi7N2Ws0dJTymgv2iQpfgFLhM",
+        "playlistId": "PLoqigP6fJi7ObQij63mXv5MgNsLHXKYLW",
         "position": 7,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "1BVgpX4w0Wk"
+          "videoId": "P8e21IyXcs4"
         }
       },
       "contentDetails": {
-        "videoId": "1BVgpX4w0Wk",
-        "videoPublishedAt": "2019-04-04T13:30:01.000Z"
+        "videoId": "P8e21IyXcs4",
+        "videoPublishedAt": "2017-06-16T08:37:46.000Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/n1nPqC4kHr7M66SbO_EqfJmDru0\"",
-      "id": "UExvcWlnUDZmSmk3TjJXczBkSlR5bWd2MmlRcGZnRkxoTS40NzZCMERDMjVEN0RFRThB",
+      "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/oNSPif_8klCLu7gtNLXeX9EVq00\"",
+      "id": "UExvcWlnUDZmSmk3T2JRaWo2M21YdjVNZ05zTEhYS1lMVy5GNjNDRDREMDQxOThCMDQ2",
       "snippet": {
-        "publishedAt": "2019-08-15T14:39:18.000Z",
+        "publishedAt": "2019-06-08T15:12:54.000Z",
         "channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
-        "title": "Batla House: O SAKI SAKI Video | Nora Fatehi, Tanishk B, Neha K, Tulsi K, B Praak, Vishal-Shekhar",
-        "description": "Presenting the hottest dance anthem of the season as \"O SAKI SAKI\" from the movie Batla House, with the sizzling performance by Nora Fatehi. The song is sung by Tulsi Kumar, Neha Kakkar, B Praak. The track is recreated and written by Tanishk Bagchi. The song is originally composed by Vishal- Shekhar. \n\nT-series and Emmay Entertainment in association with JA Entertainment and Bake My Cake Films, present the real story behind the Batla House encounter that took place on 18th September 2008\n\n#OSakiSaki #BatlaHouse #NoraFatehi\n\n♪ Full Song Available on ♪\niTunes : http://bit.ly/O-Saki-Saki-Batla-House-iTunes\nHungama : http://bit.ly/O-Saki-Saki-Batla-House-Hungama\nWynk : http://bit.ly/O-Saki-Saki-Batla-House-Wynk\nGaana : http://bit.ly/O-Saki-Saki-Batla-House-Gaana\nJioSaavn : http://bit.ly/O-Saki-Saki-Batla-House-JioSaavn\nApple Music : http://bit.ly/O-Saki-Saki-Batla-House-Apple-Music\nAmazon Prime Music : http://bit.ly/O-Saki-Saki-Batla-House-Amazon-Prime-Music\nSpotify : http://bit.ly/O-Saki-Saki-Batla-House-Spotify\nGoogle Play : http://bit.ly/O-Saki-Saki-Batla-House-Google-Play\n_______________________________________\nFor Caller Tunes :\nO Saki Saki https://bit.ly/2JSef6O\nO Saki Saki - Teri Aankhon Ka Sahil Main https://bit.ly/2xSQrKE\nO Saki Saki - Who Sharabi Kya https://bit.ly/2O5xqQ5\nO Saki Saki - Tere Jaisi Mashuka https://bit.ly/2Smu5dQ\n\nSet as Caller Tune:\nSet \"O Saki Sak\" as your caller tune -sms BATLA1 To 54646\nSet \"O Saki Saki - Teri Aankhon Ka Sahil Main\" as your caller tune - sms BATLA2 To 54646\nSet \"O Saki Saki - Who Sharabi Kya\" as your caller tune - sms BATLA3 To 54646\nSet \"O Saki Saki - Tere Jaisi Mashuka\" as your caller tune - sms BATLA4 To 54646\n________________________________________\n________________________________________\n♪Song: O Saki Saki\n♪Singer: Neha Kakkar, Tulsi Kumar & B Praak\n♪Music Recreated : Tanishk Bagchi\n♪Lyrics By: Tanishk Bagchi\n♪Mix and Mastered: Eric Pillai at Future Sound of Bombay\nAssistant Engineer: Michael Edwin Pillai\n♪Music Label - T-Series\n♪Programmed and Arranged: Tanishk Bagchi\n♪Strings group:İstanbul Strings\n♪ Strings arrange: Mert Kemancı\n♪ Studio: Istanbul can\n\n♫Original Credits ♫\nSong - Saaki\nFilm  - Musafir\nMusic - Vishal-Shekhar\nLyricist - Dev Kohli\nMusic Label - T-Series\n________________________________________\nOperator Codes: \n1.O Saki Saki\nVodafone Subscribers Dial 53711458932\nAirtel Subscribers Dial 5432117056546\nIdea Subscribers Dial 5678911458932\nTata DoCoMo Subscribers dial 54321111458932\nBSNL (South / East) Subscribers sms BT 11458932 To 56700\nBSNL (North / West) Subscribers sms BT 7294419 To 56700\nVirgin Subscribers sms TT 11458932 To 58475\nMTNL Subscribers sms PT 11458932 To 56789\n\n2.O Saki Saki - Teri Aankhon Ka Sahil Main\nVodafone Subscribers Dial 53711459134\nAirtel Subscribers Dial 5432117056707\nIdea Subscribers Dial 5678911459134\nTata DoCoMo Subscribers dial 54321111459134\nBSNL (South / East) Subscribers sms BT 11459134 To 56700\nBSNL (North / West) Subscribers sms BT 7294421 To 56700\nVirgin Subscribers sms TT 11459134 To 58475\nMTNL Subscribers sms PT 11459134 To 56789\n\n3.O Saki Saki - Who Sharabi Kya\nVodafone Subscribers Dial 53711458930\nAirtel Subscribers Dial 5432117056736\nIdea Subscribers Dial 5678911458930\nTata DoCoMo Subscribers dial 54321111458930\nBSNL (South / East) Subscribers sms BT 11458930 To 56700\nBSNL (North / West) Subscribers sms BT 7294422 To 56700\nVirgin Subscribers sms TT 11458930 To 58475\nMTNL Subscribers sms PT 11458930 To 56789\n\n4.O Saki Saki - Tere Jaisi Mashuka\nVodafone Subscribers Dial 53711458923\nAirtel Subscribers Dial 5432117056725\nIdea Subscribers Dial 5678911458923\nTata DoCoMo Subscribers dial 54321111458923\nBSNL (South / East) Subscribers sms BT 11458923 To 56700\nBSNL (North / West) Subscribers sms BT 7294420 To 56700\nVirgin Subscribers sms TT 11458923 To 58475\nMTNL Subscribers sms PT 11458923 To 56789\n___\nEnjoy & stay connected with us!\n👉 Subscribe to T-Series: http://bit.ly/TSeriesYouTube\n👉  Like us on Facebook: https://www.facebook.com/tseriesmusic\n👉Follow us on Twitter: https://twitter.com/tseries\n👉 Follow us on Instagram: http://bit.ly/InstagramTseries",
+        "title": "Maa Bhawani l Latest South Devotional Movie l Hindi Dubbed Movie 2017",
+        "description": "Maa Bhawani l \nLatest South Devotional Movie L Hindi Dubbed Movie 2017\nWatch Till The End..\nDon,t Forget To Subscribe My Youtube Channel..\nhttps://www.youtube.com/channel/UCBHokeZOjggKtbo4fRed1uQ",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/6wNFJIbTxNk/default.jpg",
+            "url": "https://i.ytimg.com/vi/yzTu-uF6PqU/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/6wNFJIbTxNk/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/yzTu-uF6PqU/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/6wNFJIbTxNk/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/yzTu-uF6PqU/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/6wNFJIbTxNk/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/yzTu-uF6PqU/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/6wNFJIbTxNk/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/yzTu-uF6PqU/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
         "channelTitle": "look jonson",
-        "playlistId": "PLoqigP6fJi7N2Ws0dJTymgv2iQpfgFLhM",
+        "playlistId": "PLoqigP6fJi7ObQij63mXv5MgNsLHXKYLW",
         "position": 8,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "6wNFJIbTxNk"
+          "videoId": "yzTu-uF6PqU"
         }
       },
       "contentDetails": {
-        "videoId": "6wNFJIbTxNk",
-        "videoPublishedAt": "2019-07-15T06:31:35.000Z"
+        "videoId": "yzTu-uF6PqU",
+        "videoPublishedAt": "2017-10-19T05:30:01.000Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/DY-hiakJgNICm9ZnJfrpCARWTC0\"",
-      "id": "UExvcWlnUDZmSmk3TjJXczBkSlR5bWd2MmlRcGZnRkxoTS5GNjNDRDREMDQxOThCMDQ2",
+      "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/JYTudyoBOFhLPO2nV8KYkGllJqo\"",
+      "id": "UExvcWlnUDZmSmk3T2JRaWo2M21YdjVNZ05zTEhYS1lMVy5EQUE1NTFDRjcwMDg0NEMz",
       "snippet": {
-        "publishedAt": "2019-02-19T15:04:47.000Z",
+        "publishedAt": "2019-09-08T12:37:04.000Z",
         "channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
-        "title": "Neha Kakkar T-Series Mixtape : Kabira Naina l Mohd Irfan l Bhushan Kumar l Ahmed Khan l Abhijit V",
-        "description": "T-Series presents in association with King's Goa brings to you the first magical melody Kabira/Naina video song from the #TSeriesMixtape Series in the Voice of Neha Kakkar and Mohd. Irfan.\n\nGet it on iTunes - http://bit.ly/KabiraNaina_TSeriesMixtape_NehaKakkar_iTunes\n\nAlso, Stream it on\nHungama - http://bit.ly/KabiraNaina_TSeriesMixtape_NehaKakkar_Hungama\nSaavn - http://bit.ly/KabiraNaina_TSeriesMixtape_NehaKakkar_Saavn\nGaana - http://bit.ly/KabiraNaina_TSeriesMixtape_NehaKakkar_Gaana\nApple Music - http://bit.ly/KabiraNaina_TSeriesMixtape_NehaKakkar_AppleMusic\nGoogle Play - http://bit.ly/KabiraNaina_TSeriesMixtape_NehaKakkar_GooglePlay\n\nFor  Caller Tunes :\nKabira Naina Nu Pata http://bit.ly/2rE5y4V\nSunta Nai - Kabira Naina Nu Pata http://bit.ly/2sGS7pC\nTute Char Pai - Kabira Naina Nu Pata http://bit.ly/2tuZr4w\n\nSet as Caller Tune:\nSet \"Kabira Naina Nu Pata \" as your caller tune - sms TMXT1 To 54646\nSet \"Sunta Nai - Kabira Naina Nu Pata\" as your caller tune - sms TMXT2 To 54646\nSet \"Tute Char Pai - Kabira Naina Nu Pata\" as your caller tune - sms TMXT3 To 54646\n________________________________________\nSong- Kabira/Naina\nSingers- Neha Kakkar & Mohammed Irfan\nMusic By - Abhijit Vaghani\nProduced by: Bhushan Kumar\nDirected by: Ahmed Khan\nConceptualized & Developed by - Shivam Chanana & Sonal Chawla\nEditor: Nitin\nCreative assistance & Project Coordinator to Abhijit Vaghani - Parmita Mathur\n\nPresented by - Kings\nPowered by - Saavn\nMusic Partner - Furtados Music\nRadio Partners - Fever FM\n\nAdditional Music Credits: \nMusic Programmed By - Abhijit Vaghani\nGaurav Vaswani - Keyboard\nRahul Pandirkar Cajon - Electronic Drums\nAmit Chauhan - Electric Guitar\nAbhinav Khokhar - Bass Guitar\nAmandeep Singh Soni Acoustic - Guitar(Lead)\nDurgesh Bhosle -Shehnai\nPooja Lucky Sharma - Steel Guitar\nManish - Steel Guitar\nSagar Makwana - Nylon Guitar\nGautam Sharma - Percussion\nAnusha Ramasubramoney - Vocalist\nMurishka D'cruz - Vocalist\nDean Sequeira - Vocalist\nNihal Shetty - Vocalist\nParmita Mathur - Vocalist\nBacking Vocal Arrangement - Aditya N.\nGuitar arrangement - Amandeep Singh Soni\n\nMixed and Mastered by Aftab Khan at Headroom Studio \nMix Assistant: Dhron Galiyawala\nRecorded By - Surajit Ghosh, Mazumdar, Dattatray Navrekar        \nRehearsed at- T-SERIES Studios\n\nOriginal Song Credits:\nSong: Kabira\nLyrics: AMITABH BHATTACHARYA\nMusic: PRITAM\n\nSong: Naina Nu Patta Hain \nMUSIC DIRECTOR - AMAAL MALLIK\nLYRICS - KUMAAR\n\nOperator Codes: \n1.Kabira Naina Nu Pata\nVodafone Subscribers Dial 5379594363\nAirtel Subscribers Dial 5432116273559\nReliance Subscribers SMS CT 9594363 to 51234\nIdea Subscribers Dial 567899594363\nTata DoCoMo Subscribers dial 5432119594363\nAircel Subscribers sms DT 6692066  To 53000\nBSNL (South / East) Subscribers sms BT 9594363 To 56700\nBSNL (North / West) Subscribers sms BT 6692066 To 56700\nVirgin Subscribers sms TT 9594363 To 58475\nMTS Subscribers  sms CT 6691697 to 55777\nTelenor Subscribers dial 50019594363\nMTNL Subscribers sms PT 9594363 To 56789\n\n2.Sunta Nai - Kabira Naina Nu Pata\nVodafone Subscribers Dial 5379594364\nAirtel Subscribers Dial 5432116273477\nReliance Subscribers SMS CT 9594364 to 51234\nIdea Subscribers Dial 567899594364\nTata DoCoMo Subscribers dial 5432119594364\nAircel Subscribers sms DT 6692067  To 53000\nBSNL (South / East) Subscribers sms BT 9594364 To 56700\nBSNL (North / West) Subscribers sms BT 6692067 To 56700\nVirgin Subscribers sms TT 9594364 To 58475\nMTS Subscribers  sms CT 6691698 to 55777\nTelenor Subscribers dial 50019594364\nMTNL Subscribers sms PT 9594364 To 56789\n\n3.Tute Char Pai - Kabira Naina Nu Pata\nVodafone Subscribers Dial 5379594365\nAirtel Subscribers Dial 5432116272109\nReliance Subscribers SMS CT 9594365 to 51234\nIdea Subscribers Dial 567899594365\nTata DoCoMo Subscribers dial 5432119594365\nAircel Subscribers sms DT 6692068  To 53000\nBSNL (South / East) Subscribers sms BT 9594365 To 56700\nBSNL (North / West) Subscribers sms BT 6692068 To 56700\nVirgin Subscribers sms TT 9594365 To 58475\nMTS Subscribers  sms CT 6691699 to 55777\nTelenor Subscribers dial 50019594365\nMTNL Subscribers sms PT 9594365 To 56789\n___\nEnjoy & stay connected with us!\n► Subscribe to T-Series: http://bit.ly/TSeriesYouTube\n► Like us on Facebook: https://www.facebook.com/tseriesmusic\n► Follow us on Twitter: https://twitter.com/tseries\n► Follow us on Instagram: http://bit.ly/InstagramTseries",
+        "title": "Ayodhyapati Ram Hindi Full Movie with Hindi Songs | Hindi Dubbed Devotional Movies 2018",
+        "description": "Ayodhyapati Ram is a 2011 Telugu dubbed hindi devotional film, produced by Kalapi Nagada under Cinekorn Entertainment banner and directed by Bapu. Starring Nandamuri Balakrishna, Nayanthara in the lead roles, Akkineni Nageswara Rao, Srikanth, Roja appear in supporting roles and music composed by Ilaiyaraaja. The film is based on the epic Ramayana. The film was Bapu's final directional venture. The film depicts Rama's rule of Ayodhya after he returns home from Lanka, his separation from Sita and her reclusive life in the forest as she raises their children Lava and Kusa. The film won seven Andhra Pradesh State Nandi Awards, including the Nandi Award for Best Feature Film – (Gold) for the year 2011. This film is a remake of a Telugu film Lava Kusha, released in year 1963. It was known as the first color film in Telugu Cinema. \nThe story begins with Rama (Nandamuri Balakrishna) returning to Ayodhya after defeating Ravana along with Goddess Sita (Nayanthara) and crowned as the emperor, settles down to a harmonious lifestyle. When his spies inform him that his reputation may be at stake as Sita had spent over a year in Ravana's Lanka, he asks Lakshman (Srikanth) to ensure that Sita is sent to exile. A devastated, pregnant, and distraught Sita is rescued by Valmiki (Akkineni Nageswara Rao), who takes her to his Ashram by renaming her as Lokapavni, where she subsequently gives birth to twin sons Lava (Master Gaurav) & Kusha (Master Dhanush Kumar). Lord Hanuman (Vindu Dara Singh) also accompanies Sita and serves her in the form of tribal child Balaraju (Master Pavan Sriram). Valmiki trains them in every possible way, including knowledge, warfare, and religion. Ten years later, the twins decide to visit a drought and famine-ravaged Ayodhya to get the blessings of Srirama and Sita as well recite the Ramayan and this is where they will find out that Srirama has exiled Sita, and they return home disappointed and refuse to recite the Ramayan anymore. The twins then stop the Aswamedha horse is not realizing that they will soon be thrust into confrontation with none other than Lakshman, Srirama and the entire army of Ayodhya. After that, they know about their father none other than Sri Rama. Sita reunites her two sons Kusha and Lava with their father Rama and returns to her mother (Bhudevi).\n\nAkkineni Nageswara Rao as Valmiki\nNandamuri Balakrishna as Lord Rama\nNayanthara as Goddess Sita\nSrikanth as Lakshmana\nK. R. Vijaya as Kousalya Devi\nRoja as Bhudevi\nMurali Mohan as Janaka Maha Raju\nM. Balaiah as Maharshi Vashistha\nBrahmanandam as Tippadu\nVindu Dara Singh as Hanuman\nMaster Gaurav as Lava\nMaster Dhanush Kumar as Kusha\nMaster Pavan Sriram as Balaraju (Child Hanuman)\nRaghunatha Reddy\nA.V.S as Narada\nSameer as Bharata\nSudha as Queen Sunayana (Janaka's wife)\nSana as Kaikeyi\n\nWatch all the Latest Hit Movies, Hit Films, Telugu Devotional Songs, Trailers 2018 Tollywood, Hindi Full Movies, Full Kannada new Movies, Kannada Comedy Movies, Tamil, Telugu, Free Movie Download, 2018, Malayalam Movies, Full Action Movies, Best Action Movies 2017, 2018 only on Cinekorn Movies. Subscribe Now and Stay Tuned. \n\nLeave a Like if you Loved the Movie and Do Not forget to Subscribe to Our Channel. \n\nYouTube - www.youtube.com/cinekornmovies\nGoogle + - https://plus.google.com/u/0/+CINEKORNMovies\nFacebook - https://www.facebook.com/CinekornEnt\nTwitter - https://twitter.com/cinekornent\nInstagram - https://www.instagram.com/cinekornentertainment #CinekornMovies #HindiDubbedMovies2018 #ActionMovies #CinekornMovies #HindiDubbedMovies2018 #ActionMovies",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/xfA6ySYiuE4/default.jpg",
+            "url": "https://i.ytimg.com/vi/S2dYU99K53s/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/xfA6ySYiuE4/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/S2dYU99K53s/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/xfA6ySYiuE4/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/S2dYU99K53s/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/xfA6ySYiuE4/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/S2dYU99K53s/sddefault.jpg",
             "width": 640,
             "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/S2dYU99K53s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
         "channelTitle": "look jonson",
-        "playlistId": "PLoqigP6fJi7N2Ws0dJTymgv2iQpfgFLhM",
+        "playlistId": "PLoqigP6fJi7ObQij63mXv5MgNsLHXKYLW",
         "position": 9,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "xfA6ySYiuE4"
+          "videoId": "S2dYU99K53s"
         }
       },
       "contentDetails": {
-        "videoId": "xfA6ySYiuE4",
-        "videoPublishedAt": "2017-06-15T01:30:00.000Z"
+        "videoId": "S2dYU99K53s",
+        "videoPublishedAt": "2018-05-12T15:30:01.000Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/AbuiF_Oya4YhiUlrdiuehpmnVyg\"",
-      "id": "UExvcWlnUDZmSmk3TjJXczBkSlR5bWd2MmlRcGZnRkxoTS45NDk1REZENzhEMzU5MDQz",
+      "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/7tgQahjmApdho_SrgfIBnD8qqtM\"",
+      "id": "UExvcWlnUDZmSmk3T2JRaWo2M21YdjVNZ05zTEhYS1lMVy41QTY1Q0UxMTVCODczNThE",
       "snippet": {
-        "publishedAt": "2019-02-09T10:37:30.000Z",
+        "publishedAt": "2019-09-08T12:37:57.000Z",
         "channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
-        "title": "Gali Gali Mein Phirta Hai - Dj Hemanth Remix Video Song | KGF | Mouni Roy | Neha Kakkar",
-        "description": "Song: Gali Gali\nMovie – KGF\nSingers – Neha Kakkar\nMusicians – Tanishk Bagchi\nLyricists – Rashmi Virag\nMusic On - T-Series \n\nHit The Like Button & Share It.\nSUBSCRIBE \n\nOriginal Music Video :- \nGali Gali Mein - https://youtu.be/rJqX-YUZddc\n\nFollow & Contact To Us :- \nYoutube :- https://www.youtube.com/nsrbeats\nTwitter :- https://www.twitter.com/nsrbeats\nInstagram :- https://www.instagram.com/nsrbeats\nFacebook :- https://www.facebook.com/nsrbeats\n\n\nS U B S C R I B E   N O W \n\n\nDISCLAIMER :- All The Credits Goes To Copyright Owner Of The Video \"T-Series Music\". It is Intended To Showcase The Creativity Of The Artist. No Copyright Infringement Intended.\n\nThis Video is not monitized, I am not making money out of it. \n\nWe Use the content only for fun and entertainment purposes. if you think for this video credits should go to you or if you want this video to be removed please contact me.\n\nWarning : we do not make any money out of the copyright videos .. all the profit goes to the original owner of the music and videos.\n\n*DISCLAIMER: This Following Audio/Video is Strictly meant for Promotional Purpose.We Do not Wish to make any Commercial Use of this & Intended to Showcase the Creativity Of the Artist Involved.*\n\n*The original Copyright(s) is (are) Solely owned by the Companies/Original-Artist(s)/Record-label(s).All the contents are intended to Showcase the creativity of theArtist involved and is strictly done for promotional purpose.*\n\n*DISCLAIMER: As per 3rd Section of Fair use guidelines Borrowing small bits of material from an original work is more likely to be considered fair use. Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for fair use",
+        "title": "Shree Krishna Leela HD Hindi Devotional Movie || Aarthi, Srinath, Rama Krishna || Eagle Hindi Movies",
+        "description": "Watch Sri Krishna Leela Hindi Devotional Movie On Eagle Hindi Movies. In this Movie Staring As Aarthi, Srinath, Rama Krishna.\n\n\nSubscribe to \"EAGLE HOME ENTERTAINMENT \" Channels \n\n►Eagle Music Official - https://goo.gl/xaysev \n►Eagle Hindi Movies - https://goo.gl/kzFGes\n►Eagle Comedy - https://goo.gl/6byHWQ\n►Eagle Bhojpuri Movies - https://goo.gl/J8yGyO\n►Eagle Learning - https://goo.gl/00NOQt\n►Eagle Health - https://goo.gl/uFUzdD",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/jIP7MUnjGRc/default.jpg",
+            "url": "https://i.ytimg.com/vi/a7HCfbi-jsI/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/jIP7MUnjGRc/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/a7HCfbi-jsI/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/jIP7MUnjGRc/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/a7HCfbi-jsI/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/jIP7MUnjGRc/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/a7HCfbi-jsI/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/jIP7MUnjGRc/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/a7HCfbi-jsI/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
         "channelTitle": "look jonson",
-        "playlistId": "PLoqigP6fJi7N2Ws0dJTymgv2iQpfgFLhM",
+        "playlistId": "PLoqigP6fJi7ObQij63mXv5MgNsLHXKYLW",
         "position": 10,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "jIP7MUnjGRc"
+          "videoId": "a7HCfbi-jsI"
         }
       },
       "contentDetails": {
-        "videoId": "jIP7MUnjGRc",
-        "videoPublishedAt": "2019-01-12T09:11:13.000Z"
+        "videoId": "a7HCfbi-jsI",
+        "videoPublishedAt": "2018-06-26T15:30:00.000Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/XjVCxHF5awZ9NAjytcGEpKAOrDs\"",
-      "id": "UExvcWlnUDZmSmk3TjJXczBkSlR5bWd2MmlRcGZnRkxoTS5DQUNERDQ2NkIzRUQxNTY1",
+      "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/wlNm-ZP12HIKPI7JTWmT46LXU5g\"",
+      "id": "UExvcWlnUDZmSmk3T2JRaWo2M21YdjVNZ05zTEhYS1lMVy5EMEEwRUY5M0RDRTU3NDJC",
       "snippet": {
-        "publishedAt": "2019-02-02T03:11:18.000Z",
+        "publishedAt": "2019-06-08T15:13:26.000Z",
         "channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
-        "title": "Chamma Chamma Cover Song Presented By Heena Panchal & Razi Shaikh",
-        "description": "Heena Panchal IG :- https://instagram.com/theofficialheena/\n\nSubscribe my Channel: https://bit.ly/2RSIlOr\n\nChoreographed By :- Razi Shaikh IG :- https://instagram.com/razishaikh6/\nDance Class related inquire E-mail on : razishaikh6@gmail.com or Contact +917738099114\n\nDirected & Edited By :- Abv Creations IG :- https://instagram.com/abv_creations/\nTo Inquire about photography or videography contact on 7977501206\n\nLocation :- True Tramm Trunk, Juhu andheri \n\nVideo Credits\nSong : Chamma Chamma\nSinger : Tanishk , Neha Kakkar, Ikka, Romy\nMusic : Anu Malik\nLyrics:  Sameer\nMusic Label : Tips Official\n#chammachamma #nehakakkar #eliabrahim",
+        "title": "Dhanya Tulsi Mahima - Bhakti Movie | Hindi Devotional Movie | Hindi Movies | Bhakti Film",
+        "description": "Presenting Superhit Bhakti Movie 'Dhanya Tulsi Mahima' (Devotional Movie, Hindi Movies, Bhakti Film, Bhakti Picture). Movie directed by Raju Fulkar.\n\nSubscribe For Best Hindi Devotional Movies and Songs: \nhttp://bit.ly/BhaktiIndia\n\nPopular Movies:\n⦿ Sant Dnyaneshwar Maharaj - https://youtu.be/fngF6IXCcaE\n⦿ Sant Janabai संत जनाबाई - https://youtu.be/3wPo62bsdUQ\n⦿ Behen Bhai Ki Kahani - https://youtu.be/YBUWiV_oSOQ\n⦿ Bhakta Pundalik - https://youtu.be/cFtvyHZT0kc\n\nCredits:\nDirector: Raju Fulkar\nMusic: Rahul Ghorpade\nLyrics: Rutuja Fulkar\n\nCopyright: Soundtrack Records and Cassette Mfg Co.\n\nSubscribe For Best Hindi Devotional Movies and Songs: \nhttp://bit.ly/BhaktiIndia",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/r0E69m9cWq0/default.jpg",
+            "url": "https://i.ytimg.com/vi/8uD0V8bibIg/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/r0E69m9cWq0/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/8uD0V8bibIg/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/r0E69m9cWq0/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/8uD0V8bibIg/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/r0E69m9cWq0/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/8uD0V8bibIg/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/r0E69m9cWq0/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/8uD0V8bibIg/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
         "channelTitle": "look jonson",
-        "playlistId": "PLoqigP6fJi7N2Ws0dJTymgv2iQpfgFLhM",
+        "playlistId": "PLoqigP6fJi7ObQij63mXv5MgNsLHXKYLW",
         "position": 11,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "r0E69m9cWq0"
+          "videoId": "8uD0V8bibIg"
         }
       },
       "contentDetails": {
-        "videoId": "r0E69m9cWq0",
-        "videoPublishedAt": "2019-01-11T11:30:01.000Z"
+        "videoId": "8uD0V8bibIg",
+        "videoPublishedAt": "2018-08-09T04:00:00.000Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/SZ_RhJuhK8amlYDPInmmx-H2H4k\"",
-      "id": "UExvcWlnUDZmSmk3TjJXczBkSlR5bWd2MmlRcGZnRkxoTS41MzJCQjBCNDIyRkJDN0VD",
+      "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/9BFmkkqxwCfRrj128pDxTIH-5pc\"",
+      "id": "UExvcWlnUDZmSmk3T2JRaWo2M21YdjVNZ05zTEhYS1lMVy5DQUNERDQ2NkIzRUQxNTY1",
       "snippet": {
-        "publishedAt": "2019-02-02T03:05:51.000Z",
+        "publishedAt": "2019-06-08T15:07:43.000Z",
         "channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
-        "title": "Chamma Chamma Full Video - Fraud Saiyaan | Elli AvrRam, Arshad | Neha Kakkar, Tanishk, Ikka,Romy",
-        "description": "Watch the ultra-modern song 'Chamma Chamma' wherein Elli AvrRam showcases her breath-taking dance moves from the movie 'Fraud Saiyaan'. Vocals given by Neha Kakkar, Romy, Arun & Ikka. Re-created by Tanishk Bagchi.\n\nStay updated with latest videos from Tips Music, Subscribe on below link.\nhttp://bit.ly/TipsOfficial\n\nAvailable on : \nITunes : http://bit.ly/ChammaChammaiTunes\nGaana : https://gaana.com/song/chamma-chamma-5\nSaavan : http://bit.ly/ChammaChammaJioSaavn\nAmazon Music : http://bit.ly/ChammaChammaAmazonMusic\nGoogle Play Music : http://bit.ly/ChammaChammaGooglePlayMusic\n\nSet 'Chamma Chamma' as your Mobile Callertune (India Only)\nVodafone Users Dial 53710857644\nAirtel Users Dial 5432116705946\nIdea Users Dial 5678910857644\n\nSong Credits:\nSingers- Neha Kakkar, Romy, Arun & Ikka\nRe-created- Tanishk Bagchi\nLyrics- Shabbir Ahmed\nVideo Director- Adil Shaikh\nMixed & Mastered– Eric Pillai (Future Sound of Bombay )\nDop- Manish Bhatt\nAssistant choreographers- Paco, Lawrence Nadar (Mac), Alisha\nAdil Shaikh's business manager- Roman Sarkar.\nExecutive producer- Shake entertainment Pvt Ltd / Vicky Sharma\nEditor- Nitin Fcp / Oswin Raverdo\nLine production- Shake entertainment Pvt Ltd.\n\nOriginal Song Credits :\nMusic Director: Anu Malik\nLyricist: Sameer\n\nMovie Credits :\nProduced by - Disha Prakash Jha and Kanishk Gangwal\nPrakash Jha Productions | A Drama King Entertainment Production\nStory and Direction - Sourabh Shrivastava\nCinematographer - Prakash Kutty\nCostumes - Priyanka Mundada\nMusic and Background- Sohail Sen\nAction - Vikram Dahiya\nProduction Design - Uday Prakash Singh\nLyrics - Kumaar\nScreenplay and Dialogues - Sharad Tripathi and Amal Donwaar\nEditor - Nirav Soni\nExecutive Producer - Sudhirbhai Mishra\nLine Producer - Rishi Jha and Rajesh Khanna\nGeneral Manager Production - KL Chabbra\nCEO, Prakash Jha Productions- Sunil Agrawal\nVisual Promotions - Just Right Studioz\n\nSong Lyrics :\n\nCham Cham... Paijaniya\nCham Cham... Haye Paijaniya\nDekha Dekhi Dil Mera Judd Gaya Re\nLeke Pardesi Dil Udd Gaya Re\nAankhon Se Connection Judd Gaya Re\nLeke Pardesi Dil Udd Gaya Re\nTere Close Aake Teri Saanson Mein Samaau Raja\nTere Close Aake Teri Saanson Mein Samaau\nTeri Neende Chura Loon\n\nChamma Chamma Baaje Re Meri Paijaniya\nRe Chamma Chamma Baaje Re Meri Paijaniya\nChamma Chamma Baaje Re Meri Paijaniya\nRe Chamma Chamma Baaje Re Meri Paijaniya\nTeri Cham Cham Karti Paijaniya\nDesi Beat Pe Hilti Kamariya\nUss Par Tiki Hai Meri Nazariya\nMain Hoon Pyaasa Tu Hai Dariya\nTere Gol Gol Kaano Ke Jhumke\nEk Baat Bolo Jana Meri Sunke\nSau Mein Se Sau Maine Diye Tere Nakhre Ko\nAag Lagati Jab Mare Thumke\n\nHila Doon UP\nHila Doon MP\nHila Doon UP\nHila Doon MP\nJo Maaru Main Thumka\nTere Thumke Pe\nHaan Bambai Patna\nMain Haarun Calcutta\nTeri Patli Kamar Teri Tirchhi Nazar\nMujhko Bana Le Rani Apna Lover\nMeri Patli Kamar Meri Tirchhi Nazar\nMere Aage Piche Ghume Jaane Kitne Lover\nTere Hath Na Aani\n\nChamma Chamma Baaje Re Meri Paijaniya\nRe Chamma Chamma Baaje Re Meri Paijaniya\nOh Chamma Chamma Baaje Re Teri Paijaniya\nRe Chamma Chamma Baaje Re Teri Paijaniya\nCham Cham... Paijaniya\nCham Cham... Haye Paijaniya\n\n#ChammaChamma #NehaKakkar #TanishkBagchi #ElliAvrRam #FraudSaiyaan\n\nJoin Us On\nhttp://youtube.com/tipsofficial\nhttps://youtube.com/tipsfilms\nhttp://youtube.com/dilapnapunjabi\nhttp://youtube.com/jhankargaane\nhttp://youtube.com/volume\nhttp://youtube.com/bhaktiprem\nhttps://www.facebook.com/TipsMusic\nhttps://www.instagram.com/tips\nhttps://twitter.com/tipsofficial",
+        "title": "jai bajrangbali 1976",
+        "description": "enjoy the movie.jai shree Ram jai Bajrangbali",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/ci-NpErqrGM/default.jpg",
+            "url": "https://i.ytimg.com/vi/Hi9MYwyaL1U/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/ci-NpErqrGM/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Hi9MYwyaL1U/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/ci-NpErqrGM/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Hi9MYwyaL1U/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/ci-NpErqrGM/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/Hi9MYwyaL1U/sddefault.jpg",
             "width": 640,
             "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/ci-NpErqrGM/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
           }
         },
         "channelTitle": "look jonson",
-        "playlistId": "PLoqigP6fJi7N2Ws0dJTymgv2iQpfgFLhM",
+        "playlistId": "PLoqigP6fJi7ObQij63mXv5MgNsLHXKYLW",
         "position": 12,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "ci-NpErqrGM"
+          "videoId": "Hi9MYwyaL1U"
         }
       },
       "contentDetails": {
-        "videoId": "ci-NpErqrGM",
-        "videoPublishedAt": "2019-01-15T09:31:45.000Z"
+        "videoId": "Hi9MYwyaL1U",
+        "videoPublishedAt": "2018-08-12T04:04:17.000Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/Hz9KI-Rl7Fkr9NoDo9qqmNlHyQo\"",
-      "id": "UExvcWlnUDZmSmk3TjJXczBkSlR5bWd2MmlRcGZnRkxoTS4xMkVGQjNCMUM1N0RFNEUx",
+      "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/sMflbUSZmypHqcUhqCOfcLACezA\"",
+      "id": "UExvcWlnUDZmSmk3T2JRaWo2M21YdjVNZ05zTEhYS1lMVy40NzZCMERDMjVEN0RFRThB",
       "snippet": {
-        "publishedAt": "2019-02-02T03:04:42.000Z",
+        "publishedAt": "2019-06-08T15:13:19.000Z",
         "channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
-        "title": "Tera Ghata - Neha Kakkar",
-        "description": "Singer - Neha Kakkar\nMusic Produced by Aditya Dev\nShot by Prabhat Rajput\n\nOriginal song Composed, written and sung by Gajendra Verma\n\nMake Up: Ritika Vats\nHair: Moin Sabri\nStyled by: Styledose\nSari: RajiRamniq\nJewellery: Rimayu\n\nFacebook\nhttps://www.facebook.com/NehaKakkarOfficial\n\nTwitter\nhttps://twitter.com/iAmNehaKakkar\n\nInstagram\nhttps://www.instagram.com/nehakakkar\n\nSnapchat: nehakakkarsnap",
+        "title": "JAI MAA GANGE | जय माँ गंगे | माँ गंगा की पृथ्वी पर आने की सम्पूर्ण भक्ति फिल्म |",
+        "description": "#devotionalfilm  #ganga #maaganga #maashakti #bhaktimahima\n\nhttps://www.facebook.com/profile.php?id=100007927606751\n\nShakti\nCults of goddess worship are ancient in India. The branch of Hinduism that worships the goddess, known as Devi, is called Shaktism. Followers of Shaktism recognize Shakti as the power that underlies the male principle, and Devi is often depicted as Parvati the consort of Shiva or as Lakshmi the consort of Vishnu. She is also depicted in other guises, such as the fierce Kali or Durga. Shaktism is closely related with Tantric Hinduism, which teaches rituals and practices for purification of the mind and body.The Mother Goddess has many forms. Some are gentle, some are fierce. Shaktas use chants, real magic, holy diagrams, yoga and rituals to call forth cosmic forces\n\nSaiva\nSaivism is the Hindu sect that worships the god Shiva. Shiva is sometimes depicted as the fierce god Bhairava. Saivists are more attracted to asceticism than adherents of other Hindu sects, and may be found wandering India with ashen faces performing self-purification rituals. They worship in the temple and practice yoga, striving to be one with Siva within.\n\nVaishnava\nVaishnavism is the sect within Hinduism that worships Vishnu, the preserver god of the Hindu Trimurti ('three images', the Trinity), and his ten incarnations. It is a devotional sect, and followers worship many deities, including Ram and Krishna, both thought to be incarnations of Vishnu. The adherents of this sect are generally non-ascetic, monastic and devoted to meditative practice and ecstatic chanting.Vaishnavites are mainly dualistic. They are deeply devotional. Their religion is rich in saints, temples and scriptures.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/AmXRYGI9sRI/default.jpg",
+            "url": "https://i.ytimg.com/vi/mN7FYzVQRrw/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/AmXRYGI9sRI/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/mN7FYzVQRrw/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/AmXRYGI9sRI/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/mN7FYzVQRrw/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/AmXRYGI9sRI/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/mN7FYzVQRrw/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/AmXRYGI9sRI/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/mN7FYzVQRrw/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
         "channelTitle": "look jonson",
-        "playlistId": "PLoqigP6fJi7N2Ws0dJTymgv2iQpfgFLhM",
+        "playlistId": "PLoqigP6fJi7ObQij63mXv5MgNsLHXKYLW",
         "position": 13,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "AmXRYGI9sRI"
+          "videoId": "mN7FYzVQRrw"
         }
       },
       "contentDetails": {
-        "videoId": "AmXRYGI9sRI",
-        "videoPublishedAt": "2019-02-01T06:17:09.000Z"
+        "videoId": "mN7FYzVQRrw",
+        "videoPublishedAt": "2018-12-19T08:32:21.000Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/8dXBF-AU7-DCpBxo62oUsNIp5KQ\"",
-      "id": "UExvcWlnUDZmSmk3TjJXczBkSlR5bWd2MmlRcGZnRkxoTS4wOTA3OTZBNzVEMTUzOTMy",
+      "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/brxB9niDd7dHvLmB2JPflIMO01Y\"",
+      "id": "UExvcWlnUDZmSmk3T2JRaWo2M21YdjVNZ05zTEhYS1lMVy4yODlGNEE0NkRGMEEzMEQy",
       "snippet": {
-        "publishedAt": "2019-01-06T07:42:51.000Z",
+        "publishedAt": "2019-02-11T17:06:09.000Z",
         "channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
-        "title": "Thoda Aur Video Song I T-Series Acoustics | Neha Kakkar⁠⁠⁠⁠ | T-Series",
-        "description": "We present to you the T-Series Acoustic version of the latest Hindi romantic song \"Thoda Aur\" in the voice \"Neha Kakkar\".\n\nSong: Thoda Aur \nSinger: Neha Kakkar\nMusic: Jeet Ganguli\nLyrics: Manoj Muntashir \nMusic Programmed by Team AV\nMusic Supervisor: Parmita Mathur(TeamAV)\nMusic Programmer: \nSaurabh-Jay(TeamAV)\nGuitars: Shomu Seal \nSong Recorded at T series Recording Studio \nRecorded by Surajit Ghosh Mazumdar\nMix and Mastered by Dhron Galiyawala @Headroom studio\nSong Recorded at T-Series Recording Studio.\nRecorded by Surajit Ghosh Mazumdar.\n\nVideo credits:\nProduction House - Beyond Entertainment \nDirector - Prakhar Khemka\nDoP - Sanket Dolas\nAssociate - Sid Parmar\nStylist - Sid Parmar/Damini Das\nLine Producer - Rajnish Sen\nProduction Assistant - Alice Ekka\nEditor - Post Master Productions\n\nOriginal Music credits:\nSong:  Thoda Aur \nSingers: Arijit Singh & Palak Muchhal \nMusic: Jeet Gannguli \nLyrics: Manoj Muntashir \nMixed & Mastered by Pankaj Borah at Phatbox Studio \nMusic Label: T-Series \nMusic produced by Abhijit Vaghani \nCo-produced by: Pramod Timilsina \nGuitars: Shomu seal\n\nLyrics:\n \nKahaan yeh yaari thi\nTere milne se pehle\nMain yoon pagal kahaan thi\nTere milne se pehle\n\nChaloon main, rukoon main\nTere ishare pe\nZameen kahaan hoon\nMain hoon sitaron pe\n\nUdne do aaja mujhko thoda aur\nThoda aur, thoda aur\n\nZara si baat hai\nSamajhte kyon nahi\nTere bin main nahi\nMere bin tu nahi\nMere ho jao na suno, thoda aur\n\nChale aao paas mere thoda aur\nThoda aur, thoda aur\n\nZara si duriyan bhi\nNahi tumse gawara\nHaan aise pyaar hamko\nNahi hoga dobara\nJahan tum miloge\nJaana wahi tak hai\nHasi hai Nami hai\nJo hai tumhi tak hai\n\nBadhne do chaahtein ye\nThoda aur, thoda aur\nThoda aur..\nChale aao paas mere\nThoda aur, thoda aur\nThoda aur \n\nZara si baat hai\nSamajhte kyon nahi\nTere bin main nahi\nMere bin tu nahi\nMere ho jao na suno thoda aur\n\nChale aao paas mere\nThoda aur, thoda aur\nThoda aur \n\nChale aao paas mere\nThoda aur\n\n\n___\nEnjoy & stay connected with us!\n► Subscribe to T-Series: http://bit.ly/TSeriesYouTube\n► Like us on Facebook: https://www.facebook.com/tseriesmusic\n► Follow us on Twitter: https://twitter.com/tseries\n► Follow us on Instagram: http://bit.ly/InstagramTseries",
+        "title": "Ramayana: The Epic | Christmas Special Movie | Hindi Animated Movies For Kids | Wow Legends",
+        "description": "Ramayana: The Epic | Christmas Special Movie | Hindi Animated Movies For Kids | Wow Legends\n\nLord Rama, son of King Dashrath was sent into exile for 12 years. He was accompanied by his wife Sita and his brother Laxman, but she is deceitfully kidnapped by Ravana, The King of Lanka. Thus a might war takes place between Ram & Ravana. Later, Hanuman, a worshiper of ram, also joins him with his monkey warriors. Will Sita be saved by Ram? Watch this epic story to find out.\n\nCLICK - SUBSCRIBE, SHARE, LIKE.\n#WowKidzFilmFestival #RamayanaTheEpic #MoviesForKids #WowLegends\n\nFollow Wowkidz:\nBlog- http://wowkidztv.blogspot.in/\nFacebook- https://www.facebook.com/WowKidzTV/\nInstagram- https://www.instagram.com/wowkidztv/\nTwitter- https://twitter.com/WowKidzTv\n\nIf you read this then comment \"I am a Wow Kid\" :)\n\nSubscribe to our other channels:\nWOW KIDZ: https://goo.gl/1XxMQT\nWOWKIDZ RHYMES & SHOWS: https://goo.gl/xg7wnh\nWOWKIDZ COMEDY: https://goo.gl/HQtaCG\nWOWKIDZ ACTION: https://goo.gl/1cnYvc\nWOW CARTOONS: https://goo.gl/k48CzX  \nWOW LEGENDS: https://goo.gl/GjTgVy  \nWOW TEENZ: https://goo.gl/jAsQ3m\nWOW WORLD: https://goo.gl/xAZto6  \nWOWKIDZ FIRANGI: https://goo.gl/zKw3a1\nWOWKIDZ INDONESIA: https://goo.gl/dBPaJ8\nWOWKIDZ Español: https://goo.gl/Mx7PQD\nWOW TOONS: https://goo.gl/43AmBf\nWOW KIDZ MOVIES: https://goo.gl/HT5iQk\nWOW KIDZ FUN N LEARN: https://goo.gl/HHtHNV\nWOW KIDZ URDU: https://goo.gl/Gb1wLP\nWOW KIDZ JUNIOR: https://goo.gl/TdynY4\nWOW KIDZ VIETNAM: https://goo.gl/KuYjb6\nMOTU PATLU: https://goo.gl/9g53Ac\nCHACHA BHATIJA: https://goo.gl/N18LTt\nKISNA: https://goo.gl/Wb21mD",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/grOAxO1LcnA/default.jpg",
+            "url": "https://i.ytimg.com/vi/jbckdEVT5TU/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/grOAxO1LcnA/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/jbckdEVT5TU/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/grOAxO1LcnA/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/jbckdEVT5TU/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/grOAxO1LcnA/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/jbckdEVT5TU/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/grOAxO1LcnA/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/jbckdEVT5TU/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
         "channelTitle": "look jonson",
-        "playlistId": "PLoqigP6fJi7N2Ws0dJTymgv2iQpfgFLhM",
+        "playlistId": "PLoqigP6fJi7ObQij63mXv5MgNsLHXKYLW",
         "position": 14,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "grOAxO1LcnA"
+          "videoId": "jbckdEVT5TU"
         }
       },
       "contentDetails": {
-        "videoId": "grOAxO1LcnA",
-        "videoPublishedAt": "2017-10-07T09:37:22.000Z"
+        "videoId": "jbckdEVT5TU",
+        "videoPublishedAt": "2018-12-30T12:58:18.000Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/Gmlr29A4NIFBGWqewcq7ENP8K40\"",
-      "id": "UExvcWlnUDZmSmk3TjJXczBkSlR5bWd2MmlRcGZnRkxoTS41MjE1MkI0OTQ2QzJGNzNG",
+      "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/F_zpRSP_-DIjs3qyoKIKGXx13OU\"",
+      "id": "UExvcWlnUDZmSmk3T2JRaWo2M21YdjVNZ05zTEhYS1lMVy4yMDhBMkNBNjRDMjQxQTg1",
       "snippet": {
-        "publishedAt": "2019-01-06T07:42:41.000Z",
+        "publishedAt": "2019-09-25T02:07:44.000Z",
         "channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
-        "title": "La La La - Neha Kakkar ft. Arjun Kanungo | Bilal Saeed | Desi Music Factory",
-        "description": "Anshul Garg presents Desi Music Factory's Lalala sung by  Neha Kakkar ft. Arjun Kanungo, Composed and written by Bilal Saeed.\n\nBuy on iTunes - https://apple.co/2FUqpZg\nAvailable On : JioMusic http://bit.ly/2nI4MoD\n\nAvailable on Airtel Wynk Music : https://www.wynk.in/music/song/La-La-La/hu_33584502\n\nAvailable on Hungama Music: http://www.hungama.com/song/la-la-la/33584502/\n\nSinger - Neha Kakkar & Arjun Kanungo\nMusic - Bilal Saeed\nLyrics - Bilal Saeed\nMix and Master by Ali Mustafa\n\nDigital Marketing - Prateek Jain\nDistribution - Piyush Chandak\n\nProduction House: Chocolate Films \nDirector: Lakshya Raj Anand\nExecutive Producer: Richa Krishna Lal \n\nDOP : Joosep Jürrison \nEditor: Vishal Handa \n\nLine Production: Dillip  Sahoo, Flyking Entertainment\nProduction Manager: Animesh Jana & Prashant Pachauli    \n\n1st AD: Harsh \n2nd AD: Siddhant Sonthalia\nCostume Stylist for Arjun: Nidhi Ghambir\nCostume Stylist for Neha: Surbhi\nMakeup & Hair for Arjun: Bel Jane & Ram\nMakeup & Hair for Neha: Bel Jane\nOnline promotions by Skyra Infomedia\nEnglish translation - Pratigya Kumari\n\nFollow Neha Kakkar\nFacebook\nhttps://www.facebook.com/NehaKakkarOfficial/\n\nInstagram\nhttps://www.instagram.com/nehakakkar/\n\nTwitter\nhttps://twitter.com/iAmNehaKakkar\n\nFollow Arjun Kanungo\n\nFacebook\nhttps://www.facebook.com/arjunkanungo\n\nInstagram\nhttps://www.instagram.com/arjunkanungo\n\nTwitter\nhttps://twitter.com/arjun_kanungo\n\nAirtel Wynk Music \nhttps://www.wynk.in/music/song/La-La-La/hu_33584502\n\nHungama Music\nhttp://www.hungama.com/song/la-la-la/33584502/",
+        "title": "शिव - विवाह | फुल फिल्म | महा शिव रात्रि के शुभ अवसर पर जरूर देखे |",
+        "description": "#शिवरात्रि  #shivparvathi #lordshiva #mahashivratri\nDevotional Full Movie  - Shiv Vivah\nशिव - विवाह | फुल फिल्म | महा शिव रात्रि के शुभअवसर पर जरूर देखे |\n\nhttps://www.facebook.com/profile.php?id=100007927606751\n\nShakti\nCults of goddess worship are ancient in India. The branch of Hinduism that worships the goddess, known as Devi, is called Shaktism. Followers of Shaktism recognize Shakti as the power that underlies the male principle, and Devi is often depicted as Parvati the consort of Shiva or as Lakshmi the consort of Vishnu. She is also depicted in other guises, such as the fierce Kali or Durga. Shaktism is closely related with Tantric Hinduism, which teaches rituals and practices for purification of the mind and body.The Mother Goddess has many forms. Some are gentle, some are fierce. Shaktas use chants, real magic, holy diagrams, yoga and rituals to call forth cosmic forces\n\nSaiva\nSaivism is the Hindu sect that worships the god Shiva. Shiva is sometimes depicted as the fierce god Bhairava. Saivists are more attracted to asceticism than adherents of other Hindu sects, and may be found wandering India with ashen faces performing self-purification rituals. They worship in the temple and practice yoga, striving to be one with Siva within.\n\nVaishnava\nVaishnavism is the sect within Hinduism that worships Vishnu, the preserver god of the Hindu Trimurti ('three images', the Trinity), and his ten incarnations. It is a devotional sect, and followers worship many deities, including Ram and Krishna, both thought to be incarnations of Vishnu. The adherents of this sect are generally non-ascetic, monastic and devoted to meditative practice and ecstatic chanting.Vaishnavites are mainly dualistic. They are deeply devotional. Their religion is rich in saints, temples and scriptures.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/9sQkjMgFglY/default.jpg",
+            "url": "https://i.ytimg.com/vi/kAU3iEaPTKs/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/9sQkjMgFglY/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/kAU3iEaPTKs/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/9sQkjMgFglY/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/kAU3iEaPTKs/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/9sQkjMgFglY/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/kAU3iEaPTKs/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/9sQkjMgFglY/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/kAU3iEaPTKs/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
         "channelTitle": "look jonson",
-        "playlistId": "PLoqigP6fJi7N2Ws0dJTymgv2iQpfgFLhM",
+        "playlistId": "PLoqigP6fJi7ObQij63mXv5MgNsLHXKYLW",
         "position": 15,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "9sQkjMgFglY"
+          "videoId": "kAU3iEaPTKs"
         }
       },
       "contentDetails": {
-        "videoId": "9sQkjMgFglY",
-        "videoPublishedAt": "2018-02-07T07:30:58.000Z"
+        "videoId": "kAU3iEaPTKs",
+        "videoPublishedAt": "2019-02-18T12:27:00.000Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/w3YzafohsvDDoD2Zke5o0UB8zWo\"",
-      "id": "UExvcWlnUDZmSmk3TjJXczBkSlR5bWd2MmlRcGZnRkxoTS4wMTcyMDhGQUE4NTIzM0Y5",
+      "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/gjuoNOz01ugHFsNRoVvpLTNiX8w\"",
+      "id": "UExvcWlnUDZmSmk3T2JRaWo2M21YdjVNZ05zTEhYS1lMVy5DNzE1RjZEMUZCMjA0RDBB",
       "snippet": {
-        "publishedAt": "2019-01-06T04:53:35.000Z",
+        "publishedAt": "2020-01-12T04:38:57.000Z",
         "channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
-        "title": "Neha Kakkar Rain Mashup",
-        "description": "Website:\nhttp://www.nehakakkar.com\n\nFacebook\nhttps://www.facebook.com/NehaKakkarOfficial\n\nTwitter\nhttps://twitter.com/iAmNehaKakkar\n\nVideo Shot by Manas Khuman (www.facebook.com/themediatronic)",
+        "title": "Jai Jai Shiv Shankar Hindi Dubbed Full Length Movie || K.R. Vijaya, Rajesh || Eagle Hindi Movies",
+        "description": "Watch Jai Jai Shiv Shankar Hindi Dubbed Full Length Movie. Features K.R. Vijaya, Rajesh, Radha Ravi, Disco Shanti & Others. Produced by S.K. Gupta, Music by Dushyant Dubey.\n\nSubscribe to \"EAGLE HOME ENTERTAINMENT \" Channels \n\n►Eagle Hindi Movies - https://goo.gl/kzFGes\n►Eagle Music - https://goo.gl/lIKhwF\n►Eagle Comedy - https://goo.gl/6byHWQ\n►Eagle Bhojpuri Movies - https://goo.gl/J8yGyO\n►Eagle Learning - https://goo.gl/00NOQt\n►Eagle Health - https://goo.gl/uFUzdD",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/z8fMUTbRuZY/default.jpg",
+            "url": "https://i.ytimg.com/vi/3RrpCuFKvYM/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/z8fMUTbRuZY/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/3RrpCuFKvYM/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/z8fMUTbRuZY/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/3RrpCuFKvYM/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/z8fMUTbRuZY/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/3RrpCuFKvYM/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/z8fMUTbRuZY/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/3RrpCuFKvYM/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
         "channelTitle": "look jonson",
-        "playlistId": "PLoqigP6fJi7N2Ws0dJTymgv2iQpfgFLhM",
+        "playlistId": "PLoqigP6fJi7ObQij63mXv5MgNsLHXKYLW",
         "position": 16,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "z8fMUTbRuZY"
+          "videoId": "3RrpCuFKvYM"
         }
       },
       "contentDetails": {
-        "videoId": "z8fMUTbRuZY",
-        "videoPublishedAt": "2016-08-21T15:07:22.000Z"
+        "videoId": "3RrpCuFKvYM",
+        "videoPublishedAt": "2017-11-27T12:47:52.000Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/jZm3D5vBer6j7c1L74txPiVeQyc\"",
-      "id": "UExvcWlnUDZmSmk3TjJXczBkSlR5bWd2MmlRcGZnRkxoTS4yODlGNEE0NkRGMEEzMEQy",
+      "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/1JWIIG56kK1_4G2ilz2y4UWR2vE\"",
+      "id": "UExvcWlnUDZmSmk3T2JRaWo2M21YdjVNZ05zTEhYS1lMVy43MTI1NDIwOTMwQjIxMzNG",
       "snippet": {
-        "publishedAt": "2019-01-06T04:52:54.000Z",
+        "publishedAt": "2020-01-12T04:39:17.000Z",
         "channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
-        "title": "Best HINDI SONGS of NEHA KAKKAR | All NEW BOLLYWOOD SONGS 2016 (Video Jukebox) | T-Series",
-        "description": "Presenting BEST HINDI SONGS OF NEHA KAKKAR. All 2016 New BOLLYWOOD SONGS of Neha Kakkar from party tracks to wedding Songs from Bollywood Movies in one VIDEO JUKEBOX.\n►00:09 Johnny Ho Daffa\n►02:37 Humne Pee Rakhi Hai\n►05:29 Isaaq Mera\n►09:39 Dekhega Raja Trailer\n►11:44 Sunny Sunny (Yaariyaan)\n►15:37 Wedding Da Season Hai\n►19:11 1 2 3 4 Ek paheli leela\n►20:48 We will rock the world (Calender Girls)\n\nEnjoy and stay connected with us!!\n\nSubscribe to T-Series Channel for unlimited entertainment\nhttp://www.youtube.com/user/tseries?sub_confirmation=1\n\n\n\n\nLike us on Facebook\nhttp://www.facebook.com/tseriesmusic\n\nFollow us on\nhttp://www.twitter.com/tseries\n\nFollow us on\nhttp://www.instagram.com/tseries.official\n\n\n\n----------------------------------------------",
+        "title": "Har Har Mahadev (1974) Full Hindi Movie | Dara Singh, Jayshree Gadkar, Padma Khanna",
+        "description": "Lord Shiva is impressed with Ravana's devotion and empowers him to be the most powerful human being. Things take a turn when Ravana decides to lift a mountain in a bid to prove his prowess.\n\nMovie:- Har Har Mahadev (1974)\nStarcast:- Dara Singh, Jayshree Gadkar, Padma Khanna \nDirected & Produced by:- Chandrakant\nMusic by:- Kalyanji-Anandji\n---------------------------------------------------------------------\nEnjoy and stay connected with us!!\n\nSubscribe to Goldmines Hindi:- \nhttps://goo.gl/97SvE2\n---------------------------------------------------------------------",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/TBuBeFK7AMI/default.jpg",
+            "url": "https://i.ytimg.com/vi/tXn5YUJXMz8/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/TBuBeFK7AMI/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/tXn5YUJXMz8/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/TBuBeFK7AMI/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/tXn5YUJXMz8/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/TBuBeFK7AMI/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/tXn5YUJXMz8/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/TBuBeFK7AMI/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/tXn5YUJXMz8/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
         "channelTitle": "look jonson",
-        "playlistId": "PLoqigP6fJi7N2Ws0dJTymgv2iQpfgFLhM",
+        "playlistId": "PLoqigP6fJi7ObQij63mXv5MgNsLHXKYLW",
         "position": 17,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "TBuBeFK7AMI"
+          "videoId": "tXn5YUJXMz8"
         }
       },
       "contentDetails": {
-        "videoId": "TBuBeFK7AMI",
-        "videoPublishedAt": "2016-01-31T10:30:00.000Z"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/a6pLlCU3n9KOe4MDY-jWzoQme5k\"",
-      "id": "UExvcWlnUDZmSmk3TjJXczBkSlR5bWd2MmlRcGZnRkxoTS41NkI0NEY2RDEwNTU3Q0M2",
-      "snippet": {
-        "publishedAt": "2019-01-06T04:52:44.000Z",
-        "channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
-        "title": "Neha Kakkar Live Concert in Dehradun 2018",
-        "description": "Best Ever Performance of Neha Kakkar",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/rVPUzMpa5CM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/rVPUzMpa5CM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/rVPUzMpa5CM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/rVPUzMpa5CM/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/rVPUzMpa5CM/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "look jonson",
-        "playlistId": "PLoqigP6fJi7N2Ws0dJTymgv2iQpfgFLhM",
-        "position": 18,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "rVPUzMpa5CM"
-        }
-      },
-      "contentDetails": {
-        "videoId": "rVPUzMpa5CM",
-        "videoPublishedAt": "2018-04-13T08:33:33.000Z"
+        "videoId": "tXn5YUJXMz8",
+        "videoPublishedAt": "2019-05-31T14:30:02.000Z"
       }
     }
   ]
