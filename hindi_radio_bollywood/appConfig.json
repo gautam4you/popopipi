@@ -17,10 +17,24 @@
 			"moreButton": true
 		},
 		{
-			"videosListId": "hindi_radio_bollywood/neha_banner.json",
+			"videosListId": "ramayana.json",
 			"type": "YP",
 			"extraLink": "",
-			"title": "Recents2",
+			"title": "Ramayana",
+			"moreButton": true
+		},
+			{
+			"videosListId": "jai_ganga_maiya.json",
+			"type": "YP",
+			"extraLink": "",
+			"title": "Jai Ganga Maiya",
+			"moreButton": true
+		},
+			{
+			"videosListId": "jaishree.json",
+			"type": "YP",
+			"extraLink": "",
+			"title": "Jai Shree Krishna",
 			"moreButton": true
 		}
 	],
