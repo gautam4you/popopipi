@@ -10,59 +10,17 @@
 	"ytKey": "AIzaSyCg3WitBUQl5ifC2QygQaZUPOSRMKfSD5E",
 	"GridSize": 2,
 	"HomeVideosList": [{
-			"videosListId": "PLpeT3TZU-3DQzVS5agXAeP5QInz6O2xUQ",
+			"videosListId": "https://raw.githubusercontent.com/gautam4you/popopipi/master/CurrentProject/neha_banner.json",
 			"type": "YP",
 			"extraLink": "",
 			"title": "Breaking",
 			"moreButton": true
 		},
 		{
-			"videosListId": "PLqq-6Pq4lTTZh5U8RbdXq0WaYvZBz2rbn",
+			"videosListId": "https://raw.githubusercontent.com/gautam4you/popopipi/master/CurrentProject/neha_banner.json",
 			"type": "YP",
 			"extraLink": "",
 			"title": "Recents2",
-			"moreButton": true
-		},
-		{
-			"videosListId": "UCjXfkj5iapKHJrhYfAF9ZGg",
-			"type": "EXT",
-			"extraLink": "EpisodeSerial.json",
-			"title": "Hindi Serial",
-			"moreButton": true
-		},
-		{
-			"videosListId": "PLgXFWqXsY3qzGSW5Vq8MQ-GpVDvfGdOtc",
-			"type": "YP",
-			"extraLink": "",
-			"title": "Recents3",
-			"moreButton": true
-		},
-		{
-			"videosListId": "PLSHGh2u-pOIswXZORDItFWjFtnQKxKLgk",
-			"type": "YP",
-			"extraLink": "",
-			"title": "Recents4",
-			"moreButton": true
-		},
-		{
-			"videosListId": "PLFgquLnL59alCl_2TQvOiD5Vgm1hCaGSI",
-			"type": "YP",
-			"extraLink": "",
-			"title": "Recents5",
-			"moreButton": true
-		},
-		{
-			"videosListId": "UCjXfkj5iapKHJrhYfAF9ZGg",
-			"type": "C",
-			"extraLink": "",
-			"title": "Movies",
-			"moreButton": true
-		},
-		{
-			"videosListId": "",
-			"type": "C",
-			"extraLink": "http://google.com",
-			"title": "Breaking",
 			"moreButton": true
 		}
 	],
