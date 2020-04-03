@@ -10,14 +10,14 @@
 	"ytKey": "AIzaSyCg3WitBUQl5ifC2QygQaZUPOSRMKfSD5E",
 	"GridSize": 2,
 	"HomeVideosList": [{
-			"videosListId": "https://raw.githubusercontent.com/gautam4you/popopipi/master/CurrentProject/neha_banner.json",
+			"videosListId": "neha_banner.json",
 			"type": "YP",
 			"extraLink": "",
 			"title": "Breaking",
 			"moreButton": true
 		},
 		{
-			"videosListId": "https://raw.githubusercontent.com/gautam4you/popopipi/master/CurrentProject/neha_banner.json",
+			"videosListId": "neha_banner.json",
 			"type": "YP",
 			"extraLink": "",
 			"title": "Recents2",
