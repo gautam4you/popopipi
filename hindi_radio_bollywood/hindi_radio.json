@@ -1,6 +1,15 @@
 {
 	"active": true,
 	"RadioList":[
+		{
+		"name": "CMR Hindi Urdu",
+		"name_h": "4KS44KWA4KSP4KSu4KSG4KSwIOCkueCkv+CkguCkpuClgCDgpIngpLDgpY3gpKbgpYI=",
+		"url": "http://live.cmr24.net:8081/CMR/Desi_Music-MQ/icecast.audio",
+		"samplerate": "",
+		"cat": "Hindi",
+		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/logo200.jpg",
+		"pub": "05-10-2018"
+	},
        {
     "name": "2B! Radio Sangam Shri Ram",
     "name_h": "MiDgpKzgpYAhIOCksOClh+CkoeCkv+Ckr+CliyDgpLjgpILgpJfgpK4g4KS24KWN4KSw4KWAIOCksOCkvuCkrg==",
