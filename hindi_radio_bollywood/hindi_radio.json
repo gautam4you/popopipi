@@ -231,7 +231,7 @@
 		"name_h": "QUlSIEFsbW9yYQ==",
 		"url": "https://airlsmp8-lh.akamaihd.net/i/AIRLSMP170_1@358837/master.m3u8",
 		"samplerate": "",
-		"cat": "Hindi",
+		"cat": "Radio AIR",
 		"image": "http://shortfilmsite.com/images/air.jpg",
 		"pub": "12-01-2020"
 	},
@@ -240,7 +240,7 @@
 		"name_h": "QUlSIFBhdG5h",
 		"url": "http://nondelhi-lh.akamaihd.net/i/airpatna_1@832724/master.m3u8",
 		"samplerate": "",
-		"cat": "Hindi",
+		"cat": "Radio AIR",
 		"image": "http://shortfilmsite.com/images/air.jpg",
 		"pub": "12-01-2020"
 	},
@@ -249,7 +249,7 @@
 		"name_h": "4KSP4KSv4KSwIOCkj+Ckq+Ckj+CkriDgpIfgpILgpKbgpY3gpLDgpKfgpKjgpYHgpLc=",
 		"url": "http://fmrainbow-lh.akamaihd.net/i/fmrainbow_1@507812/master.m3u8",
 		"samplerate": "44100",
-		"cat": "Hindi",
+		"cat": "Radio AIR",
 		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAMkMIejbgnU381rRcAflWgqhEeVV3MRAfKg2RHwc-BK71j0ZN",
 		"pub": "09-09-2018"
 	},
@@ -258,7 +258,7 @@
 		"name_h": "4KSP4KSv4KSwIOCkl+ClgeCknOCksOCkvuCkpOClgA==",
 		"url": "http://airgujarati-lh.akamaihd.net/i/airgujarati_1@507814/index_1_a-p.m3u8",
 		"samplerate": "44100",
-		"cat": "Hindi,Bollywood",
+		"cat": "Radio AIR",
 		"image": "https://onlineradiofm.in/assets/image/radio/180/airgujarati.jpg",
 		"pub": "27-09-2018"
 	},
@@ -267,6 +267,7 @@
 		"name_h": "4KSP4KSv4KSwIOCkteCkv+CktiDgpK3gpL7gpLDgpKTgpYA=",
 		"url": "http://vividhbharati-lh.akamaihd.net/i/vividhbharati_1@507811/index_1_a-p.m3u8",
 		"samplerate": "44100",
+		"cat": "Radio AIR",
 		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/vividh.png"
 
 	},
@@ -275,6 +276,7 @@
 		"name_h": "4KSP4KSv4KSwIOCkj+Ckq+Ckj+CkriDgpJfgpYvgpLLgpY3gpKE=",
 		"url": "http://airfmgold-lh.akamaihd.net/i/fmgold_1@507591/index_1_a-p.m3u8",
 		"samplerate": "44100",
+		"cat": "Radio AIR",
 		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/fmgold.jpeg"
 
 	}
