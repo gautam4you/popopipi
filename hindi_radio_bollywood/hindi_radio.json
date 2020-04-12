@@ -207,6 +207,76 @@
 		"cat": "bollywood",
 		"image": "https://radiosindia.com/images/bestofghazals.jpg",
 		"pub": "28-06-2019"
+	},
+		{
+		"name": "Radio Adda",
+		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIEFkZGE=",
+		"url": "http://adda.riggrodigital.com:8160/stream",
+		"samplerate": "",
+		"cat": "bollywood",
+		"image": "http://shortfilmsite.com/images/radioadda.jpg",
+		"pub": "11-04-2020"
+	},
+		{
+		"name": "All India Radio AIR Sasaram",
+		"name_h": "4KSR4KSyIOCkh+CkguCkoeCkv+Ckr+CkviDgpLDgpYfgpKHgpL/gpK/gpYsg4KSG4KSV4KS+4KS24KS14KS+4KSj4KWAIOCkuOCkvuCkuOCkvuCksOCkvuCkrg==",
+		"url": "http://51.15.208.163:8081/radio/AIRLSMP072_1/icecast.audio",
+		"samplerate": "",
+		"cat": "Radio AIR",
+		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/airsasaram.jpg",
+		"pub": "01-04-2020"
+	},
+		{
+		"name": "AIR Almora",
+		"name_h": "QUlSIEFsbW9yYQ==",
+		"url": "https://airlsmp8-lh.akamaihd.net/i/AIRLSMP170_1@358837/master.m3u8",
+		"samplerate": "",
+		"cat": "Hindi",
+		"image": "http://shortfilmsite.com/images/air.jpg",
+		"pub": "12-01-2020"
+	},
+		{
+		"name": "AIR Patna",
+		"name_h": "QUlSIFBhdG5h",
+		"url": "http://nondelhi-lh.akamaihd.net/i/airpatna_1@832724/master.m3u8",
+		"samplerate": "",
+		"cat": "Hindi",
+		"image": "http://shortfilmsite.com/images/air.jpg",
+		"pub": "12-01-2020"
+	},
+		{
+		"name": "AIR FM Rainbow",
+		"name_h": "4KSP4KSv4KSwIOCkj+Ckq+Ckj+CkriDgpIfgpILgpKbgpY3gpLDgpKfgpKjgpYHgpLc=",
+		"url": "http://fmrainbow-lh.akamaihd.net/i/fmrainbow_1@507812/master.m3u8",
+		"samplerate": "44100",
+		"cat": "Hindi",
+		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAMkMIejbgnU381rRcAflWgqhEeVV3MRAfKg2RHwc-BK71j0ZN",
+		"pub": "09-09-2018"
+	},
+		{
+		"name": "AIR Gujarati",
+		"name_h": "4KSP4KSv4KSwIOCkl+ClgeCknOCksOCkvuCkpOClgA==",
+		"url": "http://airgujarati-lh.akamaihd.net/i/airgujarati_1@507814/index_1_a-p.m3u8",
+		"samplerate": "44100",
+		"cat": "Hindi,Bollywood",
+		"image": "https://onlineradiofm.in/assets/image/radio/180/airgujarati.jpg",
+		"pub": "27-09-2018"
+	},
+		{
+		"name": "Air Vividh Bharati",
+		"name_h": "4KSP4KSv4KSwIOCkteCkv+CktiDgpK3gpL7gpLDgpKTgpYA=",
+		"url": "http://vividhbharati-lh.akamaihd.net/i/vividhbharati_1@507811/index_1_a-p.m3u8",
+		"samplerate": "44100",
+		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/vividh.png"
+
+	},
+	{
+		"name": "Air FM GOLD",
+		"name_h": "4KSP4KSv4KSwIOCkj+Ckq+Ckj+CkriDgpJfgpYvgpLLgpY3gpKE=",
+		"url": "http://airfmgold-lh.akamaihd.net/i/fmgold_1@507591/index_1_a-p.m3u8",
+		"samplerate": "44100",
+		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/fmgold.jpeg"
+
 	}
 ]
 }
