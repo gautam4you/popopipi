@@ -1,0 +1,1923 @@
+// 20200418120609
+// https://www.googleapis.com/youtube/v3/playlistItems?part=id,contentDetails,snippet&maxResults=50&playlistId=PLNz4YQwT4-GLUJlakAHxNmhaDPjtYfCUd&key=AIzaSyATjnGM3cOyLdrTdFtmQLS-XO0ywJjcCnI
+
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ZK2lcTVKEXrDZ3n6CHtvBJi9njk\"",
+  "pageInfo": {
+    "totalResults": 30,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/txJmrLPPXa1tcntKUa6nqfqFUF0\"",
+      "id": "UExOejRZUXdUNC1HTFVKbGFrQUh4Tm1oYURQanRZZkNVZC41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2020-01-08T09:41:46.000Z",
+        "channelId": "UC22nIfOTM7KLIQuFGMKzQbg",
+        "title": "NIRAHUA HINDUSTANI 2 - Superhit Full Bhojpuri Movie 2020 - Dinesh Lal Yadav \"Nirahua\" , Aamrapali",
+        "description": "#Video #bhojpurisong #wavemusic\nSubscribe Now:- http://goo.gl/ip2lbk\n____________________________________________________________________________________________________________________________________\n♪ Now Available on ♪ \nGaana : https://gaana.com/album/nirahua-hindustani-2\nHungama : http://www.hungama.com/album/nirahua-hindustani-2/26354635/\nSaavn :  https://www.saavn.com/s/album/bhojpuri/Nirahua-Hindustani-2-2017/YX,HtC-Unrg_\nWynk Music :  https://wynk.in/music/album/Nirahua-Hindustani-2/hu_26354635\niTunes : https://itunes.apple.com/in/album/nirahua-hindustani-2-original-motion-picture-soundtrack/1318079581?app=itunes&ign-mpt=uo%3D4\n____________________________________________________________________________________________________________________________________\nDownload Wave Music official app from Google Play Store - https://goo.gl/GyvICs\n\nIf you like Bhojpuri song, Bhojpuri full film and bhojpuri movie songs, Subscribe Now:- http://goo.gl/ip2lbk\n\nVisit our website to download our songs and videos: http://www.bhojpuriwave.com\n\nLike Us On Facebook - https://www.facebook.com/wavemusicofficial/\n\nFilm :- Nirahua Hindustani 2\nStar Cast :- Dinesh Lal Yadav , Aamrapali Dubey, Sanchita Banerjee\nWriter :- Manjul Thakur, Gautam Sinha & Arbind Tiwari.\nLyrics :- Pyare Lal Yadav, Shyam Dehati, Azad Singh & Santosh Puri.\nMusic Director :- Chhote Baba & Madhukar Anand.\nDirector :- Manjul Thakur\nProducer :- Rahul Khan\nDance Director :- Kanu Mukharji\nAction :- Andlib Pathan    \nBaner :- Nirahua Entertainment Pvt. Ltd. Present.\nCompany/Label :- Wave Music -------------\nDigital Managed by – Lokdhun\n(Contact -9718776677)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CzC2vkPUvVA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CzC2vkPUvVA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CzC2vkPUvVA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CzC2vkPUvVA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CzC2vkPUvVA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Wave Music",
+        "playlistId": "PLNz4YQwT4-GLUJlakAHxNmhaDPjtYfCUd",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CzC2vkPUvVA"
+        }
+      },
+      "contentDetails": {
+        "videoId": "CzC2vkPUvVA",
+        "videoPublishedAt": "2017-11-26T04:30:00.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/pffbM-l0oPK8XR-5RzO8rJ1hScg\"",
+      "id": "UExOejRZUXdUNC1HTFVKbGFrQUh4Tm1oYURQanRZZkNVZC5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2020-01-08T09:43:05.000Z",
+        "channelId": "UC22nIfOTM7KLIQuFGMKzQbg",
+        "title": "Crack Fighter - क्रेक फाईटर | Pawan Singh, Sanchita, Nidhi Jha | Superhit Bhojpuri Movie 2019",
+        "description": "#Video #bhojpurisong #wavemusic\nSubscribe Now:- http://goo.gl/ip2lbk\n\n\nDownload Wave Music official app from Google Play Store - https://goo.gl/GyvICs\n\nIf you like Bhojpuri song, Bhojpuri full film and bhojpuri movie songs, Subscribe Now:- http://goo.gl/ip2lbk\n\nVisit our website to download our songs and videos: http://www.bhojpuriwave.com\n\nLike Us On Facebook - https://www.facebook.com/wavemusicofficial/\n\n\nMovie  :- Crack Fighter\nStar Cast :- Pawan Singh, Sanchita Benarji, Nidhi Jha, Chandani Singh, Pradeep Rawat & Other\nWriter :- Sumit SIngh Chandravanshi, Vinay Nirmal, R R Pankaj & Jahid Akhtar.\nMusic Director :- Chhote Baba\nStory & Dialog :- Viru Thakur \nAction :- L Malesh\nEditor :- Deepak Jaul\nDOP :- Vanket Mahesh\nChoreographer :- Kanu Mikhajee And Sanjay Korbe.\nProducer :- Upendra SIngh\nExcutive Producer :- Lokesh Mishra\nDirector :- Sujeet Kumar Singh\nCompany/ Label :- Wave\nDigital Managed by – Lokdhun\n(Contact - 9718776677)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JdTUTN2ZDN0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JdTUTN2ZDN0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JdTUTN2ZDN0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JdTUTN2ZDN0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JdTUTN2ZDN0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Wave Music",
+        "playlistId": "PLNz4YQwT4-GLUJlakAHxNmhaDPjtYfCUd",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JdTUTN2ZDN0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "JdTUTN2ZDN0",
+        "videoPublishedAt": "2019-10-20T01:00:00.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/n3wXjMtGPy6-AuONQg8FKe7snVA\"",
+      "id": "UExOejRZUXdUNC1HTFVKbGFrQUh4Tm1oYURQanRZZkNVZC5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2020-01-08T09:51:17.000Z",
+        "channelId": "UC22nIfOTM7KLIQuFGMKzQbg",
+        "title": "Raja Jani - राजा जानी | Khesari Lal Yadav, Priti Biswas | Bhojpuri Full Movie 2018 | Bhojpuri Film",
+        "description": "#Video #bhojpurisong #wavemusic\n#RajaJaniMovie #KhesariLalFilm #RajaJani2018\n\nSubscribe Now:- http://goo.gl/ip2lbk\n\n♪ Now Available on ♪ \nHungama :  http://www.hungama.com/album/raja-jani/37339263/\nWynk Music : https://wynk.in/music/album/raja-jani/hu_37339263?page=0\nGaana :  https://gaana.com/album/raja-jani-bhojpuri\nSaavn :  https://www.saavn.com/album/raja-jani/PHKH1rKvp4A_\niTunes :  https://itunes.apple.com/in/album/raja-jani/1411358039?app=itunes&ign-mpt=uo%3D4\n\n\nDownload Wave Music official app from Google Play Store - https://goo.gl/GyvICs\n\nIf you like Bhojpuri song, Bhojpuri full film and bhojpuri movie songs, Subscribe Now:- http://goo.gl/ip2lbk\n\nVisit our website to download our songs and videos: http://www.bhojpuriwave.com\n\nLike Us On Facebook - https://www.facebook.com/wavemusicofficial/\n\nFilm :- Raja Jani\nStar Cast :- Khesari Lal Yadav, Priti Biswas, Deboshmita, Anand Mohan, Gopal Roy, Sanjay Mahanand, Nilam & Dev Singh\nWriter :- Manoj Kushwaha\nLyrics :- Pyare Lal, Azad Singh, Shyam Dehati\nMusic Director :- Dhanjay Mishra\nDirector :- Lal Babu Pandit\nProducer :- Surendra Prasad\nDOP :- Rana Das Gupta\nDance Master :- Kanu Mukharjee\nAction :- Satish\nBaner :- Prakriti Films\nMarketing :- Vijay Yadav\nCompany/Label :- Wave Music -------------\nDigital Managed by – Lokdhun\n(Contact -9718776677)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ygadvscWCd0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ygadvscWCd0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ygadvscWCd0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ygadvscWCd0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ygadvscWCd0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Wave Music",
+        "playlistId": "PLNz4YQwT4-GLUJlakAHxNmhaDPjtYfCUd",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ygadvscWCd0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "ygadvscWCd0",
+        "videoPublishedAt": "2018-11-25T03:30:00.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/XBPeWd6-5x8120Gff5gcSp_nXOo\"",
+      "id": "UExOejRZUXdUNC1HTFVKbGFrQUh4Tm1oYURQanRZZkNVZC4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2020-01-08T09:42:21.000Z",
+        "channelId": "UC22nIfOTM7KLIQuFGMKzQbg",
+        "title": "Muqaddar - Superhit Bhojpuri Full Movie 2018 - Khesari Lal Yadav, Kajal Raghwani - Full Film",
+        "description": "#Video #bhojpurisong #wavemusic\nMuqaddar - Superhit Bhojpuri Full Movie 2018 - Khesari Lal Yadav, Kajal Raghwani - Full Film\n\nSubscribe Now:- http://goo.gl/ip2lbk\n_______________________________________________________________________________________________\n♪ Now Available on ♪ \nGaana : https://gaana.com/album/muqaddar-bhojpuri\nWynk Music : https://wynk.in/music/album/Muqaddar/hu_32358025\nHungama : http://www.hungama.com/album/muqaddar/32358025/\niTunes : https://itunes.apple.com/in/album/muqaddar-original-motion-picture-soundtrack/1321486750?app=itunes&ign-mpt=uo%3D4\n_______________________________________________________________________________________________\nDownload Wave Music official app from Google Play Store - https://goo.gl/GyvICs\n\nIf you like Bhojpuri song, Bhojpuri full film and bhojpuri movie songs, Subscribe Now:- http://goo.gl/ip2lbk\n\nVisit our website to download our songs and videos: http://www.bhojpuriwave.com\n\nLike Us On Facebook - https://www.facebook.com/wavemusicofficial/\nFilm :- Muqaddar\nStar Cast :- Khesari Lal Yadav, Kajal Raghwani, Shameem Khan, Ayaz Khan & others.\nWriter :- Shekhar Sharma.\nLyrics :- Kavi Pyare Lal Yadav, Azad Singh.\nMusic Director :- Madhukar Anand.\nDirector :- Shekhar Sharma\nProducer :- Wasim S. Khan\nAction :- Kaushal Moses\nBaner :- Shalimar Production Ltd & S.k Films Entertaiment Presents.\nCompany/Label :- Wave Music -------------\nDigital Managed by – Lokdhun\n(Contact -9718776677)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nX_FEC2J0FU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nX_FEC2J0FU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nX_FEC2J0FU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nX_FEC2J0FU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nX_FEC2J0FU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Wave Music",
+        "playlistId": "PLNz4YQwT4-GLUJlakAHxNmhaDPjtYfCUd",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nX_FEC2J0FU"
+        }
+      },
+      "contentDetails": {
+        "videoId": "nX_FEC2J0FU",
+        "videoPublishedAt": "2018-03-03T04:30:00.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/jcdK9e9Q89LAxrJIZTt9Ebd58rc\"",
+      "id": "UExOejRZUXdUNC1HTFVKbGFrQUh4Tm1oYURQanRZZkNVZC4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2020-01-08T09:41:54.000Z",
+        "channelId": "UC22nIfOTM7KLIQuFGMKzQbg",
+        "title": "Dilwala - Superhit Full Bhojpuri Movie - Khesari Lal, Akshara Singh | Bhojpuri Full Film 2020",
+        "description": "#Video #bhojpurisong #wavemusic\nSubscribe Now:- http://goo.gl/ip2lbk\n\n♪ Now Available on ♪ \nGaana : https://gaana.com/album/dilwala-bhojpuri\n\nFilm Name – Dilwala\nStar cast – Khesari Lal Yadav, Akshra Singh, Sanjay Pandey Etc .\nSingers – Khesari Lal Yadav, Indu Sonali, Priyanka Singh Etc.\nMusic director – Avinash Jha \"Ghunghru Jee\"\nSong lyrics – Pyare Lal Yadav, Azad Singh, Shyam Dehati.\nFilm writer – Nanhe Pandey\nBanner –  Kiran Pictures House Presents \nProducer – Guddu J. Paal.\nDirector – Satish Jain.\nCompany/Label  – Wave Music \nCopyrights – Vee Gee Audio\n_________________________________________________________________\nइस गाने को अपनी कॉलर टयून बनाये\nOperator Codes:\n1. Bhatarkatani\nVodafone Subscribers Dial : 5377899501\nAirtel Subscribers Dial : 5432115452842\nIdea Subscribers Dial : 567897899501\nTata DoCoMo Subscribers dial : 5432117899501\nBSNL (South / East) Subscribers sms BT 7899501 To 56700\nBSNL (North / West) Subscribers sms BT 6066361 To 56700\n\nbhojpuri gana,\nbhojpuri movie,\nbhojpuri video,\nbhojpuri film,\nbhojpuri picture,\nbhojpuri gana video,\nbhojpuri album,\nbhojpuri all song,\nbhojpuri audio,\nbhojpuri old song,\nbhojpuri audio song,\nbhojpuri album gana\n\n\n\nDigital Managed by – Lokdhun\n(Contact -9718776677)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kw3WBV7euTU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kw3WBV7euTU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kw3WBV7euTU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kw3WBV7euTU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kw3WBV7euTU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Wave Music",
+        "playlistId": "PLNz4YQwT4-GLUJlakAHxNmhaDPjtYfCUd",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kw3WBV7euTU"
+        }
+      },
+      "contentDetails": {
+        "videoId": "kw3WBV7euTU",
+        "videoPublishedAt": "2017-10-29T03:30:01.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/m73ofJb8hBgRFVV6NQVKtqLC7S8\"",
+      "id": "UExOejRZUXdUNC1HTFVKbGFrQUh4Tm1oYURQanRZZkNVZC4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2020-01-08T09:42:01.000Z",
+        "channelId": "UC22nIfOTM7KLIQuFGMKzQbg",
+        "title": "Raja Babu - राजा बाबू - Dinesh Lal Yadav \"Nirahua\", Amrapali - Superhit Full Bhojpuri Movie",
+        "description": "#Video #bhojpurisong #wavemusic\nSubscribe Now:- http://goo.gl/ip2lbka\nRaja Babu | Super Hit Full Bhojpuri Movie 2016 | Dinesh Lal Yadav \"Nirahua\", Amrapali\n\nAll Songs Now Available on\nGaana  :  https://gaana.com/album/raja-babu-bhojpuri-2\nHungama :  http://www.hungama.com/album/raja-babu/16695242/\nSaavn :  https://www.saavn.com/s/album/bhojpuri/Raja-Babu-2015/,nQgwG8uaYo_\nWynk Music : https://wynk.in/music/album/Raja-Babu/hu_16695242\niTunes :  https://itunes.apple.com/in/album/raja-babu-original-motion-picture-soundtrack/1440111677?app=itunes&ign-mpt=uo%3D4\n\nFilm Name – Raja Babu\nStar cast – Star Cast : Dinesh Lal Yadav \"Nirahua\", Amrapali Dubey, Monalisa, Seema Singh Etc.\nSingers – Kalpna, Dinesh Lal Yadav, Alok Kumar.\nMusic director – Chote Baba\nSong lyrics – Pyare Lal Yadav,sachitanand, Azad Singh ETC.\nFilm writer – Manjul Thakur.\nBanner –  Saurya Entertainment\nProducer – Anjana Akhilesh.\nDirector – Manjul Thakur.\nCompany/Label  – Wave Music\n \nCast\nDinesh Lal Yadav Nirahua\nAmrapali Dubey\nMonalisa\nSeema Singh\n\nDigital Managed by – Lokdhun\n(Contact -9718776677)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7jBx7F6IsFg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7jBx7F6IsFg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7jBx7F6IsFg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7jBx7F6IsFg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7jBx7F6IsFg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Wave Music",
+        "playlistId": "PLNz4YQwT4-GLUJlakAHxNmhaDPjtYfCUd",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7jBx7F6IsFg"
+        }
+      },
+      "contentDetails": {
+        "videoId": "7jBx7F6IsFg",
+        "videoPublishedAt": "2015-12-27T06:51:33.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/mYWDuoNk3Vi8MRUNX0j2pf4euHY\"",
+      "id": "UExOejRZUXdUNC1HTFVKbGFrQUh4Tm1oYURQanRZZkNVZC41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2020-01-08T09:42:07.000Z",
+        "channelId": "UC22nIfOTM7KLIQuFGMKzQbg",
+        "title": "Pradeep R Pandey \"Chintu\" - Mohabbat - Superhit Full Bhojpuri Movie 2020 - Bhojpuri Full Film 2020",
+        "description": "#Video #bhojpurisong #wavemusic\nSubscribe Now:- http://goo.gl/ip2lbk\n---------------------------------------------------------------------------------------------------------------------------------------------------\n♪ Now Available on ♪ \nGaana : https://gaana.com/album/mohabbat-bhojpuri-2017\nHungama : http://www.hungama.com/album/mohabbat-2017/24278557/\nSaavn : https://www.saavn.com/s/album/bhojpuri/Mohabbat-2017/eLbQXoIaxQE_\nWynk Music : https://wynk.in/music/album/Mohabbat-(2017)/hu_24278557\niTunes : https://itunes.apple.com/in/album/mohabbat-original-motion-picture-soundtrack/1318079454?app=itunes&ign-mpt=uo%3D4\n____________________________________________________________________________________________\n\nIf you like Bhojpuri song, , Bhojpuri full film and bhojpuri movie songs, subscribe our channel. Subscribe Now:- http://goo.gl/ip2lbk\n\nFilm Name – Mohabbat\nStar cast – Pradeep R. Pandey Chintu\nMusic director – Avinash Jha (Ghungharu)\nSong lyrics – Payare Lal Yadav, Azad Singh & Shyam Dehati\nStory – Maya Yadav\nChoreographer - Kanu Mukherji & Ram Devan\nArt - Nazir Sheikh\nAction - Baji Rao\nScreenplay, Dialogue - Lalji Yadav\nCinemaatography - Pramodh Pandey \nEditor - Jeetendra Singh (Jeetu)\nBanner – Krishna Deep Entertainment & Laxmi Movies Entertainment\nVisual Promotion - Vikash Pawar\nD.I & Visual Effects - Ritesh Daftary (Visual Fx Studio)\nD.I Colourist - Sunny Dhanjal (Visual Fx Studio)\nExecutive Producer - Vinod Kumar Barai\nProducer – Maya Yadav & Harishchandra Kanojiya\nDirector – Premanshu Singh\nCompany/Label  – Wave Music \nCopyrights – Vee Gee Audio -------------\nDigital Managed by – Lokdhun\n(Contact -9718776677)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LIbEXcice-I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LIbEXcice-I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LIbEXcice-I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LIbEXcice-I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LIbEXcice-I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Wave Music",
+        "playlistId": "PLNz4YQwT4-GLUJlakAHxNmhaDPjtYfCUd",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LIbEXcice-I"
+        }
+      },
+      "contentDetails": {
+        "videoId": "LIbEXcice-I",
+        "videoPublishedAt": "2017-07-30T04:00:00.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/lCBhrQRn5OuE7sIMRP_PX942y3M\"",
+      "id": "UExOejRZUXdUNC1HTFVKbGFrQUh4Tm1oYURQanRZZkNVZC4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2020-01-08T09:42:13.000Z",
+        "channelId": "UC22nIfOTM7KLIQuFGMKzQbg",
+        "title": "देवरा भइल दिवाना - Pradeep R. Pandey “Chintu” - Super Hit Bhojpuri Full Movie - Bhojpuri Film 2020",
+        "description": "#Video #bhojpurisong #wavemusic\nअगर आप Bhojpuri Video को पसंद करते हैं तो Plz चैनल को Subscribe करें- Subscribe Now:- http://goo.gl/ip2lbk\n\n♪ Now Available on ♪ \nGaana : https://gaana.com/album/devra-bhail-deewana\nWynk Music : https://wynk.in/music/album/Devra-Bhail-Deewana/hu_4540511\nHungama : http://www.hungama.com/album/devra-bhail-deewana/4540511/\nSaavn : https://www.saavn.com/s/album/bhojpuri/Devra-Bhail-Deewana-2014/j1yZ4TYMlqw_\niTunes : https://itunes.apple.com/in/album/devra-bhail-deewana-original-motion-picture-soundtrack/1249995306?app=itunes&ign-mpt=uo%3D4\n\nFilm Name – Devra Bhail Deewana\nStar cast – Manoj Tiwari, Pradeep R. Pandey “Chintu”, Pakhi Hegde, Kajal, ETC.\nSingers – Pawan Singh, Manoj Tiwari, Kalpana, Indu Sonali\nMusic director – Rajkumar R. Pandey\nSong lyrics – Vinay Bihari, Rajkumar R. Pandey \nFilm writer – Rajkumar R. Pandey \n Banner – Saideep Films. \nProducer – Rajkumar R. Pandey \nDirector – Rajkumar R. Pandey \nCompany/Label  – Wave Music \nCopyrights – Vee Gee Audio -------------\nDigital Managed by – Lokdhun\n(Contact -9718776677)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x0R76By5yBQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x0R76By5yBQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x0R76By5yBQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/x0R76By5yBQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/x0R76By5yBQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Wave Music",
+        "playlistId": "PLNz4YQwT4-GLUJlakAHxNmhaDPjtYfCUd",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "x0R76By5yBQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "x0R76By5yBQ",
+        "videoPublishedAt": "2015-02-03T10:15:36.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/b9cuYVWQ0FSwWEoLZVJmgEAjElY\"",
+      "id": "UExOejRZUXdUNC1HTFVKbGFrQUh4Tm1oYURQanRZZkNVZC44Mjc5REFBRUE2MTdFRDU0",
+      "snippet": {
+        "publishedAt": "2020-01-08T09:52:51.000Z",
+        "channelId": "UC22nIfOTM7KLIQuFGMKzQbg",
+        "title": "दुल्हन हम ले जायेंगे | Dulhan Hum Le Jayenge - Rishabh Kashyap,Tanushree - Superhit Bhojpuri Movie",
+        "description": "#Video #bhojpurisong #wavemusic\nSubscribe Now:- http://goo.gl/ip2lbk\n\nदुल्हन हम ले जायेंगे | Dulhan Hum Le Jayenge - Rishabh Kashyap,Tanushree - Superhit Bhojpuri Movie\n\n\nMOVIE :- Dulhan Hum Le Jayenge \nSTARCAST :- Rishab Kashyap (Golu), Tanushree Chaterjee, Amit Shukla, Sushil Singh, Prakash Jais, Deepak Sinha, Sanjay Verma and Others \nSINGER :- Alok Kumar, Priyanka Singh, Hany B, Vikash Pandey \nLYRICS :- Pyarelal Yadav (Kabi), Shyam Dehati, Yadavraj, Azad Singh STORY :- Indrajeet Singh \nMUSIC DIRECTOR :- Rajesh Jha \nDIRECTOR :- Praveen Guduri \nPRODUCER :- Rajesh Raja Gupta \nRIGHTS HOLDER :- M/s Chandraversha Traders Pvt Ltd. \nCompany/ Label :- Wave \nDigital Managed by – \nLokdhun (Contact - 9718776677)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Tk16P5el1NM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Tk16P5el1NM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Tk16P5el1NM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Tk16P5el1NM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Tk16P5el1NM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Wave Music",
+        "playlistId": "PLNz4YQwT4-GLUJlakAHxNmhaDPjtYfCUd",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Tk16P5el1NM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Tk16P5el1NM",
+        "videoPublishedAt": "2019-11-17T02:30:00.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/gzXkPR6MNcYTDy3YqHaBtnRHyY8\"",
+      "id": "UExOejRZUXdUNC1HTFVKbGFrQUh4Tm1oYURQanRZZkNVZC41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2020-01-08T09:42:28.000Z",
+        "channelId": "UC22nIfOTM7KLIQuFGMKzQbg",
+        "title": "Jeena Teri Gali Mein - Super Hit Bhojpuri Movie 2016 - जीना तेरी गली में - New Bhojpuri Film",
+        "description": "#Video #bhojpurisong #wavemusic\nअगर आप Bhojpuri Video को पसंद करते हैं तो Plz चैनल को Subscribe करें- Subscribe Now:- http://goo.gl/ip2lbk\n–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––\n♪ Now Available on ♪ \nGaana  :  https://gaana.com/album/jeena-teri-gali-me\nHungama :  http://www.hungama.com/album/jeena-teri-gali-me/16561662/\nSaavn :  https://www.saavn.com/s/album/bhojpuri/Jeena-Teri-Gali-Me-2013/EZ6E9oMrhoA_\nWynk Music : https://wynk.in/music/album/Jeena-Teri-Gali-Me/hu_16561662\niTunes : https://itunes.apple.com/in/album/jeena-teri-gali-me-original-motion-picture-soundtrack/1250004929?app=itunes&ign-mpt=uo%3D4\n––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––\n♪ Now Available on ♪ \nGaana : https://gaana.com/album/jeena-teri-gali-me\nWynk Music : https://wynk.in/music/album/Jeena-Teri-Gali-Me/hu_16561662\nHungama : http://www.hungama.com/album/jeena-teri-gali-me/16561662/\nSaavn : https://www.saavn.com/s/album/bhojpuri/Jeena-Teri-Gali-Me-2013/EZ6E9oMrhoA_\niTunes : https://itunes.apple.com/in/album/jeena-teri-gali-me-original-motion-picture-soundtrack/1250004929?app=itunes&ign-mpt=uo%3D4\n\nFilm Name – Jeena Teri Gali Mein\nStar cast – Pradeep R. Pandey \" Chintu\", Kajal, Rinku Ghose\nSingers – Pawan Singh, Kalpana, Indu Sonali\nMusic director – Rajkumar R. Pandey\nLyrics – Pyare Lal Yadav, Vipin Bahar, Manoj Matlabi, Santosh Puri \nFilm writer – Santosh Mishra\nBanner – Saideep Film \nProducer – Rajkumar R. Pandey\nDirector – Rajkumar R. Pandey\nCompany/Label  – Wave Music \nCopyrights – Vee Gee Audio -------------\nDigital Managed by – Lokdhun\n(Contact -9718776677)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yAyyKDG3yDw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yAyyKDG3yDw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yAyyKDG3yDw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yAyyKDG3yDw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yAyyKDG3yDw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Wave Music",
+        "playlistId": "PLNz4YQwT4-GLUJlakAHxNmhaDPjtYfCUd",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yAyyKDG3yDw"
+        }
+      },
+      "contentDetails": {
+        "videoId": "yAyyKDG3yDw",
+        "videoPublishedAt": "2015-01-01T06:37:28.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/2HbCn6Xqdp_PUVbBpmyZfgURE8c\"",
+      "id": "UExOejRZUXdUNC1HTFVKbGFrQUh4Tm1oYURQanRZZkNVZC5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2020-01-08T09:42:35.000Z",
+        "channelId": "UC22nIfOTM7KLIQuFGMKzQbg",
+        "title": "SIPAHI - सिपाही - Superhit Full Bhojpuri Movie - Dinesh Lal Yadav \"Nirahua\" , Aamrapali Dubey",
+        "description": "#Video #bhojpurisong #wavemusic\nSIPAHI - Superhit Full Bhojpuri Movie 2018 - Dinesh Lal Yadav \"Nirahua\" , Aamrapali\n\nSubscribe Now:- http://goo.gl/ip2lbk\n\n_______________________________________________________________________________________\n♪ Now Available on ♪ \nGaana : https://gaana.com/album/sipahi\nHungama : http://www.hungama.com/album/sipahi/28706403/\nSaavn : https://www.saavn.com/s/album/bhojpuri/Sipahi-2017/IjS5JG2TSTI_\nWynk Music : https://wynk.in/music/album/Sipahi/hu_28706403\niTunes : https://itunes.apple.com/in/album/sipahi-original-motion-picture-soundtrack/1319147189?app=itunes&ign-mpt=uo%3D4\n_________________________________________________________________________________________\nAfter huge success of #Sipahi, Dinesh Lal Nirahua is back with another superhit bhojpuri movie with Aamrapali Dubey - #SIPAHI\n\nFilm :- Sipahi\nStar Cast :- Dinesh Lal Yadav, Aamrapali Dubey,Sushil Singh,Sunjay Pandey, Manoj Tiger, Ayaaz Khan & Others\nLyrics :- Pyare Lal (Kavi), Shyam Dehati, Arvind Tiwari, Azad Singh, Pramod Sankutlam,.\nMusic Director :- Om Jha.\nProducer :- Shiv Narayan B.Singh.\nExcutive Producer :- Prashant Devedi.\nDirector :- Promanshu Singh\nD.O.P :- Devendra Tiwari.\nWritten By :- Manoj Tiger.\nAction :- Adlib Pathan\nChoreographer :- Kanu Mukharji, Ramadevan, Rinki Gupta.\nBaner :- Sunita Shiv Creation Present\nCompany/Label :- Wave Music\n\nIf you like Bhojpuri song, Bhojpuri full film and bhojpuri movie songs, Subscribe Now:- http://goo.gl/ip2lbk\n\nDownload Wave Music official app from Google Play Store - https://goo.gl/GyvICs\n\nVisit our website to download our songs and videos: http://www.bhojpuriwave.com\n\nLike Us On Facebook - https://www.facebook.com/wavemusicofficial/ -------------\nDigital Managed by – Lokdhun\n(Contact -9718776677)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FgPGam6RBZg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FgPGam6RBZg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FgPGam6RBZg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FgPGam6RBZg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FgPGam6RBZg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Wave Music",
+        "playlistId": "PLNz4YQwT4-GLUJlakAHxNmhaDPjtYfCUd",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FgPGam6RBZg"
+        }
+      },
+      "contentDetails": {
+        "videoId": "FgPGam6RBZg",
+        "videoPublishedAt": "2017-12-24T04:00:01.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/y0lSMtII0A3xZo6anuTiaSdl_4Q\"",
+      "id": "UExOejRZUXdUNC1HTFVKbGFrQUh4Tm1oYURQanRZZkNVZC45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2020-01-08T09:42:42.000Z",
+        "channelId": "UC22nIfOTM7KLIQuFGMKzQbg",
+        "title": "SATYA - Superhit Full Bhojpuri Movie - Pawan Singh, Akshara | Bhojpuri Full Film 2018",
+        "description": "#Video #bhojpurisong #wavemusic\nSubscribe Now:- http://goo.gl/ip2lbk\n____________________________________________________________________________________________________________________________________\n♪ Now Available on ♪ \nGaana : https://gaana.com/album/satya-bhojpuri-2017\nWynk Music : https://wynk.in/music/album/Satya-(2017)/hu_24405954\nHungama : http://www.hungama.com/album/satya-2017/24405954/\nSaavn : https://www.saavn.com/s/album/bhojpuri/Satya-2017/i7Oa9a4bGto_\niTunes : https://itunes.apple.com/in/album/satya-original-motion-picture-soundtrack/1318658868?app=itunes&ign-mpt=uo%3D4\n____________________________________________________________________________________________________________________________________\n\n\nSATYA - Superhit Full Bhojpuri Movie - Pawan Singh, Akshara | Bhojpuri Full Film 2017 HD\n\nFilm :- Satya\nStar Cast :- Pawan Singh, Akshara Singh, Amarpali Dubey, Annu Upadhyay, Umesh Singh, Brijesh Tripathi, Lota Tiwari, Sweety Singh, Nidhi Jha, Rahul Verma, Mukesh Tiwari & Dayashankar Pandey\nSinger :- Pawan Singh, Kailash Kher, Akshra Singh & Indu Sonali\nChief Asst. Director :- Mukesh Tiwari\nWriter :- Viru Thakur\nLyrics :- Vinay Bihari, Manoj Matalbi, Sumit Chandravanshi, Vibhaker Pandey, Arun Bihari And Vinay Nirmal.\nMusic Director :- Chhote Baba.\nDirector :- Sujeet Kumar Singh\nProducer :- Radheshyam Jivrajji Luha, Gajanand Lal Singh Chauhan, Sujeet Kumar Singh\nEditor :- Dipak Jaul\nDOP :- Devendra Tiwari\nDance Director :- Ramdevan\nAction :- Bajiroa Rockki Rajesh      \nArt :- Nazir Shaikh\nDesiner :- Narsu\nMarketing Manager :- Vijay Yadav\nExcutive Producer :- Arshad Shaikh\nChief Assi Director :- Mukesh Tiwari\nBusiness Manager :- Vijay Yadav\nBaner :- Shyam Ghanshyam Film International Pvt. Ltd. Present.\nCompany/Label :- Wave Music\n\nDownload Wave Music official app from Google Play Store - https://goo.gl/GyvICs\n\nIf you like Bhojpuri song, Bhojpuri full film and bhojpuri movie songs, Subscribe Now:- http://goo.gl/ip2lbk\n\nVisit our website to download our songs and videos: http://www.bhojpuriwave.com\n\nLike Us On Facebook - https://www.facebook.com/wavemusicofficial/ -------------\nDigital Managed by – Lokdhun\n(Contact -9718776677)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7RCjqOX3LhU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7RCjqOX3LhU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7RCjqOX3LhU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7RCjqOX3LhU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7RCjqOX3LhU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Wave Music",
+        "playlistId": "PLNz4YQwT4-GLUJlakAHxNmhaDPjtYfCUd",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7RCjqOX3LhU"
+        }
+      },
+      "contentDetails": {
+        "videoId": "7RCjqOX3LhU",
+        "videoPublishedAt": "2017-07-16T04:00:01.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/m9fbzRJsIOtJ6rfQldg7FFBwysE\"",
+      "id": "UExOejRZUXdUNC1HTFVKbGFrQUh4Tm1oYURQanRZZkNVZC5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2020-01-08T09:42:51.000Z",
+        "channelId": "UC22nIfOTM7KLIQuFGMKzQbg",
+        "title": "RANGEELA || Superhit Full Bhojpuri Movie 2020 || रंगीला || Pradeep Pandey \"Chintu\", Tanushri, Poonam",
+        "description": "#Video #bhojpurisong #wavemusic\n#video #bhojpurifilm #bhojpurimovie\nSubscribe Now:- http://goo.gl/ip2lbk\n__________________________________________________________________________________________________________________________________\n♪ Now Available on ♪ \nGaana :  https://gaana.com/album/rangeela-bhojpuri\nHungama : http://www.hungama.com/album/rangeela-2017/26354657/\nSaavn : https://www.jiosaavn.com/album/rangeela/cORlk2jEGNc_\nWynk Music : https://wynk.in/music/album/rangeela-2017/hu_26354657?page=0\niTunes : https://itunes.apple.com/in/album/rangeela-original-motion-picture-soundtrack/1318651154?app=itunes&ign-mpt=uo%3D4\n__________________________________________________________________________________________________________________________________\n\n\nDownload Wave Music official app from Google Play Store - https://goo.gl/GyvICs\n\nIf you like Bhojpuri song, Bhojpuri full film and bhojpuri movie songs, Subscribe Now:- http://goo.gl/ip2lbk\n\nVisit our website to download our songs and videos: http://www.bhojpuriwave.com\n\nLike Us On Facebook - https://www.facebook.com/wavemusicofficial/\n\nSubscribe Now:- http://goo.gl/ip2lbk\n\nDownload Wave Music official app from Google Play Store - https://goo.gl/GyvICs\n\nIf you like Bhojpuri song, , Bhojpuri full film and bhojpuri movie songs, subscribe our channel. Subscribe Now:- http://goo.gl/ip2lbk\n\nVisit our website to download our songs and videos: http://www.bhojpuriwave.com\n\nLike Us On Facebook - https://www.facebook.com/wavemusicoff...\n\nFilm :- Rangeela\nStar Cast :- Pradeep Pandey (Chintu), Rani Chaterjee, Anjana Singh, Tanushree, Poonam Dubey , Sanjay Pandey\nSinger :- Mohan Rathor, Indu Sonali, Ritesh Pandey, Priyanka Singh, Rajkumar R.Pandey, Khushbu Prasad, Alok Kumar, Falguni Bramhbhatt, \nWriter :- Lal Ji Yadav\nLyrics :- Shyam Dehati , Santosh Puri\nMusic Director :- Raj Kumar R.Pandey\nDirector :- Ravi Sinha\nProducer :- Durga Prasad , Rajesh Verma\nDance Director :- RamDevan\nAction :- BajiRao       \nArt :- Awdesh Raj\nBaner :- Aadi Shakti Entertainment And Soham Films Presents. \nCompany/Label :- Wave Music -------------\nDigital Managed by – Lokdhun\n(Contact -9718776677)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZSehavw0WG8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZSehavw0WG8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZSehavw0WG8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZSehavw0WG8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZSehavw0WG8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Wave Music",
+        "playlistId": "PLNz4YQwT4-GLUJlakAHxNmhaDPjtYfCUd",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ZSehavw0WG8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "ZSehavw0WG8",
+        "videoPublishedAt": "2018-12-02T03:30:01.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/KggYMYPOWH8cPh_ts6Nifj3NQDM\"",
+      "id": "UExOejRZUXdUNC1HTFVKbGFrQUh4Tm1oYURQanRZZkNVZC40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2020-01-08T09:42:57.000Z",
+        "channelId": "UC22nIfOTM7KLIQuFGMKzQbg",
+        "title": "PAWAN RAJA - Superhit Full Bhojpuri Movie 2018 - Pawan Singh, Akshara, Monalisa & Aamrapali Dubey",
+        "description": "#Video #bhojpurisong #wavemusic\nSubscribe Now:- http://goo.gl/ip2lbk\n\n♪ Now Available on ♪ \nGaana : https://gaana.com/album/pawan-raja\nWynk Music : https://wynk.in/music/album/Pawan-Raja/hu_30862770\nHungama : http://www.hungama.com/album/pawan-raja/30862770/\nSaavn : https://www.saavn.com/s/album/bhojpuri/Pawan-Raja-2017/8zv7qnxqew8_\niTunes : https://itunes.apple.com/in/album/pawan-raja-original-motion-picture-soundtrack/1304964433?app=itunes&ign-mpt=uo%3D4\n\nFilm :- Pawan Raja\nStar Cast :- Pawan Singh, Akshara Singh,Monalisa, Aamrapali Dubey, Shushil Singh, Ayaaj Khan, Dev Singh & Others\n\nLyrics :- Manoj Matalbi, Sumit Chandrawanshi, Munna Dubey, Ajeet Mandal.\nMusic Director :- Avinash Jha Ghunghuru Ji.\nProducer :- Dhananjay Singh,\nDirector :- Arvind Chaubey.\nD.O.P :- Devendra Tiwari.\nWritten By :- Veeru Thakur.\nEdit By :- Dipak Jaul.\nAction :- Hiralal Yadav\nChoreographer :- Sanjay Korbe, Ram Devan.\nBaner :- Happy Film And Entertainment Present\nCompany/Label :- Wave Music\n\nDownload Wave Music official app from Google Play Store - https://goo.gl/GyvICs\n\nAfter huge success of #Satya , Pawan Singh is back with another superhit bhojpuri movie - #Pawan Raja\n\nIf you like Bhojpuri song, Bhojpuri full film and bhojpuri movie songs, Subscribe Now:- http://goo.gl/ip2lbk\n\nVisit our website to download our songs and videos: http://www.bhojpuriwave.com\n\nLike Us On Facebook - https://www.facebook.com/wavemusicofficial/ -------------\nDigital Managed by – Lokdhun\n(Contact -9718776677)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ys2ktusi-4k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ys2ktusi-4k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ys2ktusi-4k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ys2ktusi-4k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ys2ktusi-4k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Wave Music",
+        "playlistId": "PLNz4YQwT4-GLUJlakAHxNmhaDPjtYfCUd",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ys2ktusi-4k"
+        }
+      },
+      "contentDetails": {
+        "videoId": "ys2ktusi-4k",
+        "videoPublishedAt": "2018-01-26T04:30:02.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/FkKR7Z7xpn9Ug-wYOgQpA5tSdXc\"",
+      "id": "UExOejRZUXdUNC1HTFVKbGFrQUh4Tm1oYURQanRZZkNVZC45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2020-01-08T09:43:15.000Z",
+        "channelId": "UC22nIfOTM7KLIQuFGMKzQbg",
+        "title": "में नागिन तू नगीना - Super hit Bhojpuri Movie I Main Nagin Tu Nagina - Bhojpuri Film | Pakhi Hegde",
+        "description": "#Video #bhojpurisong #wavemusic\n♪ Now Available on ♪ \nHungama : http://www.hungama.com/album/main-nageen-tu-nagina/14991336/\nWynk Music : https://wynk.in/music/album/main-nageen-tu-nagina/hu_14991336?page=0\nGaana : https://gaana.com/album/mein-nagin-tu-nagina\nSaavn :  https://www.jiosaavn.com/album/main-nageen-tu-nagina/7GAXHoMB9-o_\niTunes : https://itunes.apple.com/in/album/mein-nagin-tu-nagina-original-motion-picture-soundtrack/1441748595?app=itunes&ign-mpt=uo%3D4\n\n\nFilm - Main Nagin Tu Nagina\nStar cat – Manoj R. Pandey, Pakhi Hegde, Pradeep R. Pandey, Sanjay Mishra, \nSingers - \nMusic director -  Madhukar Anand\nSong lyrics – Pankaj, Shyam Dehati, Pyare Lal Yadav\nFilm writer – Santosh Mishra\nBanner – Shri Sai Bandana Films \nProducer – Dilip Jaiswal\nDirector – Rajkumar R. Pandey\nCompany/Label  – Wave Music \nCopyrights – Vee Gee Audio -------------\nDigital Managed by – Lokdhun\n(Contact -9718776677)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6mWwUIlep70/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6mWwUIlep70/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6mWwUIlep70/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6mWwUIlep70/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6mWwUIlep70/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Wave Music",
+        "playlistId": "PLNz4YQwT4-GLUJlakAHxNmhaDPjtYfCUd",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6mWwUIlep70"
+        }
+      },
+      "contentDetails": {
+        "videoId": "6mWwUIlep70",
+        "videoPublishedAt": "2014-11-05T08:21:04.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/lHv6WPa0POGI-QkydYNkI7wfL84\"",
+      "id": "UExOejRZUXdUNC1HTFVKbGFrQUh4Tm1oYURQanRZZkNVZC4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2020-01-08T09:51:02.000Z",
+        "channelId": "UC22nIfOTM7KLIQuFGMKzQbg",
+        "title": "ट्रक ड्राइवर - Super Hit Bhojpuri Full Movie - Truck Driver - Bhojpuri Film - Pawan Singh",
+        "description": "#Video #bhojpurisong #wavemusic\nPublished on Dec 26, 2014\nअगर आप Bhojpuri Video को पसंद करते हैं तो Plz चैनल को Subscribe करें- Subscribe Now:- http://goo.gl/ip2lbk\n\n♪ Now Available on ♪ \nHungama : http://www.hungama.com/album/truck-driver/6027841/\nWynk Music : https://wynk.in/music/album/truck-driver/hu_6027841?page=0\nGaana : https://gaana.com/album/truck-driver-bhojpuri\nSaavn : https://www.jiosaavn.com/album/truck-driver/o,OyMQ9jua0_\n\n\n----------------------------------------­----------------------------------------­-\nFilm Name – Truck Driver\nStar cast –Pawan Singh, Chintu, Anjana Singh, Sima Singh\nMusic director – Madhukar Aanand \nFilm writer – Santosh Mishra\nBanner – Saideep Films\nProducer – Rajkumar R. Pandey\nDirector – Rajkumar R. Pandey\nCompany/Label – Wave Music \nCopyrights – Vee Gee Audio -------------\nDigital Managed by – Lokdhun\n(Contact -9718776677)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YGZ3hLi0JSw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YGZ3hLi0JSw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YGZ3hLi0JSw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YGZ3hLi0JSw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YGZ3hLi0JSw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Wave Music",
+        "playlistId": "PLNz4YQwT4-GLUJlakAHxNmhaDPjtYfCUd",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YGZ3hLi0JSw"
+        }
+      },
+      "contentDetails": {
+        "videoId": "YGZ3hLi0JSw",
+        "videoPublishedAt": "2014-12-29T15:38:52.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/wJh3N2eevkqTfIWotxW5t8iYtCY\"",
+      "id": "UExOejRZUXdUNC1HTFVKbGFrQUh4Tm1oYURQanRZZkNVZC41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2020-01-08T09:51:09.000Z",
+        "channelId": "UC22nIfOTM7KLIQuFGMKzQbg",
+        "title": "Saugandh सौगंध | Bhojpuri Full Movie 2020 | Dinesh Lal \"Nirahua\", Mani Bhattacharya | Bhojpuri Film",
+        "description": "#Video #bhojpurisong #wavemusic\n#Saugandh #सौगंध  #BhojpuriFullMovie2018 #DineshLalNirahua #ManiBhattacharya #BhojpuriFilmHD \n\nSaugandh सौगंध | Bhojpuri Full Movie 2018 | Dinesh Lal \"Nirahua\", Mani Bhattacharya | Bhojpuri Film\n\nSubscribe Now:- http://goo.gl/ip2lbk\n\n\nDownload Wave Music official app from Google Play Store - https://goo.gl/GyvICs\n\nIf you like Bhojpuri song, Bhojpuri full film and bhojpuri movie songs, Subscribe Now:- http://goo.gl/ip2lbk\n\nVisit our website to download our songs and videos: http://www.bhojpuriwave.com\n\nLike Us On Facebook - https://www.facebook.com/wavemusicofficial/\n\nMovie : Saugandh\nStar cast : Dinesh lal yadav “Nirahua”, Mani Bhattacharya, Kanak Pandey, Kiran Yadav, Dev Singh, Dipak Dildaar and Amit shukla\nProducer : Vikas kumar\nDirector : Vishal verma\nCo Producer : Kiran Shahi\nExecutive Producer : R. P. Singh Bal\nBanner : Purvanchal Talkies\nWriter : Rakesh Ojha\nLyrics & Music : Ashok kumar Deep\nEditor : B Praveen\nCinematography : C Jagan\nChoreographer : Ramdevan & Rikki Gupat\nAction : N B Maharajan\nCompany/ Label :- Wave\n\n\nbhojpuri song,video bhojpuri,bhojpuri songs,video bhojpuri song,new bhojpuri,Veegeeaudio,Wave music,Vee Gee Audio,Hamaar Bhojpuri,Bhojpuri Video Song,Bhojpuri Song,Bhojpuri Sangeet,bhojpuriwave\n\n\n♪ Now Available on ♪ \nHungama : http://www.hungama.com/album/saugandh/34125961/\nGaana : https://gaana.com/album/saugandh-bhojpuri-2018\nSaavn : https://www.saavn.com/album/saugandh/NS8At3DdnY0_\nWynk Music : https://wynk.in/music/album/saugandh/hu_34125961?page=0 -------------\nDigital Managed by – Lokdhun\n(Contact -9718776677)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/heZpc1W_v-I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/heZpc1W_v-I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/heZpc1W_v-I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/heZpc1W_v-I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/heZpc1W_v-I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Wave Music",
+        "playlistId": "PLNz4YQwT4-GLUJlakAHxNmhaDPjtYfCUd",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "heZpc1W_v-I"
+        }
+      },
+      "contentDetails": {
+        "videoId": "heZpc1W_v-I",
+        "videoPublishedAt": "2018-11-08T03:30:00.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/uQ56LKl_7pB0rEjQ9vWmuufv9qo\"",
+      "id": "UExOejRZUXdUNC1HTFVKbGFrQUh4Tm1oYURQanRZZkNVZC41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2020-01-08T09:51:24.000Z",
+        "channelId": "UC22nIfOTM7KLIQuFGMKzQbg",
+        "title": "SUNO SASURJI - सुनो ससुरजी - Superhit Bhojpuri Movie 2020 - Rishabh Kashap (Golu), Richa - Full Film",
+        "description": "#Video #bhojpurisong #wavemusic\nSUNO SASURJI -  Superhit Full Bhojpuri Movie 2018 - Rishabh Kashap (Golu) - Bhojpuri Full Film HD\n\nSubscribe Now:- http://goo.gl/ip2lbk\n\nDownload Wave Music official app from Google Play Store - https://goo.gl/GyvICs\n\nIf you like Bhojpuri song, Bhojpuri full film and bhojpuri movie songs, Subscribe Now:- http://goo.gl/ip2lbk\n\nVisit our website to download our songs and videos: http://www.bhojpuriwave.com\n\nLike Us On Facebook - https://www.facebook.com/wavemusicofficial/\n\nFilm :- Suno Sasurji\nStar Cast :- Rishabh Kashap (Golu), Richa Dixit, Awadesh Mishra, Kiran Yadav, Yari Joshi & Others.\nWriter :- Pyare Lal Yadav, Shyam Dehati , Manoj Matlabi, Yadav Raj\nMusic Director :- RAJESH JHA\nWritten & Director :- SUBA RAO GOSANGI \nProducer :- Iqbal E. Makani\nCompany/Label :- Wave Music\n\nbhojpuri song,video bhojpuri,bhojpuri songs,video bhojpuri song,new bhojpuri,Veegeeaudio,Wave music,Vee Gee Audio,Hamaar Bhojpuri,Bhojpuri Video Song,Bhojpuri Song,Bhojpuri Sangeet,bhojpuriwave -------------\nDigital Managed by – Lokdhun\n(Contact -9718776677)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JymDdhdEk2k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JymDdhdEk2k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JymDdhdEk2k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JymDdhdEk2k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JymDdhdEk2k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Wave Music",
+        "playlistId": "PLNz4YQwT4-GLUJlakAHxNmhaDPjtYfCUd",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JymDdhdEk2k"
+        }
+      },
+      "contentDetails": {
+        "videoId": "JymDdhdEk2k",
+        "videoPublishedAt": "2018-09-27T03:30:00.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/vyr4C9lhtMI_j_xLJXeTcIS2gpI\"",
+      "id": "UExOejRZUXdUNC1HTFVKbGFrQUh4Tm1oYURQanRZZkNVZC4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2020-01-08T09:51:31.000Z",
+        "channelId": "UC22nIfOTM7KLIQuFGMKzQbg",
+        "title": "सात सहेलियाँ - Super Hit Bhojpuri Movie I Saat Saheliyan I Nirhuwa, Pakhi Hegde I Full Movie",
+        "description": "#Video #bhojpurisong #wavemusic\nअगर आप Bhojpuri Video को पसंद करते हैं तो Plz चैनल को Subscribe करें http://goo.gl/ip2lbk\n\nStar cast – Dinesh Lal Yadav “Nirhuaa”, Pakhi Hegde, Rani Chatterjee, Monalisa \nSingers – Dinesh Lal Yadav “ Nirhuaa”\nMusic director - Rajesh-Rajnish\nSong lyrics – Vinay Bihari, Pyare Lal Yadav, Shyam Dehati\nFilm writer – Manoj K. Kushwaha\nBanner – Aadi Shakti Entertainment  \nProducer – Rajkumar R. Pandey\nDirector – Rajkumar R. Pandey\nCompany/Label  – Wave Music \nCopyrights – Vee Gee Audio -------------\nDigital Managed by – Lokdhun\n(Contact -9718776677)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5vv_MzhdU9I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5vv_MzhdU9I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5vv_MzhdU9I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5vv_MzhdU9I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5vv_MzhdU9I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Wave Music",
+        "playlistId": "PLNz4YQwT4-GLUJlakAHxNmhaDPjtYfCUd",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5vv_MzhdU9I"
+        }
+      },
+      "contentDetails": {
+        "videoId": "5vv_MzhdU9I",
+        "videoPublishedAt": "2014-11-06T10:33:55.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/efLK_SCBxjXabjVvKLm_UYOiehA\"",
+      "id": "UExOejRZUXdUNC1HTFVKbGFrQUh4Tm1oYURQanRZZkNVZC45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2020-01-08T09:51:37.000Z",
+        "channelId": "UC22nIfOTM7KLIQuFGMKzQbg",
+        "title": "DHADKAN - Superhit Full Bhojpuri Movie - Pawan Singh, Akshara | Bhojpuri Full Film 2019",
+        "description": "#Video #bhojpurisong #wavemusic\nSubscribe Now:- http://goo.gl/ip2lbk\n\n♪ Now Available on ♪ \nGaana  :  https://gaana.com/album/dhadkan-bhojpuri\nHungama : http://www.hungama.com/album/dhadkan/29183839/\nWynk Music : https://wynk.in/music/album/dhadkan/hu_29183839?page=0\niTunes : https://itunes.apple.com/in/album/dhadkan-original-motion-picture-soundtrack/1318079366?app=itunes&ign-mpt=uo%3D4 \n––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––\n\nDHADKAN - Superhit Full Bhojpuri Movie - Pawan Singh, Akshara | Bhojpuri Full Film 2017\n\nFilm :- DHADKAN\nStar Cast :- Pawan Singh, Akshara Singh,Shikha Mishra & Others\nLyrics :- Manoj Matalbi, Azad Singh And Vinay Nirmal.\nMusic Director :- Madhukar Anand,Chhote Baba.\nProducer :- Dhupendra Bhagat,\nCo-Producer :- Manaki Devi,Lakhmati Devi & Shikha Mishra.\nDirector :- Sujeet Kumar Singh\nD.O.P :- Firoz Khan.\nWritten By :- Manoj K Kushwha, Veeru Thakur.\nEdit By :- Dipak Jaul.\nAction :- Hiralal Yadav,Bajiroa\nAssociate Director :- Mukesh Tiwari.\nProduction Manager :- DevRaj Pokhrel (Dev)\nChoreographer :- Sanjay Korbe, Ram Devan.\nArt :- Nazir Shaikh.\nExcutive Producer :- Arshad Shaikh.\nMarketing Manager :- Vijay Yadav\nBaner :- Kishori Films\nCompany/Label :- Wave Music\n\nDownload Wave Music official app from Google Play Store - https://goo.gl/GyvICs\n\nIf you like Bhojpuri song, Bhojpuri full film and bhojpuri movie songs, Subscribe Now:- http://goo.gl/ip2lbk\n\nVisit our website to download our songs and videos: http://www.bhojpuriwave.com\n\nLike Us On Facebook - https://www.facebook.com/wavemusicofficial/\n -------------\nDigital Managed by – Lokdhun\n(Contact -9718776677)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eYk_UlYklF0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eYk_UlYklF0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eYk_UlYklF0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eYk_UlYklF0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eYk_UlYklF0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Wave Music",
+        "playlistId": "PLNz4YQwT4-GLUJlakAHxNmhaDPjtYfCUd",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "eYk_UlYklF0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "eYk_UlYklF0",
+        "videoPublishedAt": "2017-08-27T04:35:11.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/6q4JEy34lceeI0GlcITVRKf5nZQ\"",
+      "id": "UExOejRZUXdUNC1HTFVKbGFrQUh4Tm1oYURQanRZZkNVZC5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2020-01-08T09:51:43.000Z",
+        "channelId": "UC22nIfOTM7KLIQuFGMKzQbg",
+        "title": "Doodh Ka Karz - Super Hit Full Bhojpuri Movie 2016 - Dinesh Lal & Khesari Lal - Bhojpuri Full Film",
+        "description": "#Video #bhojpurisong #wavemusic\nDoodh Ka Karz | Full Movie 2016 | Dinesh Lal Yadav, Khesari Lal Yadav, Anjana Singh\nSubscribe करें- Subscribe Now:- http://goo.gl/ip2lbk\n–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––\n♪ Now Available on ♪ \nGaana  :  https://gaana.com/album/doodh-ka-karz-bhojpuri\nHungama : http://www.hungama.com/album/doodh-ka-karz-2014/2711542/\nSaavn :  https://www.jiosaavn.com/album/doodh-ka-karz/u6u8rgCTvQc_\nWynk Music :  https://wynk.in/music/album/doodh-ka-karz/hu_2711542?page=0\niTunes : https://itunes.apple.com/in/album/doodh-ka-karz-original-motion-picture-soundtrack/1444725915?app=itunes&ign-mpt=uo%3D4\n––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––\nFilm Name – Doodh Ka Karz\nStar cast – Dinesh Lal Yadav \"Nirahua\", Khesari Lal, Smrity Sinha , Anjana Singh and Deep Raj Rana\nSingers – Khesari Lal Yadav, Dinesh Lal Yadav, Pawan Singh, Kalpana etc.\nMusic director – Avinash Jha \"Ghungharoo Ji\"\nSong lyrics – Pyare Lal Yadav, Mahesh Pardesi, Azad Singh, Santosh Puri\nFilm writer – Manoj K. Kushwaha\nBanner –  Sanyogita Films\nProducer – Alok Kumar \nDirector – Premanshu Singh\nCompany/Label  – Wave Music \nCopyrights – Vee Gee Audio\n\n\nsubscribe our channel. Subscribe Now:- http://goo.gl/ip2lbk -------------\nDigital Managed by – Lokdhun\n(Contact -9718776677)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0YAsxhAQzNU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0YAsxhAQzNU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0YAsxhAQzNU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0YAsxhAQzNU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0YAsxhAQzNU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Wave Music",
+        "playlistId": "PLNz4YQwT4-GLUJlakAHxNmhaDPjtYfCUd",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0YAsxhAQzNU"
+        }
+      },
+      "contentDetails": {
+        "videoId": "0YAsxhAQzNU",
+        "videoPublishedAt": "2016-11-05T16:48:19.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/MSRrV_pkrhGg_tq0xTUQQbQns9o\"",
+      "id": "UExOejRZUXdUNC1HTFVKbGFrQUh4Tm1oYURQanRZZkNVZC4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2020-01-08T09:51:50.000Z",
+        "channelId": "UC22nIfOTM7KLIQuFGMKzQbg",
+        "title": "WANTED - वांटेड | Pawan Singh | Bhojpuri Full Movie | Mani Bhatacharya, Amrita Acharya - Full FIlm",
+        "description": "#Video #bhojpurisong #wavemusic\nWANTED - वांटेड | Pawan Singh | Superhit Bhojpuri Full Movie 2019 | Mani Bhatacharya, Amrita Acharya\n\nSubscribe Now:- http://goo.gl/ip2lbk\n****–––––––––––––––––––––––––––––––––****–––––––––––––––––––––––––––––––––––****\n♪ Now Available on ♪ \nGaana  :  https://gaana.com/album/wanted-bhojpuri\nHungama : http://www.hungama.com/album/wanted-bhojpuri/36205120/\nSaavn :  https://www.saavn.com/s/album/bhojpuri/Wanted-2018/m3TFQEkgB8Y_\nWynk Music : https://wynk.in/music/album/Wanted-(Bhojpuri)/hu_36205120\niTunes :  https://itunes.apple.com/in/album/wanted-original-motion-picture-soundtrack/1398232911?app=itunes&ign-mpt=uo%3D4\n****–––––––––––––––––––––––––––––––––****–––––––––––––––––––––––––––––––––––****\nWanted (Official Trailer) - Pawan Singh, Mani Bhattacharya, Amrita - Superhit Bhojpuri Movie\n\nDownload Wave Music official app from Google Play Store - https://goo.gl/GyvICs\n\nIf you like Bhojpuri song, Bhojpuri full film and bhojpuri movie songs, Subscribe Now:- http://goo.gl/ip2lbk\n\nVisit our website to download our songs and videos: http://www.bhojpuriwave.com\n\nLike Us On Facebook - https://www.facebook.com/wavemusicofficial/\n\n\nFilm :- Wanted\nStar Cast :- Pawan Singh, Mani Bhattacharya, Amrita Acharya, Bipin Sing, Eyaz Khan, Jay Singh & Others \nSinger :- Pawan Singh & Indu Sonali\nWriter :- Viru Thakur\nLyrics :-  Manoj Matalbi, Vinay Nirmal, Arvind Tiwari & Sumit Chandravanshi.\nMusic Director :- Chhote Baba.\nDirector :- Sujeet Kumar Singh\nProducer :- Yashwant Kumar, Virendra Kumar Yadav.\nEditor :- Dipak Jaul\nDOP :- Venkat Mahesh\nDance Director :- Ramdevan\nAction :- Baji Rao \nDesiner :- Narsu\nExcutive Producer :- Nand Lal Yadav\nAssociate Director :- Mukesh Tiwari\nProduction Manager :- Arshad Shaikh (Pappu)\nBaner :- Shri J. Soharta Production Presents.\nCompany/Label :- Wave Music -------------\nDigital Managed by – Lokdhun\n(Contact -9718776677)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UWl5-odpmzk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UWl5-odpmzk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UWl5-odpmzk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UWl5-odpmzk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UWl5-odpmzk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Wave Music",
+        "playlistId": "PLNz4YQwT4-GLUJlakAHxNmhaDPjtYfCUd",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UWl5-odpmzk"
+        }
+      },
+      "contentDetails": {
+        "videoId": "UWl5-odpmzk",
+        "videoPublishedAt": "2019-01-20T03:30:02.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/urRGzUDdNJgPNP9lpULpmo2W2bo\"",
+      "id": "UExOejRZUXdUNC1HTFVKbGFrQUh4Tm1oYURQanRZZkNVZC5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2020-01-08T09:51:57.000Z",
+        "channelId": "UC22nIfOTM7KLIQuFGMKzQbg",
+        "title": "दिवाने | Deewane | Super Hit Full Bhojpuri Movie 2017 | Bhojpuri Full Film | Chintu, Priyanka Pandit",
+        "description": "#Video #bhojpurisong #wavemusic\nSubscribe Now:- http://goo.gl/ip2lbk\n------------------------------------------------------------------------------------------------\n♪ Now Available on ♪ \nHungama : http://www.hungama.com/album/deewane-bhojpuri/21791901/\nWynk Music : https://wynk.in/music/album/deewane/hu_21791901?page=0\nGaana : https://gaana.com/album/deewane-bhojpuri\nSaavn :  https://www.jiosaavn.com/album/deewane/rVtvhruBA,4_\niTunes : https://itunes.apple.com/in/album/deewane-original-motion-picture-soundtrack/1444841726?app=itunes&ign-mpt=uo%3D4\n------------------------------------------------------------------------------------------------\n\nIf you like Bhojpuri song, , Bhojpuri full film and bhojpuri movie songs, subscribe our channel. Subscribe Now:- http://goo.gl/ip2lbk\n\nFilm Name – Deewane\nStar cast – Pradeep R. Pandey Chintu, Priyanka Pandit, Aawdesh Mishra Etc\nSingers – Mohan Rathod, Ritesh Pandey Etc.\nMusic director – Raj Kumar R Pandey.\nSong lyrics – Shyam Dehati, Raj Kumar R Pandey.\nFilm writer – Firoj Khan.\nBanner –  Aadi Shakti Entertainment Presents \nProducer – Emtiyaaj Khan & Amit Vagmare.\nDirector – Firoj Khan\nCompany/Label  – Wave Music \nCopyrights – Vee Gee Audio -------------\nDigital Managed by – Lokdhun\n(Contact -9718776677)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/L9zzqSvwQkE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/L9zzqSvwQkE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/L9zzqSvwQkE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/L9zzqSvwQkE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/L9zzqSvwQkE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Wave Music",
+        "playlistId": "PLNz4YQwT4-GLUJlakAHxNmhaDPjtYfCUd",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "L9zzqSvwQkE"
+        }
+      },
+      "contentDetails": {
+        "videoId": "L9zzqSvwQkE",
+        "videoPublishedAt": "2017-03-15T01:30:00.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/VRrB3UViWiDbmz8vSkNOiYXRq5I\"",
+      "id": "UExOejRZUXdUNC1HTFVKbGFrQUh4Tm1oYURQanRZZkNVZC4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2020-01-08T09:52:03.000Z",
+        "channelId": "UC22nIfOTM7KLIQuFGMKzQbg",
+        "title": "Bandhan - Super Hit Bhojpuri Full Movie - बंधन - Khesari Lal Yadav - Bhojpuri Film",
+        "description": "#Video #bhojpurisong #wavemusic\nअगर आप Bhojpuri Songs, Bhojpuri Film को पसंद करते हैं तो चैनल को Subscribe करें- Subscribe Now:- http://goo.gl/ip2lbk\n----------------------------------------------------------------------------------\n♪ Now Available on ♪ \nHungama : http://www.hungama.com/album/bandhan-2015/9858922/\nWynk Music : https://wynk.in/music/album/bandhan/hu_9858922?page=0\nGaana : https://gaana.com/album/bandhan-bhojpuri-2017\niTunes : https://itunes.apple.com/in/album/bandhan-original-motion-picture-soundtrack/1439287387?app=itunes&ign-mpt=uo%3D4\n---------------------------------------------------------------------------------\nFilm Name – Bandhan\nStar cast – Khesari Lal Yadav, Smirti Shinha, Sanjay Pandey Etc.\nSingers – Khesari Lal Yadav, Kalpna, Indu Sonali , Khushbu Jain.\nMusic director – Om Jha\nSong lyrics – Pyare Lal Yadav, Azad Singh & Mahesh Pardeshi .\nFilm writer – Manoj Kushwaha.\nBanner –  Sunita Shiv Creation.\nProducer – Shiv Narayan B.Singh.\nDirector – Promanshu Singh.\nCompany/Label  – Wave Music \n\nCast\nKhesari Lal Yadav\nSmirti Shinha\nSanjay Pandey\n\n\nIf you like Bhojpuri Song, Bhojpuri Hit Song, Bhojpuri Full Film and Bhojpuri Film Songs, subscribe our channel. Subscribe Now:- http://goo.gl/ip2lbk -------------\nDigital Managed by – Lokdhun\n(Contact -9718776677)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PSQT8q77bZE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PSQT8q77bZE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PSQT8q77bZE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PSQT8q77bZE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PSQT8q77bZE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Wave Music",
+        "playlistId": "PLNz4YQwT4-GLUJlakAHxNmhaDPjtYfCUd",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PSQT8q77bZE"
+        }
+      },
+      "contentDetails": {
+        "videoId": "PSQT8q77bZE",
+        "videoPublishedAt": "2015-12-12T15:05:49.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Y-LqTUT5J-o_5g7ixs5jE69djAU\"",
+      "id": "UExOejRZUXdUNC1HTFVKbGFrQUh4Tm1oYURQanRZZkNVZC45NzUwQkI1M0UxNThBMkU0",
+      "snippet": {
+        "publishedAt": "2020-01-08T09:52:10.000Z",
+        "channelId": "UC22nIfOTM7KLIQuFGMKzQbg",
+        "title": "PREM ROG - Superhit Full Bhojpuri Movie - Khesari Lal Yadav, Kavya | Bhojpuri Full Film 2017",
+        "description": "#Video #bhojpurisong #wavemusic\nSubscribe Now:- http://goo.gl/ip2lbk\n–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––\n♪ Now Available on ♪ \nGaana  :  https://gaana.com/album/khesari-ke-prem-rog-bhail\nHungama : http://www.hungama.com/album/khesari-ke-prem-rog-bhail/16776808/\nSaavn :  https://www.jiosaavn.com/album/khesari-ke-prem-rog-bhail/zqzEoo9F64E_\nWynk Music : https://wynk.in/music/album/khesari-ke-prem-rog-bhail/hu_16776808?page=0\niTunes : https://itunes.apple.com/in/album/khesari-ke-prem-rog-bhail-original-motion-picture-soundtrack/1440110862?app=itunes&ign-mpt=uo%3D4\n––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––\n\nPREM ROG - Superhit Full Bhojpuri Movie - Khesari Lal Yadav, Kavya | Bhojpuri Full Film 2017\n\nIf you like Bhojpuri song, , Bhojpuri full film and bhojpuri movie songs, subscribe our channel. Subscribe Now:- http://goo.gl/ip2lbk\n\nFilm :-  Khesari Ke Prem Rog Bhai\nStar Cast :- Khesari Lal Yadav, Kabya, Nijam Khan, Anup Arora, \nLyrics:- Vinay Bihari, Sachchinanad \"Kavach\", Pyare Lal Yadav \"Kavi Ji\"\nMusic Director :- Ghuagharu\nWritten By :- Manoj Hansraj\nDirector :- Promanshu Singh\nMusic Director :- Ghunghuru Ji\nProducer :- Nijam Khan, MD Sohel\nCompany/ Label :- Wave\n\nDownload Wave Music official app from Google Play Store - https://goo.gl/GyvICs\n\nIf you like Bhojpuri song, Bhojpuri full film and bhojpuri movie songs, Subscribe Now:- http://goo.gl/ip2lbk\n\nVisit our website to download our songs and videos: http://www.bhojpuriwave.com\n\nLike Us On Facebook - https://www.facebook.com/wavemusicofficial/ -------------\nDigital Managed by – Lokdhun\n(Contact -9718776677)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AOJhF_Q76_w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AOJhF_Q76_w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AOJhF_Q76_w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AOJhF_Q76_w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AOJhF_Q76_w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Wave Music",
+        "playlistId": "PLNz4YQwT4-GLUJlakAHxNmhaDPjtYfCUd",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "AOJhF_Q76_w"
+        }
+      },
+      "contentDetails": {
+        "videoId": "AOJhF_Q76_w",
+        "videoPublishedAt": "2017-07-23T04:00:00.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/DKYBHoAzZv2dYjXsgWmsmcdwcS8\"",
+      "id": "UExOejRZUXdUNC1HTFVKbGFrQUh4Tm1oYURQanRZZkNVZC5DNzE1RjZEMUZCMjA0RDBB",
+      "snippet": {
+        "publishedAt": "2020-01-08T09:52:16.000Z",
+        "channelId": "UC22nIfOTM7KLIQuFGMKzQbg",
+        "title": "HD शोला शबनम || Shola Shabnam || Kheshari Lal Yadav || Bhojpuri Movie || Bhojpuri Full Movie 2015 HD",
+        "description": "#Video #bhojpurisong #wavemusic\nअगर आप Bhojpuri Video को पसंद करते हैं तो Plz Facebook को Like करें- Like Now:-http://goo.gl/9VO1y8\n–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––\n♪ Now Available on ♪ \nGaana  :  https://gaana.com/album/shola-shabnam\nHungama : https://www.hungama.com/album/shola-shabnam/17382248/\nWynk Music : https://wynk.in/music/album/shola-shabnam/hu_17382248?page=0\niTunes : https://itunes.apple.com/in/album/shola-shabnam-original-motion-picture-soundtrack/1439287136?app=itunes&ign-mpt=uo%3D4\n––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––\n\nFilm :- Shola Shabnam\nStar Cast :- Kheshari Lal Yadav,Tanu Shree Data, Nitin Singh Etc.\nDirector :- Shiv ji R. Narayan\nWritter :- Manoj Khushwaha\nBanner :- B.k Present -------------\nDigital Managed by – Lokdhun\n(Contact -9718776677)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ib-3JBlXHWo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ib-3JBlXHWo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ib-3JBlXHWo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ib-3JBlXHWo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Wave Music",
+        "playlistId": "PLNz4YQwT4-GLUJlakAHxNmhaDPjtYfCUd",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ib-3JBlXHWo"
+        }
+      },
+      "contentDetails": {
+        "videoId": "ib-3JBlXHWo",
+        "videoPublishedAt": "2015-06-12T06:39:51.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/LNIcoy4OcJ_43BBwF97QRJBl3rE\"",
+      "id": "UExOejRZUXdUNC1HTFVKbGFrQUh4Tm1oYURQanRZZkNVZC43MTI1NDIwOTMwQjIxMzNG",
+      "snippet": {
+        "publishedAt": "2020-01-08T09:52:23.000Z",
+        "channelId": "UC22nIfOTM7KLIQuFGMKzQbg",
+        "title": "ग़दर || GADAR || Super Hit Full Bhojpuri Movie 2016 || Pawan Singh || Bhojpuri Full Film",
+        "description": "#Video #bhojpurisong #wavemusic\nSubscribe Now:- http://goo.gl/ip2lbk\n–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––\n♪ Now Available on ♪ \nGaana  :  https://gaana.com/album/gadar-bhojpuri\nHungama : http://www.hungama.com/album/gadar/20242126/\nSaavn :  https://www.saavn.com/s/album/bhojpuri/Gadar-2016/,N7JmzeM4cg_\nWynk Music : https://wynk.in/music/album/Gadar-(Bhojpuri)/hu_20242126\niTunes : https://itunes.apple.com/in/album/gadar-original-motion-picture-soundtrack/1440480824?app=itunes&ign-mpt=uo%3D4\n––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––\nIf you like Bhojpuri song, , Bhojpuri full film and bhojpuri movie songs, subscribe our channel. Subscribe Now:- http://goo.gl/ip2lbk\n\nFilm :- GADAR\nStar Cast :- Pawan Singh, Nidhi Jha, Neha Singh, Sushil Singh & Others\nLyrics :- Pyare Lal Yadav, Vinod Byash, Pawan Pandey.\nMusic Director :- Om Jha.\nProducer :- Bhupendra Vijay Singh, Bablu M Gupta & Ravi SIngh Rajput.\nDirector :- Ramakant Prasad.\nCompany/Label :- Wave Music -------------\nDigital Managed by – Lokdhun\n(Contact -9718776677)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wD9sSlvazkM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wD9sSlvazkM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wD9sSlvazkM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wD9sSlvazkM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wD9sSlvazkM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Wave Music",
+        "playlistId": "PLNz4YQwT4-GLUJlakAHxNmhaDPjtYfCUd",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wD9sSlvazkM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "wD9sSlvazkM",
+        "videoPublishedAt": "2016-10-28T15:50:15.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/-ey2TA0RH2g42CZemi8-Ng7IP3g\"",
+      "id": "UExOejRZUXdUNC1HTFVKbGFrQUh4Tm1oYURQanRZZkNVZC5DQ0MyQ0Y4Mzg0M0VGOEYw",
+      "snippet": {
+        "publishedAt": "2020-01-08T09:52:30.000Z",
+        "channelId": "UC22nIfOTM7KLIQuFGMKzQbg",
+        "title": "Patna Se Pakistan - पटना से पाकिस्तान - Super Hit Full Bhojpuri Movie | Dinesh Lal Yadav \"Nirahua\"",
+        "description": "#Video #bhojpurisong #wavemusic\nअगर आप Bhojpuri Songs, Bhojpuri Film को पसंद करते हैं तो चैनल को Subscribe करें- Subscribe Now:- http://goo.gl/ip2lbka\n\n♪ Now Available on ♪ \nGaana : https://gaana.com/album/patna-se-pakistan\niTunes : https://itunes.apple.com/in/album/patna-se-pakistan-original-motion-picture-soundtrack/1440110582?app=itunes&ign-mpt=uo%3D4\n\n\n\n---------------------------------------------------------------------------------\nFilm Name – Patna Se Pakistan\nStar cast – Star Cast : Dinesh Lal Yadav \"Nirahua\", Kajal Raghwani, Amrapali Dubey, Sushil Singh, Ashok Samarth Etc.\nSingers – Kalpna, Dinesh Lal Yadav, Alok Kumar.\nMusic director – Rajesh - Rajnish\nSong lyrics – Pyare Lal Yadav.\nFilm writer – Santosh Mishra\nBanner –  Ananya Craft & Visions\nProducer – Ananjay Raghuraj \nDirector – Santosh Mishra\nCompany/Label  – Wave Music \n \nPatna Se Pakistan is a 2015 Indian, Bhojpuri language action film directed by Santosh Mishra and produced by Ananjay Raghuraj. The film was released on 23 January 2015 in Bihar and on 6 March 2015 in the rest of India. The production companies involved are Ananya Craft & Visions and Trimurti Entertainment Media. The film stars Dinesh Lal Yadav Nirahua, Amrapali Dubey, Kajal Raghwani, Sushil Singh, Ashok Samarth\n\nKabir (Dinesh Lal Yadav Nirhua) is a simple living man who loses his entire family in a terrorist attack. Kabir pleads with the government to find the culprit, but when the govt refuses to help Kabir takes the matter into his own hands. He goes to Pakistan from Patna and fights with the terrorist organization.\n\nCast\nDinesh Lal Yadav Nirahua\nAmrapali Dubey\nKajal Raghwani\nSushil Singh\nAshok Samarth\n\n\nIf you like Bhojpuri Song, Bhojpuri  Song, Bhojpuri Full Film and Bhojpuri Film Songs, subscribe our channel. Subscribe Now:- http://goo.gl/ip2lbk -------------\nDigital Managed by – Lokdhun\n(Contact -9718776677)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VgksHAtjkiQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VgksHAtjkiQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VgksHAtjkiQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VgksHAtjkiQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Wave Music",
+        "playlistId": "PLNz4YQwT4-GLUJlakAHxNmhaDPjtYfCUd",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VgksHAtjkiQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "VgksHAtjkiQ",
+        "videoPublishedAt": "2015-11-21T15:33:23.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/xRE7NXyzu27MFi3TY9vMRFXvVBs\"",
+      "id": "UExOejRZUXdUNC1HTFVKbGFrQUh4Tm1oYURQanRZZkNVZC4yQUE2Q0JEMTk4NTM3RTZC",
+      "snippet": {
+        "publishedAt": "2020-01-08T09:52:37.000Z",
+        "channelId": "UC22nIfOTM7KLIQuFGMKzQbg",
+        "title": "LOOTERE - लुटेरे - Superhit Bhojpuri Full Movie 2018 - Pawan Singh, Akshra, Yash Kumar",
+        "description": "#Video #bhojpurisong #wavemusic\nHum Hai Lootere - Superhit Bhojpuri Full Movie 2018 - Pawan Singh, Akshra, Yash Kumar - Full Film\n\nSubscribe Now:- http://goo.gl/ip2lbk\n-----------------------------------------------------------------------------------------------------------------------------------------------\n♪ Now Available on ♪ \nHungama :  http://www.hungama.com/album/ham-hai-lootere/32993993/\nWynk Music : https://wynk.in/music/album/ham-hai-lootere/hu_32993993?page=0\nGaana : https://gaana.com/album/ham-hai-lootere\niTunes : https://itunes.apple.com/in/album/ham-hai-lootere-original-motion-picture-soundtrack/1444726121?app=itunes&ign-mpt=uo%3D4\n----------------------------------------------------------------------------------------------------------------------------------------------\n\nDownload Wave Music official app from Google Play Store - https://goo.gl/GyvICs\n\nIf you like Bhojpuri song, Bhojpuri full film and bhojpuri movie songs, Subscribe Now:- http://goo.gl/ip2lbk\n\nVisit our website to download our songs and videos: http://www.bhojpuriwave.com\n\nLike Us On Facebook - https://www.facebook.com/wavemusicofficial/\n\nFilm :- Hum Hai Lootere\nStar Cast :-  Pawan Singh, Akshra, Yash Kumar, Punam Dubey, Gourav Jha, Ritu Singh, Avdhesh Mishra, Ayaj Khan, Manoj Tiger, Dev Singh\n\nSinger :- Pawan Singh,Indu Sonali\nWritten By :- Surendra Mishra\nLyrics :-Munna Dubey, Shyam Dehati, Azad Singh \nMusic Director :- Ghungooru Ji\nDirector :- Raju\nProducer :- Manoj Kumar Choudhary\nChoreographer :- Sanjay Korbe, Kanu Mukhargi\nAction :- Hiralal Yadav \nBaner :- Mithila Talkies\nCompany/Label :- Wave Music -------------\nDigital Managed by – Lokdhun\n(Contact -9718776677)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sQGFeAAKAjI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sQGFeAAKAjI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sQGFeAAKAjI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sQGFeAAKAjI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sQGFeAAKAjI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Wave Music",
+        "playlistId": "PLNz4YQwT4-GLUJlakAHxNmhaDPjtYfCUd",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "sQGFeAAKAjI"
+        }
+      },
+      "contentDetails": {
+        "videoId": "sQGFeAAKAjI",
+        "videoPublishedAt": "2018-03-18T04:00:04.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/bB99hkxFOjqcWTGzWFIU0ltCCt0\"",
+      "id": "UExOejRZUXdUNC1HTFVKbGFrQUh4Tm1oYURQanRZZkNVZC5DMkU4NTY1QUFGQTYwMDE3",
+      "snippet": {
+        "publishedAt": "2020-01-08T09:52:44.000Z",
+        "channelId": "UC22nIfOTM7KLIQuFGMKzQbg",
+        "title": "Gharwali Baharwali - Super Hit Full Bhojpuri Movie 2016 - Monalisa & Rani Chatterjee - Full Film",
+        "description": "#Video #bhojpurisong #wavemusic\nSubscribe Now:- http://goo.gl/ip2lbk\n–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––\n♪ Now Available on ♪ \nGaana  :  https://gaana.com/album/gharwali-baharwali-bhojpuri\nHungama : http://www.hungama.com/album/gharwali-baharwali/19791692/\nSaavn :  https://www.saavn.com/s/album/bhojpuri/Gharwali-Baharwali-2016/D6wItHsdYOs_\nWynk Music : https://wynk.in/music/album/Gharwali-Baharwali/hu_19791692\niTunes : https://itunes.apple.com/in/album/gharwali-baharwali-original-motion-picture-soundtrack/1440280644?app=itunes&ign-mpt=uo%3D4\n––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––\nIf you like Bhojpuri song, , Bhojpuri full film and bhojpuri movie songs, subscribe our channel. Subscribe Now:- http://goo.gl/ip2lbk\n\nVisit our website to download our songs and videos: http://www.bhojpuriwave.com\n\nMovie : Gharwali Baharwali\nStar Cast : Namit Tiwari, Rani Chatterjee, Monalisa & Others.\nLyric : Ashok Kumar Deep, pyare Lal Yadav, Vibhakar Pandey\nMusic : Chhote Baba\nDirector : Ajay Srivastava\nProducer : Kamlesh Chauhan , Chandra Bhusan Gupta\nCompany/Label – Wave Music \nCopyrights – Vee Gee Audio -------------\nDigital Managed by – Lokdhun\n(Contact -9718776677)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/woN_RxKivRA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/woN_RxKivRA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/woN_RxKivRA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/woN_RxKivRA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/woN_RxKivRA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Wave Music",
+        "playlistId": "PLNz4YQwT4-GLUJlakAHxNmhaDPjtYfCUd",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "woN_RxKivRA"
+        }
+      },
+      "contentDetails": {
+        "videoId": "woN_RxKivRA",
+        "videoPublishedAt": "2016-12-31T16:00:03.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/oS6KLUv8TIQJLo1rSNLjAA6c9zQ\"",
+      "id": "UExUQ1duRk1JWjF6T1ZQclZXYndOLTFQdHRuQ19VTHpGdy40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2020-04-17T10:32:58.000Z",
+        "channelId": "UCh-Caf8-8S1xgwjj7qtoz3w",
+        "title": "Khandan - 2020 | आम्रपाली दुबे & दिनेश लाल की नई भोजपुरी फिल्म | New Released Bhojpuri Full Movie",
+        "description": "#bhojpuricinematv #bhojpurimovie2020 #bhojpurifilms2020",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/j_PSIVgyKfg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/j_PSIVgyKfg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/j_PSIVgyKfg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/j_PSIVgyKfg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/j_PSIVgyKfg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bihari Cinema TV",
+        "playlistId": "PLTCWnFMIZ1zOVPrVWbwN-1PttnC_ULzFw",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "j_PSIVgyKfg"
+        }
+      },
+      "contentDetails": {
+        "videoId": "j_PSIVgyKfg",
+        "videoPublishedAt": "2020-04-17T10:01:23.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/zu7mU3ZCsPRHb2u0gKFAmVnWa7k\"",
+      "id": "UExUQ1duRk1JWjF6T1ZQclZXYndOLTFQdHRuQ19VTHpGdy5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2020-04-17T04:03:15.000Z",
+        "channelId": "UCh-Caf8-8S1xgwjj7qtoz3w",
+        "title": "New Released Bhojpuri Movie 2020 | #Kajal Raghwani NEW MOVIE | नई रिलीज़ भोजपुरी एक्शन फिल्म",
+        "description": "#bhojpuricinematv #bhojpurimovie #bhojpurifilms",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HbZ4EVjMMAE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HbZ4EVjMMAE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HbZ4EVjMMAE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HbZ4EVjMMAE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Bihari Cinema TV",
+        "playlistId": "PLTCWnFMIZ1zOVPrVWbwN-1PttnC_ULzFw",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HbZ4EVjMMAE"
+        }
+      },
+      "contentDetails": {
+        "videoId": "HbZ4EVjMMAE",
+        "videoPublishedAt": "2020-04-14T10:24:09.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/xZN9YLRW49Vx1fbcNhgY69h7KnU\"",
+      "id": "UExUQ1duRk1JWjF6T1ZQclZXYndOLTFQdHRuQ19VTHpGdy41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2020-04-11T14:04:45.000Z",
+        "channelId": "UCh-Caf8-8S1xgwjj7qtoz3w",
+        "title": "New Release Bhojpuri Movie | Dinesh Lal Yadav | Aamrapali Dubey | Nirahua Hindustani 3",
+        "description": "#biharicinematv",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/27S1OqNoZ3c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/27S1OqNoZ3c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/27S1OqNoZ3c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/27S1OqNoZ3c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Bihari Cinema TV",
+        "playlistId": "PLTCWnFMIZ1zOVPrVWbwN-1PttnC_ULzFw",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "27S1OqNoZ3c"
+        }
+      },
+      "contentDetails": {
+        "videoId": "27S1OqNoZ3c",
+        "videoPublishedAt": "2020-04-11T13:57:03.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/NhV__rcxpwkxDNolulXjVEVsG0Q\"",
+      "id": "UExUQ1duRk1JWjF6T1ZQclZXYndOLTFQdHRuQ19VTHpGdy45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2020-04-15T14:09:26.000Z",
+        "channelId": "UCh-Caf8-8S1xgwjj7qtoz3w",
+        "title": "जान की बाज़ी - 2020 | New Bhojpuri Full Action Movie | Kajal Raghwani | Khesari Lal Yadav Movie 2020",
+        "description": "#bhojpuricinematv",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1wEUULwEwmQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1wEUULwEwmQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1wEUULwEwmQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1wEUULwEwmQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Bihari Cinema TV",
+        "playlistId": "PLTCWnFMIZ1zOVPrVWbwN-1PttnC_ULzFw",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1wEUULwEwmQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "1wEUULwEwmQ",
+        "videoPublishedAt": "2020-04-15T13:48:12.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ArMeGf0q2t2Ex9__7__LzbAjVus\"",
+      "id": "UExUQ1duRk1JWjF6T1ZQclZXYndOLTFQdHRuQ19VTHpGdy5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2020-04-15T06:52:14.000Z",
+        "channelId": "UCh-Caf8-8S1xgwjj7qtoz3w",
+        "title": "बलम जी लव यू 2 - (2020) #Kajal Raghwani New Released Bhojpuri Movie | Khesari Lal New Movie",
+        "description": "#bhojpuricinematv #kajalraghwani",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/N9aOihihppg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/N9aOihihppg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/N9aOihihppg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/N9aOihihppg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Bihari Cinema TV",
+        "playlistId": "PLTCWnFMIZ1zOVPrVWbwN-1PttnC_ULzFw",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "N9aOihihppg"
+        }
+      },
+      "contentDetails": {
+        "videoId": "N9aOihihppg",
+        "videoPublishedAt": "2020-04-15T04:02:28.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Kbxum8lEkHsfJD2_PIJ7UG4JBhE\"",
+      "id": "UExUQ1duRk1JWjF6T1ZQclZXYndOLTFQdHRuQ19VTHpGdy4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2020-04-14T02:17:27.000Z",
+        "channelId": "UCh-Caf8-8S1xgwjj7qtoz3w",
+        "title": "Sanam Tera Ishq | New Released Full Hindi Dubbed Movie 2020 | Blockbuster Movie",
+        "description": "#bhojpuricinematv #dubbedfullmovie #fullhindimovie",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zPycvGOqaRA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zPycvGOqaRA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zPycvGOqaRA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zPycvGOqaRA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Bihari Cinema TV",
+        "playlistId": "PLTCWnFMIZ1zOVPrVWbwN-1PttnC_ULzFw",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zPycvGOqaRA"
+        }
+      },
+      "contentDetails": {
+        "videoId": "zPycvGOqaRA",
+        "videoPublishedAt": "2020-04-13T14:38:48.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/cX3wIUQWQhkh88jBLqc3PdtzumU\"",
+      "id": "UExUQ1duRk1JWjF6T1ZQclZXYndOLTFQdHRuQ19VTHpGdy41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2020-04-14T07:53:17.000Z",
+        "channelId": "UCh-Caf8-8S1xgwjj7qtoz3w",
+        "title": "सिंदुरवा बड़ा अनमोल | New Released free Bhojpuri Full Movie | Aamrapali Dubey Movie 2020",
+        "description": "#bhojpuricinematv #bhojpurimovie",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yZYpkGrw6j8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yZYpkGrw6j8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yZYpkGrw6j8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yZYpkGrw6j8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yZYpkGrw6j8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bihari Cinema TV",
+        "playlistId": "PLTCWnFMIZ1zOVPrVWbwN-1PttnC_ULzFw",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yZYpkGrw6j8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "yZYpkGrw6j8",
+        "videoPublishedAt": "2020-04-14T06:01:28.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/iaKmb_1HNboG6lrpe6OirxqPXqs\"",
+      "id": "UExUQ1duRk1JWjF6T1ZQclZXYndOLTFQdHRuQ19VTHpGdy4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2020-04-13T14:36:33.000Z",
+        "channelId": "UCh-Caf8-8S1xgwjj7qtoz3w",
+        "title": "संघर्ष फिर से - 2020 | Khesari Lal Yadav | Kajal Raghwani | New Released Bhojpuri Full Movie",
+        "description": "#bhojpuricinematv #bhojpurimovie #bhojpurifilm #kajalraghwani #khesarilalyadav",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Kpqa1IEEjY8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Kpqa1IEEjY8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Kpqa1IEEjY8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Kpqa1IEEjY8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Bihari Cinema TV",
+        "playlistId": "PLTCWnFMIZ1zOVPrVWbwN-1PttnC_ULzFw",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Kpqa1IEEjY8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Kpqa1IEEjY8",
+        "videoPublishedAt": "2020-04-13T03:37:23.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/DSD4eyVS-h1WB-mNhzuryXS-AbQ\"",
+      "id": "UExUQ1duRk1JWjF6T1ZQclZXYndOLTFQdHRuQ19VTHpGdy4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2020-04-11T14:04:45.000Z",
+        "channelId": "UCh-Caf8-8S1xgwjj7qtoz3w",
+        "title": "Return Of Yevadu 2020 - Pawan Kalyan - Reema Sen - New Release South Dubbed Movie",
+        "description": "#pawankalyan #bhojpuridubbedmovie #",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SgIB1fGbw4I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SgIB1fGbw4I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SgIB1fGbw4I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SgIB1fGbw4I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Bihari Cinema TV",
+        "playlistId": "PLTCWnFMIZ1zOVPrVWbwN-1PttnC_ULzFw",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SgIB1fGbw4I"
+        }
+      },
+      "contentDetails": {
+        "videoId": "SgIB1fGbw4I",
+        "videoPublishedAt": "2020-04-11T07:12:48.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/UIXO2kE1ucX-qJDiR28SXof4kYU\"",
+      "id": "UExUQ1duRk1JWjF6T1ZQclZXYndOLTFQdHRuQ19VTHpGdy4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2020-04-11T14:04:45.000Z",
+        "channelId": "UCh-Caf8-8S1xgwjj7qtoz3w",
+        "title": "जीतब कब्बडी | New Release Bhojpuri Movie | Kajal Raghwani | Pawan Singh | Bhojpuri Film 2020",
+        "description": "#bhojpuricinematv #pawansingh #kajalraghwani",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4wpUs38RRDM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4wpUs38RRDM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4wpUs38RRDM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4wpUs38RRDM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Bihari Cinema TV",
+        "playlistId": "PLTCWnFMIZ1zOVPrVWbwN-1PttnC_ULzFw",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4wpUs38RRDM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "4wpUs38RRDM",
+        "videoPublishedAt": "2020-04-10T14:38:39.000Z"
+      }
+    }
+  ]
+}
