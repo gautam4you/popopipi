@@ -10,31 +10,31 @@
 	"ytKey": "AIzaSyATjnGM3cOyLdrTdFtmQLS-XO0ywJjcCnI",
 	"GridSize": 2,
 	"HomeVideosList": [{
-			"videosListId": "neha_banner.json",
+			"videosListId": "bhojpuri_banner.json",
 			"type": "YP",
 			"extraLink": "",
 			"title": "Breaking",
 			"moreButton": true
 		},
 		{
-			"videosListId": "ramayana.json",
+			"videosListId": "bhojpuri_songs1.json",
 			"type": "YP",
 			"extraLink": "",
-			"title": "Ramayana",
+			"title": "Bhojpuri Songs",
 			"moreButton": true
 		},
 			{
-			"videosListId": "jai_ganga_maiya.json",
+			"videosListId": "bhojpuri_movie.json",
 			"type": "YP",
 			"extraLink": "",
-			"title": "Jai Ganga Maiya",
+			"title": "Bhpjpuri Movies",
 			"moreButton": true
 		},
 			{
-			"videosListId": "jaishree.json",
+			"videosListId": "bhojpuri_doubed.json",
 			"type": "YP",
 			"extraLink": "",
-			"title": "Jai Shree Krishna",
+			"title": "Bhojpuri Doubed Movies",
 			"moreButton": true
 		}
 	],
