@@ -1,0 +1,56 @@
+{
+	"active": true,
+	"ads": {
+		"active": true,
+		"bannerAdsUnite": "ca-app-pub-6533269161423177/8422634243",
+		"fullAdsUnite": "ca-app-pub-6533269161423177/7640035612",
+		"rewardVideosAdsUnite": "ca-app-pub-6533269161423177/7491576391",
+		"adsAppId": "ca-app-pub-6533269161423177~3745022637"
+	},
+	"ytKey": "AIzaSyATjnGM3cOyLdrTdFtmQLS-XO0ywJjcCnI",
+	"GridSize": 2,
+	"HomeVideosList": [{
+			"videosListId": "neha_banner.json",
+			"type": "YP",
+			"extraLink": "",
+			"title": "Breaking",
+			"moreButton": true
+		},
+		{
+			"videosListId": "ramayana.json",
+			"type": "YP",
+			"extraLink": "",
+			"title": "Ramayana",
+			"moreButton": true
+		},
+			{
+			"videosListId": "jai_ganga_maiya.json",
+			"type": "YP",
+			"extraLink": "",
+			"title": "Jai Ganga Maiya",
+			"moreButton": true
+		},
+			{
+			"videosListId": "jaishree.json",
+			"type": "YP",
+			"extraLink": "",
+			"title": "Jai Shree Krishna",
+			"moreButton": true
+		}
+	],
+	"ExtraHomeVideosList": [{
+			"videosListId": "PLFgquLnL59alCl_2TQvOiD5Vgm1hCaGSI",
+			"type": "YP",
+			"extraLink": "",
+			"title": "Recents6",
+			"moreButton": true
+		},
+		{
+			"videosListId": "PLv3TTBr1W_9tppikBxAE_G6qjWdBljBHJ",
+			"type": "YP",
+			"extraLink": "",
+			"title": "Recents7",
+			"moreButton": true
+		}
+	]
+}
