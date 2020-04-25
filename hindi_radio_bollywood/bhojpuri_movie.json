@@ -1468,55 +1468,6 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/oS6KLUv8TIQJLo1rSNLjAA6c9zQ\"",
-      "id": "UExUQ1duRk1JWjF6T1ZQclZXYndOLTFQdHRuQ19VTHpGdy40NzZCMERDMjVEN0RFRThB",
-      "snippet": {
-        "publishedAt": "2020-04-17T10:32:58.000Z",
-        "channelId": "UCh-Caf8-8S1xgwjj7qtoz3w",
-        "title": "Khandan - 2020 | आम्रपाली दुबे & दिनेश लाल की नई भोजपुरी फिल्म | New Released Bhojpuri Full Movie",
-        "description": "#bhojpuricinematv #bhojpurimovie2020 #bhojpurifilms2020",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/j_PSIVgyKfg/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/j_PSIVgyKfg/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/j_PSIVgyKfg/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/j_PSIVgyKfg/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/j_PSIVgyKfg/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Bihari Cinema TV",
-        "playlistId": "PLTCWnFMIZ1zOVPrVWbwN-1PttnC_ULzFw",
-        "position": 0,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "j_PSIVgyKfg"
-        }
-      },
-      "contentDetails": {
-        "videoId": "j_PSIVgyKfg",
-        "videoPublishedAt": "2020-04-17T10:01:23.000Z"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
       "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/zu7mU3ZCsPRHb2u0gKFAmVnWa7k\"",
       "id": "UExUQ1duRk1JWjF6T1ZQclZXYndOLTFQdHRuQ19VTHpGdy5GNjNDRDREMDQxOThCMDQ2",
       "snippet": {
@@ -1557,50 +1508,6 @@
       "contentDetails": {
         "videoId": "HbZ4EVjMMAE",
         "videoPublishedAt": "2020-04-14T10:24:09.000Z"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/xZN9YLRW49Vx1fbcNhgY69h7KnU\"",
-      "id": "UExUQ1duRk1JWjF6T1ZQclZXYndOLTFQdHRuQ19VTHpGdy41NkI0NEY2RDEwNTU3Q0M2",
-      "snippet": {
-        "publishedAt": "2020-04-11T14:04:45.000Z",
-        "channelId": "UCh-Caf8-8S1xgwjj7qtoz3w",
-        "title": "New Release Bhojpuri Movie | Dinesh Lal Yadav | Aamrapali Dubey | Nirahua Hindustani 3",
-        "description": "#biharicinematv",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/27S1OqNoZ3c/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/27S1OqNoZ3c/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/27S1OqNoZ3c/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/27S1OqNoZ3c/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          }
-        },
-        "channelTitle": "Bihari Cinema TV",
-        "playlistId": "PLTCWnFMIZ1zOVPrVWbwN-1PttnC_ULzFw",
-        "position": 2,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "27S1OqNoZ3c"
-        }
-      },
-      "contentDetails": {
-        "videoId": "27S1OqNoZ3c",
-        "videoPublishedAt": "2020-04-11T13:57:03.000Z"
       }
     },
     {
@@ -1649,50 +1556,6 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ArMeGf0q2t2Ex9__7__LzbAjVus\"",
-      "id": "UExUQ1duRk1JWjF6T1ZQclZXYndOLTFQdHRuQ19VTHpGdy5DQUNERDQ2NkIzRUQxNTY1",
-      "snippet": {
-        "publishedAt": "2020-04-15T06:52:14.000Z",
-        "channelId": "UCh-Caf8-8S1xgwjj7qtoz3w",
-        "title": "बलम जी लव यू 2 - (2020) #Kajal Raghwani New Released Bhojpuri Movie | Khesari Lal New Movie",
-        "description": "#bhojpuricinematv #kajalraghwani",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/N9aOihihppg/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/N9aOihihppg/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/N9aOihihppg/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/N9aOihihppg/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          }
-        },
-        "channelTitle": "Bihari Cinema TV",
-        "playlistId": "PLTCWnFMIZ1zOVPrVWbwN-1PttnC_ULzFw",
-        "position": 4,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "N9aOihihppg"
-        }
-      },
-      "contentDetails": {
-        "videoId": "N9aOihihppg",
-        "videoPublishedAt": "2020-04-15T04:02:28.000Z"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
       "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Kbxum8lEkHsfJD2_PIJ7UG4JBhE\"",
       "id": "UExUQ1duRk1JWjF6T1ZQclZXYndOLTFQdHRuQ19VTHpGdy4xMkVGQjNCMUM1N0RFNEUx",
       "snippet": {
@@ -1733,55 +1596,6 @@
       "contentDetails": {
         "videoId": "zPycvGOqaRA",
         "videoPublishedAt": "2020-04-13T14:38:48.000Z"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/cX3wIUQWQhkh88jBLqc3PdtzumU\"",
-      "id": "UExUQ1duRk1JWjF6T1ZQclZXYndOLTFQdHRuQ19VTHpGdy41MzJCQjBCNDIyRkJDN0VD",
-      "snippet": {
-        "publishedAt": "2020-04-14T07:53:17.000Z",
-        "channelId": "UCh-Caf8-8S1xgwjj7qtoz3w",
-        "title": "सिंदुरवा बड़ा अनमोल | New Released free Bhojpuri Full Movie | Aamrapali Dubey Movie 2020",
-        "description": "#bhojpuricinematv #bhojpurimovie",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/yZYpkGrw6j8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/yZYpkGrw6j8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/yZYpkGrw6j8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/yZYpkGrw6j8/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/yZYpkGrw6j8/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Bihari Cinema TV",
-        "playlistId": "PLTCWnFMIZ1zOVPrVWbwN-1PttnC_ULzFw",
-        "position": 6,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "yZYpkGrw6j8"
-        }
-      },
-      "contentDetails": {
-        "videoId": "yZYpkGrw6j8",
-        "videoPublishedAt": "2020-04-14T06:01:28.000Z"
       }
     },
     {
@@ -1872,48 +1686,2242 @@
         "videoPublishedAt": "2020-04-11T07:12:48.000Z"
       }
     },
-    {
+     {
       "kind": "youtube#playlistItem",
-      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/UIXO2kE1ucX-qJDiR28SXof4kYU\"",
-      "id": "UExUQ1duRk1JWjF6T1ZQclZXYndOLTFQdHRuQ19VTHpGdy4yODlGNEE0NkRGMEEzMEQy",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/wQQILNoMMT5Q0PETgto_ohFwkB4\"",
+      "id": "UEw3Sk1za1hqNzBxOUwwS2taQVFibUExXzFMLXN0UW9OaS41NkI0NEY2RDEwNTU3Q0M2",
       "snippet": {
-        "publishedAt": "2020-04-11T14:04:45.000Z",
-        "channelId": "UCh-Caf8-8S1xgwjj7qtoz3w",
-        "title": "जीतब कब्बडी | New Release Bhojpuri Movie | Kajal Raghwani | Pawan Singh | Bhojpuri Film 2020",
-        "description": "#bhojpuricinematv #pawansingh #kajalraghwani",
+        "publishedAt": "2018-09-28T07:49:24.000Z",
+        "channelId": "UCKNGMXJHTiGFdZNSo_zs3fQ",
+        "title": "BORDER | Superhit Full Bhojpuri Movie | Dinesh Lal Yadav \"Nirahua\", Aamrapali Dubey",
+        "description": "Nirahua Entertainment Pvt. Ltd. Presents\nMovie : BORDER\nCast : Dinesh Lal Yadav \"Nirahua\", Aamrapali Dubey, Pravesh Lal Yadav, Shubhi Sharma, Vikrant Singh, Sushil Singh, Awdhesh Mishra, Sanjay Pandey, Aditya Ojha, Gaurav Jha, Vijay Lal Yadav, Vishal Singh, Avinash Dwivedi, Ansuman Rajput, Manoj Tiger, Kajal Yadav, Ananya Mishra, Richa Dixit, Kiran Yadav etc.\nDirector : Santosh Mishra\nProducer : Pravesh Lal Yadav\nMusic : Rajnish Mishra\nLyrics : Pyare Lal Yadav, Aazad Singh\nVFX : Humming Bird VFX\nMusic on : NIRAHUA MUSIC \n\nIndia’s Number one Bhojpuri YouTube Channel \"Nirahua Music World\" Managed, Maintained and Monetized By Wings Entertainment LLC (UAE) Under the License From Nirahua Entertainment Pvt Ltd Mumbai India.\n\nKeyword । ghunghat mein ghotala, nirahua rikshawala, nirahua hindustani, bhojpuri film, ghoonghat mein ghotala full movie,  bhojpuri song, bhojpuri movie, bhojpuri gana, निरहुआ रिक्शावाला, bhojpuri picture, amrapali dubey hot songs 2018, nirahua ka film, bhojpuri video, nirahua song, भोजपुरी फिल्म, भोजपुरी पिक्चर, film bhojpuri, new bhojpuri movie, निरहुआ हिंदुस्तानी फिल्म, bhojpuri cinema, रिक्शावाला फिल्म,",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/4wpUs38RRDM/default.jpg",
+            "url": "https://i.ytimg.com/vi/dCmYUlCi03g/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/4wpUs38RRDM/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/dCmYUlCi03g/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/4wpUs38RRDM/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/dCmYUlCi03g/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/4wpUs38RRDM/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/dCmYUlCi03g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dCmYUlCi03g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Nirahua Music World",
+        "playlistId": "PL7JMskXj70q9L0KkZAQbmA1_1L-stQoNi",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dCmYUlCi03g"
+        }
+      },
+      "contentDetails": {
+        "videoId": "dCmYUlCi03g",
+        "videoPublishedAt": "2018-09-28T03:30:01.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/znL6HfyMOu2oVlj672qVgj6Tx6E\"",
+      "id": "UEw3Sk1za1hqNzBxOUwwS2taQVFibUExXzFMLXN0UW9OaS4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2018-09-28T07:49:24.000Z",
+        "channelId": "UCKNGMXJHTiGFdZNSo_zs3fQ",
+        "title": "Betauwa Tohar Gor Hoyee Ho | Border | Bhojpuri Movie Full Song |Dinesh Lal Yadav \"Nirahua\",Aamrapali",
+        "description": "Song : Betauwa Tohar Gor Hoyee Ho\nSinger : Dinesh Lal Yadav \"Nirahua\", Kalpana\nNirahua Entertainment Pvt. Ltd. Presents\nMovie : BORDER\nCast : Dinesh Lal Yadav \"Nirahua\", Aamrapali Dubey, Pravesh Lal Yadav. Shubhi Sharma, Vikrant Singh, Sushil Singh, Awdhesh Mishra, Sanjay Pandey, Aditya Ojha, Gaurav Jha, Vijay Lal Yadav, Vishal Singh, Avinash Dwivedi, Ansuman Rajput, Manoj Tiger, Kajal Yadav, Ananya Mishra, Richa Dixit , Kiran Yadav etc.\nDirector : Santosh Mishra\nProducer : Pravesh Lal Yadav\nMusic : Rajnish Mishra\nLyrics : Aazad Singh\nMusic on : NIRAHUA MUSIC India’s Number one Bhojpuri YouTube Channel \"Nirahua Music World\" Managed, Maintained and Monetized By Wings Entertainment LLC (UAE) Under the License From Nirahua Entertainment Pvt Ltd Mumbai India.\n\n         । Keyword । ghunghat mein ghotala, nirahua rikshawala, nirahua hindustani, bhojpuri film, ghoonghat mein ghotala full movie,  bhojpuri song, bhojpuri movie, bhojpuri gana, निरहुआ रिक्शावाला, bhojpuri picture, amrapali dubey hot songs 2018, nirahua ka film, bhojpuri video, nirahua song, भोजपुरी फिल्म, भोजपुरी पिक्चर, film bhojpuri,\nnew bhojpuri movie, निरहुआ हिंदुस्तानी फिल्म, bhojpuri cinema, रिक्शावाला फिल्म,",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fnwt9LnM6ZM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fnwt9LnM6ZM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fnwt9LnM6ZM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fnwt9LnM6ZM/sddefault.jpg",
             "width": 640,
             "height": 480
           }
         },
-        "channelTitle": "Bihari Cinema TV",
-        "playlistId": "PLTCWnFMIZ1zOVPrVWbwN-1PttnC_ULzFw",
-        "position": 9,
+        "channelTitle": "Nirahua Music World",
+        "playlistId": "PL7JMskXj70q9L0KkZAQbmA1_1L-stQoNi",
+        "position": 1,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "4wpUs38RRDM"
+          "videoId": "fnwt9LnM6ZM"
         }
       },
       "contentDetails": {
-        "videoId": "4wpUs38RRDM",
-        "videoPublishedAt": "2020-04-10T14:38:39.000Z"
+        "videoId": "fnwt9LnM6ZM",
+        "videoPublishedAt": "2018-09-23T00:30:00.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/MNSL1Lke8dA3IQ9oq6ruH9ZUpng\"",
+      "id": "UEw3Sk1za1hqNzBxOUwwS2taQVFibUExXzFMLXN0UW9OaS41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2018-09-28T07:49:24.000Z",
+        "channelId": "UCKNGMXJHTiGFdZNSo_zs3fQ",
+        "title": "Gharwa Bhail Ba Kargil | Border | Bhojpuri Movie Full Song",
+        "description": "Gharwa Bhail Ba Kargil | Border | Bhojpuri Movie Full Song\n\nSong : Gharwa Bhail Ba Kargil\nSinger : Kalpna, Indu Sonali, Rajnish Mishra\nNirahua Entertainment Pvt. Ltd. Presents\nMovie : BORDER\nCast : Dinesh Lal Yadav \"Nirahua\", Aamrapali Dubey, Pravesh Lal Yadav. Shubhi Sharma, Vikrant Singh, Sushil Singh, Awdhesh Mishra, Sanjay Pandey, Aditya Ojha, Gaurav Jha, Vijay Lal Yadav, Vishal Singh, Avinash Dwivedi, Ansuman Rajput, Manoj Tiger, Kajal Yadav, Ananya Mishra, Richa Dixit , Kiran Yadav etc.\nDirector : Santosh Mishra\nProducer : Pravesh Lal Yadav\nMusic : Rajnish Mishra\nLyrics : Pyare Lal Yadav\nMusic on : NIRAHUA MUSIC \n\nIndia’s Number one Bhojpuri YouTube Channel \"Nirahua Music World\" Managed, Maintained and Monetized By Wings Entertainment LLC (UAE) Under the License From Nirahua Entertainment Pvt Ltd Mumbai India.\n\nKeyword । ghunghat mein ghotala, nirahua rikshawala, nirahua hindustani, bhojpuri film, ghoonghat mein ghotala full movie,  bhojpuri song, bhojpuri movie, bhojpuri gana, निरहुआ रिक्शावाला, bhojpuri picture, amrapali dubey hot songs 2018, nirahua ka film, bhojpuri video, nirahua song, भोजपुरी फिल्म, भोजपुरी पिक्चर, film bhojpuri, new bhojpuri movie, निरहुआ हिंदुस्तानी फिल्म, bhojpuri cinema, रिक्शावाला फिल्म,",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FXxwoROAOV0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FXxwoROAOV0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FXxwoROAOV0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FXxwoROAOV0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FXxwoROAOV0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Nirahua Music World",
+        "playlistId": "PL7JMskXj70q9L0KkZAQbmA1_1L-stQoNi",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FXxwoROAOV0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "FXxwoROAOV0",
+        "videoPublishedAt": "2018-09-25T09:55:22.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Y15r74eSPDI9hNyN93IXQ6enwP8\"",
+      "id": "UEw3Sk1za1hqNzBxOUwwS2taQVFibUExXzFMLXN0UW9OaS4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2018-09-28T07:49:24.000Z",
+        "channelId": "UCKNGMXJHTiGFdZNSo_zs3fQ",
+        "title": "Siyaji Ke Ram | Border | Bhojpuri Movie Full Song | Dinesh Lal Yadav ”Nirahua”, Aamrapali Dubey",
+        "description": "Song : Siyaji Ke Ram\nSinger : Kalpana\nNirahua Entertainment Pvt. Ltd. Presents\nMovie : BORDER\nCast : Dinesh Lal Yadav \"Nirahua\", Aamrapali Dubey, Pravesh Lal Yadav. Shubhi Sharma, Vikrant Singh, Sushil Singh, Awdhesh Mishra, Sanjay Pandey, Aditya Ojha, Gaurav Jha, Vijay Lal Yadav, Vishal Singh, Avinash Dwivedi, Ansuman Rajput, Manoj Tiger, Kajal Yadav, Ananya Mishra, Richa Dixit , Kiran Yadav etc.\nDirector : Santosh Mishra\nProducer : Pravesh Lal Yadav\nMusic : Rajnish Mishra\nLyrics : Pyare Lal Yadav\nMusic on : NIRAHUA MUSIC India’s Number one Bhojpuri YouTube Channel \"Nirahua Music World\" Managed, Maintained and Monetized By Wings Entertainment LLC (UAE) Under the License From Nirahua Entertainment Pvt Ltd Mumbai India.\n\n         । Keyword । ghunghat mein ghotala, nirahua rikshawala, nirahua hindustani, bhojpuri film, ghoonghat mein ghotala full movie,  bhojpuri song, bhojpuri movie, bhojpuri gana, निरहुआ रिक्शावाला, bhojpuri picture, amrapali dubey hot songs 2018, nirahua ka film, bhojpuri video, nirahua song, भोजपुरी फिल्म, भोजपुरी पिक्चर, film bhojpuri,\nnew bhojpuri movie, निरहुआ हिंदुस्तानी फिल्म, bhojpuri cinema, रिक्शावाला फिल्म,",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sq1HUzZOaoc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sq1HUzZOaoc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sq1HUzZOaoc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sq1HUzZOaoc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Nirahua Music World",
+        "playlistId": "PL7JMskXj70q9L0KkZAQbmA1_1L-stQoNi",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "sq1HUzZOaoc"
+        }
+      },
+      "contentDetails": {
+        "videoId": "sq1HUzZOaoc",
+        "videoPublishedAt": "2018-09-27T14:57:38.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/yBDIHE2uTWHLtewBDmsP6HaOXN0\"",
+      "id": "UEw3Sk1za1hqNzBxOUwwS2taQVFibUExXzFMLXN0UW9OaS4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2018-09-28T07:49:24.000Z",
+        "channelId": "UCKNGMXJHTiGFdZNSo_zs3fQ",
+        "title": "Hamar Bhaiya Watan Ke Sipahi | Border | Bhojpuri Movie Full Song | Nirahua, Vijay Lal, Aamrapali",
+        "description": "Song : Hamar Bhaiya Watan Ke Sipahi\nSinger : Dinesh Lal Yadav \"Nirahua\", Vijay Lal Yadav, Kalpana, Pamela Jain, Pravesh Lal Yadav\nNirahua Entertainment Pvt. Ltd. Presents\nMovie : BORDER\nCast : Dinesh Lal Yadav \"Nirahua\", Aamrapali Dubey, Pravesh Lal Yadav. Shubhi Sharma, Vikrant Singh, Sushil Singh, Awdhesh Mishra, Sanjay Pandey, Aditya Ojha, Gaurav Jha, Vijay Lal Yadav, Vishal Singh, Avinash Dwivedi, Ansuman Rajput, Manoj Tiger, Kajal Yadav, Ananya Mishra, Richa Dixit , Kiran Yadav etc.\nDirector : Santosh Mishra\nProducer : Pravesh Lal Yadav\nMusic : Rajnish Mishra\nLyrics : Pyare Lal Yadav\nMusic on : NIRAHUA MUSIC India’s Number one Bhojpuri YouTube Channel \"Nirahua Music World\" Managed, Maintained and Monetized By Wings Entertainment LLC (UAE) Under the License From Nirahua Entertainment Pvt Ltd Mumbai India.\n\n         । Keyword । ghunghat mein ghotala, nirahua rikshawala, nirahua hindustani, bhojpuri film, ghoonghat mein ghotala full movie,  bhojpuri song, bhojpuri movie, bhojpuri gana, निरहुआ रिक्शावाला, bhojpuri picture, amrapali dubey hot songs 2018, nirahua ka film, bhojpuri video, nirahua song, भोजपुरी फिल्म, भोजपुरी पिक्चर, film bhojpuri,\nnew bhojpuri movie, निरहुआ हिंदुस्तानी फिल्म, bhojpuri cinema, रिक्शावाला फिल्म,",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ed4A1QEKF-I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ed4A1QEKF-I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ed4A1QEKF-I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ed4A1QEKF-I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ed4A1QEKF-I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Nirahua Music World",
+        "playlistId": "PL7JMskXj70q9L0KkZAQbmA1_1L-stQoNi",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ed4A1QEKF-I"
+        }
+      },
+      "contentDetails": {
+        "videoId": "ed4A1QEKF-I",
+        "videoPublishedAt": "2018-09-27T00:30:00.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/xpMTQjkRM9cmuTiQyNL5BV2W7_E\"",
+      "id": "UEw3Sk1za1hqNzBxOUwwS2taQVFibUExXzFMLXN0UW9OaS4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2018-09-28T07:49:24.000Z",
+        "channelId": "UCKNGMXJHTiGFdZNSo_zs3fQ",
+        "title": "Mile Ke Sajaniya Se Mann Bara Kare | Border | Bhojpuri Movie Full Song | Dinesh Lal Yadav ”Nirahua”",
+        "description": "Song : Mile Ke Sajaniya Se Mann Bara Kare\nSinger : Dinesh Lal Yadav \"Nirahua\"\nNirahua Entertainment Pvt. Ltd. Presents\nMovie : BORDER\nCast : Dinesh Lal Yadav \"Nirahua\", Aamrapali Dubey, Pravesh Lal Yadav. Shubhi Sharma, Vikrant Singh, Sushil Singh, Awdhesh Mishra, Sanjay Pandey, Aditya Ojha, Gaurav Jha, Vijay Lal Yadav, Vishal Singh, Avinash Dwivedi, Ansuman Rajput, Manoj Tiger, Kajal Yadav, Ananya Mishra, Richa Dixit , Kiran Yadav etc.\nDirector : Santosh Mishra\nProducer : Pravesh Lal Yadav\nMusic : Rajnish Mishra\nLyrics :  Aazad Singh\nMusic on : NIRAHUA MUSIC India’s Number one Bhojpuri YouTube Channel \"Nirahua Music World\" Managed, Maintained and Monetized By Wings Entertainment LLC (UAE) Under the License From Nirahua Entertainment Pvt Ltd Mumbai India.\n\n         । Keyword । ghunghat mein ghotala, nirahua rikshawala, nirahua hindustani, bhojpuri film, ghoonghat mein ghotala full movie,  bhojpuri song, bhojpuri movie, bhojpuri gana, निरहुआ रिक्शावाला, bhojpuri picture, amrapali dubey hot songs 2018, nirahua ka film, bhojpuri video, nirahua song, भोजपुरी फिल्म, भोजपुरी पिक्चर, film bhojpuri,\nnew bhojpuri movie, निरहुआ हिंदुस्तानी फिल्म, bhojpuri cinema, रिक्शावाला फिल्म,",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xtEPtf3pkSU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xtEPtf3pkSU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xtEPtf3pkSU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xtEPtf3pkSU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Nirahua Music World",
+        "playlistId": "PL7JMskXj70q9L0KkZAQbmA1_1L-stQoNi",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xtEPtf3pkSU"
+        }
+      },
+      "contentDetails": {
+        "videoId": "xtEPtf3pkSU",
+        "videoPublishedAt": "2018-09-12T03:57:20.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/c8UPFFsq8CBfliPdjw464ZsfiM0\"",
+      "id": "UEw3Sk1za1hqNzBxOUwwS2taQVFibUExXzFMLXN0UW9OaS5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2018-09-28T07:49:44.000Z",
+        "channelId": "UCKNGMXJHTiGFdZNSo_zs3fQ",
+        "title": "BORDER | Bhojpuri Movie | Official Trailer | Dinesh Lal Yadav \"Nirahua\", Aamrapali Dubey",
+        "description": "Nirahua Entertainment Pvt. Ltd. Presents\nMovie : BORDER\nCast : Dinesh Lal Yadav \"Nirahua\", Aamrapali Dubey, Pravesh Lal Yadav. Shubhi Sharma, Vikrant Singh, Sushil Singh, Awdhesh Mishra, Sanjay Pandey, Aditya Ojha, Gaurav Jha, Vijay Lal Yadav, Vishal Singh, Avinash Dwivedi, Ansuman Rajput, Manoj Tiger, Kajal Yadav, Ananya Mishra, Richa Dixit , Kiran Yadav etc.\nDirector : Santosh Mishra\nProducer : Pravesh Lal Yadav\nMusic : Rajnish Mishra\nLyrics : Pyare Lal Yadav, Aazad Singh\nMusic on : NIRAHUA MUSIC India’s Number one Bhojpuri YouTube Channel \"Nirahua Music World\" Managed, Maintained and Monetized By Wings Entertainment LLC (UAE) Under the License From Nirahua Entertainment Pvt Ltd Mumbai India.\n\n         । Keyword । ghunghat mein ghotala, nirahua rikshawala, nirahua hindustani, bhojpuri film, ghoonghat mein ghotala full movie,  bhojpuri song, bhojpuri movie, bhojpuri gana, निरहुआ रिक्शावाला, bhojpuri picture, amrapali dubey hot songs 2018, nirahua ka film, bhojpuri video, nirahua song, भोजपुरी फिल्म, भोजपुरी पिक्चर, film bhojpuri,\nnew bhojpuri movie, निरहुआ हिंदुस्तानी फिल्म, bhojpuri cinema, रिक्शावाला फिल्म,\n।Keyword । ghunghat mein ghotala, nirahua rikshawala, nirahua hindustani, bhojpuri film, ghoonghat mein ghotala full movie,  bhojpuri song, bhojpuri movie, bhojpuri gana, निरहुआ रिक्शावाला, bhojpuri picture, amrapali dubey hot songs 2018, nirahua ka film, bhojpuri video, nirahua song, भोजपुरी फिल्म, भोजपुरी पिक्चर, film bhojpuri, new bhojpuri movie, निरहुआ हिंदुस्तानी फिल्म, bhojpuri cinema, रिक्शावाला फिल्म,",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rOSJMOgwPr0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rOSJMOgwPr0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rOSJMOgwPr0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rOSJMOgwPr0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rOSJMOgwPr0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Nirahua Music World",
+        "playlistId": "PL7JMskXj70q9L0KkZAQbmA1_1L-stQoNi",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "rOSJMOgwPr0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "rOSJMOgwPr0",
+        "videoPublishedAt": "2018-05-20T03:30:00.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/k_KiVK1_FZjzxOVDB_20BiC-G0c\"",
+      "id": "UEw3Sk1za1hqNzBxOUwwS2taQVFibUExXzFMLXN0UW9OaS41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2018-09-28T07:49:24.000Z",
+        "channelId": "UCKNGMXJHTiGFdZNSo_zs3fQ",
+        "title": "Deewani Bhaili Nagma | Border | Bhojpuri Movie Full Song | Dinesh Lal Yadav ”Nirahua”, Aamrapali",
+        "description": "Song : Deewani Bhaili Nagma Nirahua Ke Pyar Mein\nSinger : Khesari Lal Yadav\nNirahua Entertainment Pvt. Ltd. Presents\nMovie : BORDER\nCast : Dinesh Lal Yadav \"Nirahua\", Aamrapali Dubey, Pravesh Lal Yadav. Shubhi Sharma, Vikrant Singh, Sushil Singh, Awdhesh Mishra, Sanjay Pandey, Aditya Ojha, Gaurav Jha, Vijay Lal Yadav, Vishal Singh, Avinash Dwivedi, Ansuman Rajput, Manoj Tiger, Kajal Yadav, Ananya Mishra, Richa Dixit , Kiran Yadav etc.\nDirector : Santosh Mishra\nProducer : Pravesh Lal Yadav\nMusic : Rajnish Mishra\nLyrics : Aazad Singh\nMusic on : NIRAHUA MUSIC India’s Number one Bhojpuri YouTube Channel \"Nirahua Music World\" Managed, Maintained and Monetized By Wings Entertainment LLC (UAE) Under the License From Nirahua Entertainment Pvt Ltd Mumbai India.\n\n         । Keyword । ghunghat mein ghotala, nirahua rikshawala, nirahua hindustani, bhojpuri film, ghoonghat mein ghotala full movie,  bhojpuri song, bhojpuri movie, bhojpuri gana, निरहुआ रिक्शावाला, bhojpuri picture, amrapali dubey hot songs 2018, nirahua ka film, bhojpuri video, nirahua song, भोजपुरी फिल्म, भोजपुरी पिक्चर, film bhojpuri,\nnew bhojpuri movie, निरहुआ हिंदुस्तानी फिल्म, bhojpuri cinema, रिक्शावाला फिल्म,",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7TlJJRP76YI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7TlJJRP76YI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7TlJJRP76YI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7TlJJRP76YI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Nirahua Music World",
+        "playlistId": "PL7JMskXj70q9L0KkZAQbmA1_1L-stQoNi",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7TlJJRP76YI"
+        }
+      },
+      "contentDetails": {
+        "videoId": "7TlJJRP76YI",
+        "videoPublishedAt": "2018-09-07T02:30:00.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/yzWAk7rhA4KalAywQrTpfqpn804\"",
+      "id": "UEw3Sk1za1hqNzBxOUwwS2taQVFibUExXzFMLXN0UW9OaS5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2018-09-28T07:49:24.000Z",
+        "channelId": "UCKNGMXJHTiGFdZNSo_zs3fQ",
+        "title": "Maula Tere Sahar Mein | Bhojpuri Movie Full Song | Dinesh Lal Yadav ”Nirahua”, Aamrapali Dubey",
+        "description": "Song : Maula Tere Sahar Mein\nSinger : Alok Kumar\nNirahua Entertainment Pvt. Ltd. Presents\nMovie : BORDER\nCast : Dinesh Lal Yadav \"Nirahua\", Aamrapali Dubey, Pravesh Lal Yadav. Shubhi Sharma, Vikrant Singh, Sushil Singh, Awdhesh Mishra, Sanjay Pandey, Aditya Ojha, Gaurav Jha, Vijay Lal Yadav, Vishal Singh, Avinash Dwivedi, Ansuman Rajput, Manoj Tiger, Kajal Yadav, Ananya Mishra, Richa Dixit , Kiran Yadav etc.\nDirector : Santosh Mishra\nProducer : Pravesh Lal Yadav\nMusic : Rajnish Mishra\nLyrics : Pyare Lal Yadav\nMusic on : NIRAHUA MUSIC India’s Number one Bhojpuri YouTube Channel \"Nirahua Music World\" Managed, Maintained and Monetized By Wings Entertainment LLC (UAE) Under the License From Nirahua Entertainment Pvt Ltd Mumbai India.\n\n         । Keyword । ghunghat mein ghotala, nirahua rikshawala, nirahua hindustani, bhojpuri film, ghoonghat mein ghotala full movie,  bhojpuri song, bhojpuri movie, bhojpuri gana, निरहुआ रिक्शावाला, bhojpuri picture, amrapali dubey hot songs 2018, nirahua ka film, bhojpuri video, nirahua song, भोजपुरी फिल्म, भोजपुरी पिक्चर, film bhojpuri,\nnew bhojpuri movie, निरहुआ हिंदुस्तानी फिल्म, bhojpuri cinema, रिक्शावाला फिल्म,",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VchH7UyCMIU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VchH7UyCMIU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VchH7UyCMIU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VchH7UyCMIU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VchH7UyCMIU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Nirahua Music World",
+        "playlistId": "PL7JMskXj70q9L0KkZAQbmA1_1L-stQoNi",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VchH7UyCMIU"
+        }
+      },
+      "contentDetails": {
+        "videoId": "VchH7UyCMIU",
+        "videoPublishedAt": "2018-08-21T13:38:04.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/cFR7LiBnjJQs-h76FGb_K2NIl9g\"",
+      "id": "UEw3Sk1za1hqNzBxOUwwS2taQVFibUExXzFMLXN0UW9OaS45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2018-09-28T07:49:24.000Z",
+        "channelId": "UCKNGMXJHTiGFdZNSo_zs3fQ",
+        "title": "Maai Ho Lalanwa De Da | Border | Bhojpuri Movie Full Song | Dinesh Lal Yadav ”Nirahua”, Aamrapali",
+        "description": "Song : Maai Ho Lalanwa De Da\nSinger : Alok Kumar\nNirahua Entertainment Pvt. Ltd. Presents\nMovie : BORDER\nCast : Dinesh Lal Yadav \"Nirahua\", Aamrapali Dubey, Pravesh Lal Yadav. Shubhi Sharma, Vikrant Singh, Sushil Singh, Awdhesh Mishra, Sanjay Pandey, Aditya Ojha, Gaurav Jha, Vijay Lal Yadav, Vishal Singh, Avinash Dwivedi, Ansuman Rajput, Manoj Tiger, Kajal Yadav, Ananya Mishra, Richa Dixit , Kiran Yadav etc.\nDirector : Santosh Mishra\nProducer : Pravesh Lal Yadav\nMusic : Rajnish Mishra\nLyrics : Pyare Lal Yadav\nMusic on : NIRAHUA MUSIC India’s Number one Bhojpuri YouTube Channel \"Nirahua Music World\" Managed, Maintained and Monetized By Wings Entertainment LLC (UAE) Under the License From Nirahua Entertainment Pvt Ltd Mumbai India.\n\n         । Keyword । ghunghat mein ghotala, nirahua rikshawala, nirahua hindustani, bhojpuri film, ghoonghat mein ghotala full movie,  bhojpuri song, bhojpuri movie, bhojpuri gana, निरहुआ रिक्शावाला, bhojpuri picture, amrapali dubey hot songs 2018, nirahua ka film, bhojpuri video, nirahua song, भोजपुरी फिल्म, भोजपुरी पिक्चर, film bhojpuri,\nnew bhojpuri movie, निरहुआ हिंदुस्तानी फिल्म, bhojpuri cinema, रिक्शावाला फिल्म,",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hmyd0OIOtn4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hmyd0OIOtn4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hmyd0OIOtn4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hmyd0OIOtn4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hmyd0OIOtn4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Nirahua Music World",
+        "playlistId": "PL7JMskXj70q9L0KkZAQbmA1_1L-stQoNi",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hmyd0OIOtn4"
+        }
+      },
+      "contentDetails": {
+        "videoId": "hmyd0OIOtn4",
+        "videoPublishedAt": "2018-08-15T19:06:47.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/2pQPIVDhCzHbUfkNgU-f4ePY3Jc\"",
+      "id": "UEw3Sk1za1hqNzBxOUwwS2taQVFibUExXzFMLXN0UW9OaS5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2018-09-28T07:49:24.000Z",
+        "channelId": "UCKNGMXJHTiGFdZNSo_zs3fQ",
+        "title": "BORDER AUDIO JUKE BOX | super hit bhojpuri Movie | Dinesh Lal Yadav | aamrapali dubey",
+        "description": "BORDER AUDIO JUKE BOX | super hit bhojpuri Movie | Dinesh Lal Yadav | aamrapali dubey | Pravesh Lal Yadav | Shubhi Sharma India’s Number one Bhojpuri YouTube Channel \"Nirahua Music World\" Managed, Maintained and Monetized By Wings Entertainment LLC (UAE) Under the License From Nirahua Entertainment Pvt Ltd Mumbai India.\n\n         । Keyword । ghunghat mein ghotala, nirahua rikshawala, nirahua hindustani, bhojpuri film, ghoonghat mein ghotala full movie,  bhojpuri song, bhojpuri movie, bhojpuri gana, निरहुआ रिक्शावाला, bhojpuri picture, amrapali dubey hot songs 2018, nirahua ka film, bhojpuri video, nirahua song, भोजपुरी फिल्म, भोजपुरी पिक्चर, film bhojpuri,\nnew bhojpuri movie, निरहुआ हिंदुस्तानी फिल्म, bhojpuri cinema, रिक्शावाला फिल्म,",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JGIpi-o69k4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JGIpi-o69k4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JGIpi-o69k4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JGIpi-o69k4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Nirahua Music World",
+        "playlistId": "PL7JMskXj70q9L0KkZAQbmA1_1L-stQoNi",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JGIpi-o69k4"
+        }
+      },
+      "contentDetails": {
+        "videoId": "JGIpi-o69k4",
+        "videoPublishedAt": "2018-07-29T15:39:30.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/zOkAzyTtK8DTQiksEvNolXeaEDA\"",
+      "id": "UEw3Sk1za1hqNzBxOUwwS2taQVFibUExXzFMLXN0UW9OaS40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2018-09-28T07:49:24.000Z",
+        "channelId": "UCKNGMXJHTiGFdZNSo_zs3fQ",
+        "title": "Maula Tere Sahar Mein | Bhojpuri Movie Song | Dinesh Lal Yadav ”Nirahua”, Aamrapali Dubey",
+        "description": "Song : Maula Tere Sahar Mein\nSinger : Alok Kumar\nNirahua Entertainment Pvt. Ltd. Presents\nMovie : BORDER\nCast : Dinesh Lal Yadav \"Nirahua\", Aamrapali Dubey, Pravesh Lal Yadav. Shubhi Sharma, Vikrant Singh, Sushil Singh, Awdhesh Mishra, Sanjay Pandey, Aditya Ojha, Gaurav Jha, Vijay Lal Yadav, Vishal Singh, Avinash Dwivedi, Ansuman Rajput, Manoj Tiger, Kajal Yadav, Ananya Mishra, Richa Dixit , Kiran Yadav etc.\nDirector : Santosh Mishra\nProducer : Pravesh Lal Yadav\nMusic : Rajnish Mishra\nLyrics : Pyare Lal Yadav\nMusic on : NIRAHUA MUSIC India’s Number one Bhojpuri YouTube Channel \"Nirahua Music World\" Managed, Maintained and Monetized By Wings Entertainment LLC (UAE) Under the License From Nirahua Entertainment Pvt Ltd Mumbai India.\n\n         । Keyword । ghunghat mein ghotala, nirahua rikshawala, nirahua hindustani, bhojpuri film, ghoonghat mein ghotala full movie,  bhojpuri song, bhojpuri movie, bhojpuri gana, निरहुआ रिक्शावाला, bhojpuri picture, amrapali dubey hot songs 2018, nirahua ka film, bhojpuri video, nirahua song, भोजपुरी फिल्म, भोजपुरी पिक्चर, film bhojpuri,\nnew bhojpuri movie, निरहुआ हिंदुस्तानी फिल्म, bhojpuri cinema, रिक्शावाला फिल्म,",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SM3qw-K48jo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SM3qw-K48jo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SM3qw-K48jo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SM3qw-K48jo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SM3qw-K48jo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Nirahua Music World",
+        "playlistId": "PL7JMskXj70q9L0KkZAQbmA1_1L-stQoNi",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SM3qw-K48jo"
+        }
+      },
+      "contentDetails": {
+        "videoId": "SM3qw-K48jo",
+        "videoPublishedAt": "2018-06-13T13:06:17.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/vVekP-7ws5rk-elPlqkvezKBBZ0\"",
+      "id": "UEw3Sk1za1hqNzBxOUwwS2taQVFibUExXzFMLXN0UW9OaS5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2018-09-28T07:49:24.000Z",
+        "channelId": "UCKNGMXJHTiGFdZNSo_zs3fQ",
+        "title": "Siyaji Ke Ram | Border | Bhojpuri Movie Song | Dinesh Lal Yadav ”Nirahua”, Aamrapali Dubey",
+        "description": "Song : Siyaji Ke Ram\nSinger : Kalpana\nNirahua Entertainment Pvt. Ltd. Presents\nMovie : BORDER\nCast : Dinesh Lal Yadav \"Nirahua\", Aamrapali Dubey, Pravesh Lal Yadav. Shubhi Sharma, Vikrant Singh, Sushil Singh, Awdhesh Mishra, Sanjay Pandey, Aditya Ojha, Gaurav Jha, Vijay Lal Yadav, Vishal Singh, Avinash Dwivedi, Ansuman Rajput, Manoj Tiger, Kajal Yadav, Ananya Mishra, Richa Dixit , Kiran Yadav etc.\nDirector : Santosh Mishra\nProducer : Pravesh Lal Yadav\nMusic : Rajnish Mishra\nLyrics : Pyare Lal Yadav\nMusic on : NIRAHUA MUSIC India’s Number one Bhojpuri YouTube Channel \"Nirahua Music World\" Managed, Maintained and Monetized By Wings Entertainment LLC (UAE) Under the License From Nirahua Entertainment Pvt Ltd Mumbai India.\n\n         । Keyword । ghunghat mein ghotala, nirahua rikshawala, nirahua hindustani, bhojpuri film, ghoonghat mein ghotala full movie,  bhojpuri song, bhojpuri movie, bhojpuri gana, निरहुआ रिक्शावाला, bhojpuri picture, amrapali dubey hot songs 2018, nirahua ka film, bhojpuri video, nirahua song, भोजपुरी फिल्म, भोजपुरी पिक्चर, film bhojpuri,\nnew bhojpuri movie, निरहुआ हिंदुस्तानी फिल्म, bhojpuri cinema, रिक्शावाला फिल्म,",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/p9K-kS1aTdo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/p9K-kS1aTdo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/p9K-kS1aTdo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/p9K-kS1aTdo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/p9K-kS1aTdo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Nirahua Music World",
+        "playlistId": "PL7JMskXj70q9L0KkZAQbmA1_1L-stQoNi",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "p9K-kS1aTdo"
+        }
+      },
+      "contentDetails": {
+        "videoId": "p9K-kS1aTdo",
+        "videoPublishedAt": "2018-06-11T11:00:03.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/zdTc-9k-QXpZB9gDN7F7mFTARcI\"",
+      "id": "UEw3Sk1za1hqNzBxOUwwS2taQVFibUExXzFMLXN0UW9OaS45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2018-09-28T07:49:24.000Z",
+        "channelId": "UCKNGMXJHTiGFdZNSo_zs3fQ",
+        "title": "Gharva Bhail Ba Kargil | Border | Bhojpuri Movie Song | Dinesh Lal Yadav ”Nirahua” Aamrapali Dubey",
+        "description": "Song : Gharva Bhail Ba Kargil\nSinger : Kalpna, Indu Sonali , Rajnish Mishra\nNirahua Entertainment Pvt. Ltd. Presents\nMovie : BORDER\nCast : Dinesh Lal Yadav \"Nirahua\", Aamrapali Dubey, Pravesh Lal Yadav. Shubhi Sharma, Vikrant Singh, Sushil Singh, Awdhesh Mishra, Sanjay Pandey, Aditya Ojha, Gaurav Jha, Vijay Lal Yadav, Vishal Singh, Avinash Dwivedi, Ansuman Rajput, Manoj Tiger, Kajal Yadav, Ananya Mishra, Richa Dixit , Kiran Yadav etc.\nDirector : Santosh Mishra\nProducer : Pravesh Lal Yadav\nMusic : Rajnish Mishra\nLyrics : Pyare Lal Yadav\nMusic on : NIRAHUA MUSIC India’s Number one Bhojpuri YouTube Channel \"Nirahua Music World\" Managed, Maintained and Monetized By Wings Entertainment LLC (UAE) Under the License From Nirahua Entertainment Pvt Ltd Mumbai India.\n\n         । Keyword । ghunghat mein ghotala, nirahua rikshawala, nirahua hindustani, bhojpuri film, ghoonghat mein ghotala full movie,  bhojpuri song, bhojpuri movie, bhojpuri gana, निरहुआ रिक्शावाला, bhojpuri picture, amrapali dubey hot songs 2018, nirahua ka film, bhojpuri video, nirahua song, भोजपुरी फिल्म, भोजपुरी पिक्चर, film bhojpuri,\nnew bhojpuri movie, निरहुआ हिंदुस्तानी फिल्म, bhojpuri cinema, रिक्शावाला फिल्म,",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X9WK_USWuPk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X9WK_USWuPk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X9WK_USWuPk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/X9WK_USWuPk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/X9WK_USWuPk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Nirahua Music World",
+        "playlistId": "PL7JMskXj70q9L0KkZAQbmA1_1L-stQoNi",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "X9WK_USWuPk"
+        }
+      },
+      "contentDetails": {
+        "videoId": "X9WK_USWuPk",
+        "videoPublishedAt": "2018-06-10T11:24:42.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/OTc1vG2jkpQMSyXK9Z-DVdw6Up8\"",
+      "id": "UEw3Sk1za1hqNzBxOUwwS2taQVFibUExXzFMLXN0UW9OaS4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2018-09-28T07:49:24.000Z",
+        "channelId": "UCKNGMXJHTiGFdZNSo_zs3fQ",
+        "title": "Maai Ho Lalanwa De Da | Border | Bhojpuri Movie Song | Dinesh Lal Yadav ”Nirahua”",
+        "description": "Song : Maai Ho Lalanwa De Da\nSinger : Alok Kumar\nNirahua Entertainment Pvt. Ltd. Presents\nMovie : BORDER\nCast : Dinesh Lal Yadav \"Nirahua\", Aamrapali Dubey, Pravesh Lal Yadav. Shubhi Sharma, Vikrant Singh, Sushil Singh, Awdhesh Mishra, Sanjay Pandey, Aditya Ojha, Gaurav Jha, Vijay Lal Yadav, Vishal Singh, Avinash Dwivedi, Ansuman Rajput, Manoj Tiger, Kajal Yadav, Ananya Mishra, Richa Dixit , Kiran Yadav etc.\nDirector : Santosh Mishra\nProducer : Pravesh Lal Yadav\nMusic : Rajnish Mishra\nLyrics : Pyare Lal Yadav\nMusic on : NIRAHUA MUSIC India’s Number one Bhojpuri YouTube Channel \"Nirahua Music World\" Managed, Maintained and Monetized By Wings Entertainment LLC (UAE) Under the License From Nirahua Entertainment Pvt Ltd Mumbai India.\n\n         । Keyword । ghunghat mein ghotala, nirahua rikshawala, nirahua hindustani, bhojpuri film, ghoonghat mein ghotala full movie,  bhojpuri song, bhojpuri movie, bhojpuri gana, निरहुआ रिक्शावाला, bhojpuri picture, amrapali dubey hot songs 2018, nirahua ka film, bhojpuri video, nirahua song, भोजपुरी फिल्म, भोजपुरी पिक्चर, film bhojpuri,\nnew bhojpuri movie, निरहुआ हिंदुस्तानी फिल्म, bhojpuri cinema, रिक्शावाला फिल्म,",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nuIm3Zh3_6s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nuIm3Zh3_6s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nuIm3Zh3_6s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nuIm3Zh3_6s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nuIm3Zh3_6s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Nirahua Music World",
+        "playlistId": "PL7JMskXj70q9L0KkZAQbmA1_1L-stQoNi",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nuIm3Zh3_6s"
+        }
+      },
+      "contentDetails": {
+        "videoId": "nuIm3Zh3_6s",
+        "videoPublishedAt": "2018-06-09T15:22:40.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/5RBtlEhHgkuAUEGdPG-3nCoQdyI\"",
+      "id": "UEw3Sk1za1hqNzBxOUwwS2taQVFibUExXzFMLXN0UW9OaS41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2018-09-28T07:49:24.000Z",
+        "channelId": "UCKNGMXJHTiGFdZNSo_zs3fQ",
+        "title": "Mile Ke Sajaniya Se Mann Bara Kare | Border | Bhojpuri Movie Song | Dinesh Lal Yadav ”Nirahua”",
+        "description": "Song : Mile Ke Sajaniya Se Mann Bara Kare\nSinger : Dinesh Lal Yadav \"Nirahua\"\nNirahua Entertainment Pvt. Ltd. Presents\nMovie : BORDER\nCast : Dinesh Lal Yadav \"Nirahua\", Aamrapali Dubey, Pravesh Lal Yadav. Shubhi Sharma, Vikrant Singh, Sushil Singh, Awdhesh Mishra, Sanjay Pandey, Aditya Ojha, Gaurav Jha, Vijay Lal Yadav, Vishal Singh, Avinash Dwivedi, Ansuman Rajput, Manoj Tiger, Kajal Yadav, Ananya Mishra, Richa Dixit , Kiran Yadav etc.\nDirector : Santosh Mishra\nProducer : Pravesh Lal Yadav\nMusic : Rajnish Mishra\nLyrics :  Aazad Singh\nMusic on : NIRAHUA MUSIC India’s Number one Bhojpuri YouTube Channel \"Nirahua Music World\" Managed, Maintained and Monetized By Wings Entertainment LLC (UAE) Under the License From Nirahua Entertainment Pvt Ltd Mumbai India.\n\n         । Keyword । ghunghat mein ghotala, nirahua rikshawala, nirahua hindustani, bhojpuri film, ghoonghat mein ghotala full movie,  bhojpuri song, bhojpuri movie, bhojpuri gana, निरहुआ रिक्शावाला, bhojpuri picture, amrapali dubey hot songs 2018, nirahua ka film, bhojpuri video, nirahua song, भोजपुरी फिल्म, भोजपुरी पिक्चर, film bhojpuri,\nnew bhojpuri movie, निरहुआ हिंदुस्तानी फिल्म, bhojpuri cinema, रिक्शावाला फिल्म,",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8jYfVQj0g7g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8jYfVQj0g7g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8jYfVQj0g7g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8jYfVQj0g7g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8jYfVQj0g7g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Nirahua Music World",
+        "playlistId": "PL7JMskXj70q9L0KkZAQbmA1_1L-stQoNi",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8jYfVQj0g7g"
+        }
+      },
+      "contentDetails": {
+        "videoId": "8jYfVQj0g7g",
+        "videoPublishedAt": "2018-06-07T18:09:23.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/bWlxWUn1K7fwzEL32n8QCYIH8eY\"",
+      "id": "UEw3Sk1za1hqNzBxOUwwS2taQVFibUExXzFMLXN0UW9OaS5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2018-09-28T07:49:24.000Z",
+        "channelId": "UCKNGMXJHTiGFdZNSo_zs3fQ",
+        "title": "Betauwa Tohar Gor Hoyee Ho | Border Movie | Dinesh Lal Yadav \"Nirahua\", Aamrapali Dubey",
+        "description": "Song : Betauwa Tohar Gor Hoyee Ho\nSinger : Dinesh Lal Yadav \"Nirahua\", Kalpana\nNirahua Entertainment Pvt. Ltd. Presents\nMovie : BORDER\nCast : Dinesh Lal Yadav \"Nirahua\", Aamrapali Dubey, Pravesh Lal Yadav. Shubhi Sharma, Vikrant Singh, Sushil Singh, Awdhesh Mishra, Sanjay Pandey, Aditya Ojha, Gaurav Jha, Vijay Lal Yadav, Vishal Singh, Avinash Dwivedi, Ansuman Rajput, Manoj Tiger, Kajal Yadav, Ananya Mishra, Richa Dixit , Kiran Yadav etc.\nDirector : Santosh Mishra\nProducer : Pravesh Lal Yadav\nMusic : Rajnish Mishra\nLyrics : Aazad Singh\nMusic on : NIRAHUA MUSIC India’s Number one Bhojpuri YouTube Channel \"Nirahua Music World\" Managed, Maintained and Monetized By Wings Entertainment LLC (UAE) Under the License From Nirahua Entertainment Pvt Ltd Mumbai India.\n\n         । Keyword । ghunghat mein ghotala, nirahua rikshawala, nirahua hindustani, bhojpuri film, ghoonghat mein ghotala full movie,  bhojpuri song, bhojpuri movie, bhojpuri gana, निरहुआ रिक्शावाला, bhojpuri picture, amrapali dubey hot songs 2018, nirahua ka film, bhojpuri video, nirahua song, भोजपुरी फिल्म, भोजपुरी पिक्चर, film bhojpuri,\nnew bhojpuri movie, निरहुआ हिंदुस्तानी फिल्म, bhojpuri cinema, रिक्शावाला फिल्म,",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MyhMQBwzZEQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MyhMQBwzZEQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MyhMQBwzZEQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MyhMQBwzZEQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MyhMQBwzZEQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Nirahua Music World",
+        "playlistId": "PL7JMskXj70q9L0KkZAQbmA1_1L-stQoNi",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "MyhMQBwzZEQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "MyhMQBwzZEQ",
+        "videoPublishedAt": "2018-06-01T15:41:43.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/mirjpJTcJWfgVv2ebZ78zncgUxY\"",
+      "id": "UEw3Sk1za1hqNzBxOUwwS2taQVFibUExXzFMLXN0UW9OaS41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2018-09-28T07:49:24.000Z",
+        "channelId": "UCKNGMXJHTiGFdZNSo_zs3fQ",
+        "title": "Hamar Bhaiya Watan Ke Sipahi | Border | Bhojpuri Movie Song | Dinesh Lal Yadav ”Nirahua”",
+        "description": "Song : Hamar Bhaiya Watan Ke Sipahi\nSinger : Dinesh Lal Yadav \"Nirahua\", Vijay Lal Yadav, Kalpana, Pamela Jain, Pravesh Lal Yadav\nNirahua Entertainment Pvt. Ltd. Presents\nMovie : BORDER\nCast : Dinesh Lal Yadav \"Nirahua\", Aamrapali Dubey, Pravesh Lal Yadav. Shubhi Sharma, Vikrant Singh, Sushil Singh, Awdhesh Mishra, Sanjay Pandey, Aditya Ojha, Gaurav Jha, Vijay Lal Yadav, Vishal Singh, Avinash Dwivedi, Ansuman Rajput, Manoj Tiger, Kajal Yadav, Ananya Mishra, Richa Dixit , Kiran Yadav etc.\nDirector : Santosh Mishra\nProducer : Pravesh Lal Yadav\nMusic : Rajnish Mishra\nLyrics : Pyare Lal Yadav\nMusic on : NIRAHUA MUSIC India’s Number one Bhojpuri YouTube Channel \"Nirahua Music World\" Managed, Maintained and Monetized By Wings Entertainment LLC (UAE) Under the License From Nirahua Entertainment Pvt Ltd Mumbai India.\n\n         । Keyword । ghunghat mein ghotala, nirahua rikshawala, nirahua hindustani, bhojpuri film, ghoonghat mein ghotala full movie,  bhojpuri song, bhojpuri movie, bhojpuri gana, निरहुआ रिक्शावाला, bhojpuri picture, amrapali dubey hot songs 2018, nirahua ka film, bhojpuri video, nirahua song, भोजपुरी फिल्म, भोजपुरी पिक्चर, film bhojpuri,\nnew bhojpuri movie, निरहुआ हिंदुस्तानी फिल्म, bhojpuri cinema, रिक्शावाला फिल्म,",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hwbVDD8I-K0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hwbVDD8I-K0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hwbVDD8I-K0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hwbVDD8I-K0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hwbVDD8I-K0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Nirahua Music World",
+        "playlistId": "PL7JMskXj70q9L0KkZAQbmA1_1L-stQoNi",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hwbVDD8I-K0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "hwbVDD8I-K0",
+        "videoPublishedAt": "2018-05-31T17:24:31.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/XUfDpogaFw-2OhhiYlpaZitkmCA\"",
+      "id": "UEw3Sk1za1hqNzBxOUwwS2taQVFibUExXzFMLXN0UW9OaS4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2018-09-28T07:49:24.000Z",
+        "channelId": "UCKNGMXJHTiGFdZNSo_zs3fQ",
+        "title": "Deewani Bhaili Nagma Nirahua Ke Pyar Mein | Border |Bhojpuri Movie Song| Khesari Lal Yadav, Nirahua",
+        "description": "Song : Deewani Bhaili Nagma Nirahua Ke Pyar Mein\nSinger : Khesari Lal Yadav\nNirahua Entertainment Pvt. Ltd. Presents\nMovie : BORDER\nCast : Dinesh Lal Yadav \"Nirahua\", Aamrapali Dubey, Pravesh Lal Yadav. Shubhi Sharma, Vikrant Singh, Sushil Singh, Awdhesh Mishra, Sanjay Pandey, Aditya Ojha, Gaurav Jha, Vijay Lal Yadav, Vishal Singh, Avinash Dwivedi, Ansuman Rajput, Manoj Tiger, Kajal Yadav, Ananya Mishra, Richa Dixit , Kiran Yadav etc.\nDirector : Santosh Mishra\nProducer : Pravesh Lal Yadav\nMusic : Rajnish Mishra\nLyrics : Aazad Singh\nMusic on : NIRAHUA MUSIC India’s Number one Bhojpuri YouTube Channel \"Nirahua Music World\" Managed, Maintained and Monetized By Wings Entertainment LLC (UAE) Under the License From Nirahua Entertainment Pvt Ltd Mumbai India.\n\n         । Keyword । ghunghat mein ghotala, nirahua rikshawala, nirahua hindustani, bhojpuri film, ghoonghat mein ghotala full movie,  bhojpuri song, bhojpuri movie, bhojpuri gana, निरहुआ रिक्शावाला, bhojpuri picture, amrapali dubey hot songs 2018, nirahua ka film, bhojpuri video, nirahua song, भोजपुरी फिल्म, भोजपुरी पिक्चर, film bhojpuri,\nnew bhojpuri movie, निरहुआ हिंदुस्तानी फिल्म, bhojpuri cinema, रिक्शावाला फिल्म,",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/W5sDQC6wJFg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/W5sDQC6wJFg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/W5sDQC6wJFg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/W5sDQC6wJFg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/W5sDQC6wJFg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Nirahua Music World",
+        "playlistId": "PL7JMskXj70q9L0KkZAQbmA1_1L-stQoNi",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "W5sDQC6wJFg"
+        }
+      },
+      "contentDetails": {
+        "videoId": "W5sDQC6wJFg",
+        "videoPublishedAt": "2018-05-29T06:18:11.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/rdmYLImMA3nkScrb85ffvvPopP4\"",
+      "id": "UEw3Sk1za1hqNzBxOUwwS2taQVFibUExXzFMLXN0UW9OaS45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2018-09-28T07:49:44.000Z",
+        "channelId": "UCKNGMXJHTiGFdZNSo_zs3fQ",
+        "title": "Hamar Bhaiya Watan Ke Sipahi | Border | Bhojpuri Movie Song |Dinesh lal”Nirahua”Vijay Lal,Kalpana",
+        "description": "Song : Hamar Bhaiya Watan Ke Sipahi\nSinger : Dinesh Lal Yadav \"Nirahua\", Vijay Lal Yadav, Kalpana, Pamela Jain, Pravesh Lal Yadav\nNirahua Entertainment Pvt. Ltd. Presents\nMovie : BORDER\nCast : Dinesh Lal Yadav \"Nirahua\", Aamrapali Dubey, Pravesh Lal Yadav. Shubhi Sharma, Vikrant Singh, Sushil Singh, Awdhesh Mishra, Sanjay Pandey, Aditya Ojha, Gaurav Jha, Vijay Lal Yadav, Vishal Singh, Avinash Dwivedi, Ansuman Rajput, Manoj Tiger, Kajal Yadav, Ananya Mishra, Richa Dixit , Kiran Yadav etc.\nDirector : Santosh Mishra\nProducer : Pravesh Lal Yadav\nMusic : Rajnish Mishra\nLyrics : Pyare Lal Yadav\nMusic on : NIRAHUA MUSIC India’s Number one Bhojpuri YouTube Channel \"Nirahua Music World\" Managed, Maintained and Monetized By Wings Entertainment LLC (UAE) Under the License From Nirahua Entertainment Pvt Ltd Mumbai India.\n\n         । Keyword । ghunghat mein ghotala, nirahua rikshawala, nirahua hindustani, bhojpuri film, ghoonghat mein ghotala full movie,  bhojpuri song, bhojpuri movie, bhojpuri gana, निरहुआ रिक्शावाला, bhojpuri picture, amrapali dubey hot songs 2018, nirahua ka film, bhojpuri video, nirahua song, भोजपुरी फिल्म, भोजपुरी पिक्चर, film bhojpuri,\nnew bhojpuri movie, निरहुआ हिंदुस्तानी फिल्म, bhojpuri cinema, रिक्शावाला फिल्म,",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kCyFiT4ytm0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kCyFiT4ytm0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kCyFiT4ytm0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kCyFiT4ytm0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kCyFiT4ytm0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Nirahua Music World",
+        "playlistId": "PL7JMskXj70q9L0KkZAQbmA1_1L-stQoNi",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kCyFiT4ytm0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "kCyFiT4ytm0",
+        "videoPublishedAt": "2018-05-26T05:15:36.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/lMyOfXBYT6XxhEvg_RSQo4qXin0\"",
+      "id": "UEw3Sk1za1hqNzBxOUwwS2taQVFibUExXzFMLXN0UW9OaS4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2018-09-28T07:49:44.000Z",
+        "channelId": "UCKNGMXJHTiGFdZNSo_zs3fQ",
+        "title": "BORDER | Official Teaser | Dinesh Lal Yadav \"Nirahua\", Aamrapali Dubey",
+        "description": "Nirahua Entertainment Pvt. Ltd. Presents\nMovie : BORDER\nCast : Dinesh Lal Yadav \"Nirahua\", Aamrapali Dubey, Pravesh Lal Yadav. Shubhi Sharma, Vikrant Singh, Sushil Singh, Awdhesh Mishra, Sanjay Pandey, Aditya Ojha, Gaurav Jha, Vijay Lal Yadav, Vishal Singh, Avinash Dwivedi, Ansuman Rajput, Manoj Tiger, Kajal Yadav, Ananya Mishra, Richa Dixit , Kiran Yadav etc.\nDirector : Santosh Mishra\nProducer : Pravesh Lal Yadav\nMusic : Rajnish Mishra\nLyrics : Pyare Lal Yadav, Aazad Singh\nVFX : Humming Bird VFX\nMusic on : NIRAHUA MUSIC India’s Number one Bhojpuri YouTube Channel \"Nirahua Music World\" Managed, Maintained and Monetized By Wings Entertainment LLC (UAE) Under the License From Nirahua Entertainment Pvt Ltd Mumbai India.\n\n         । Keyword । ghunghat mein ghotala, nirahua rikshawala, nirahua hindustani, bhojpuri film, ghoonghat mein ghotala full movie,  bhojpuri song, bhojpuri movie, bhojpuri gana, निरहुआ रिक्शावाला, bhojpuri picture, amrapali dubey hot songs 2018, nirahua ka film, bhojpuri video, nirahua song, भोजपुरी फिल्म, भोजपुरी पिक्चर, film bhojpuri,\nnew bhojpuri movie, निरहुआ हिंदुस्तानी फिल्म, bhojpuri cinema, रिक्शावाला फिल्म,",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/604im4g5MMo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/604im4g5MMo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/604im4g5MMo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/604im4g5MMo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/604im4g5MMo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Nirahua Music World",
+        "playlistId": "PL7JMskXj70q9L0KkZAQbmA1_1L-stQoNi",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "604im4g5MMo"
+        }
+      },
+      "contentDetails": {
+        "videoId": "604im4g5MMo",
+        "videoPublishedAt": "2018-05-11T05:00:00.000Z"
+      }
+    },
+     {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ZdIPm-5WtbuR57JVhzQ3s4AgTnk\"",
+      "id": "UkRRTS1tMUFNdHE5eEdVLjdqQng3RjZJc0Zn",
+      "snippet": {
+        "publishedAt": "2015-12-27T06:51:33.000Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Raja Babu - राजा बाबू - Dinesh Lal Yadav \"Nirahua\", Amrapali - Superhit Full Bhojpuri Movie",
+        "description": "#Video #bhojpurisong #wavemusic\nSubscribe Now:- http://goo.gl/ip2lbka\nRaja Babu | Super Hit Full Bhojpuri Movie 2016 | Dinesh Lal Yadav \"Nirahua\", Amrapali\n\nAll Songs Now Available on\nGaana  :  https://gaana.com/album/raja-babu-bhojpuri-2\nHungama :  http://www.hungama.com/album/raja-babu/16695242/\nSaavn :  https://www.saavn.com/s/album/bhojpuri/Raja-Babu-2015/,nQgwG8uaYo_\nWynk Music : https://wynk.in/music/album/Raja-Babu/hu_16695242\niTunes :  https://itunes.apple.com/in/album/raja-babu-original-motion-picture-soundtrack/1440111677?app=itunes&ign-mpt=uo%3D4\n\nFilm Name – Raja Babu\nStar cast – Star Cast : Dinesh Lal Yadav \"Nirahua\", Amrapali Dubey, Monalisa, Seema Singh Etc.\nSingers – Kalpna, Dinesh Lal Yadav, Alok Kumar.\nMusic director – Chote Baba\nSong lyrics – Pyare Lal Yadav,sachitanand, Azad Singh ETC.\nFilm writer – Manjul Thakur.\nBanner –  Saurya Entertainment\nProducer – Anjana Akhilesh.\nDirector – Manjul Thakur.\nCompany/Label  – Wave Music\n \nCast\nDinesh Lal Yadav Nirahua\nAmrapali Dubey\nMonalisa\nSeema Singh\n\nDigital Managed by – Lokdhun\n(Contact -9718776677)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7jBx7F6IsFg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7jBx7F6IsFg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7jBx7F6IsFg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7jBx7F6IsFg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7jBx7F6IsFg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "YouTube",
+        "playlistId": "RDQM-m1AMtq9xGU",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7jBx7F6IsFg"
+        }
+      },
+      "contentDetails": {
+        "videoId": "7jBx7F6IsFg",
+        "videoPublishedAt": "2015-12-27T06:51:33.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/4ObZtCWaDaVR1fvfVF7fVhD3pvs\"",
+      "id": "UkRRTS1tMUFNdHE5eEdVLkJkTm5JUUkwMklV",
+      "snippet": {
+        "publishedAt": "2016-04-04T20:41:31.000Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Nirahua Rickshawala 2 | Super Hit Full Bhojpuri Movie 2015 | Dinesh Lal Yadav \"Nirahua\", Aamrapali",
+        "description": "Nirahua Rickshawala 2 | Super Hit Full Bhojpuri Movie 2015 | Dinesh Lal Yadav \"Nirahua\", Aamrapali\n\nNirahua Entertainment Pvt. Ltd. and Rahul Khan Production Presents\nMovie : Nirahua Rickshawala 2\nCast : Dinesh Lal Yadav \"Nirahua\", Aamrapali\nMusic : Rajesh - Rajnish\nLyrics : Pyarelal Yadav\nDirector : Satish Jain\nProducer : Pravesh Lal Yadav, Rahul Khan\nMusic on : NIRAHUA MUSIC India’s Number one Bhojpuri YouTube Channel \"Nirahua Music World\" Managed, Maintained and Monetized By Wings Entertainment LLC (UAE) Under the License From Nirahua Entertainment Pvt Ltd Mumbai India.\n\nKeyword । ghunghat mein ghotala, nirahua rikshawala, nirahua hindustani, bhojpuri film, ghoonghat mein ghotala full movie,  bhojpuri song, bhojpuri movie, bhojpuri gana, निरहुआ रिक्शावाला, bhojpuri picture, amrapali dubey hot songs 2018, nirahua ka film, bhojpuri video, nirahua song, भोजपुरी फिल्म, भोजपुरी पिक्चर, film bhojpuri,",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BdNnIQI02IU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BdNnIQI02IU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BdNnIQI02IU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BdNnIQI02IU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BdNnIQI02IU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "YouTube",
+        "playlistId": "RDQM-m1AMtq9xGU",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BdNnIQI02IU"
+        }
+      },
+      "contentDetails": {
+        "videoId": "BdNnIQI02IU",
+        "videoPublishedAt": "2016-04-04T20:41:31.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/6lLR77Lyl7DoojqwYYVpuDrl9J8\"",
+      "id": "UkRRTS1tMUFNdHE5eEdVLkN6QzJ2a1BVdlZB",
+      "snippet": {
+        "publishedAt": "2017-11-26T04:30:00.000Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "NIRAHUA HINDUSTANI 2 - Superhit Full Bhojpuri Movie 2020 - Dinesh Lal Yadav \"Nirahua\" , Aamrapali",
+        "description": "#Video #bhojpurisong #wavemusic\nSubscribe Now:- http://goo.gl/ip2lbk\n____________________________________________________________________________________________________________________________________\n♪ Now Available on ♪ \nGaana : https://gaana.com/album/nirahua-hindustani-2\nHungama : http://www.hungama.com/album/nirahua-hindustani-2/26354635/\nSaavn :  https://www.saavn.com/s/album/bhojpuri/Nirahua-Hindustani-2-2017/YX,HtC-Unrg_\nWynk Music :  https://wynk.in/music/album/Nirahua-Hindustani-2/hu_26354635\niTunes : https://itunes.apple.com/in/album/nirahua-hindustani-2-original-motion-picture-soundtrack/1318079581?app=itunes&ign-mpt=uo%3D4\n____________________________________________________________________________________________________________________________________\nDownload Wave Music official app from Google Play Store - https://goo.gl/GyvICs\n\nIf you like Bhojpuri song, Bhojpuri full film and bhojpuri movie songs, Subscribe Now:- http://goo.gl/ip2lbk\n\nVisit our website to download our songs and videos: http://www.bhojpuriwave.com\n\nLike Us On Facebook - https://www.facebook.com/wavemusicofficial/\n\nFilm :- Nirahua Hindustani 2\nStar Cast :- Dinesh Lal Yadav , Aamrapali Dubey, Sanchita Banerjee\nWriter :- Manjul Thakur, Gautam Sinha & Arbind Tiwari.\nLyrics :- Pyare Lal Yadav, Shyam Dehati, Azad Singh & Santosh Puri.\nMusic Director :- Chhote Baba & Madhukar Anand.\nDirector :- Manjul Thakur\nProducer :- Rahul Khan\nDance Director :- Kanu Mukharji\nAction :- Andlib Pathan    \nBaner :- Nirahua Entertainment Pvt. Ltd. Present.\nCompany/Label :- Wave Music -------------\nDigital Managed by – Lokdhun\n(Contact -9718776677)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CzC2vkPUvVA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CzC2vkPUvVA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CzC2vkPUvVA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CzC2vkPUvVA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CzC2vkPUvVA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "YouTube",
+        "playlistId": "RDQM-m1AMtq9xGU",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CzC2vkPUvVA"
+        }
+      },
+      "contentDetails": {
+        "videoId": "CzC2vkPUvVA",
+        "videoPublishedAt": "2017-11-26T04:30:00.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/INrzzklolK7RhTuIyvWoCzh2upw\"",
+      "id": "UkRRTS1tMUFNdHE5eEdVLm1ZeXJrbXk4X2Nj",
+      "snippet": {
+        "publishedAt": "2017-07-29T15:55:14.000Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "MEHANDI LAGA KE RAKHNA | Full HD | Khesari Lal Yadav, Kajal Raghwani | Super HIT FILM",
+        "description": "#KhesariLalYadav #kajalraghwani\nMovie: MEHANDI LAGA KE RAKHNA \nStar Cast: Khesari Lal Yadav, Kajal Raghwani, Ritu Singh, Avdhesh Mishra,Param hans Singh,Sanjay Pandey,Anand Mohan,Karan Pandey,Sanjay mahanand \nProducer: Ananjay Raghuraj\nCo- Producer - Dhiraj Singh & Sanjay Jaiswal \nBanner : Ananya Craft and Visions \nPresenter: Deepak Shah & Om Sai Ram Entertainment\nDirector: Rajnish Mishra \nMusic Director : Rajnish Mishra\nLyrics : Pyare Lal yadav,Shyam Dehati\nSinger : Khesari Lal Yadav,Kalpana,Indu Sonali,Priyanka Singh,Khushboo Jain, Aalok\nMusic On : Worldwide Records\n\nWynk Music -\nhttps://wynk.in/music/album/mehandi-laga-ke-rakhna/pp_mehandilagakerakhna020?page=0\nGaana - \nhttps://gaana.com/album/mehandi-laga-ke-rakhna\n\nhttps://www.facebook.com/WorldwideRecordsbhojpuri\nFor latest Bhojpuri Movies and Songs, don't forget to\nSubscribe to us on Youtube: http://goo.gl/wbTmz7\nFollow us on Facebook: https://goo.gl/FCiyor\nFollow us on Google: https://goo.gl/Lsnh5N",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mYyrkmy8_cc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mYyrkmy8_cc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mYyrkmy8_cc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mYyrkmy8_cc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mYyrkmy8_cc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "YouTube",
+        "playlistId": "RDQM-m1AMtq9xGU",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mYyrkmy8_cc"
+        }
+      },
+      "contentDetails": {
+        "videoId": "mYyrkmy8_cc",
+        "videoPublishedAt": "2017-07-29T15:55:14.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Os3xj4MB_NICXFDxdJLX4jh4_aY\"",
+      "id": "UkRRTS1tMUFNdHE5eEdVLktQcDVSQ3hzNVV3",
+      "snippet": {
+        "publishedAt": "2015-03-11T14:47:56.000Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Nirahua Hindustani | Super Hit Full Bhojpuri Movie 2014 | Dinesh Lal Yadav \"Nirahua\", Aamrapali",
+        "description": "Nirahua Hindustani | Super Hit Full Bhojpuri Movie 2014 | Dinesh Lal Yadav \"Nirahua\", Aamrapali\n\nNirahua Entertainment Pvt Ltd & Rahul Khan Production Present\n“NIRAHUA HINDUSTANI”\nProduce by – Pravesh Lal Yadav, Rahul Khan\nDirected by – Satish Jain\nStar Cast – Dinesh Lal Yadav “Nirahua”, Aamrapali, Sanjay Pandey, Kiran Yadav, Gopal Rai, and other’s\nMusic on : NIRAHUA MUSIC India’s Number one Bhojpuri YouTube Channel \"Nirahua Music World\" Managed, Maintained and Monetized By Wings Entertainment LLC (UAE) Under the License From Nirahua Entertainment Pvt Ltd Mumbai India.\n\nKeyword । ghunghat mein ghotala, nirahua rikshawala, nirahua hindustani, bhojpuri film, ghoonghat mein ghotala full movie,  bhojpuri song, bhojpuri movie, bhojpuri gana, निरहुआ रिक्शावाला, bhojpuri picture, amrapali dubey hot songs 2018, nirahua ka film, bhojpuri video, nirahua song, भोजपुरी फिल्म, भोजपुरी पिक्चर, film bhojpuri,",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KPp5RCxs5Uw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KPp5RCxs5Uw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KPp5RCxs5Uw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KPp5RCxs5Uw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KPp5RCxs5Uw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "YouTube",
+        "playlistId": "RDQM-m1AMtq9xGU",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KPp5RCxs5Uw"
+        }
+      },
+      "contentDetails": {
+        "videoId": "KPp5RCxs5Uw",
+        "videoPublishedAt": "2015-03-11T14:47:56.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/0fdtsbWQsQzVlOTPutLCQGbRWFY\"",
+      "id": "UkRRTS1tMUFNdHE5eEdVLjlkQmVwTENralpR",
+      "snippet": {
+        "publishedAt": "2018-04-14T03:30:01.000Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Main Sehra Bandh Ke Aaunga | Superhit Full Bhojpuri Movie | Khesari Lal Yadav, Kajal Raghwani",
+        "description": "Movie : Main Sehra Bandh Ke Aaunga\nCast : Khesari Lal Yadav, Kajal Raghwani, Priyanka Pandit, Awdhesh Mishra, Sanjay Pandey, Dev Singh, Anand Mohan, Gopal Rai, Kiran Yadav etc.\nMusic : Rajnish Mishra\nLyrics : Pyarelal Yadav, Azad Singh, Pawan Pandey, Shyam Dehati\nDirector : Rajnish Mishra\nProducer : Anil Kabra, Pradeep Singh\nConcept : Ananjay Raghuraj\nBanner : India E - Commerce Ltd.\nMusic on : SRK MUSIC",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9dBepLCkjZQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9dBepLCkjZQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9dBepLCkjZQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9dBepLCkjZQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9dBepLCkjZQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "YouTube",
+        "playlistId": "RDQM-m1AMtq9xGU",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9dBepLCkjZQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "9dBepLCkjZQ",
+        "videoPublishedAt": "2018-04-14T03:30:01.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/D4x3yP47eo1L4BRNUVgaRvEL3jw\"",
+      "id": "UkRRTS1tMUFNdHE5eEdVLldRWl81VmZWMEl3",
+      "snippet": {
+        "publishedAt": "2016-01-18T13:33:03.000Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "JIGARWAALA - Blockbuster Bhojpuri Full Movie 2016 - Dinesh Lal Yadav & Amrapali",
+        "description": "Movie : JIGARWALA\n\nStar cast : DINESH LAL YADAV, AAMRAPALI DUBEY, PRIYANKA PANDIT, SUSHIL SINGH, OTHERS\n\n\nSinger : ALOK KUMAR,RAJNISH,MAMTA RAWAT,KHUSHBOO JAIN,PRIYA,NEEL KAMAL,INDU SONALI\n\nMusic Director : RAJESH-RAJNISH\n\nLyricst : PYARE LAL YADAV\n\nMusic Label : T-Series -\n-\n-\nSUBSCRIBE T-Series channel Hamaar Bhojpuri for unlimited entertainment\nhttp://www.youtube.com/hamaarbhojpuri\nFacebook: https://www.facebook.com/tserieshamaarbhojpuri/\nTwitter: https://twitter.com/HamaarBhojpuri",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WQZ_5VfV0Iw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WQZ_5VfV0Iw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WQZ_5VfV0Iw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WQZ_5VfV0Iw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WQZ_5VfV0Iw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "YouTube",
+        "playlistId": "RDQM-m1AMtq9xGU",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WQZ_5VfV0Iw"
+        }
+      },
+      "contentDetails": {
+        "videoId": "WQZ_5VfV0Iw",
+        "videoPublishedAt": "2016-01-18T13:33:03.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/73SrlUuHQ7SnthwCSOhIfApSVdc\"",
+      "id": "UkRRTS1tMUFNdHE5eEdVLjdSQ2pxT1gzTGhV",
+      "snippet": {
+        "publishedAt": "2017-07-16T04:00:01.000Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "SATYA - Superhit Full Bhojpuri Movie - Pawan Singh, Akshara | Bhojpuri Full Film 2018",
+        "description": "#Video #bhojpurisong #wavemusic\nSubscribe Now:- http://goo.gl/ip2lbk\n____________________________________________________________________________________________________________________________________\n♪ Now Available on ♪ \nGaana : https://gaana.com/album/satya-bhojpuri-2017\nWynk Music : https://wynk.in/music/album/Satya-(2017)/hu_24405954\nHungama : http://www.hungama.com/album/satya-2017/24405954/\nSaavn : https://www.saavn.com/s/album/bhojpuri/Satya-2017/i7Oa9a4bGto_\niTunes : https://itunes.apple.com/in/album/satya-original-motion-picture-soundtrack/1318658868?app=itunes&ign-mpt=uo%3D4\n____________________________________________________________________________________________________________________________________\n\n\nSATYA - Superhit Full Bhojpuri Movie - Pawan Singh, Akshara | Bhojpuri Full Film 2017 HD\n\nFilm :- Satya\nStar Cast :- Pawan Singh, Akshara Singh, Amarpali Dubey, Annu Upadhyay, Umesh Singh, Brijesh Tripathi, Lota Tiwari, Sweety Singh, Nidhi Jha, Rahul Verma, Mukesh Tiwari & Dayashankar Pandey\nSinger :- Pawan Singh, Kailash Kher, Akshra Singh & Indu Sonali\nChief Asst. Director :- Mukesh Tiwari\nWriter :- Viru Thakur\nLyrics :- Vinay Bihari, Manoj Matalbi, Sumit Chandravanshi, Vibhaker Pandey, Arun Bihari And Vinay Nirmal.\nMusic Director :- Chhote Baba.\nDirector :- Sujeet Kumar Singh\nProducer :- Radheshyam Jivrajji Luha, Gajanand Lal Singh Chauhan, Sujeet Kumar Singh\nEditor :- Dipak Jaul\nDOP :- Devendra Tiwari\nDance Director :- Ramdevan\nAction :- Bajiroa Rockki Rajesh      \nArt :- Nazir Shaikh\nDesiner :- Narsu\nMarketing Manager :- Vijay Yadav\nExcutive Producer :- Arshad Shaikh\nChief Assi Director :- Mukesh Tiwari\nBusiness Manager :- Vijay Yadav\nBaner :- Shyam Ghanshyam Film International Pvt. Ltd. Present.\nCompany/Label :- Wave Music\n\nDownload Wave Music official app from Google Play Store - https://goo.gl/GyvICs\n\nIf you like Bhojpuri song, Bhojpuri full film and bhojpuri movie songs, Subscribe Now:- http://goo.gl/ip2lbk\n\nVisit our website to download our songs and videos: http://www.bhojpuriwave.com\n\nLike Us On Facebook - https://www.facebook.com/wavemusicofficial/ -------------\nDigital Managed by – Lokdhun\n(Contact -9718776677)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7RCjqOX3LhU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7RCjqOX3LhU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7RCjqOX3LhU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7RCjqOX3LhU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7RCjqOX3LhU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "YouTube",
+        "playlistId": "RDQM-m1AMtq9xGU",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7RCjqOX3LhU"
+        }
+      },
+      "contentDetails": {
+        "videoId": "7RCjqOX3LhU",
+        "videoPublishedAt": "2017-07-16T04:00:01.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/FXiU42tlprTajKwldyFNyTJEgSk\"",
+      "id": "UkRRTS1tMUFNdHE5eEdVLmltaVBUUzV2a0lr",
+      "snippet": {
+        "publishedAt": "2014-11-06T14:22:23.000Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "बलिदान - Bhojpuri Movie | Balidan - Bhojpuri Film | Ravi Kishan, Rinku Ghose",
+        "description": "#Video #bhojpurisong #wavemusic\nअगर आप Bhojpuri Video को पसंद करते हैं तो Plz चैनल को Subscribe करें http://goo.gl/ip2lbk\n\n♪ Now Available on ♪ \nHungama : http://www.hungama.com/album/balidaan/16561499/\nWynk Music : https://wynk.in/music/album/balidaan/hu_16561499?page=0\nGaana : https://gaana.com/album/balidaan-bhojpuri\nSaavn :  https://www.jiosaavn.com/album/balidaan/C7M2U1HfYnA_\niTunes : https://itunes.apple.com/in/album/balidaan-original-motion-picture-soundtrack/1441305291?app=itunes&ign-mpt=uo%3D4\n\n\n\nFilm Name – Balidaan\nStar cast – Ravi Kishan, Rinku Ghose, Jaky Sharoff\nSingers – Pawan Singh, Udit Narayan, Kalpana\nMusic director – Ashok Kumar “Deep”\nSong lyrics – Ashok Kumar “Deep”\nFilm writer – Masud Patel\nBanner – World Control Right Shyam Parwani\nProducer – V.S\nDirector – K.D\nCompany/Label  – Wave Music \nCopyrights – Vee Gee Audio -------------\nDigital Managed by – Lokdhun\n(Contact -9718776677)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/imiPTS5vkIk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/imiPTS5vkIk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/imiPTS5vkIk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/imiPTS5vkIk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "YouTube",
+        "playlistId": "RDQM-m1AMtq9xGU",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "imiPTS5vkIk"
+        }
+      },
+      "contentDetails": {
+        "videoId": "imiPTS5vkIk",
+        "videoPublishedAt": "2014-11-06T14:22:23.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Jj3gtClnO11Cqqidijrc8d96Goc\"",
+      "id": "UkRRTS1tMUFNdHE5eEdVLkZnUEdhbTZSQlpn",
+      "snippet": {
+        "publishedAt": "2017-12-24T04:00:01.000Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "SIPAHI - सिपाही - Superhit Full Bhojpuri Movie - Dinesh Lal Yadav \"Nirahua\" , Aamrapali Dubey",
+        "description": "#Video #bhojpurisong #wavemusic\nSIPAHI - Superhit Full Bhojpuri Movie 2018 - Dinesh Lal Yadav \"Nirahua\" , Aamrapali\n\nSubscribe Now:- http://goo.gl/ip2lbk\n\n_______________________________________________________________________________________\n♪ Now Available on ♪ \nGaana : https://gaana.com/album/sipahi\nHungama : http://www.hungama.com/album/sipahi/28706403/\nSaavn : https://www.saavn.com/s/album/bhojpuri/Sipahi-2017/IjS5JG2TSTI_\nWynk Music : https://wynk.in/music/album/Sipahi/hu_28706403\niTunes : https://itunes.apple.com/in/album/sipahi-original-motion-picture-soundtrack/1319147189?app=itunes&ign-mpt=uo%3D4\n_________________________________________________________________________________________\nAfter huge success of #Sipahi, Dinesh Lal Nirahua is back with another superhit bhojpuri movie with Aamrapali Dubey - #SIPAHI\n\nFilm :- Sipahi\nStar Cast :- Dinesh Lal Yadav, Aamrapali Dubey,Sushil Singh,Sunjay Pandey, Manoj Tiger, Ayaaz Khan & Others\nLyrics :- Pyare Lal (Kavi), Shyam Dehati, Arvind Tiwari, Azad Singh, Pramod Sankutlam,.\nMusic Director :- Om Jha.\nProducer :- Shiv Narayan B.Singh.\nExcutive Producer :- Prashant Devedi.\nDirector :- Promanshu Singh\nD.O.P :- Devendra Tiwari.\nWritten By :- Manoj Tiger.\nAction :- Adlib Pathan\nChoreographer :- Kanu Mukharji, Ramadevan, Rinki Gupta.\nBaner :- Sunita Shiv Creation Present\nCompany/Label :- Wave Music\n\nIf you like Bhojpuri song, Bhojpuri full film and bhojpuri movie songs, Subscribe Now:- http://goo.gl/ip2lbk\n\nDownload Wave Music official app from Google Play Store - https://goo.gl/GyvICs\n\nVisit our website to download our songs and videos: http://www.bhojpuriwave.com\n\nLike Us On Facebook - https://www.facebook.com/wavemusicofficial/ -------------\nDigital Managed by – Lokdhun\n(Contact -9718776677)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FgPGam6RBZg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FgPGam6RBZg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FgPGam6RBZg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FgPGam6RBZg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FgPGam6RBZg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "YouTube",
+        "playlistId": "RDQM-m1AMtq9xGU",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FgPGam6RBZg"
+        }
+      },
+      "contentDetails": {
+        "videoId": "FgPGam6RBZg",
+        "videoPublishedAt": "2017-12-24T04:00:01.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/oftQImfpwOMd-0Ou0Ll3tBy3QW8\"",
+      "id": "UkRRTS1tMUFNdHE5eEdVLlJwa3BJaWZKVk9N",
+      "snippet": {
+        "publishedAt": "2019-08-15T14:07:47.000Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Maine Unko Sajan Chun Liya Superhit Full Bhojpuri Movie | Pawan Singh | Kajal Raghwani | DRJ Records",
+        "description": "Subscribe: http://bit.ly/DRJRecordsBhojpuri\n\n► Movie :- Maine Unko Sajan Chun Liya \n► Star Cast :- Pawan Singh, Kajal Raghwani ,  Aamrapali Dubey, Anjana Singh , Priti Biswas , Ayaaj Khan, Vipin Singh  & Others\n► Director :- Devendra Tiwari \n► Producer :- S P Choudhary , Bhuchi  Singh , Ajay Kumar Choudhary \n► Co Producer :- Satendra Singh , Bimlesh Singh , Madhunrendra Singh \n► D.O.P :- Devendra Tiwari  \n► Lyrics :- Manoj Matalbi, Sumit Chandrawanshi, Vinay Nirmal , Zahid  Akhtar ,   Yadav Raj\n► Music Director :- Chhote Baba \" Bashi \"\n► Mixing Engineer :- Sanjay Mishra \n► Written By :- Surendra Mishra , Parmod Sakuntalam \n► Post Production :- Global E-Vision Studio \n► Art Director :- Nazir Sekh And Shera \n► Assistant :- Ravi Tiwari , Anil Pandit \n► Production :- Nishant Singh , Rakesh Singh , Manoj Vishwakarma , Vijay Yadav \n► Edit By :- Dipak Jaul.\n► Action :- S Malesh \n► Choreographer :- Kanu Mukharjee , Ricky Gupta , Sanjay Korbe\n► PRO :- Sonu Nigam , Ramchandra Yadav \n► Publicity Designer :- Shakti Art \" Narsu \"\n► VFX And DI :- Visual FX Studio \" Ritesh Daftary \" \n► DI Colurlist :- Sunny Dhanjal \" Sonu \" \n► Banner :- Amber  Khushi Film Entertainment PVT LTD\n► Music Label : DRJ Records\n© 2019 DRJ Records Industries Private Limited\n\n#maineunkosajanchunliyabhojpurimovie#pawansinghfullmovie#pawansinghnewmovie2019#kajalraghwaninewmovie\n\n\nTrack-list\n1. Bhatar Ko Bhi Bhul Jaogi\nSinger: Pawan Singh & Priyanka Singh\nLyrics: Sumit Singh Chandravanshi\nMusic: Chhote Baba\nMusic Label - DRJ Records \n\n2. Aara ke Hothlali Lagawalu\nSinger: Pawan Singh\nMusic: Chhote Baba\nLyrics: Zahid  Akhtar\nMusic Label - DRJ Records \n\n3. Balamua Ke Gaon Mein\nSinger: Pawan Singh \nMusic: Chhote Baba\nLyrics: Vinay Nirmal\nMusic Label : DRJ Records\n\n4. Chumma Gagri Bhar Ke Diha\nSinger: Pawan singh & Alka Jha\nMusic:  Chhote Baba\nLyrics:  Vinay Nirmal\nMusic Label : DRJ Records\n\n5. Chal Chala Rani Rihalsal Kara Di\nSinger: Pawan Singh, Indu Sonali \nMusic: Chhote Baba\nLyrics: Vinay Nirmal\nMusic Label : DRJ Records\n\n6. Mehari ke Sukh Nahi Debu\nSinger: Pawan Singh & Indu Sonali \nMusic : Chhote Baba\nLyrics: Sumit Singh Chandravanshi\nMusic Label : DRJ Records\n\n7. Raja Ji Chal Gayele Sata Mein\nSinger: Antra Singh Priyanka\nMusic: Chhote Baba\nLyrics: Manoj Matlabi \nMusic Label: DRJ Records\n\n8. Dil Se Jekra Ke Chahnee\nSinger : Neetu Singh \nLyrics: Yadav Raaj \nMusic: Chhote Baba\nMusic Label: DRJ Records\n\nSUBSCRIBE for the Latest Videos, Movies, Songs and scenes, all in ONE channel: https://www.youtube.com/channel/UC3zHuh33LDINzwB2kP_MVtw?sub_confirmation=1\n\n\nहमारे ऑफिसियल  चैनल में आपका हार्दिक स्वागत है । अगर आप इस विडियो को पसंद करते हैं तो हमारे चैनल को Subscribe जरूर करें : http://bit.ly/DRJRecordsBhojpuri\n\nWelcome to DRJ Records Bhojpuri Youtube Channel, the #1 destination for premium entertainment videos. Enjoy the blockbuster all languages Full movies, scenes, songs, & more.\nWe are Digital Content Distributor & Creator for all platforms Worldwide. We believe in transparency and honesty and we expect same.\n\nSUBSCRIBE for the Latest Videos, Movies, Songs and scenes, all in ONE channel: https://www.youtube.com/channel/UC3zHuh33LDINzwB2kP_MVtw?sub_confirmation=1\n\n\n(C) 2019 DRJ Records Industries Private Limited\n\n\nLike, Comment and Share with your friends and family.\n\nSubscribe to DRJ Records Bhojpuri : http://bit.ly/DRJRecordsBhojpuri\nFacebook : http://www.facebook.com/drjrecords\nTwitter : http://www.twitter.com/drjrecords\nInstagram : http://www.instagram.com/drjrecords\nPinterest: https://in.pinterest.com/drjrecords",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RpkpIifJVOM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RpkpIifJVOM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RpkpIifJVOM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RpkpIifJVOM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RpkpIifJVOM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "YouTube",
+        "playlistId": "RDQM-m1AMtq9xGU",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "RpkpIifJVOM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "RpkpIifJVOM",
+        "videoPublishedAt": "2019-08-15T14:07:47.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/U9jt1uXhbfbf4dydol1q89L0XtY\"",
+      "id": "UkRRTS1tMUFNdHE5eEdVLnEwUk5lRXcxbGhr",
+      "snippet": {
+        "publishedAt": "2016-07-27T08:20:40.000Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "KHOON PASEENA in HD [ Superhit Bhojpuri Movie ] Feat.Pawan SIngh & Monalisa",
+        "description": "For Latest Updates\n\n\nMovie : KHOON PASEENA\n\nStar cast : MONALISHA, DINESH LAL YADAV, PAKHI HEGDE, MONALISHA, SEEMA SINGH\n\nSinger : INDU SONALI, DINESH LAL YADAV, KHUSHBOO JAIN, PAWAN SINGH, ALOK KUMAR, TRIPTI SHAQYA\n\nMusic Director : ASHOK KUMAR DEEP\n\nLyricst : ASHOK KUMAR DEEP, PYARE LAL YADAV\n\nMusic Label : T-Series -\n-\n-\nSUBSCRIBE T-Series channel Hamaar Bhojpuri for unlimited entertainment\nhttp://www.youtube.com/hamaarbhojpuri\nFacebook: https://www.facebook.com/tserieshamaarbhojpuri/\nTwitter: https://twitter.com/HamaarBhojpuri",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/q0RNeEw1lhk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/q0RNeEw1lhk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/q0RNeEw1lhk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/q0RNeEw1lhk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/q0RNeEw1lhk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "YouTube",
+        "playlistId": "RDQM-m1AMtq9xGU",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "q0RNeEw1lhk"
+        }
+      },
+      "contentDetails": {
+        "videoId": "q0RNeEw1lhk",
+        "videoPublishedAt": "2016-07-27T08:20:40.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/XT2KlwNg0cW--YzIUowGARoCZxQ\"",
+      "id": "UkRRTS1tMUFNdHE5eEdVLlZna3NIQXRqa2lR",
+      "snippet": {
+        "publishedAt": "2015-11-21T15:33:23.000Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Patna Se Pakistan - पटना से पाकिस्तान - Super Hit Full Bhojpuri Movie | Dinesh Lal Yadav \"Nirahua\"",
+        "description": "#Video #bhojpurisong #wavemusic\nअगर आप Bhojpuri Songs, Bhojpuri Film को पसंद करते हैं तो चैनल को Subscribe करें- Subscribe Now:- http://goo.gl/ip2lbka\n\n♪ Now Available on ♪ \nGaana : https://gaana.com/album/patna-se-pakistan\niTunes : https://itunes.apple.com/in/album/patna-se-pakistan-original-motion-picture-soundtrack/1440110582?app=itunes&ign-mpt=uo%3D4\n\n\n\n---------------------------------------------------------------------------------\nFilm Name – Patna Se Pakistan\nStar cast – Star Cast : Dinesh Lal Yadav \"Nirahua\", Kajal Raghwani, Amrapali Dubey, Sushil Singh, Ashok Samarth Etc.\nSingers – Kalpna, Dinesh Lal Yadav, Alok Kumar.\nMusic director – Rajesh - Rajnish\nSong lyrics – Pyare Lal Yadav.\nFilm writer – Santosh Mishra\nBanner –  Ananya Craft & Visions\nProducer – Ananjay Raghuraj \nDirector – Santosh Mishra\nCompany/Label  – Wave Music \n \nPatna Se Pakistan is a 2015 Indian, Bhojpuri language action film directed by Santosh Mishra and produced by Ananjay Raghuraj. The film was released on 23 January 2015 in Bihar and on 6 March 2015 in the rest of India. The production companies involved are Ananya Craft & Visions and Trimurti Entertainment Media. The film stars Dinesh Lal Yadav Nirahua, Amrapali Dubey, Kajal Raghwani, Sushil Singh, Ashok Samarth\n\nKabir (Dinesh Lal Yadav Nirhua) is a simple living man who loses his entire family in a terrorist attack. Kabir pleads with the government to find the culprit, but when the govt refuses to help Kabir takes the matter into his own hands. He goes to Pakistan from Patna and fights with the terrorist organization.\n\nCast\nDinesh Lal Yadav Nirahua\nAmrapali Dubey\nKajal Raghwani\nSushil Singh\nAshok Samarth\n\n\nIf you like Bhojpuri Song, Bhojpuri  Song, Bhojpuri Full Film and Bhojpuri Film Songs, subscribe our channel. Subscribe Now:- http://goo.gl/ip2lbk -------------\nDigital Managed by – Lokdhun\n(Contact -9718776677)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VgksHAtjkiQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VgksHAtjkiQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VgksHAtjkiQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VgksHAtjkiQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "YouTube",
+        "playlistId": "RDQM-m1AMtq9xGU",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VgksHAtjkiQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "VgksHAtjkiQ",
+        "videoPublishedAt": "2015-11-21T15:33:23.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Jc5HcRB5BUIHwl9KdIBcpzsPdzM\"",
+      "id": "UkRRTS1tMUFNdHE5eEdVLnpzT2cya0VncXIw",
+      "snippet": {
+        "publishedAt": "2015-03-11T06:39:25.000Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Diler - दिलेर | Super Hit Full Bhojpuri Movie 2014 | Dinesh Lal Yadav \"Nirahua\", Akshra Singh",
+        "description": "#Video #bhojpurisong #wavemusic\nअगर आप Bhojpuri Video को पसंद करते हैं तो Plz चैनल को Subscribe करें- Subscribe Now:- http://goo.gl/ip2lbk\n–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––\n♪ Now Available on ♪ \nGaana  :  https://gaana.com/album/diler-bhojpuri\nHungama : http://www.hungama.com/album/diler/16561617/\nSaavn :  https://www.jiosaavn.com/album/diler/avfaXQkDUSI_\nWynk Music : https://wynk.in/music/album/diler/hu_16561617?page=0\niTunes : https://itunes.apple.com/in/album/diler-original-motion-picture-soundtrack/1249995985?app=itunes&ign-mpt=uo%3D4\n––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––\n\nFilm Name – Diler\nStar cast – Dinesh Lal Yadav “ Nirhua”, Akshara Singh\nSingers – Pawan Singh, Dinesh Lal Yadav “ Nirhua”, Kalpana, Indu Sonali\nMusic director – Vijay Laxmi International\nSong lyrics – Pyare Lal Yadav \nFilm writer – Amar \n Banner – Vijay Laxmi International\nProducer – Dr. Sunil Kumar \nDirector – Subbarao Goswami \nCompany/Label  – Wave Music \nCopyrights – Vee Gee Audio -------------\nDigital Managed by – Lokdhun\n(Contact -9718776677)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zsOg2kEgqr0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zsOg2kEgqr0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zsOg2kEgqr0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zsOg2kEgqr0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zsOg2kEgqr0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "YouTube",
+        "playlistId": "RDQM-m1AMtq9xGU",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zsOg2kEgqr0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "zsOg2kEgqr0",
+        "videoPublishedAt": "2015-03-11T06:39:25.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/H3_el7WwaTzng0Zsg5hcb2GMN64\"",
+      "id": "UkRRTS1tMUFNdHE5eEdVLnNRR0ZlQUFLQWpJ",
+      "snippet": {
+        "publishedAt": "2018-03-18T04:00:04.000Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "LOOTERE - लुटेरे - Superhit Bhojpuri Full Movie 2018 - Pawan Singh, Akshra, Yash Kumar",
+        "description": "#Video #bhojpurisong #wavemusic\nHum Hai Lootere - Superhit Bhojpuri Full Movie 2018 - Pawan Singh, Akshra, Yash Kumar - Full Film\n\nSubscribe Now:- http://goo.gl/ip2lbk\n-----------------------------------------------------------------------------------------------------------------------------------------------\n♪ Now Available on ♪ \nHungama :  http://www.hungama.com/album/ham-hai-lootere/32993993/\nWynk Music : https://wynk.in/music/album/ham-hai-lootere/hu_32993993?page=0\nGaana : https://gaana.com/album/ham-hai-lootere\niTunes : https://itunes.apple.com/in/album/ham-hai-lootere-original-motion-picture-soundtrack/1444726121?app=itunes&ign-mpt=uo%3D4\n----------------------------------------------------------------------------------------------------------------------------------------------\n\nDownload Wave Music official app from Google Play Store - https://goo.gl/GyvICs\n\nIf you like Bhojpuri song, Bhojpuri full film and bhojpuri movie songs, Subscribe Now:- http://goo.gl/ip2lbk\n\nVisit our website to download our songs and videos: http://www.bhojpuriwave.com\n\nLike Us On Facebook - https://www.facebook.com/wavemusicofficial/\n\nFilm :- Hum Hai Lootere\nStar Cast :-  Pawan Singh, Akshra, Yash Kumar, Punam Dubey, Gourav Jha, Ritu Singh, Avdhesh Mishra, Ayaj Khan, Manoj Tiger, Dev Singh\n\nSinger :- Pawan Singh,Indu Sonali\nWritten By :- Surendra Mishra\nLyrics :-Munna Dubey, Shyam Dehati, Azad Singh \nMusic Director :- Ghungooru Ji\nDirector :- Raju\nProducer :- Manoj Kumar Choudhary\nChoreographer :- Sanjay Korbe, Kanu Mukhargi\nAction :- Hiralal Yadav \nBaner :- Mithila Talkies\nCompany/Label :- Wave Music -------------\nDigital Managed by – Lokdhun\n(Contact -9718776677)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sQGFeAAKAjI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sQGFeAAKAjI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sQGFeAAKAjI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sQGFeAAKAjI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sQGFeAAKAjI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "YouTube",
+        "playlistId": "RDQM-m1AMtq9xGU",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "sQGFeAAKAjI"
+        }
+      },
+      "contentDetails": {
+        "videoId": "sQGFeAAKAjI",
+        "videoPublishedAt": "2018-03-18T04:00:04.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/CyqpOIh-1J_srTX-iP_GQtpeeYc\"",
+      "id": "UkRRTS1tMUFNdHE5eEdVLmRRNjV5a2FkUXVV",
+      "snippet": {
+        "publishedAt": "2018-04-02T11:54:50.000Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "EK RAJAI TEEN LUGAI | Yash Kumar, Diya Singh, Anu Upadhyay, Shubra Ghosh | BHOJPURI NEW MOVIE 2018",
+        "description": "Movie : EK RAJAI TEEN LUGAI\nBanner : Eklairs Picture Production\nProducer : Ekta Behl\nStar Cast : Yash Kumar, Diya Singh, Anu Upadhyay, Shubra Ghosh,\nAshutosh Khare, Vijay Khare, Sanjay Mahanand, Sanjay Pandey,\nMontu Lal, Prem Dubey\nDirector : Manjul Thakur\nWriter : Arvind Tiwari\nMusic Director : Chhote Baba, M. Suman\nDance Director : Kannu Mukharjee\nMusic On : Worldwide Records\n\nhttps://www.facebook.com/WorldwideRecordsbhojpuri\nFor latest Bhojpuri Movies and Songs,\ndon't forget to\nSubscribe to us on Youtube: http://goo.gl/wbTmz7\nFollow us on Facebook: https://goo.gl/FCiyor\nFollow us on Google: https://goo.gl/Lsnh5N",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dQ65ykadQuU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dQ65ykadQuU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dQ65ykadQuU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dQ65ykadQuU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dQ65ykadQuU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "YouTube",
+        "playlistId": "RDQM-m1AMtq9xGU",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dQ65ykadQuU"
+        }
+      },
+      "contentDetails": {
+        "videoId": "dQ65ykadQuU",
+        "videoPublishedAt": "2018-04-02T11:54:50.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/6RKvcmjdmGSC-ClX6sd1V21FELw\"",
+      "id": "UkRRTS1tMUFNdHE5eEdVLno1a3lYQWEtVWtv",
+      "snippet": {
+        "publishedAt": "2015-11-29T14:02:27.000Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "PRATIGYA 2 | Pawan Singh - Akshar Singh - Khesari lal Yadav - Kajal Ragwani - Smriti Sinha",
+        "description": "For Latest Bhojpuri Full Movies Click : http://bit.ly/294NNYk\nFor Latest Bhojpuri Songs Videos : http://bit.ly/294NNYk\n\nMovie :  PRATIGYA - 2 (Bhojpuri) FULL MOVIE\nStarcast :  Pawan Singh, Khesarilal Yadav, Kunal Singh, Sushil Singh, Sanjay Yadav, Bellu, Akshara Singh, Kajal Raghwani, Smriti Sinha, \nProducer :  Abhishek Tiwari, Harsh Tiwari, Sanjay Yadav\nPresents : CPI Movies - Sujit Tiwari\nDirector :  Sushil kumar Upadhay\nMusic Director :  Vinay Bihari\nMusic Label :  Worldwide Records\nhttps://www.facebook.com/WorldwideRecordsBhojpuri\nhttp://gaana.com/album/pratigya-2 For latest Bhojpuri Movies and Songs, don't forget to\n\nSubscribe to us on Youtube: http://goo.gl/wbTmz7\n\nFollow us on Facebook: https://goo.gl/FCiyor\n\nFollow us on Google: https://goo.gl/Lsnh5N",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/z5kyXAa-Uko/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/z5kyXAa-Uko/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/z5kyXAa-Uko/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/z5kyXAa-Uko/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "YouTube",
+        "playlistId": "RDQM-m1AMtq9xGU",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "z5kyXAa-Uko"
+        }
+      },
+      "contentDetails": {
+        "videoId": "z5kyXAa-Uko",
+        "videoPublishedAt": "2015-11-29T14:02:27.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/g8lnIO6pgL7ifuPaELlFJeAoYPQ\"",
+      "id": "UkRRTS1tMUFNdHE5eEdVLnFhZjlpMGtrR3hn",
+      "snippet": {
+        "publishedAt": "2016-11-26T09:25:44.000Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "BALMA BIHARWALA 2 | BHOJPURI FULL MOVIE 2016",
+        "description": "#ARVINDAKELAKALLU\nMovie : Balma Biharwala 2\nStarcast : Pakhi Hegde, Arvind Akela (Kallu) Priya Sharma,Archana Tiwari, Ritesh Pandey, Anil Samrat etc.\nProducer : Ritesh Kumar Thakur \nPresenter: Deoghar Entertainment\nDirector : Vishnu Shankar (Belu)   \nMusic Director: Chhote Baba\nhttp://gaana.com/album/balma-biharwala-2\nMusic Label :  Worldwide Records / Aadi Shakti Audio \nhttps://www.facebook.com/WorldwideRecordsBhojpuri",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qaf9i0kkGxg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qaf9i0kkGxg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qaf9i0kkGxg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qaf9i0kkGxg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "YouTube",
+        "playlistId": "RDQM-m1AMtq9xGU",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qaf9i0kkGxg"
+        }
+      },
+      "contentDetails": {
+        "videoId": "qaf9i0kkGxg",
+        "videoPublishedAt": "2016-11-26T09:25:44.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/b-k69_aXg214STOaKX86bHAQf7w\"",
+      "id": "UkRRTS1tMUFNdHE5eEdVLi1idkRyRFA3UW5N",
+      "snippet": {
+        "publishedAt": "2015-10-06T07:34:30.000Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "हुकूमत - Hukumat || Super Hit Bhojpuri Full Movie || Pawan Singh, Kajal | Bhojpuri Film",
+        "description": "#Video #bhojpurisong #wavemusic\nअगर आप Bhojpuri Video को पसंद करते हैं तो Plz चैनल को Subscribe करें- Subscribe Now:- http://goo.gl/ip2lbk\n__________________________________________________________________________________________\n♪ Now Available on ♪ \nGaana : https://gaana.com/album/hukumat-bhojpuri\nWynk Music : https://wynk.in/music/album/Hukumat/hu_4747639\nHungama : http://www.hungama.com/album/hukumat/4747639/\nSaavn : https://www.saavn.com/s/album/bhojpuri/Hukumat-2015/UYf45iBG8YQ_\n___________________________________________________________________________________________\nFilm Name – Hukumat\nStar cast – Pawan Singh, Arvind Akela, Kajal Etc.\nSingers – Pawan Singh, Arvind Akela, Indu Sonali, Kalpana\nMusic director – Avinash Jha \"Ghunghuru Ji\"\nSong lyrics – Pyare Lal Yadav, Manoj Matlabi, Aazad Singh\nFilm writer – S.K Chouhan\nBanner –  Shreyas Films\nProducer – Prem Rai \nDirector – Arvind Choubey\nCompany/Label  – Wave Music \nCopyrights – Vee Gee Audio -------------\nDigital Managed by – Lokdhun\n(Contact -9718776677)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-bvDrDP7QnM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-bvDrDP7QnM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-bvDrDP7QnM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-bvDrDP7QnM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "YouTube",
+        "playlistId": "RDQM-m1AMtq9xGU",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-bvDrDP7QnM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "-bvDrDP7QnM",
+        "videoPublishedAt": "2015-10-06T07:34:30.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/5J4PbR3GO7JuIFTwTJaRT_TiV2E\"",
+      "id": "UkRRTS1tMUFNdHE5eEdVLldpVm5PLWVnQzBn",
+      "snippet": {
+        "publishedAt": "2016-02-13T16:11:34.000Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "सुहाग || Suhaag - Super Hit Bhojpuri Full Movie || Pawan Singh || Bhojpuri Full Film",
+        "description": "#Video #bhojpurisong #wavemusic\nअगर आप Bhojpuri Songs, Bhojpuri Film को पसंद करते हैं तो चैनल को Subscribe करें- Subscribe Now:- http://goo.gl/ip2lbka\n–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––\n♪ Now Available on ♪ \nGaana  :  https://gaana.com/album/suhaag-bhojpuri-2015\nHungama : http://www.hungama.com/album/suhaag/16407063/\nSaavn :  https://www.saavn.com/s/album/bhojpuri/Suhaag-2015/JX54mnd9MVw_\nWynk Music : https://wynk.in/music/album/Suhaag/hu_16407063\niTunes : https://itunes.apple.com/in/album/suhaag-original-motion-picture-soundtrack/1440111457?app=itunes&ign-mpt=uo%3D4\n––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––\nFilm Name – Suhaag \nStar cast – Pawan Singh,Shubhi Sharma, Seema Singh Etc.\nSingers – Pawan Singh, Indu Sonali.\nMusic director – Madhuker Anand.\nSong lyrics – Pyare Lal Yadav,R.R Pankaj & Jahid Akhter ETC.\nFilm writer – Ajay Shrivatav.\nBanner –  Ajay Shrivatav Production & S.r Film\nProducer – Ajay Shrivatav, Vinay Tiwari .\nDirector – Ajay Shrivatav.\nCompany/Label  – Wave Music \n \nCast\nPawan Singh\nShubhi Sharma\nSmirti Sinha\nSeema Singh\n\n\n\nIf you like Bhojpuri Song, Bhojpuri  Song, Bhojpuri Full Film and Bhojpuri Film Songs, subscribe our channel. Subscribe Now:- http://goo.gl/ip2lbk -------------\nDigital Managed by – Lokdhun\n(Contact -9718776677)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WiVnO-egC0g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WiVnO-egC0g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WiVnO-egC0g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WiVnO-egC0g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WiVnO-egC0g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "YouTube",
+        "playlistId": "RDQM-m1AMtq9xGU",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WiVnO-egC0g"
+        }
+      },
+      "contentDetails": {
+        "videoId": "WiVnO-egC0g",
+        "videoPublishedAt": "2016-02-13T16:11:34.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/d3t6Stq-9bSVVIqSbowiLJjTCRk\"",
+      "id": "UkRRTS1tMUFNdHE5eEdVLmxMUmdNbEQxUE40",
+      "snippet": {
+        "publishedAt": "2012-02-20T15:03:40.000Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Hamar Betwa - Super Hit Bhojpuri Film",
+        "description": "Thakur Ram Singh and his wife adopt an orphan boy and name him Shiva. Shortly afterwards they are blessed with a boy and a girl. A property dispute leads to Ram Singh getting murdered by Arjun and his family lose their property and are forced to live a poor life. Arjun tries to take advantage of the  Ram Singh's widowed wife but Shiva intervenes and ends up killing Arjun. The police arrest Siva and send him to prison. Years later, Shiva returns to his village much to the delight of his mother. But Shiva's brother and sister who hate him since childhood, plot with others to drive him out of the family and take over the remaining property of their dead father. Can Shiva tackle the odds stacked against him and set things right for his family?\n\n \n\nFollow us G+ http://plus.google.com/+rajshri \n\nLike us on Facebook - https://www.facebook.com/rajshri \n\nFollow us on Twitter - https://twitter.com/Rajshri \n\nFollow us on Pinterest - http://www.pinterest.com/rajshrivideos \n\nVisit Rajshri's Website - http://www.rajshri.com Subscribe to Rajshri - https://bit.ly/2NFOiwm\n\nSubscribe To Our Channel : http://bit.ly/SubscribeToRajshri\n\nFollow us on G+ http://plus.google.com/+rajshri\n\nLike us on Facebook - https://www.facebook.com/rajshri\n\nFollow us on Twitter - https://twitter.com/Rajshri\n\nFollow us on Pinterest - http://www.pinterest.com/rajshrivideos\n\nVisit Rajshri's Website - http://www.rajshri.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lLRgMlD1PN4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lLRgMlD1PN4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lLRgMlD1PN4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lLRgMlD1PN4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "YouTube",
+        "playlistId": "RDQM-m1AMtq9xGU",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lLRgMlD1PN4"
+        }
+      },
+      "contentDetails": {
+        "videoId": "lLRgMlD1PN4",
+        "videoPublishedAt": "2012-02-20T15:03:40.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ryNcY1JvGfexFW5VXHBk1i_bwto\"",
+      "id": "UkRRTS1tMUFNdHE5eEdVLk9fUzZYUTRobDdv",
+      "snippet": {
+        "publishedAt": "2015-11-06T12:28:27.000Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Latest Bhojpuri Movie || Tu Mera Hero || तु मेरा हीरो || Khesari Lal Yadav",
+        "description": "For more videos click | http://goo.gl/ugHL7v\nArtist - Khesari lal Yadav, Ritika, Niraj Pathak, Priya Singh, Umesh, Maya Yadav, Sanjay Verma, Vaibhav Ray,Heera  Yadav, Sanjay \nSinger - Khesari lal yadav | खेसारी लाल यादव , Indu Sonali, Khushbu Jain, Pamela Jain\nBhojpuri full Film - Tu Mera Hero\nStory / Director - Ramashankar\nDilouge - Arvind Tiwari\nProducer - Deepak jain \nLyrics - Pyare Lal Yadav, Ajad Singh, Arvind Tiwari\nMusic - Avinash Jha ( Ghanghru ji )\nBanner - DEEJAY Movies Entertainment\nContact Person - Ankit Vij 09899429419, \n                         Mail Us - http://goo.gl/iXvwbk\n\nLabel - Chanda Cassettes\nFacebook subscribe  : http://goo.gl/mLL48z\nLike us:  http://goo.gl/Xz1hcH\nfollow us :  http://goo.gl/JBLsrg",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/O_S6XQ4hl7o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/O_S6XQ4hl7o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/O_S6XQ4hl7o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/O_S6XQ4hl7o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "YouTube",
+        "playlistId": "RDQM-m1AMtq9xGU",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "O_S6XQ4hl7o"
+        }
+      },
+      "contentDetails": {
+        "videoId": "O_S6XQ4hl7o",
+        "videoPublishedAt": "2015-11-06T12:28:27.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/AWAgS8rB0W4BCqtTReOiPmF5m0k\"",
+      "id": "UkRRTS1tMUFNdHE5eEdVLml0R2ZrRFBjT3Z3",
+      "snippet": {
+        "publishedAt": "2014-08-15T03:26:08.000Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Sali Badi Sataweli - साली बडी सतावेली - Bhojpuri Super Hit Full Movie - Latest Bhojpuri Film",
+        "description": "If you Like Bhojpuri Videos & Bhojpuri Songs , Subscribe our channel - http://bit.ly/1B9tT3B\n\n---------------------------------------------------------------------------------\nStar Cast - Rani chatterji\nFilm - साली बडी सतावेली | Sali Badi Sataweli\n -------------\nDigital Managed by – Lokdhun\n(Contact -9718776677)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/itGfkDPcOvw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/itGfkDPcOvw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/itGfkDPcOvw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/itGfkDPcOvw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "YouTube",
+        "playlistId": "RDQM-m1AMtq9xGU",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "itGfkDPcOvw"
+        }
+      },
+      "contentDetails": {
+        "videoId": "itGfkDPcOvw",
+        "videoPublishedAt": "2014-08-15T03:26:08.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/OqPvZ-62gCoVSqgSCiiemiZGrE4\"",
+      "id": "UkRRTS1tMUFNdHE5eEdVLmhVNkVLSDNOQjFv",
+      "snippet": {
+        "publishedAt": "2017-08-19T11:19:09.000Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "RANG | BHOJPURI FULL MOVIE | HD MOVIE 2017",
+        "description": "#ARVINDAKELAKALLU\nMovie : RANG\nStar Cast - Arvind Akela -Kallu , Viraj Bhatt, Ritika Sharma,Sanjay Pandey,Umesh Singh,Sanjay Verma,Jalal Khan,Gopal Rai,Sonia Mishra,Shraddha Nawal,Priya Pandey\nProducer - Deepak Jain\nExecutive producer : Manoj Vishwakarma \nDirector - Bali \nCinemetographer - Jagvinder Singh Hundal\nMusic Director - Madhukar Anand\nAction Master - Heera Yadav\nLyrics - Shyam Dehat\nMusic On Worldwide Records\nhttps://www.facebook.com/WorldwideRecordsbhojpuri\nFor latest Bhojpuri Movies and Songs, don't forget to\nSubscribe to us on Youtube: http://goo.gl/wbTmz7\nFollow us on Facebook: https://goo.gl/FCiyor\nFollow us on Google: https://goo.gl/Lsnh5N",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hU6EKH3NB1o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hU6EKH3NB1o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hU6EKH3NB1o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hU6EKH3NB1o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hU6EKH3NB1o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "YouTube",
+        "playlistId": "RDQM-m1AMtq9xGU",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hU6EKH3NB1o"
+        }
+      },
+      "contentDetails": {
+        "videoId": "hU6EKH3NB1o",
+        "videoPublishedAt": "2017-08-19T11:19:09.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/_4nA5uXO119hgWPgtBctgB9G0Qs\"",
+      "id": "UkRRTS1tMUFNdHE5eEdVLmpXVkdpaVlPSjVV",
+      "snippet": {
+        "publishedAt": "2016-02-23T13:57:01.000Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Aakhiri Rasta in HD [Blockbuster Bhojpuri Movie]Feat.Dinesh Lal Yadav & Rinkoo Ghosh",
+        "description": "Aakhri Rasta is a bhojpuri movie including action, romance, drama,suspense,thriller with three bhojpuri superstar actress Monalisa, Rinkoo Ghosh, Pakhi Hegde. Dinesh Lal Yadav played a role of a cop in the movie who took revenge from their enemies.  \n\nArtists:  Dinesh Lal Yadav,Pakhi Hegde,Monalisa,Rinku Ghosh,Satyaprakash,Ajay Ghosh,Manoj Tiger \nSinger:  Udit Narayan,Kalpna,Dinesh Lal Yadav,Rajnish,Manoj Mishra,Indu Sonali,Palak\nLyricist: Vinay Bihari,Pyarelal Yadav \nGenre:  Soundtrack\nMusic Director: Rajesh-Rajnish\nYear of Release : Dec 2010\n\nFor more bhojpuri movies subscribe to\nhttp://www.youtube.com/hamaarbhojpuri\nFacebook: \nhttp://www.facebook.com/hamaarbhojpuri\nTwitter: http://www.twitter.com/_Tseries -\n-\n-\nSUBSCRIBE T-Series channel Hamaar Bhojpuri for unlimited entertainment\nhttp://www.youtube.com/hamaarbhojpuri\nFacebook: https://www.facebook.com/tserieshamaarbhojpuri/\nTwitter: https://twitter.com/HamaarBhojpuri",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jWVGiiYOJ5U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jWVGiiYOJ5U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jWVGiiYOJ5U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jWVGiiYOJ5U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jWVGiiYOJ5U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "YouTube",
+        "playlistId": "RDQM-m1AMtq9xGU",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jWVGiiYOJ5U"
+        }
+      },
+      "contentDetails": {
+        "videoId": "jWVGiiYOJ5U",
+        "videoPublishedAt": "2016-02-23T13:57:01.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/x2B6VP7LB6VZ9hzx42AjSE9VcUk\"",
+      "id": "UkRRTS1tMUFNdHE5eEdVLkFvR0ZHSlpTUG9n",
+      "snippet": {
+        "publishedAt": "2016-03-01T17:00:00.000Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "गुलामी - Gulami | Super Hit Bhojpuri Full Movie | Dinesh Lal Yadav \"Nirhua\" | Bhojpuri Film",
+        "description": "#Video #bhojpurisong #wavemusic\nअगर आप Bhojpuri Songs, Bhojpuri Film को पसंद करते हैं तो चैनल को Subscribe करें- Subscribe Now:- http://goo.gl/ip2lbk\n–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––\n♪ Now Available on ♪ \nGaana  :  https://gaana.com/album/gulami\nHungama : https://www.hungama.com/album/ghulami/16042748/\nSaavn :  https://www.jiosaavn.com/album/ghulami/KoPczbHof5I_\nWynk Music :  https://wynk.in/music/album/ghulami/hu_16042748?page=0\niTunes : https://itunes.apple.com/in/album/gulami-original-motion-picture-soundtrack/1440481931?app=itunes&ign-mpt=uo%3D4\n––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––\nFilm Name – Gulami\nStar cast – Dinesh Lal Yadav \"Nirahua\", Madhu Sharma Etc .\nSingers – Khesari Lal Yadav, Dinesh Lal Yadav, Kalpana Etc.\nMusic director – Pankaj Tiwari, Govind Ojha\nSong lyrics – Pyare Lal Yadav, Sharwan Suman\nFilm writer – Manoj Hansraj\nBanner –  Yashi Films\nProducer – Abhay Sinha\nDirector – Tinu Verma\nCompany/Label  – Wave Music \nCopyrights – Vee Gee Audio\n\nIf you like Bhojpuri Song, Bhojpuri  Song, Bhojpuri Full Film and Bhojpuri Film Songs, subscribe our channel. Subscribe Now:- http://goo.gl/ip2lbk -------------\nDigital Managed by – Lokdhun\n(Contact -9718776677)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AoGFGJZSPog/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AoGFGJZSPog/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AoGFGJZSPog/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AoGFGJZSPog/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AoGFGJZSPog/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "YouTube",
+        "playlistId": "RDQM-m1AMtq9xGU",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "AoGFGJZSPog"
+        }
+      },
+      "contentDetails": {
+        "videoId": "AoGFGJZSPog",
+        "videoPublishedAt": "2016-03-01T17:00:00.000Z"
       }
     }
   ]
