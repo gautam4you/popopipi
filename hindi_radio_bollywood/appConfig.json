@@ -24,13 +24,6 @@
 			"moreButton": true
 		},
 			{
-			"videosListId": "jai_ganga_maiya.json",
-			"type": "YP",
-			"extraLink": "",
-			"title": "Jai Ganga Maiya",
-			"moreButton": true
-		},
-			{
 			"videosListId": "jaishree.json",
 			"type": "YP",
 			"extraLink": "",
@@ -42,6 +35,14 @@
 			"type": "YP",
 			"extraLink": "",
 			"title": "Maa Shakti Serial",
+			"moreButton": true
+		},
+			
+			{
+			"videosListId": "jai_ganga_maiya.json",
+			"type": "YP",
+			"extraLink": "",
+			"title": "Jai Ganga Maiya",
 			"moreButton": true
 		}
 	],
