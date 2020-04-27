@@ -36,6 +36,13 @@
 			"extraLink": "",
 			"title": "Bhojpuri Dubbed Movies",
 			"moreButton": true
+		},
+			{
+			"videosListId": "bhojpuri_horror.json",
+			"type": "YP",
+			"extraLink": "",
+			"title": "Horror movies",
+			"moreButton": true
 		}
 	],
 	"ExtraHomeVideosList": [{
