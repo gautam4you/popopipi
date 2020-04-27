@@ -1,5 +1,14 @@
 [
 	{
+		"name": "Pehla Nasha Radio",
+		"name_h": "4KSq4KS54KSy4KS+IOCkqOCktuCkviDgpLDgpYfgpKHgpL/gpK/gpYs=",
+		"url": "https://wmirchi-lh.akamaihd.net/i/WMIRCHI_1@75780/index_1_a-p.m3u8?sd=10&rebase=on",
+		"samplerate": "44100",
+		"cat": "Hindi,Bollywood",
+		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/pahalanasha.jpg",
+		"pub": "27-04-2020"
+	},
+	{
 		"name": "CMR Hindi Urdu",
 		"name_h": "4KS44KWA4KSP4KSu4KSG4KSwIOCkueCkv+CkguCkpuClgCDgpIngpLDgpY3gpKbgpYI=",
 		"url": "http://live.cmr24.net:8081/CMR/Desi_Music-MQ/icecast.audio",
@@ -1690,15 +1699,6 @@
 		"samplerate": "",
 		"cat": "Hindi,Bollywood,Web",
 		"image": "https://mm.aiircdn.com/413/5a71879c53ec1.jpg",
-		"pub": "15-09-2018"
-	},
-	{
-		"name": "Pehla Nasha Radio",
-		"name_h": "4KSq4KS54KSy4KS+IOCkqOCktuCkviDgpLDgpYfgpKHgpL/gpK/gpYs=",
-		"url": "http://pehlanashahdlive-lh.akamaihd.net/i/PehlaNashaHDLive_1_1@335229/master.m3u8",
-		"samplerate": "44100",
-		"cat": "Hindi,Bollywood",
-		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/pahalanasha.jpg",
 		"pub": "15-09-2018"
 	},
 	{
