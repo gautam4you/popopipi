@@ -216,24 +216,6 @@
 		"cat": "bollywood",
 		"image": "http://shortfilmsite.com/images/radioadda.jpg",
 		"pub": "11-04-2020"
-	},
-		{
-		"name": "Pehla Nasha Radio",
-		"name_h": "4KSq4KS54KSy4KS+IOCkqOCktuCkviDgpLDgpYfgpKHgpL/gpK/gpYs=",
-		"url": "https://wmirchi-lh.akamaihd.net/i/WMIRCHI_1@75780/index_1_a-p.m3u8",
-		"samplerate": "44100",
-		"cat": "Purani Jeans",
-		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/pahalanasha.jpg",
-		"pub": "27-04-2020"
-	},
-		{
-		"name": "Mirchi 90's",
-		"name_h": "4KSq4KS54KSy4KS+IOCkqOCktuCkviDgpLDgpYfgpKHgpL/gpK/gpYs=",
-		"url": "https://pehlanashahdlive-lh.akamaihd.net/i/PehlaNashaHDLive_1@335229/index_1_a-b.m3u8?sd=10&rebase=on",
-		"samplerate": "44100",
-		"cat": "Purani Jeans",
-		"image": "https://onlineradiofm.in/assets/image/radio/180/mirchi90s.png",
-		"pub": "27-04-2020"
 	}
 ]
 }
