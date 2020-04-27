@@ -1,0 +1,1171 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/iGD8fyizA2-73DtlIeJMA8VNbQY\"",
+  "pageInfo": {
+    "totalResults": 24,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/V1kt6K8ZaMESo_PHZh-2gIiFiJo\"",
+      "id": "UExQWk1LRzI3ZmZhZ0M0N0szSF9VRjgwaTNDcTVKX2pLOC45NzUwQkI1M0UxNThBMkU0",
+      "snippet": {
+        "publishedAt": "2020-04-27T03:20:47.000Z",
+        "channelId": "UCj2Hw9nrvjDtVMJsgm_BhEA",
+        "title": "बदला डायन का (2019) खेसारी लाल की सबसे बड़ी फिल्म हुई लीक 2019 | अकेले में मत देखें 2019",
+        "description": "बदला डायन का (2019) खेसारी लाल की सबसे बड़ी फिल्म हुई लीक 2019 | अकेले में मत देखें 2019 \nबदला डायन का (2019) खेसारी लाल की सबसे बड़ी फिल्म हुई लीक 2019 | अकेले में मत देखें 2019 बदला डायन का (2019) खेसारी लाल की सबसे बड़ी फिल्म हुई लीक 2019 | अकेले में मत देखें 2019 बदला डायन का (2019) खेसारी लाल की सबसे बड़ी फिल्म हुई लीक 2019 | अकेले में मत देखें 2019 बदला डायन का (2019) खेसारी लाल की सबसे बड़ी फिल्म हुई लीक 2019 | अकेले में मत देखें 2019 बदला डायन का (2019) खेसारी लाल की सबसे बड़ी फिल्म हुई लीक 2019 | अकेले में मत देखें 2019",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/U2ek7KL3e1I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/U2ek7KL3e1I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/U2ek7KL3e1I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/U2ek7KL3e1I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/U2ek7KL3e1I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gautam Kushwaha",
+        "playlistId": "PLPZMKG27ffagC47K3H_UF80i3Cq5J_jK8",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "U2ek7KL3e1I"
+        }
+      },
+      "contentDetails": {
+        "videoId": "U2ek7KL3e1I",
+        "videoPublishedAt": "2019-06-01T13:30:00.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Gi3P6z7BRo3DVFtTzSnfVDNDeIo\"",
+      "id": "UExQWk1LRzI3ZmZhZ0M0N0szSF9VRjgwaTNDcTVKX2pLOC4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2020-04-27T03:20:36.000Z",
+        "channelId": "UCj2Hw9nrvjDtVMJsgm_BhEA",
+        "title": "बदला डायन का (2019) खेसारी लाल की सबसे डरावनी फिल्म 2019 | कमजोर दिल वाले दूर रहे 2019",
+        "description": "बदला डायन का (2019) खेसारी लाल की सबसे डरावनी फिल्म 2019 | कमजोर दिल वाले दूर रहे 2019 \nव् बदला डायन का (2019) खेसारी लाल की सबसे डरावनी फिल्म 2019 | कमजोर दिल वाले दूर रहे 2019 \nबदला डायन का (2019) खेसारी लाल की सबसे डरावनी फिल्म 2019 | कमजोर दिल वाले दूर रहे 2019 बदला डायन का (2019) खेसारी लाल की सबसे डरावनी फिल्म 2019 | कमजोर दिल वाले दूर रहे 2019 बदला डायन का (2019) खेसारी लाल की सबसे डरावनी फिल्म 2019 | कमजोर दिल वाले दूर रहे 2019",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SJtm1-VnEi8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SJtm1-VnEi8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SJtm1-VnEi8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SJtm1-VnEi8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SJtm1-VnEi8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gautam Kushwaha",
+        "playlistId": "PLPZMKG27ffagC47K3H_UF80i3Cq5J_jK8",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SJtm1-VnEi8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "SJtm1-VnEi8",
+        "videoPublishedAt": "2019-06-08T13:45:02.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/7xTkEhIaa3EZgKYBFlj4anPGpWY\"",
+      "id": "UExQWk1LRzI3ZmZhZ0M0N0szSF9VRjgwaTNDcTVKX2pLOC5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2020-04-27T03:20:18.000Z",
+        "channelId": "UCj2Hw9nrvjDtVMJsgm_BhEA",
+        "title": "पायल - Bhojpuri Movie | Payal - Bhojpuri Film | Rani Chatterjee | Full Movie",
+        "description": "#Video #bhojpurisong #wavemusic\n----------------------------------------------------------------------------------------------------------\n♪ Now Available on ♪ \nHungama : https://www.hungama.com/album/payal/16561565/\nWynk Music : https://wynk.in/music/album/payal/hu_16561565?page=0\nGaana : https://gaana.com/album/payal-bhojpuri-2018\nSaavn : https://www.jiosaavn.com/album/payal/lLdKJqcU9ng_\niTunes : https://itunes.apple.com/in/album/payal-original-motion-picture-soundtrack/1443728976?app=itunes&ign-mpt=uo%3D4\n---------------------------------------------------------------------------------------------------------\n\nFilm Name – Payal\nStar cast – Rani Chattejee\nSingers – Udit Narayan, Kalpana, Indu Sonali\nMusic director – Rajesh Gupta\nSong lyrics – Vinay Bihari\nFilm writer – \nBanner – \nProducer – \nDirector –\nCompany/Label  – Wave Music \nCopyrights – Vee Gee Audio -------------\nDigital Managed by – Lokdhun\n(Contact -9718776677)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2XMgfA_fyl4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2XMgfA_fyl4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2XMgfA_fyl4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2XMgfA_fyl4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2XMgfA_fyl4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gautam Kushwaha",
+        "playlistId": "PLPZMKG27ffagC47K3H_UF80i3Cq5J_jK8",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2XMgfA_fyl4"
+        }
+      },
+      "contentDetails": {
+        "videoId": "2XMgfA_fyl4",
+        "videoPublishedAt": "2014-11-08T08:42:46.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/e0ZTd0ed0FFZCFdSrZDIj0yJdP0\"",
+      "id": "UExQWk1LRzI3ZmZhZ0M0N0szSF9VRjgwaTNDcTVKX2pLOC4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2020-04-27T03:20:00.000Z",
+        "channelId": "UCj2Hw9nrvjDtVMJsgm_BhEA",
+        "title": "Hamar Vachan ||  Bhojpuri Full Movie | Bhojpuri Horror Movie || Aniket, Soumya",
+        "description": "Hamar Vachan (2013) Bhojpuri Full Movie | Aniket, Soumya                                                                                 'Hamar Vachan' directed by Pappu L. Sharma. The film stars Aniket, Soumya Rajput, Rakesh Pandey, Raju and Monika. The movie is a big hit at the box office.\n\nMovie Teev is the one stop destination for movies of Bollywood for your 24 hours Free online Entertainment. From Dilip Kumar to Amitabh Bachchan to Shahrukh Khan and Nana Patekar, we have listed all for you. Latest updated movies, free mobile, new songs, watching new films, old superhit movies, and all entertainment in your youtube list\n\nEnjoy & stay connected with us!\n ►Subscribe to DRJ Records Bhojpuri - http://goo.gl/ROz0fc\n ►For Daily Update SUBSCRIBE us: http://goo.gl/ROz0fc \n► FOLLOW to DRJ Records Bhojpuri: https://www.youtube.com/channel/UC3zH... \n► Like us on Facebook: https://www.facebook.com/drjrecords \n► Follow us on Twitter: https://twitter.com/drjrecords\n ► Follow us on Instagram: https://www.instagram.com/drjrecords \n► Circle us on G+: https://twitter.com/drjrecords\n► Find us on Pinterest: https://in.pinterest.com/drjrecords \nWelcome to DRJ Records Bhojpuri Youtube Channel, the #1 destination for premium entertainment videos. Enjoy the blockbuster all languages Full movies, scenes, songs, & more.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bwE8lInhOD8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bwE8lInhOD8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bwE8lInhOD8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bwE8lInhOD8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bwE8lInhOD8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gautam Kushwaha",
+        "playlistId": "PLPZMKG27ffagC47K3H_UF80i3Cq5J_jK8",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "bwE8lInhOD8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "bwE8lInhOD8",
+        "videoPublishedAt": "2018-02-10T11:03:56.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/0ZMF5troB4FOy1PLZjSOA_WwR8Q\"",
+      "id": "UExQWk1LRzI3ZmZhZ0M0N0szSF9VRjgwaTNDcTVKX2pLOC5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2020-04-27T03:19:34.000Z",
+        "channelId": "UCj2Hw9nrvjDtVMJsgm_BhEA",
+        "title": "Bairi Kangna (बैरी कंगना) Full Bhojpuri Movie | Rakesh Pandey",
+        "description": "Movie -  Bairi Kangna (बैरी कंगना)\nCast - Rakesh Pandey\nDirector - Raju Singh",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yoWb7eC61tA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yoWb7eC61tA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yoWb7eC61tA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yoWb7eC61tA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yoWb7eC61tA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gautam Kushwaha",
+        "playlistId": "PLPZMKG27ffagC47K3H_UF80i3Cq5J_jK8",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yoWb7eC61tA"
+        }
+      },
+      "contentDetails": {
+        "videoId": "yoWb7eC61tA",
+        "videoPublishedAt": "2019-04-14T07:30:04.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/7eQ0nujaDbpKxKqrg7aIfxp4QKw\"",
+      "id": "UExQWk1LRzI3ZmZhZ0M0N0szSF9VRjgwaTNDcTVKX2pLOC45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2020-04-27T03:19:29.000Z",
+        "channelId": "UCj2Hw9nrvjDtVMJsgm_BhEA",
+        "title": "Bhoot Biggest Horror Movie | Pakhi Hegde Aur Arvind Akela Kallu Bhojpuri New Film 2019",
+        "description": "#ArvindAkelaKallu #PakhiHegdi\nSubscribe My Channel For More New videos:https://bit.ly/2SLAa3O\n\nBhoot Biggest Horror Movie | Pakhi Hegde Aur Arvind Akela Kallu Bhojpuri New Film 2019",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6mO_3eMi1MQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6mO_3eMi1MQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6mO_3eMi1MQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6mO_3eMi1MQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6mO_3eMi1MQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gautam Kushwaha",
+        "playlistId": "PLPZMKG27ffagC47K3H_UF80i3Cq5J_jK8",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6mO_3eMi1MQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "6mO_3eMi1MQ",
+        "videoPublishedAt": "2019-09-17T06:07:25.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/W-pkoJo5_a4wn3LQvOK6A7V6Vbs\"",
+      "id": "UExQWk1LRzI3ZmZhZ0M0N0szSF9VRjgwaTNDcTVKX2pLOC4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2020-04-27T03:18:59.000Z",
+        "channelId": "UCj2Hw9nrvjDtVMJsgm_BhEA",
+        "title": "#Arvind Akela Kallu # Pakhi Hegde पाखी बानी डायन | Bhojpuri horror Scene 2020",
+        "description": "#Arvind Akela Kallu # Pakhi Hegde पाखी बानी डायन | Bhojpuri horror Scene 2020\nSubscribe Us - https://bit.ly/31nnoeY",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ssYVisMGtOo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ssYVisMGtOo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ssYVisMGtOo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ssYVisMGtOo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ssYVisMGtOo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gautam Kushwaha",
+        "playlistId": "PLPZMKG27ffagC47K3H_UF80i3Cq5J_jK8",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ssYVisMGtOo"
+        }
+      },
+      "contentDetails": {
+        "videoId": "ssYVisMGtOo",
+        "videoPublishedAt": "2020-04-22T08:24:09.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/TDHmD7UT4xDOJhnmscIEaQG7hjk\"",
+      "id": "UExQWk1LRzI3ZmZhZ0M0N0szSF9VRjgwaTNDcTVKX2pLOC41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2020-04-27T03:18:25.000Z",
+        "channelId": "UCj2Hw9nrvjDtVMJsgm_BhEA",
+        "title": "भोजपुरी Super Star Monalisa का अब तक का सबसे डरवानी Movie | Bhoot Ka Saya | Bhojpuri Horror Film",
+        "description": "Presenting the full Movie of Bhoot Ka Saya . \n\n\nProduced by : VD Bhojpuri\nCast : Monalisa\nMusic on : Bhojpuri Music\nCopyright@Bhojpuri Music\n\n\nIf You like the video don't forget to share with others & also share your views.\nStay connected with us!!!\n\n\n\n\n#VDBhojpuri #BhootKaSaya",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZucoazBfNAs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZucoazBfNAs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZucoazBfNAs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZucoazBfNAs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZucoazBfNAs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gautam Kushwaha",
+        "playlistId": "PLPZMKG27ffagC47K3H_UF80i3Cq5J_jK8",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ZucoazBfNAs"
+        }
+      },
+      "contentDetails": {
+        "videoId": "ZucoazBfNAs",
+        "videoPublishedAt": "2020-04-05T14:00:45.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Fum_s_O2XjzWY4SnjQ3s2swIrnk\"",
+      "id": "UExQWk1LRzI3ZmZhZ0M0N0szSF9VRjgwaTNDcTVKX2pLOC5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2020-04-27T03:18:04.000Z",
+        "channelId": "UCj2Hw9nrvjDtVMJsgm_BhEA",
+        "title": "भूतहा घर - भोजपुरी की सबसे डरावनी फिल्म  Bhootaha ghar - Bhojpuri Horror Full Movie 2020",
+        "description": "Movie: Bhootaha Ghar \nCast:  Chetan Kumar , Shobha Rani , Manoj \nDirector: Sathaya Samrat\nMusic: Sri Ravi\nStory: Sathaya Samrat \n Editor- Durga P.S\nCinematography- Shayam Khandaswamy\nProducer : Venus Digital \nMusic Label : Bhojpuri Music\n\n\n#VenusDigitalBhojpuri #Bhootahaghar",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hzkO6xOgDqY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hzkO6xOgDqY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hzkO6xOgDqY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hzkO6xOgDqY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hzkO6xOgDqY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gautam Kushwaha",
+        "playlistId": "PLPZMKG27ffagC47K3H_UF80i3Cq5J_jK8",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hzkO6xOgDqY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "hzkO6xOgDqY",
+        "videoPublishedAt": "2020-03-17T04:57:22.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/S48Ni1L76GM0hgQUIcrQatO-bHY\"",
+      "id": "UExQWk1LRzI3ZmZhZ0M0N0szSF9VRjgwaTNDcTVKX2pLOC41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2020-03-03T01:32:11.000Z",
+        "channelId": "UCj2Hw9nrvjDtVMJsgm_BhEA",
+        "title": "Manjulika Returns (2016) Full Movie in Hindi | South Dubbed Horror Film With English Subtitle | ADMD",
+        "description": "Watch the superhit South Dubbed Horror Comedy full film 'Manjulika Returns' exclusively at Adwise Media Digital\n\n**************************************************************************\nSynopsis:\nShiva(Manoj Nandan) is a normal middle class guy who dreams of becoming an actor. He tries hard but does not get any break. Seeing his pathetic situation, Shiva’s friend Madan(Anil Kalyan) decides to rent out his ancestral property. To his good luck a movie unit comes forward to shoot their film in the estate.\nIcing on the cake is when Madan lands Shiva the hero’s role in the film. The shooting kick starts and as time passes by, strange things keep happening to the entire unit. The heroine of the film, Hansika(Chandini) gets possessed by an evil spirit and starts troubling everyone.\nWho is this evil spirit ? What does it have to do with Hansika ? and How does the entire unit survive this onslaught ? That forms the rest of the story.\n\nCast: Manoj Nandan, Anil Kalyan, Chandini Tamilarasan, Subhashini\nDirector: Bhanu Prakash Balusu\nProducer: Umakanth\n\n►For best South Indian dubbed movies subscribe to\nhttp://bit.ly/ADMD2016\n\n► Follow us on Twitter: https://twitter.com/AdwiseMediaD\n► Like us on Facebook: https://facebook.com/adwisemediadigital\n\n*********************************************************************************\nList Of Other Movies:\n- Game : https://youtu.be/2fJgEuQgAfE\n- Bajirao Singham : https://youtu.be/wy9ApilAo3g\n- Style : https://youtu.be/gcVSKSVETx4\n- Manjulika Returns : https://youtu.be/rzFA7FUDyLg\n- Pawanism : https://youtu.be/CjFGEW2EKBM\n- Bhool Bhulaiyaa Returns : https://youtu.be/a44fiN0gvtU\n- Qurbani : https://youtu.be/9UsFGfkaDtk\n- Bhoo Returns : https://youtu.be/0ZDkfBd7y8Y\n- Googly : https://youtu.be/MMo9lVjRyJA\n- Kamal Dhamaal : https://youtu.be/1Cx_DN9O5EE\n- Oh My God : https://youtu.be/J2h7-1atPVI",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rzFA7FUDyLg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rzFA7FUDyLg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rzFA7FUDyLg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rzFA7FUDyLg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rzFA7FUDyLg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gautam Kushwaha",
+        "playlistId": "PLPZMKG27ffagC47K3H_UF80i3Cq5J_jK8",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "rzFA7FUDyLg"
+        }
+      },
+      "contentDetails": {
+        "videoId": "rzFA7FUDyLg",
+        "videoPublishedAt": "2016-09-24T06:22:34.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/RSrh0tOMz9T4G8bXU9D7z7gmqpM\"",
+      "id": "UExQWk1LRzI3ZmZhZ0M0N0szSF9VRjgwaTNDcTVKX2pLOC4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2020-03-03T01:32:04.000Z",
+        "channelId": "UCj2Hw9nrvjDtVMJsgm_BhEA",
+        "title": "Sau Saal Baad - Horror Movie",
+        "description": "SUBSCRIBE for the best Bollywood videos, movies, scenes and songs, all in ONE channel: https://bit.ly/2TEp6EL\nA demon, who wants to bring his lover back to life, has to give her the blood of a woman who will be one of her future relations.\n\nDirector : - Mohan Bhakri\nProducer : -  Yogesh Chhabra, Shyam Kandoi, Inderjeet Walia \nStarcast :-  Hemant Birje, Sahila Chadda, Amjad Khan, Mayur, Poonam Das Gupta, Raza Murad, Danny Denzongpa, Sahila Chadda, Huma Khan, Shobhini Singh, Tina Ghai, Suraj Chadha, Rajendranath.\n\n\n\n\nIf You Like The Video Don't Forget To Share With Others & Also Share Your Views.\n\nSUBSCRIBE for the best Bollywood videos, movies and scenes, all in ONE channel https://www.youtube.com/user/seplfilmidhamaka. Like, Comment and Share with your friends and family. \n\nWatch more Bollywood videos and movies starring your favourite celebrities like Amitabh Bachchan, Raj Kapoor, Dharmendra, Zeenat Aman, Vidya Balan, Govinda, Salman Khan and many more, only on https://www.youtube.com/user/seplfilmidhamaka Your One Stop Destination For All The Latest Videos Subscribe Now!\nhttp://www.youtube.com/subscription_center?add_user=seplfilmidhamaka",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PDbn-eLvUrM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PDbn-eLvUrM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PDbn-eLvUrM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Gautam Kushwaha",
+        "playlistId": "PLPZMKG27ffagC47K3H_UF80i3Cq5J_jK8",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PDbn-eLvUrM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "PDbn-eLvUrM",
+        "videoPublishedAt": "2016-03-27T13:30:01.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/IppatuCS96nX35Z7jaGowsSNiWo\"",
+      "id": "UExQWk1LRzI3ZmZhZ0M0N0szSF9VRjgwaTNDcTVKX2pLOC45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2020-03-03T01:31:55.000Z",
+        "channelId": "UCj2Hw9nrvjDtVMJsgm_BhEA",
+        "title": "Matasya Ek Prem Kahani # First Horror Bhojpuri Movie # Movie Tailor",
+        "description": "नये भोजपुरी गाने और  भोजपुरी Films देखने के लिए, हमारा Youtube Channel Subscribe करें !   - https://goo.gl/KwoAag\nFilm - Matasya Ek Prem Kahani\nStarcast - Akshat Priyesh, Monika Yadav, Neha Rathor, Sweta Sagar, Harshbardhan, Abhishek Arya Other\nMusic  - Pritam & Manoj\nProduced By - Mr. Ashotosh Kumar\nDirectorted By - Ritesh Parmar\nLabel/ Company - Angle Music\n \nDOWNLOAD MP3 SONGS   :-  http://bhojpuridunia.in/\nDOWNLOAD YOUTUBE APP  :-  https://goo.gl/nsyTxq\nDOWNLOAD OUR MOBILE APP  :-  https://goo.gl/xlFqJh\n\nनयी ख़बरों के लिए हमारे Facebook Page BHOJPURI TADKA  को LIKE करें!      https://www.facebook.com/AngleMusicvideo\n\nTo watch latest Bhojpuri Songs and Bhojpuri Full Length Films, please subscribe to our Youtube Channel.\nhttps://www.youtube.com/user/StudioAngle\n\nPlease like our Facebook Page Facebook Page \" BHOJPURI TADKA \"  to get latest updates\nhttps://www.facebook.com/AngleMusicvideo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hn4Tys43Y60/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hn4Tys43Y60/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hn4Tys43Y60/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hn4Tys43Y60/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hn4Tys43Y60/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gautam Kushwaha",
+        "playlistId": "PLPZMKG27ffagC47K3H_UF80i3Cq5J_jK8",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hn4Tys43Y60"
+        }
+      },
+      "contentDetails": {
+        "videoId": "hn4Tys43Y60",
+        "videoPublishedAt": "2016-10-07T08:07:27.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/EVHFVKn_kdk_4g8pRpklvCj82Fc\"",
+      "id": "UExQWk1LRzI3ZmZhZ0M0N0szSF9VRjgwaTNDcTVKX2pLOC5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2020-03-03T01:31:45.000Z",
+        "channelId": "UCj2Hw9nrvjDtVMJsgm_BhEA",
+        "title": "भोजपुरी की सबसे बड़ी हॉरर फिल्म 2018 | Pakhi Hegde & Arvind Akela (KALLU)",
+        "description": "#PAKHIHEGDE\n#ARVINDAKELA\n#KALLU\n\n\nMovie : Balma Biharwala 2\nStarcast : Pakhi Hegde, Arvind Akela (Kallu) Priya Sharma,Archana Tiwari, Ritesh Pandey, Anil Samrat etc.\nProducer : Ritesh Kumar Thakur \nPresenter: Deoghar Entertainment\nDirector : Vishnu Shankar (Belu)   \nMusic Director: Chhote Baba\nhttp://gaana.com/album/balma-biharwala-2\nMusic Label :  Worldwide Records / Aadi Shakti Audio",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yNTzP3ylbJ0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yNTzP3ylbJ0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yNTzP3ylbJ0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yNTzP3ylbJ0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yNTzP3ylbJ0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gautam Kushwaha",
+        "playlistId": "PLPZMKG27ffagC47K3H_UF80i3Cq5J_jK8",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yNTzP3ylbJ0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "yNTzP3ylbJ0",
+        "videoPublishedAt": "2018-03-09T13:20:52.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/J9y8CcuJ3lYo9TsUM_eb4hRYhkw\"",
+      "id": "UExQWk1LRzI3ZmZhZ0M0N0szSF9VRjgwaTNDcTVKX2pLOC40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2020-03-03T01:31:40.000Z",
+        "channelId": "UCj2Hw9nrvjDtVMJsgm_BhEA",
+        "title": "Cheekh - चीख - Bhojpuri Full Movie | Dubbed Horror | Sapna",
+        "description": "Subscribe to Ultra Regional - http://bit.ly/UltraRegional \nHot Bhojpuri Dubbed Horror Movie Cheekh (2007)\nStarring: Sapna, Amit Pachori, Vinod Tripathi, Anil Nagrath.\nDirector: Kanti Shah\n#bhojpuri #sapna #bhojpurimovies",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XanjnczM8cM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XanjnczM8cM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XanjnczM8cM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XanjnczM8cM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XanjnczM8cM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gautam Kushwaha",
+        "playlistId": "PLPZMKG27ffagC47K3H_UF80i3Cq5J_jK8",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "XanjnczM8cM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "XanjnczM8cM",
+        "videoPublishedAt": "2017-04-11T06:10:03.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/N-QcREsy7T-qYgkuqjTEgXAF-TI\"",
+      "id": "UExQWk1LRzI3ZmZhZ0M0N0szSF9VRjgwaTNDcTVKX2pLOC5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2020-03-03T01:31:35.000Z",
+        "channelId": "UCj2Hw9nrvjDtVMJsgm_BhEA",
+        "title": "Bhojpuri first horror movie . Bhojpuri me ek aur dhamaka",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2XyiLXHnU_o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2XyiLXHnU_o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2XyiLXHnU_o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2XyiLXHnU_o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Gautam Kushwaha",
+        "playlistId": "PLPZMKG27ffagC47K3H_UF80i3Cq5J_jK8",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2XyiLXHnU_o"
+        }
+      },
+      "contentDetails": {
+        "videoId": "2XyiLXHnU_o",
+        "videoPublishedAt": "2018-01-15T10:44:37.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/2yHXL_8eVeMLodg-xp56dorySyw\"",
+      "id": "UExQWk1LRzI3ZmZhZ0M0N0szSF9VRjgwaTNDcTVKX2pLOC45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2020-03-03T01:31:14.000Z",
+        "channelId": "UCj2Hw9nrvjDtVMJsgm_BhEA",
+        "title": "काल (2019) भोजपुरी की सबसे डरावनी फिल्म 2019 | Bhojpuri Horror Movie 2019 | Latest Horror Movie 2019",
+        "description": "Subscribe: http://bit.ly/DRJRecordsBhojpuri\n\nMovie: Kaal ( काल) Andamaina Maya Movie \nCast:  Shruti Jha, Jhansi, Chiru Sai, Hemanth\nDirector: Maneendra,\nMusic: K M Radha Krishna\nStory: Dinakaran,\n Editor- Basha \nTrailer Editing : Ajay Kumar Chaudhary \nCinematography- A.R.B Prem Jai\nProducer : DRJ Records Industries Private Limited\nMusic Label : DRJ Records\n© 2019 DRJ Records Industries Private Limited\n\n#horrowmovies #bhojpurihorrowmovie2019 #latesthorrowdubbedmovie2019new\nSUBSCRIBE for the Latest Videos, Movies, Songs and scenes, all in ONE channel: https://www.youtube.com/channel/UC3zHuh33LDINzwB2kP_MVtw?sub_confirmation=1\n\n\nहमारे ऑफिसियल  चैनल में आपका हार्दिक स्वागत है । अगर आप इस विडियो को पसंद करते हैं तो हमारे चैनल को Subscribe जरूर करें : http://bit.ly/DRJRecordsBhojpuri\n\nWelcome to DRJ Records Bhojpuri Youtube Channel, the #1 destination for premium entertainment videos. Enjoy the blockbuster all languages Full movies, scenes, songs, & more.\nWe are Digital Content Distributor & Creator for all platforms Worldwide. We believe in transparency and honesty and we expect same.\n\nSUBSCRIBE for the Latest Videos, Movies, Songs and scenes, all in ONE channel: https://www.youtube.com/channel/UC3zHuh33LDINzwB2kP_MVtw?sub_confirmation=1\n\n\n(C) 2019 DRJ Records Industries Private Limited\n\n\nLike, Comment and Share with your friends and family.\n\nSubscribe to DRJ Records Bhojpuri : http://bit.ly/DRJRecordsBhojpuri\nFacebook : http://www.facebook.com/drjrecords\nTwitter : http://www.twitter.com/drjrecords\nInstagram : http://www.instagram.com/drjrecords\nPinterest: https://in.pinterest.com/drjrecords",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mVv4qc8ozww/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mVv4qc8ozww/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mVv4qc8ozww/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mVv4qc8ozww/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mVv4qc8ozww/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gautam Kushwaha",
+        "playlistId": "PLPZMKG27ffagC47K3H_UF80i3Cq5J_jK8",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mVv4qc8ozww"
+        }
+      },
+      "contentDetails": {
+        "videoId": "mVv4qc8ozww",
+        "videoPublishedAt": "2019-11-07T12:05:25.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/mWLrqLys-uxWckshUQjwklfGqw8\"",
+      "id": "UExQWk1LRzI3ZmZhZ0M0N0szSF9VRjgwaTNDcTVKX2pLOC5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2020-03-03T01:31:10.000Z",
+        "channelId": "UCj2Hw9nrvjDtVMJsgm_BhEA",
+        "title": "नई रिलीज़ भोजपुरी मूवी 2018 HD #ZEHREELA, #ज़हरीला -SUPERHIT HORROR BHOJPURI FILM 2018",
+        "description": "नई रिलीज़ भोजपुरी मूवी 2018 HD #ZEHREELA, #ज़हरीला -SUPERHIT HORROR BHOJPURI FILM 2018\nनई रिलीज़ भोजपुरी मूवी 2018 HD #ZEHREELA, #ज़हरीला -SUPERHIT HORROR BHOJPURI FILM 2018\nनई रिलीज़ भोजपुरी मूवी 2018 HD #ZEHREELA, #ज़हरीला -SUPERHIT HORROR BHOJPURI FILM 2018\nनई रिलीज़ भोजपुरी मूवी 2018 HD #ZEHREELA, #ज़हरीला -SUPERHIT HORROR BHOJPURI FILM 2018\nनई रिलीज़ भोजपुरी मूवी 2018 HD #ZEHREELA, #ज़हरीला -SUPERHIT HORROR BHOJPURI FILM 2018\nनई रिलीज़ भोजपुरी मूवी 2018 HD #ZEHREELA, #ज़हरीला -SUPERHIT HORROR BHOJPURI FILM 2018\nनई रिलीज़ भोजपुरी मूवी 2018 HD #ZEHREELA, #ज़हरीला -SUPERHIT HORROR BHOJPURI FILM 2018",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Rfw8F9YnOds/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Rfw8F9YnOds/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Rfw8F9YnOds/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Rfw8F9YnOds/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Rfw8F9YnOds/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gautam Kushwaha",
+        "playlistId": "PLPZMKG27ffagC47K3H_UF80i3Cq5J_jK8",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Rfw8F9YnOds"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Rfw8F9YnOds",
+        "videoPublishedAt": "2018-12-01T09:16:48.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/WqDIyaJfwaJC1gcMlnSwWvqJweg\"",
+      "id": "UExQWk1LRzI3ZmZhZ0M0N0szSF9VRjgwaTNDcTVKX2pLOC41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2020-03-03T01:31:05.000Z",
+        "channelId": "UCj2Hw9nrvjDtVMJsgm_BhEA",
+        "title": "Arvind Akela (Kallu) Aur Pakhi Hegde Ki Bhojpuri Horror Film Ever | HD Film",
+        "description": "Subscribe My Channel For More New videos:https://bit.ly/2J6K0sE SUBSCRIBE MY CHANNEL FOR MORE SUPER-HIT BHOJPURI FILMS https://goo.gl/uBJ9xb\n\n#ArvindAkela#PakhiHegde#HorrorFilm\n\n\nMovie : Balma Biharwala 2\nStarcast : Pakhi Hegde, Arvind Akela (Kallu) Priya Sharma,Archana Tiwari, Ritesh Pandey, Anil Samrat etc.\nProducer : Ritesh Kumar Thakur \nPresenter: Deoghar Entertainment\nDirector : Vishnu Shankar (Belu)   \nMusic Director: Chhote Baba\nhttp://gaana.com/album/balma-biharwala-2\nMusic Label :  Worldwide Records / Aadi Shakti Audio",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/U-jnMjbSt4Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/U-jnMjbSt4Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/U-jnMjbSt4Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/U-jnMjbSt4Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/U-jnMjbSt4Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gautam Kushwaha",
+        "playlistId": "PLPZMKG27ffagC47K3H_UF80i3Cq5J_jK8",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "U-jnMjbSt4Q"
+        }
+      },
+      "contentDetails": {
+        "videoId": "U-jnMjbSt4Q",
+        "videoPublishedAt": "2018-05-07T08:12:24.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/C_ohD_WGr4lod6GtUTGsvF5I0AM\"",
+      "id": "UExQWk1LRzI3ZmZhZ0M0N0szSF9VRjgwaTNDcTVKX2pLOC4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2020-03-03T01:30:57.000Z",
+        "channelId": "UCj2Hw9nrvjDtVMJsgm_BhEA",
+        "title": "Darwaza - दरवाज़ा - Bhojpuri Full Movie | Horror Dubbed | Sapna, Amit Pachori",
+        "description": "Hot Bhojpuri Horror Dubbed Movie Darwaza (2002)\nStarring: Sapna, Amit Pachori, Gurbachan, Anil Nagarth\nDirector: Kanti Shah\n#bhojpuri #sapna #bhojpurimovies",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LQumCNAfvPs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LQumCNAfvPs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LQumCNAfvPs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LQumCNAfvPs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LQumCNAfvPs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gautam Kushwaha",
+        "playlistId": "PLPZMKG27ffagC47K3H_UF80i3Cq5J_jK8",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LQumCNAfvPs"
+        }
+      },
+      "contentDetails": {
+        "videoId": "LQumCNAfvPs",
+        "videoPublishedAt": "2017-04-13T08:30:00.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/6BktW_eAc-GVuwnnZNcmiDSjZv4\"",
+      "id": "UExQWk1LRzI3ZmZhZ0M0N0szSF9VRjgwaTNDcTVKX2pLOC4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2020-03-03T01:30:50.000Z",
+        "channelId": "UCj2Hw9nrvjDtVMJsgm_BhEA",
+        "title": "2019 Khesari Lal की बनी भोजपुरी में पहली बार भूत वाली फिल्म कमजोर दिल वाले इस फिल्म ना देखें",
+        "description": "Subscribe For Latest  Bhojpuri Songs & Bhojpuri Songs 2019:\nhttps://goo.gl/u3PR1i\n\n\nLike Us On Facebook - https://goo.gl/Atq02d\nKhesari Lal की बनी भोजपुरी में पहली बार भूत वाली फिल्म कमजोर दिल वाले इस फिल्म ना देखें \n\nLabel - Bhojpuri Gaana\n\n\n.\nIf you like: bhojpuri songs, bhojpuri movies, bhojpuri trailer, bhojpuri new songs, bhojpuri latest movies, bhojpuri new movies, bhojpuri song to subscribe kare abhi...!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4645p2QKMIw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4645p2QKMIw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4645p2QKMIw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4645p2QKMIw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4645p2QKMIw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gautam Kushwaha",
+        "playlistId": "PLPZMKG27ffagC47K3H_UF80i3Cq5J_jK8",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4645p2QKMIw"
+        }
+      },
+      "contentDetails": {
+        "videoId": "4645p2QKMIw",
+        "videoPublishedAt": "2019-07-13T12:23:35.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/PVqx1x5VqTLZYSqwYZz-VcIzFZQ\"",
+      "id": "UExQWk1LRzI3ZmZhZ0M0N0szSF9VRjgwaTNDcTVKX2pLOC41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2020-03-03T01:30:45.000Z",
+        "channelId": "UCj2Hw9nrvjDtVMJsgm_BhEA",
+        "title": "प्रेत आत्मा (2019) दिनेश लाल यादव की सबसे डरावनी फिल्म 2019 | बच्चे दूर रहे 2019",
+        "description": "प्रेत आत्मा (2019) दिनेश लाल यादव की सबसे डरावनी फिल्म 2019 | बच्चे दूर रहे 2019 \nप्रेत आत्मा (2019) दिनेश लाल यादव की सबसे डरावनी फिल्म 2019 | बच्चे दूर रहे 2019 \nप्रेत आत्मा (2019) दिनेश लाल यादव की सबसे डरावनी फिल्म 2019 | बच्चे दूर रहे 2019",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Bw2imDJMGoE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Bw2imDJMGoE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Bw2imDJMGoE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Bw2imDJMGoE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Bw2imDJMGoE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gautam Kushwaha",
+        "playlistId": "PLPZMKG27ffagC47K3H_UF80i3Cq5J_jK8",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Bw2imDJMGoE"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Bw2imDJMGoE",
+        "videoPublishedAt": "2019-06-08T13:30:01.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/Fad9UDj1EnBSODzHKpOz7QpZwkk\"",
+      "id": "UExQWk1LRzI3ZmZhZ0M0N0szSF9VRjgwaTNDcTVKX2pLOC4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2020-03-03T01:30:39.000Z",
+        "channelId": "UCj2Hw9nrvjDtVMJsgm_BhEA",
+        "title": "काल  (2019) भोजपुरी की सबसे डरावनी फिल्म 2019 | बच्चे दूर रहे 2019 | Bhojpuri Horror Movie",
+        "description": "Subscribe: http://bit.ly/DRJRecordsRegional\n\n\nMovie: Kaal ( काल) Andamaina Maya Movie \nCast:  Shruti Jha, Jhansi, Chiru Sai, Hemanth\nDirector: Maneendran,\nMusic: K M Radha Krishna\nStory: Dinakaran,\n Editor- Basha \nTrailer Editing : Ajay Kumar Chaudhary \nCinematography- A.R.B Prem Jai\nProducer : DRJ Records Industries Private Limited\nMusic Label : DRJ Records\n© 2019 DRJ Records Industries Private Limited\n\n#drjrecordsmovies#bhojpuribhootwalamovie#superhitbhojpurimovie\n\nSUBSCRIBE for the Latest Videos, Movies, Songs and scenes, all in ONE channel: \nhttps://www.youtube.com/channel/UCgK793Pt3FtfR4viaV_0lZg?sub_confirmation=1\n\n\nWelcome to DRJ Records Regional Youtube Channel, the #1 destination for premium entertainment videos. Enjoy the blockbuster all languages Full movies, scenes, songs, & more.\n\nDRJ Records Regional is an Entertainment channel, where you can find golden collection of the Movies\n\nWe are Digital Content Distributor & Creator for all platforms Worldwide. We believe in transparency and honesty and we expect same.\n\n\nSUBSCRIBE for the Latest Videos, Movies, Songs and scenes, all in ONE channel: \nhttps://www.youtube.com/channel/UCgK793Pt3FtfR4viaV_0lZg?sub_confirmation=1\n\n(C) 2019 DRJ Records Industries Private Limited\n\nLike, Comment and Share with your friends and family.\n\nSubscribe to DRJ Records Regional : http://bit.ly/DRJRecordsRegional\nFacebook : http://www.facebook.com/drjrecords\nTwitter : http://www.twitter.com/drjrecords\nInstagram : http://www.instagram.com/drjrecords\nPinterest: https://in.pinterest.com/drjrecords",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WyMxEQ_idUQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WyMxEQ_idUQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WyMxEQ_idUQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WyMxEQ_idUQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WyMxEQ_idUQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gautam Kushwaha",
+        "playlistId": "PLPZMKG27ffagC47K3H_UF80i3Cq5J_jK8",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WyMxEQ_idUQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "WyMxEQ_idUQ",
+        "videoPublishedAt": "2019-08-26T09:09:31.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/oGUIBRR3WZvK8YEAYWCtly3_9Yo\"",
+      "id": "UExQWk1LRzI3ZmZhZ0M0N0szSF9VRjgwaTNDcTVKX2pLOC4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2020-03-03T01:30:34.000Z",
+        "channelId": "UCj2Hw9nrvjDtVMJsgm_BhEA",
+        "title": "Bairi kangana 2 | बैरी कंगना 2 Bhojpuri Full Movie 2019 | Ravi Kishan, Kajal Raghwani, Shubhi Sharma",
+        "description": "Bairi kangana 2 बैरी कंगना 2 | New Bhojpuri Horror Full HD Movie 2019 | Full New HD Movie Staring Ravi Kishan, Kajal Raghwani, Shubhi Sharma & Sapna Choudhary\nदेखीं सुपरस्टार रवि किशन, शुभी शर्मा अवुर काजल राघवानी के\n ब्लॉकबस्टर_फिल्म \"बैरी कंगना 2\" \nजंहवा आत्मा के तंत्र से होखी जबरदस्त टकराव,\nFilm - \"Bairi Kangana 2\" बैरी कंगना 2\nProducer -  Ashok Shrivastava\nDirector - Ashok Tripathi Atri\nStaring - Ravikishan, Kajal Raghwani, Shubhi Sharma, Awdhesh Mishra, Kunal Singh, Sapna Choudhary, Umesh Singh\nMusic Director - Madhukar Anand \nMusic on - Enterr10 Music Bhojpuri\nProduction House - A.S. Film Internation\n#bhojpurimovie #RaviKishan #KajalRaghwani #bhojpurifilm \n\nSubscribe our channel : https://www.youtube.com/channel/UCR_-PUF53tA5-Iyp4Ncfjcg?view_as=subscriber\n\nShare This Video : https://youtu.be/vrxtcbc7YcA\n\nLike Our Facebook Page : https://www.facebook.com/enterr10music/\n\nFollow Us on Instagram : https://www.instagram.com/enterr10_mu...\n\nFollow Us on Twitter : https://twitter.com/Enterr10_Music",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vrxtcbc7YcA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vrxtcbc7YcA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vrxtcbc7YcA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vrxtcbc7YcA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vrxtcbc7YcA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gautam Kushwaha",
+        "playlistId": "PLPZMKG27ffagC47K3H_UF80i3Cq5J_jK8",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "vrxtcbc7YcA"
+        }
+      },
+      "contentDetails": {
+        "videoId": "vrxtcbc7YcA",
+        "videoPublishedAt": "2019-10-30T12:30:12.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/sW3fSd2eLtNs10vtAoQDdb4sqc0\"",
+      "id": "UExQWk1LRzI3ZmZhZ0M0N0szSF9VRjgwaTNDcTVKX2pLOC41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2020-03-03T01:30:22.000Z",
+        "channelId": "UCj2Hw9nrvjDtVMJsgm_BhEA",
+        "title": "Arvind Akela (Kallu), Pakhi Hegde | BHOJPURI FULL HORROR MOVIE | 2017",
+        "description": "Subscribe : https://goo.gl/U2QMm0\nBhojpuri Thriller | भोजपुरी  थ्रिलर\nभोजपुरी  वीडियो | Bhojpuri Video\nStarcast : Pakhi Hegde, Arvind Akela (Kallu) Priya Sharma,Archana Tiwari, Ritesh Pandey, Anil Samrat",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/y0PL1QAJFfw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/y0PL1QAJFfw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/y0PL1QAJFfw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/y0PL1QAJFfw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/y0PL1QAJFfw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gautam Kushwaha",
+        "playlistId": "PLPZMKG27ffagC47K3H_UF80i3Cq5J_jK8",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "y0PL1QAJFfw"
+        }
+      },
+      "contentDetails": {
+        "videoId": "y0PL1QAJFfw",
+        "videoPublishedAt": "2017-05-02T07:06:46.000Z"
+      }
+    }
+  ]
+}
