@@ -234,6 +234,82 @@
 		"cat": "Purani Jeans",
 		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/mirchi90s.png",
 		"pub": "27-04-2020"
+	},
+		{
+		"name": "CMR Hindi Urdu",
+		"name_h": "4KS44KWA4KSP4KSu4KSG4KSwIOCkueCkv+CkguCkpuClgCDgpIngpLDgpY3gpKbgpYI=",
+		"url": "http://live.cmr24.net:8081/CMR/Desi_Music-MQ/icecast.audio",
+		"samplerate": "",
+		"cat": "Purani Jeans",
+		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/logo200.jpg",
+		"pub": "05-10-2018"
+	},
+		{
+		"name": "Radio Ragini",
+		"name_h": "UmFkaW8gUmFnaW5p",
+		"url": "http://malta2044.startdedicated.com:8090/stream",
+		"samplerate": "",
+		"cat": "Purani Jeans",
+		"image": "http://shortfilmsite.com/images/radioraagini.jpg",
+		"pub": "09-01-2020"
+	},
+		{
+		"name": "Rangeela Radio",
+		"name_h": "UmFuZ2VlbGEgUmFkaW8=",
+		"url": "http://malta2044.startdedicated.com:8134/stream",
+		"samplerate": "",
+		"cat": "Purani Jeans",
+		"image": "http://shortfilmsite.com/images/rangeelaradio.jpg",
+		"pub": "09-01-2020"
+	},
+		{
+		"name": "Radio Dhoom Hindi",
+		"name_h": "UmFkaW8gRGhvb20gSGluZGk=",
+		"url": "http://ca7.rcast.net:8018/;stream.mp3",
+		"samplerate": "",
+                "cat": "bollywood",
+                "pub": "07-01-2020",
+		"image": "http://shortfilmsite.com/images/radiodhoom.jpg"
+
+	},
+		{
+		"name": "60s forever Bollywood",
+		"name_h": "NjAg4KSV4KWHIOCkpuCktuCklSDgpLngpK7gpYfgpLbgpL4g4KSV4KWHIOCksuCkv+CkjyDgpKzgpYngpLLgpYDgpLXgpYHgpKE=",
+		"url": "http://103.16.47.70:6222/;",
+		"samplerate": "",
+		"cat": "Purani Jeans",
+		"image": "https://radiosindia.com/images/60sforever.jpg",
+		"pub": "28-06-2019"
+	},
+		
+		{
+		"name": "Purani Jeans",
+		"name_h": "4KSq4KWB4KSw4KS+4KSj4KWAIOCknOClgOCkqOCljeCkuA==",
+		"url": "https://puranijeanshdliv-lh.akamaihd.net/i/PuraniJeansHDLive_1_1@334555/index_1_a-p.m3u8",
+		"samplerate": "",
+		"cat": "Purani Jeans",
+		"pub": "23-04-2019",
+		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/retrohindi.png"
+
+	},
+		{
+		"name": "Nuke Hindi",
+		"name_h": "TnVrZSBIaW5kaQ==",
+		"url": "http://live.nukeradio.com:8016/stream3;",
+		"samplerate": "",
+		"cat": "Purani Jeans",
+		"image": "https://radiosindia.com/images/nukehindioldhits.jpg",
+		"pub": "24-03-2019"
+	},
+		{
+		"name": "Non Stop Hindi ",
+		"name_h": "Tm9uIFN0b3AgSGluZGkg",
+		"url": "http://198.178.123.14:8216/;stream/1",
+		"samplerate": "",
+		"pub": "26-12-2018",
+		"cat": "Purani Jeans",
+		"image": "https://www.radioonlinelive.com/wp-content/uploads/2018/09/Non-Stop-Hindi-Radio1.jpg"
+
 	}
 ]
 }
