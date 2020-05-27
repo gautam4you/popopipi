@@ -1,5 +1,14 @@
 [
 	{
+		"name": "Radio Hindi",
+		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCkueCkv+CkguCkpuClgA==",
+		"url": "https://18193.live.streamtheworld.com/SAM11AAC068.mp3",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood,Web",
+		"image": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/radiohindi.jpg",
+		"pub": "27-05-2020"
+	},
+	{
 		"name": "CMR Hindi Urdu",
 		"name_h": "4KS44KWA4KSP4KSu4KSG4KSwIOCkueCkv+CkguCkpuClgCDgpIngpLDgpY3gpKbgpYI=",
 		"url": "http://live.cmr24.net:8081/CMR/Desi_Music-MQ/icecast.audio",
