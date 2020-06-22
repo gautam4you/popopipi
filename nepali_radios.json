@@ -1,4 +1,9 @@
-[{
+[ {
+		"_name": "Radio Tharuhat",
+		"_image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/Radio%20Tharuhat.png",
+		"_link": "https://streaming.webhostnepal.com/8014/stream"
+	},
+	{
 		"_name": "Radio Kantipur - 96.1 MHz",
 		"_image": "https://dl.dropboxusercontent.com/s/w0n053n9a48zsmw/radio_kantipur.jpg",
 		"_link": "http://kantipur-stream.softnep.com:7248"
