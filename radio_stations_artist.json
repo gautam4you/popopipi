@@ -27,15 +27,6 @@
 		"pub": "11-04-2020"
 	},
 	{
-		"name": "All India Radio AIR Sasaram",
-		"name_h": "4KSR4KSyIOCkh+CkguCkoeCkv+Ckr+CkviDgpLDgpYfgpKHgpL/gpK/gpYsg4KSG4KSV4KS+4KS24KS14KS+4KSj4KWAIOCkuOCkvuCkuOCkvuCksOCkvuCkrg==",
-		"url": "http://51.15.208.163:8081/radio/AIRLSMP072_1/icecast.audio",
-		"samplerate": "",
-		"cat": "Hindi,bollywood",
-		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/airsasaram.jpg",
-		"pub": "01-04-2020"
-	},
-	{
 		"name": "Bollywood Radio and Beyond",
 		"name_h": "4KSs4KWJ4KSy4KWA4KS14KWB4KShIOCksOClh+CkoeCkv+Ckr+CliyDgpJTgpLAg4KSq4KSw4KWH",
 		"url": "http://185.80.220.12:8046/stream",
@@ -43,15 +34,6 @@
 		"cat": "Hindi,bollywood",
 		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/bollywood-beyond11.png",
 		"pub": "01-04-2020"
-	},
-	{
-		"name": "Jhunjhunu",
-		"name_h": "Smh1bmpodW51",
-		"url": "http://51.15.208.163:8081/radio/northeastservice/icecast.audio",
-		"samplerate": "",
-		"cat": "Hindi,bollywood",
-		"image": "https://www.jhunjhunuradio.com/wp-content/uploads/2019/01/logonew.png",
-		"pub": "31-03-2020"
 	},
 {
 		"name": "Hamara Solan Radio",
@@ -225,15 +207,7 @@
 		"image": "http://shortfilmsite.com/images/rangeelaradio.jpg",
 		"pub": "09-01-2020"
 	},
-{
-		"name": "Tez",
-		"name_h": "VGV6",
-		"url": "https://vidcdn.vidgyor.com/tez-origin/liveabr/tez-origin/live3/chunks.m3u8",
-		"samplerate": "",
-		"cat": "Hindi,news",
-		"image": "http://shortfilmsite.com/images/tv/tez.jpg",
-		"pub": "08-01-2020"
-	},
+
 {
 		"name": "Dilli Aajtak",
 		"name_h": "RGlsbGkgQWFqdGFr",
@@ -282,7 +256,7 @@
 {
 		"name": "Aaj Tak News",
 		"name_h": "QWFqIFRhayBOZXdz",
-		"url": "https://vidcdn.vidgyor.com/at-origin/liveabr/at-origin/live5/chunks.m3u8",
+		"url": "https://lmil.pc.cdn.bitgravity.com/lmil/live/aajtak_150k/chunklist_ao.m3u8",
 		"samplerate": "",
 		"cat": "Hindi,news",
 		"image": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/xewda5eu3nvm.png",
