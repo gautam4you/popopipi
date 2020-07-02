@@ -1,5 +1,14 @@
 [
 	{
+		"name": "Radio Narmada",
+		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCkqOCksOCljeCkruCkpuCkvg==",
+		"url": "http://85.25.185.202:8255/stream",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood,Web",
+		"image": "http://shortfilmsite.com/images/radionarmada.jpg",
+		"pub": "02-07-2020"
+	},
+	{
 		"name": "Ever Green Bollywood",
 		"name_h": "4KS44KSm4KS+4KSs4KS54KS+4KSwIOCkrOClieCksuClgOCkteClgeCkoQ==",
 		"url": "http://103.16.47.70:7666/;stream.mp3",
