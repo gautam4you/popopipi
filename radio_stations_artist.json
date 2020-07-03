@@ -126,24 +126,6 @@
 		"pub": "26-01-2020"
 	},
 {
-		"name": "Top FM Mauritius",
-		"name_h": "4KS24KWA4KSw4KWN4KS3IOCkj+Ckq+Ckj+CkriDgpK7gpYngpLDgpYDgpLbgpLg=",
-		"url": "http://live2.topfmradio.com:7230/;",
-		"samplerate": "",
-		"cat": "Hindi,bollywood",
-		"image": "http://shortfilmsite.com/images/topfm.jpg",
-		"pub": "26-01-2020"
-	},
-{
-		"name": "Ama Radio",
-		"name_h": "QW1hIFJhZGlv",
-		"url": "http://192.240.102.3:8922/;",
-		"samplerate": "",
-		"cat": "Hindi,bollywood",
-		"image": "http://shortfilmsite.com/images/amaradio.jpg",
-		"pub": "22-01-2020"
-	},
-{
 		"name": "Radio Rasonic",
 		"name_h": "UmFkaW8gUmFzb25pYw==",
 		"url": "http://108.59.9.147:8136/;",
@@ -234,16 +216,6 @@
 		"image": "http://shortfilmsite.com/images/rangeelaradio.jpg",
 		"pub": "09-01-2020"
 	},
-
-{
-		"name": "Dilli Aajtak",
-		"name_h": "RGlsbGkgQWFqdGFr",
-		"url": "https://vidcdn.vidgyor.com/dilliaajtak-origin/liveabr/dilliaajtak-origin/live4/chunks.m3u8",
-		"samplerate": "",
-		"cat": "Hindi,news",
-		"image": "http://shortfilmsite.com/images/dilliaajtak1.jpg",
-		"pub": "08-01-2020"
-	},
 {
 		"name": "AIR News 24x7",
 		"name_h": "QUlSIE5ld3MgMjR4Nw==",
@@ -287,15 +259,6 @@
 		"samplerate": "",
 		"cat": "Hindi,news",
 		"image": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/xewda5eu3nvm.png",
-		"pub": "12-12-2019"
-	},
-{
-		"name": "News Nation",
-		"name_h": "TmV3cyBOYXRpb24=",
-		"url": "https://hls.newsnation.in/NN_HTTP_LIVE/ngrp:mystream_all/chunklist.m3u8",
-		"samplerate": "",
-		"cat": "Hindi,news",
-		"image": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/7esa5aubsxkz.png",
 		"pub": "12-12-2019"
 	},
 	{
