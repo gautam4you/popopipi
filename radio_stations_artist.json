@@ -261,6 +261,99 @@
 		"image": "https://d368qv66y0shpj.cloudfront.net/featured_content/65e8fb1f34672cc1cff6753087450bb9_200x200.jpg",
 		"pub": "19-08-2018"
 	},
+	{
+		"name": "b & w classics Bollywood",
+		"name_h": "YiAmIHcgY2xhc3NpY3MgQm9sbHl3b29k",
+		"url": "http://103.16.47.70:7888/;",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood",
+		"image": "https://radiosindia.com/images/bwclassics.jpg",
+		"pub": "28-06-2019"
+	},
+	{
+		"name": "60s forever Bollywood",
+		"name_h": "NjAg4KSV4KWHIOCkpuCktuCklSDgpLngpK7gpYfgpLbgpL4g4KSV4KWHIOCksuCkv+CkjyDgpKzgpYngpLLgpYDgpLXgpYHgpKE=",
+		"url": "http://103.16.47.70:6222/;",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood",
+		"image": "https://radiosindia.com/images/60sforever.jpg",
+		"pub": "28-06-2019"
+	},
+	{
+		"name": "Hindi Music Radio",
+		"name_h": "4KS54KS/4KSC4KSm4KWAIOCkuOCkguCkl+ClgOCkpCDgpLDgpYfgpKHgpL/gpK/gpYs=",
+		"url": "http://5.196.56.208:8308/;stream/1",
+		"samplerate": "",
+		"cat": "Web,Hindi",
+		"pub": "28-05-2019",
+		"image": "https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/fb/bd/56/fbbd56ba-76c0-b1ac-073a-68556d08dd28/source/512x512bb.jpg"
+
+	},
+		{
+		"name": "Red 93.5 FM",
+		"name_h": "4KSy4KS+4KSyIDkzLjUg4KSP4KSr4KSP4KSu",
+		"url": "http://prclive1.listenon.in:8808/;",
+		"samplerate": "",
+		"cat": "Web,Hindi",
+		"pub": "04-05-2019",
+		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/red-fm15.jpg"
+
+	},
+	{
+		"name": "Purani Jeans",
+		"name_h": "4KSq4KWB4KSw4KS+4KSj4KWAIOCknOClgOCkqOCljeCkuA==",
+		"url": "https://puranijeanshdliv-lh.akamaihd.net/i/PuraniJeansHDLive_1_1@334555/index_1_a-p.m3u8",
+		"samplerate": "",
+		"cat": "Web,Hindi",
+		"pub": "23-04-2019",
+		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/retrohindi.png"
+
+	},
+		{
+		"name": "Taaj Radio",
+		"name_h": "4KSk4KS+4KScIOCksOClh+CkoeCkv+Ckr+Cliw==",
+		"url": "http://198.178.123.2:9484/;",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood,Web",
+		"image": "http://www.online-fmradio.com/wp-content/uploads/2017/11/Radio-Taj.jpg",
+		"pub": "06-09-2018"
+	},
+	{
+		"name": "Gaana Meethi Mirchi",
+		"name_h": "4KSX4KS+4KSo4KS+IOCkruClgOCkoOClgCDgpK7gpL/gpLDgpY3gpJrgpYA=",
+		"url": "https://meethimirchihdl-lh.akamaihd.net//i/MeethiMirchiHDLive_1_1@320572/master.m3u8",
+		"samplerate": "44100",
+		"cat": "Hindi,Bollywood",
+		"image": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/2z69hnevkvam.jpeg",
+		"pub": "05-09-2018"
+	},
+	{
+		"name": "Gaana Club Mirchi",
+		"name_h": "4KSX4KS+4KSo4KS+IOCkleCljeCksuCkrCDgpK7gpL/gpLDgpY3gpJrgpYA=",
+		"url": "https://clubmirchihdlive-lh.akamaihd.net//i/ClubMirchiHDLive_1_1@336269/master.m3u8",
+		"samplerate": "44100",
+		"cat": "Hindi,Bollywood",
+		"image": "http://www.onlinefm.xyz/img/brands/common/club_mirchi_hindi.jpg",
+		"pub": "05-09-2018"
+	},
+	{
+		"name": "Namkin Radio",
+		"name_h": "TmFta2luIOCksOClh+CkoeCkv+Ckr+Cliw==",
+		"url": "http://malta2044.startdedicated.com:8888/stream",
+		"samplerate": "44100",
+		"cat": "Hindi,Bollywood",
+		"image": "https://cdn.onlineradios.net/hindiradios/assets/img/radio-logos/radio-namkin-ek-dumm-zabardast-fm.jpg",
+		"pub": "04-09-2018"
+	},
+	{
+		"name": "radioBollyFM",
+		"name_h": "cmFkaW9Cb2xseUZN",
+		"url": "http://stream.radiobollyfm.in:8201/hd",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood,Web",
+		"image": "https://cdn-profiles.tunein.com/s121492/images/logoq.png?t=636259",
+		"pub": "14-10-2018"
+	},
 {
 		"name": "AIR News 24x7",
 		"name_h": "QUlSIE5ld3MgMjR4Nw==",
@@ -520,100 +613,7 @@
 		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/bollywood-punjabi-radio-logo.png",
 		"pub": "19-11-2019"
 	},
-	{
-		"name": "b & w classics Bollywood",
-		"name_h": "YiAmIHcgY2xhc3NpY3MgQm9sbHl3b29k",
-		"url": "http://103.16.47.70:7888/;",
-		"samplerate": "",
-		"cat": "Hindi,Bollywood",
-		"image": "https://radiosindia.com/images/bwclassics.jpg",
-		"pub": "28-06-2019"
-	},
-	{
-		"name": "60s forever Bollywood",
-		"name_h": "NjAg4KSV4KWHIOCkpuCktuCklSDgpLngpK7gpYfgpLbgpL4g4KSV4KWHIOCksuCkv+CkjyDgpKzgpYngpLLgpYDgpLXgpYHgpKE=",
-		"url": "http://103.16.47.70:6222/;",
-		"samplerate": "",
-		"cat": "Hindi,Bollywood",
-		"image": "https://radiosindia.com/images/60sforever.jpg",
-		"pub": "28-06-2019"
-	},
-	{
-		"name": "Hindi Music Radio",
-		"name_h": "4KS54KS/4KSC4KSm4KWAIOCkuOCkguCkl+ClgOCkpCDgpLDgpYfgpKHgpL/gpK/gpYs=",
-		"url": "http://5.196.56.208:8308/;stream/1",
-		"samplerate": "",
-		"cat": "Web,Hindi",
-		"pub": "28-05-2019",
-		"image": "https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/fb/bd/56/fbbd56ba-76c0-b1ac-073a-68556d08dd28/source/512x512bb.jpg"
-
-	},
-		{
-		"name": "Red 93.5 FM",
-		"name_h": "4KSy4KS+4KSyIDkzLjUg4KSP4KSr4KSP4KSu",
-		"url": "http://prclive1.listenon.in:8808/;",
-		"samplerate": "",
-		"cat": "Web,Hindi",
-		"pub": "04-05-2019",
-		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/red-fm15.jpg"
-
-	},
-	{
-		"name": "Purani Jeans",
-		"name_h": "4KSq4KWB4KSw4KS+4KSj4KWAIOCknOClgOCkqOCljeCkuA==",
-		"url": "https://puranijeanshdliv-lh.akamaihd.net/i/PuraniJeansHDLive_1_1@334555/index_1_a-p.m3u8",
-		"samplerate": "",
-		"cat": "Web,Hindi",
-		"pub": "23-04-2019",
-		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/retrohindi.png"
-
-	},
-		{
-		"name": "Taaj Radio",
-		"name_h": "4KSk4KS+4KScIOCksOClh+CkoeCkv+Ckr+Cliw==",
-		"url": "http://198.178.123.2:9484/;",
-		"samplerate": "",
-		"cat": "Hindi,Bollywood,Web",
-		"image": "http://www.online-fmradio.com/wp-content/uploads/2017/11/Radio-Taj.jpg",
-		"pub": "06-09-2018"
-	},
-	{
-		"name": "Gaana Meethi Mirchi",
-		"name_h": "4KSX4KS+4KSo4KS+IOCkruClgOCkoOClgCDgpK7gpL/gpLDgpY3gpJrgpYA=",
-		"url": "https://meethimirchihdl-lh.akamaihd.net//i/MeethiMirchiHDLive_1_1@320572/master.m3u8",
-		"samplerate": "44100",
-		"cat": "Hindi,Bollywood",
-		"image": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/2z69hnevkvam.jpeg",
-		"pub": "05-09-2018"
-	},
-	{
-		"name": "Gaana Club Mirchi",
-		"name_h": "4KSX4KS+4KSo4KS+IOCkleCljeCksuCkrCDgpK7gpL/gpLDgpY3gpJrgpYA=",
-		"url": "https://clubmirchihdlive-lh.akamaihd.net//i/ClubMirchiHDLive_1_1@336269/master.m3u8",
-		"samplerate": "44100",
-		"cat": "Hindi,Bollywood",
-		"image": "http://www.onlinefm.xyz/img/brands/common/club_mirchi_hindi.jpg",
-		"pub": "05-09-2018"
-	},
-	{
-		"name": "Namkin Radio",
-		"name_h": "TmFta2luIOCksOClh+CkoeCkv+Ckr+Cliw==",
-		"url": "http://malta2044.startdedicated.com:8888/stream",
-		"samplerate": "44100",
-		"cat": "Hindi,Bollywood",
-		"image": "https://cdn.onlineradios.net/hindiradios/assets/img/radio-logos/radio-namkin-ek-dumm-zabardast-fm.jpg",
-		"pub": "04-09-2018"
-	},
-	{
-		"name": "radioBollyFM",
-		"name_h": "cmFkaW9Cb2xseUZN",
-		"url": "http://stream.radiobollyfm.in:8201/hd",
-		"samplerate": "",
-		"cat": "Hindi,Bollywood,Web",
-		"image": "https://cdn-profiles.tunein.com/s121492/images/logoq.png?t=636259",
-		"pub": "14-10-2018"
-	},
-
+	
 {
 		"name": "5 rivers radio ",
 		"name_h": "NSDgpKjgpKbgpL/gpK/gpL7gpIEg4KSw4KWH4KSh4KS/4KSv4KWL",
