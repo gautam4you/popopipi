@@ -1,18 +1,5 @@
 [
 {
-		"name": "Alif laila",
-		"name_h": "QWxpZiBsYWlsYQ==",
-		"url": "https://raw.githubusercontent.com/gautam4you/popopipi/master/alif.json",
-		"image": "http://sahityachintan.com/audiobooks/php_web_services/images/60014_alif-laila.png"
-	},
-   {
-		"name": "Baital Pachasi",
-		"name_h": "4KSs4KWI4KSk4KS+4KSyIOCkquCkmuCljeCkmuClgOCkuOClgA==",
-		"url": "https://raw.githubusercontent.com/gautam4you/popopipi/master/baital.json",
-		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/beitalPachchisi.png"
-	},
-
-{
 		"name": "Sherlock holmes Story Hindi",
 		"name_h": "4KS24KWH4KSw4KSy4KWJ4KSVIOCkueCli+CkruCljeCkuCDgpLjgpY3gpJ/gpYvgpLDgpYAg4KS54KS/4KSC4KSm4KWA",
 		"url": "https://raw.githubusercontent.com/gautam4you/popopipi/master/sherlock_homes.json",
