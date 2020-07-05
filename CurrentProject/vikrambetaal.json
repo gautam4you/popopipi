@@ -1,1044 +1,1157 @@
+// 20200705090135
+// https://www.googleapis.com/youtube/v3/playlistItems?part=id,contentDetails,snippet&maxResults=50&playlistId=PLTfk5dN-W6BPDwIOKbrIp3VArYCeDNOL2&key=AIzaSyCH83pVZXIuSjG9IjP4xMaOLui9UWXCLRE
+
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/DiJU0qzQHDvfyD2-IICGurkpw7Q\"",
-  "pageInfo": {
-    "totalResults": 26,
-    "resultsPerPage": 50
-  },
+  "etag": "E4SSRH9OefDSV4XwZ-8r7pDrvbo",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/lNxbEGfSPY7tuP4Ye6_FAhlL2PU\"",
-      "id": "UExvcWlnUDZmSmk3TWhZcWZMMFNZa3dBSDZDMUhQVkpCei41NkI0NEY2RDEwNTU3Q0M2",
+      "etag": "Q8x1msLeX1MS16_OLpf-nLskT6I",
+      "id": "UExUZms1ZE4tVzZCUER3SU9LYnJJcDNWQXJZQ2VETk9MMi42Qzk5MkEzQjVFQjYwRDA4",
       "snippet": {
-        "publishedAt": "2020-04-13T11:39:06.000Z",
-        "channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
-        "title": "Vikram Aur Betaal episode 1",
-        "description": "Vikram Aur Betaal episode 1",
+        "publishedAt": "2020-05-22T06:23:04Z",
+        "channelId": "UC24MhsLlhe8S0GDYgt21CwQ",
+        "title": "Vikram Betal - Episode 1 - King Vikramaditya and the Yogi / Suryamal and His Bride's Dilemma\"",
+        "description": "Vikram Betal - Episode 1 - King Vikramaditya and the Yogi / Suryamal and His Bride's Dilemma\"\n\nCast :-\nBalwant Bansal as Mantri\nRamesh Bhatkar as the bride's father\nGagan Gupta as soldier\nSatish Kaul as Suryamal\n\nHi, I'm Abhishek and Welcome to our Youtube channel \"Bhakti Vihar\"\n\nAbout \"Vikram aur Betal\" Tv Series :- Vikram aur Betal ek Bhartiya Pouranik katha par Aadharit hai jo ki \"Doordarshan\" par 1985 me Prasarit hua tha. jo ki \"Baital Pachisi\" par Aadharit tha. jo Vikram aur Betal ki 25 kahaniyo ke naam se bhi jaana jaata hai jo ki Betal ne Vikram ko 25 kahaniya sunai thi. Ye show Doordarshan par har Sunday ko sham 4:30 ko Prasarit hota tha. \n\nAbout this video :- Namskar dosto, aap sabka Swagat hai \"Vikram Aur Betal\" ke pehle Episode me. kuch jankari is Video ke baare me.... \n\nThe first episode shows the story of how Raja Vikramaditya and Betaal meet. Beetal tells him a story of Suryamal, who falls in love with a woman and marries her with her parents' consent. En route to home, dacoits attack and behead Suryamal and his friend. Suryamal's bride, a devout worshipper of goddess Durga, tries to commit suicide after seeing her husband dead. Goddess answers her prayers and decides to bring them both alive. Excited with joy, bride puts Suryamal's head on his friend's body and vice versa.\n\nQuestion: Betaal asks, who should the bride now consider as her husband; the man who has Suryamal's head or Suryamal's body?\n\nAnswer: Vikram answers, as brain controls whole man, the man with Suryamal's head is the bride's husband.\n\nOur Playlist :- \n\nVIKRAM BETAL:\nhttps://www.youtube.com/playlist?list=PLbUOVtj70hR0Z-ppbUyNRZDfaQ9hPjBdK\n\nRAMAYAN (HD):\nhttps://www.youtube.com/playlist?list=PLbUOVtj70hR1TAMZ4IqwLSuzUpr9Uwa5V\n\nMAHABHARAT DOHA:\nhttps://www.youtube.com/playlist?list=PLbUOVtj70hR06TC1xJMJf68Gvc4AWSO0h\n\nOther Social Links :-\nYoutube - http://www.youtube.com/c/BhaktiVihar\nFacebook - https://www.facebook.com/Bhaktivihar/\nTwitter- https://twitter.com/BhaktiVihar?s=09\nFacebook - https://www.facebook.com/Technical-Abhi-112272770520705/\nTwitter-  https://twitter.com/Technic59746697?s=09\n\n#vikrambetal #vikrambetalepisode1 #vikrambetal1 #vikrambetalfirstepisode #vikrambetalpart1 #vikrambetalfull #vikrambetalfullepisode #vikrambetalallepisode #vikrambetalserial #vikrambetalserialallepisode",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/Tk6yvZnu3pw/default.jpg",
+            "url": "https://i.ytimg.com/vi/z1Riq06aNio/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/Tk6yvZnu3pw/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/z1Riq06aNio/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/Tk6yvZnu3pw/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/z1Riq06aNio/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/Tk6yvZnu3pw/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/z1Riq06aNio/sddefault.jpg",
             "width": 640,
             "height": 480
           }
         },
-        "channelTitle": "look jonson",
-        "playlistId": "PLoqigP6fJi7MhYqfL0SYkwAH6C1HPVJBz",
+        "channelTitle": "Raju Rathaur",
+        "playlistId": "PLTfk5dN-W6BPDwIOKbrIp3VArYCeDNOL2",
         "position": 0,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "Tk6yvZnu3pw"
+          "videoId": "z1Riq06aNio"
         }
       },
       "contentDetails": {
-        "videoId": "Tk6yvZnu3pw",
-        "videoPublishedAt": "2015-04-28T02:32:49.000Z"
+        "videoId": "z1Riq06aNio",
+        "videoPublishedAt": "2019-11-28T00:29:20Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/vNB_GHB8PWXP3klW1MnXZNn4pTE\"",
-      "id": "UExvcWlnUDZmSmk3TWhZcWZMMFNZa3dBSDZDMUhQVkpCei4yODlGNEE0NkRGMEEzMEQy",
+      "etag": "LJkncdcP2O0PrGxMTW3KzzjpKjM",
+      "id": "UExUZms1ZE4tVzZCUER3SU9LYnJJcDNWQXJZQ2VETk9MMi41NTZEOThBNThFOUVGQkVB",
       "snippet": {
-        "publishedAt": "2020-04-13T11:39:25.000Z",
-        "channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
-        "title": "Vikram Aur Betaal - Full Episode (HD) - Part 02 (of 26)",
-        "description": "Vikram Aur Betaal is based on Betaal Pacchisi, written nearly 2,500 years ago by Mahakavi Somdev Bhatt. These are spellbinding stories told to the wise King Vikramaditya by the wily ghost Betaal.\n\nVikram Aur Betaal - Full Episode in Hindi (HD) - Part 02 (of 26)",
+        "publishedAt": "2020-05-22T06:23:09Z",
+        "channelId": "UC24MhsLlhe8S0GDYgt21CwQ",
+        "title": "Vikram Betal - Episode 2 - \"King Rupsen and His Bodyguard Virvar\"",
+        "description": "Vikram Betal - Episode 2 - \"King Rupsen and His Bodyguard Virvar\"\n\nCast :-\nDara Singh as Virvar\nMadhu Kapoor as Raj Laxmi\n\nAbout this Video: Virvar with his mighty physical strength gains the position of being bodyguard to King Rupsen. But he charges him a hefty sum of 9 tolas of gold daily. One day the goddess of wealth (Raj Laxmi) tells Virvar that a demon who sleeps in a cave will soon wake up and eat the king to satisfy his hunger. Being king's bodyguard, Virvar along with his family decide to sacrifice their lives and hence enter the cave. After knowing what Virvar did to save his life, King Rupsen feels ashamed of not doing his duty of protecting his masses and he too enters the cave. The goddess of wealth comes and tells them all of how it was all her plan to test Virvar if he really was loyal as he charged a huge amount.\n\nQuestion: Betaal asks, who amongst King Rupsen and Virvar is great by doing his duty?\n\nAnswer: Vikram answers, as it was Virvar's duty to protect king and he did so, he was not as great as the King Rupsen himself, who for sake of his masses was ready to sacrifice his own life.\n\nOur Playlist :- \n\nVIKRAM BETAL:\nhttps://www.youtube.com/playlist?list=PLbUOVtj70hR0Z-ppbUyNRZDfaQ9hPjBdK\n\nRAMAYAN (HD):\nhttps://www.youtube.com/playlist?list=PLbUOVtj70hR1TAMZ4IqwLSuzUpr9Uwa5V\n\nMAHABHARAT DOHA:\nhttps://www.youtube.com/playlist?list=PLbUOVtj70hR06TC1xJMJf68Gvc4AWSO0h\n\nOther Social Links :-\nYoutube - http://www.youtube.com/c/BhaktiVihar\nFacebook - https://www.facebook.com/Bhaktivihar/\nTwitter- https://twitter.com/BhaktiVihar?s=09\n\n#vikrambetal #vikrambetalepisode2 #vikrambetal2 #vikrambetalfirstepisode #vikrambetalpart2 #vikrambetalfull #vikrambetalfullepisode #vikrambetalallepisode #vikrambetalserial #vikrambetalserialallepisode",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/eK89zfvkVPk/default.jpg",
+            "url": "https://i.ytimg.com/vi/Mgyf8BxST2o/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/eK89zfvkVPk/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Mgyf8BxST2o/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/eK89zfvkVPk/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Mgyf8BxST2o/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/eK89zfvkVPk/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/Mgyf8BxST2o/sddefault.jpg",
             "width": 640,
             "height": 480
           }
         },
-        "channelTitle": "look jonson",
-        "playlistId": "PLoqigP6fJi7MhYqfL0SYkwAH6C1HPVJBz",
+        "channelTitle": "Raju Rathaur",
+        "playlistId": "PLTfk5dN-W6BPDwIOKbrIp3VArYCeDNOL2",
         "position": 1,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "eK89zfvkVPk"
+          "videoId": "Mgyf8BxST2o"
         }
       },
       "contentDetails": {
-        "videoId": "eK89zfvkVPk",
-        "videoPublishedAt": "2016-04-01T00:56:20.000Z"
+        "videoId": "Mgyf8BxST2o",
+        "videoPublishedAt": "2019-11-28T22:52:39Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/ODmV9yzcdf7kA6epEK6Sbuo5ExI\"",
-      "id": "UExvcWlnUDZmSmk3TWhZcWZMMFNZa3dBSDZDMUhQVkpCei4wMTcyMDhGQUE4NTIzM0Y5",
+      "etag": "oKDohX5kzne1H7kbXTG3-f6n37w",
+      "id": "UExUZms1ZE4tVzZCUER3SU9LYnJJcDNWQXJZQ2VETk9MMi43NERCMDIzQzFBMERCMEE3",
       "snippet": {
-        "publishedAt": "2020-04-13T11:39:31.000Z",
-        "channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
-        "title": "Vikram Aur Betaal ep.3",
-        "description": "a mythological seriel based on old Indian Folktales of Vikram and Betaal\nProduced and Directed by: Ramanand Sagar\nStarring: Arun Govil, Deepika and Rama Vij\nOriginal Run: Doordarshan 1987",
+        "publishedAt": "2020-05-22T06:23:18Z",
+        "channelId": "UC24MhsLlhe8S0GDYgt21CwQ",
+        "title": "Vikram Betal - Episode 3 - \"Love Story of King Yashodhan\"",
+        "description": "Vikram Betal - Episode 03 - \"Love Story of King Yashodhan\"\n\nCast :-\nVijay Arora as Yashodhan\nRajni Bala as Girl's mother\nRamesh Bhatkar as Girl's father\nMohan Choti as Darbari\nSatish Kaul as Senapati\nKaajal Kiran as Rich man's daughter\nChandrakant Pandya as Darbari\nMulraj Rajda as Kausal Sen\n\nAbout this Video: \nKing Yashodhan is a just and kind king of his Kingdom. He is well trusted by his army, commanders and courtiers.But, Yashodhan is also well skilled in punishing the culprits. He does so by punishing a businessman who had brought the nautch girls for his luxury. In his kingdom, there lived a rich couple who plans to marry their beautiful and able daughter off to king. They send an invitation to the King, in return the king sends his darbaris to inspect about the girl whether she is qualified enough to be the Queen. The Darbaris does so and think positively about her. But on their return way to the palace, the evil businessman convinced the Darbaris that the girl can't be queen as if the girl is beautiful then king will not pay attention to his duties. So, the Darbaris lies to the king about the girl. In result, the king brokes the proposal of marriage with the girl. After some time, the same rich man arranges his daughter marriage with the King's Commander. He engages his daughter with the commander and they fall in love with each other. One day, the girl's beauty caught the king's eye. He sends his ministers and commander to search the girl and ask her hand for the king. This puts a dilemma situation to the commander as his loyalty to king is tested. As a result, he broke off with the girl and sacrifices her and tells the king that she is ready for marriage with the king. In the wedding day, the darbaris advises the king to reward the commander after being asked why so, the darbaris put the whole truth to the king.As the king was just he arranges the marriage of commander and the very girl. Thus, sacrificing her.\n\nQuestion: Whose sacrifice is bigger and greater the king's or the commander's?\n\nAnswer:The commander's sacrifice is bigger and greater as he sacrificed his love and fiancée for sake of loyalty and kingdom whereas the king sacrifices only a girl he wished to marry by simply catching her glimpse.\n\nOur Playlist :- \n\nVIKRAM BETAL:\nhttps://www.youtube.com/playlist?list=PLbUOVtj70hR0Z-ppbUyNRZDfaQ9hPjBdK\n\nRAMAYAN (HD):\nhttps://www.youtube.com/playlist?list=PLbUOVtj70hR1TAMZ4IqwLSuzUpr9Uwa5V\n\nMAHABHARAT DOHA:\nhttps://www.youtube.com/playlist?list=PLbUOVtj70hR06TC1xJMJf68Gvc4AWSO0h\n\nOther Social Links :-\nYoutube - http://www.youtube.com/c/BhaktiVihar\nFacebook - https://www.facebook.com/Bhaktivihar/\nTwitter- https://twitter.com/BhaktiVihar?s=09\n\n#vikrambetal #vikrambetalepisode3 #vikrambetal3 #vikrambetalfirstepisode #vikrambetalpart3 #vikrambetalfull #vikrambetalfullepisode #vikrambetalallepisode #vikrambetalserial #vikrambetalserialallepisode",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/d6a9C9DEveQ/default.jpg",
+            "url": "https://i.ytimg.com/vi/huRTyo-77cs/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/d6a9C9DEveQ/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/huRTyo-77cs/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/d6a9C9DEveQ/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "look jonson",
-        "playlistId": "PLoqigP6fJi7MhYqfL0SYkwAH6C1HPVJBz",
-        "position": 2,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "d6a9C9DEveQ"
-        }
-      },
-      "contentDetails": {
-        "videoId": "d6a9C9DEveQ",
-        "videoPublishedAt": "2018-10-14T21:16:15.000Z"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/10uWE4toNwxyNgYzKL_lVFllOZs\"",
-      "id": "UExvcWlnUDZmSmk3TWhZcWZMMFNZa3dBSDZDMUhQVkpCei41MjE1MkI0OTQ2QzJGNzNG",
-      "snippet": {
-        "publishedAt": "2020-04-13T11:39:36.000Z",
-        "channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
-        "title": "Vikram Aur Betaal ep.4",
-        "description": "a mythological seriel based on old Indian Folktales of Vikram and Betaal\nProduced and Directed by: Ramanand Sagar\nStarring: Arun Govil, Deepika and Rama Vij\nOriginal Run: Doordarshan 1987",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/isfjNpJHPb4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/isfjNpJHPb4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/isfjNpJHPb4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "look jonson",
-        "playlistId": "PLoqigP6fJi7MhYqfL0SYkwAH6C1HPVJBz",
-        "position": 3,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "isfjNpJHPb4"
-        }
-      },
-      "contentDetails": {
-        "videoId": "isfjNpJHPb4",
-        "videoPublishedAt": "2018-10-14T21:16:15.000Z"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/aC7Gke94BtJJ1O8-tlRXxoYwf-8\"",
-      "id": "UExvcWlnUDZmSmk3TWhZcWZMMFNZa3dBSDZDMUhQVkpCei4wOTA3OTZBNzVEMTUzOTMy",
-      "snippet": {
-        "publishedAt": "2020-04-13T11:39:51.000Z",
-        "channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
-        "title": "Vikram Aur Betaal ep.5",
-        "description": "a mythological seriel based on old Indian Folktales of Vikram and Betaal\nProduced and Directed by: Ramanand Sagar\nStarring: Arun Govil, Deepika and Rama Vij\nOriginal Run: Doordarshan 1987",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/ydujNl04Qz0/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/ydujNl04Qz0/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/ydujNl04Qz0/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "look jonson",
-        "playlistId": "PLoqigP6fJi7MhYqfL0SYkwAH6C1HPVJBz",
-        "position": 4,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "ydujNl04Qz0"
-        }
-      },
-      "contentDetails": {
-        "videoId": "ydujNl04Qz0",
-        "videoPublishedAt": "2018-10-14T21:16:15.000Z"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/Ywo_YbIqaQnwkcVC7NcfIjuWJrA\"",
-      "id": "UExvcWlnUDZmSmk3TWhZcWZMMFNZa3dBSDZDMUhQVkpCei4xMkVGQjNCMUM1N0RFNEUx",
-      "snippet": {
-        "publishedAt": "2020-04-13T11:39:59.000Z",
-        "channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
-        "title": "Vikram Aur Betaal ep.6",
-        "description": "a mythological seriel based on old Indian Folktales of Vikram and Betaal\nProduced and Directed by: Ramanand Sagar\nStarring: Arun Govil, Deepika and Rama Vij\nOriginal Run: Doordarshan 1987",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/BB9tF4l5llE/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/BB9tF4l5llE/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/BB9tF4l5llE/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "look jonson",
-        "playlistId": "PLoqigP6fJi7MhYqfL0SYkwAH6C1HPVJBz",
-        "position": 5,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "BB9tF4l5llE"
-        }
-      },
-      "contentDetails": {
-        "videoId": "BB9tF4l5llE",
-        "videoPublishedAt": "2018-10-14T21:43:54.000Z"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/-UEYCmtcoEwDT-ny8QitVqmIF_8\"",
-      "id": "UExvcWlnUDZmSmk3TWhZcWZMMFNZa3dBSDZDMUhQVkpCei41MzJCQjBCNDIyRkJDN0VD",
-      "snippet": {
-        "publishedAt": "2020-04-13T11:40:06.000Z",
-        "channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
-        "title": "Vikram Aur Betaal ep.7",
-        "description": "a mythological seriel based on old Indian Folktales of Vikram and Betaal\nProduced and Directed by: Ramanand Sagar\nStarring: Arun Govil, Deepika and Rama Vij\nOriginal Run: Doordarshan 1987",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Xh89gkE5kjY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Xh89gkE5kjY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Xh89gkE5kjY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "look jonson",
-        "playlistId": "PLoqigP6fJi7MhYqfL0SYkwAH6C1HPVJBz",
-        "position": 6,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "Xh89gkE5kjY"
-        }
-      },
-      "contentDetails": {
-        "videoId": "Xh89gkE5kjY",
-        "videoPublishedAt": "2018-10-14T21:16:14.000Z"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/eFQmK2WEZS8lf0F4ovqwGo9T6Jg\"",
-      "id": "UExvcWlnUDZmSmk3TWhZcWZMMFNZa3dBSDZDMUhQVkpCei5DQUNERDQ2NkIzRUQxNTY1",
-      "snippet": {
-        "publishedAt": "2020-04-13T11:40:11.000Z",
-        "channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
-        "title": "Vikram Aur Betaal ep.8",
-        "description": "a mythological seriel based on old Indian Folktales of Vikram and Betaal\nProduced and Directed by: Ramanand Sagar\nStarring: Arun Govil, Deepika and Rama Vij\nOriginal Run: Doordarshan 1987",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Ru-BhyQ4W98/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Ru-BhyQ4W98/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Ru-BhyQ4W98/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "look jonson",
-        "playlistId": "PLoqigP6fJi7MhYqfL0SYkwAH6C1HPVJBz",
-        "position": 7,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "Ru-BhyQ4W98"
-        }
-      },
-      "contentDetails": {
-        "videoId": "Ru-BhyQ4W98",
-        "videoPublishedAt": "2018-10-14T21:16:37.000Z"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/rcVd2H8opWm01WSX1sS12bcM0b4\"",
-      "id": "UExvcWlnUDZmSmk3TWhZcWZMMFNZa3dBSDZDMUhQVkpCei45NDk1REZENzhEMzU5MDQz",
-      "snippet": {
-        "publishedAt": "2020-04-13T11:40:23.000Z",
-        "channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
-        "title": "Vikram Aur Betaal ep.9",
-        "description": "a mythological seriel based on old Indian Folktales of Vikram and Betaal\nProduced and Directed by: Ramanand Sagar\nStarring: Arun Govil, Deepika and Rama Vij\nOriginal Run: Doordarshan 1987",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/emh-XHQxAoA/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/emh-XHQxAoA/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/emh-XHQxAoA/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "look jonson",
-        "playlistId": "PLoqigP6fJi7MhYqfL0SYkwAH6C1HPVJBz",
-        "position": 8,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "emh-XHQxAoA"
-        }
-      },
-      "contentDetails": {
-        "videoId": "emh-XHQxAoA",
-        "videoPublishedAt": "2018-10-14T21:16:56.000Z"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/JvXRnDxF5Dh987DpbW2HXgSh75M\"",
-      "id": "UExvcWlnUDZmSmk3TWhZcWZMMFNZa3dBSDZDMUhQVkpCei5GNjNDRDREMDQxOThCMDQ2",
-      "snippet": {
-        "publishedAt": "2020-04-13T11:41:53.000Z",
-        "channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
-        "title": "Vikram Aur Betaal ep.10",
-        "description": "a mythological seriel based on old Indian Folktales of Vikram and Betaal\nProduced and Directed by: Ramanand Sagar\nStarring: Arun Govil, Deepika and Rama Vij\nOriginal Run: Doordarshan 1987",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/IcliEoHl0yo/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/IcliEoHl0yo/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/IcliEoHl0yo/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "look jonson",
-        "playlistId": "PLoqigP6fJi7MhYqfL0SYkwAH6C1HPVJBz",
-        "position": 9,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "IcliEoHl0yo"
-        }
-      },
-      "contentDetails": {
-        "videoId": "IcliEoHl0yo",
-        "videoPublishedAt": "2018-10-14T21:18:40.000Z"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/9nV2Ai10v8sHGKis5yNz7n0zlWY\"",
-      "id": "UExvcWlnUDZmSmk3TWhZcWZMMFNZa3dBSDZDMUhQVkpCei40NzZCMERDMjVEN0RFRThB",
-      "snippet": {
-        "publishedAt": "2020-04-13T11:42:04.000Z",
-        "channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
-        "title": "Vikram Aur Betaal ep.11",
-        "description": "a mythological seriel based on old Indian Folktales of Vikram and Betaal\nProduced and Directed by: Ramanand Sagar\nStarring: Arun Govil, Deepika and Rama Vij\nOriginal Run: Doordarshan 1987",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/kHJHNUBvcoU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/kHJHNUBvcoU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/kHJHNUBvcoU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "look jonson",
-        "playlistId": "PLoqigP6fJi7MhYqfL0SYkwAH6C1HPVJBz",
-        "position": 10,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "kHJHNUBvcoU"
-        }
-      },
-      "contentDetails": {
-        "videoId": "kHJHNUBvcoU",
-        "videoPublishedAt": "2018-10-14T21:19:39.000Z"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/VmVzB055gJSapNqM1oQGKFNDj2c\"",
-      "id": "UExvcWlnUDZmSmk3TWhZcWZMMFNZa3dBSDZDMUhQVkpCei5EMEEwRUY5M0RDRTU3NDJC",
-      "snippet": {
-        "publishedAt": "2020-04-13T11:42:14.000Z",
-        "channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
-        "title": "Vikram Aur Betaal ep.12",
-        "description": "a mythological seriel based on old Indian Folktales of Vikram and Betaal\nProduced and Directed by: Ramanand Sagar\nStarring: Arun Govil, Deepika and Rama Vij\nOriginal Run: Doordarshan 1987",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/C0rE6oDvY3g/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/C0rE6oDvY3g/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/C0rE6oDvY3g/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "look jonson",
-        "playlistId": "PLoqigP6fJi7MhYqfL0SYkwAH6C1HPVJBz",
-        "position": 11,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "C0rE6oDvY3g"
-        }
-      },
-      "contentDetails": {
-        "videoId": "C0rE6oDvY3g",
-        "videoPublishedAt": "2018-10-14T21:21:04.000Z"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/FkOW2RDbbivqqVibzbGAFPSIIAo\"",
-      "id": "UExvcWlnUDZmSmk3TWhZcWZMMFNZa3dBSDZDMUhQVkpCei45ODRDNTg0QjA4NkFBNkQy",
-      "snippet": {
-        "publishedAt": "2020-04-13T11:42:26.000Z",
-        "channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
-        "title": "Vikram Aur Betaal ep.13",
-        "description": "a mythological seriel based on old Indian Folktales of Vikram and Betaal\nProduced and Directed by: Ramanand Sagar\nStarring: Arun Govil, Deepika and Rama Vij\nOriginal Run: Doordarshan 1987",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/ebnxkAA5znE/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/ebnxkAA5znE/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/ebnxkAA5znE/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "look jonson",
-        "playlistId": "PLoqigP6fJi7MhYqfL0SYkwAH6C1HPVJBz",
-        "position": 12,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "ebnxkAA5znE"
-        }
-      },
-      "contentDetails": {
-        "videoId": "ebnxkAA5znE",
-        "videoPublishedAt": "2018-10-14T21:22:06.000Z"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/9qSmVQBFB9oJBsRd6pDT15O2elQ\"",
-      "id": "UExvcWlnUDZmSmk3TWhZcWZMMFNZa3dBSDZDMUhQVkpCei4zMDg5MkQ5MEVDMEM1NTg2",
-      "snippet": {
-        "publishedAt": "2020-04-13T11:42:45.000Z",
-        "channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
-        "title": "विक्रम बेताल : Episode 14 : Vikram Betal | Famous TV Show | Serial | Adventure Stories",
-        "description": "Vikram Aur Betaal' is based on 'Betaal Pachisi', written nearly 2,500 years ago by Mahakavi Somdev Bhatt. These are spellbinding stories told to the wise King Vikramaditya by the witty ghost Betaal. Vikramaditya was a great king who ruled over a prosperous kingdom from his capital at Ujjain. He had immense love for learning as well as for adventure. He was brave, fearless and with a strong will. Everyday many visitors used to visit the king and gift him something. The King used to accept all the gifts with the same courtesy. Among such visitors was a mendicant who presented the king with a fruit on every visit. King Vikramaditya used to hand over the fruit to the royal storekeeper. One day while handling the fruit, it broke and from the pop came out a handy ball of ruby. The King was surprised. He ordered to check all the fruits, and from all fruits came out a fine ruby. The King decided to meet the mendicant. However, the mendicant had set a condition that the King must meet him under a Banyan tree in the center of the cremation ground beyond the city, at night, on the 14th day of the dark half of the month. King met him as decided. The King asked the mendicant why he was doing this. The mendicant tells that there is a task that only a King like Vikrmaditya can perform. King Vikramaditya had to visit the northern-most corner of this ground where he would find a very ancient tree. There would be a corpse hanging from one of its branches. He would have to fetch it for the mendicant, as the mendicant was seeking certain occult powers which he would get only if a king brought this particular corpse to him and if he would practice certain rites sitting on it. According to the legend the King Vikramaditya, in order to fulfil a vow, was required to remove a corpse of Betaal from a treetop and carry it on his shoulder to another place in silence. En route, the spirit of Betaal (in the corpse) used to narrate a story to the king and after completing the story Betaal would pose a query that if he (The king) knew the answer, was bound to respond lest he will break his head into thousand pieces. But if he does speak out, he would break the vow of silence and Betaal would fly back to the treetop, leaving the king inches short of his destination! The king would go after the vampire and start all over again. And so on and on. As the name 'Betaal Pachisi' suggests the Betaal told King 25 stories. ('Pachisi' (Hindi) is derived from word 'Pachis' in Hindi which means twenty five) . However, looking at the determination of the king Vikramaditya, Betaal finally disclosed the true motive of the mendicant. The mendicant's plan was to practice certain rites sitting on Betaal but he would kill the King also to get all powers of world and rule the world. This created suspicion in Vikramaditya's mind. However, he still went to the mendicant, but he was prepared for surprise. Betaal proved to be right and the mendicant tried to kill Vikramaditya. However, Vikramaditya outwitted the mendicant and killed him.\n\n#VikranBetal #AdventureStories #H1Ybhaktisagar",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/-MZuJcF14ns/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/-MZuJcF14ns/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/-MZuJcF14ns/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/huRTyo-77cs/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/-MZuJcF14ns/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/huRTyo-77cs/sddefault.jpg",
             "width": 640,
             "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/-MZuJcF14ns/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
           }
         },
-        "channelTitle": "look jonson",
-        "playlistId": "PLoqigP6fJi7MhYqfL0SYkwAH6C1HPVJBz",
+        "channelTitle": "Raju Rathaur",
+        "playlistId": "PLTfk5dN-W6BPDwIOKbrIp3VArYCeDNOL2",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "huRTyo-77cs"
+        }
+      },
+      "contentDetails": {
+        "videoId": "huRTyo-77cs",
+        "videoPublishedAt": "2019-11-30T12:01:02Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0WiSCiZ_wBOYchhAa-z9gb7fxU4",
+      "id": "UExUZms1ZE4tVzZCUER3SU9LYnJJcDNWQXJZQ2VETk9MMi5GNjAwN0Y0QTFGOTVDMEMy",
+      "snippet": {
+        "publishedAt": "2020-05-22T06:23:24Z",
+        "channelId": "UC24MhsLlhe8S0GDYgt21CwQ",
+        "title": "Vikram Betal - Episode 4 - \"Three Suitors and Somprabha\"",
+        "description": "Vikram Betal - Episode 04 - \"Three Suitors and Somprabha\"\n\nVijay Arora as Anuragi\nRamesh Bhatkar as Somprabha's Father\nSatish Kaul as Shilpi\nKaajal Kiran as Somprabha\nSunil Lahri as Vir Singh\nMulraj Rajda as the Giant\nDharmesh Tiwari as Somprabha's Brother\n\nAbout this video :- Somprabha is a beautiful and multi talented girl ready age to get married. Her father, mother and brother were happy for her and wanted to get her married. But, a giant demon has also vowed and promised them that he will take her away. This tensed the whole family. \n\nAfter some days, Somprabha's Father was travelling when group of bandits attacked his group then, a handsome and brave warrior, Vir Singh saved them with his weaponry and physical strength. Father gets impressed and offers him to marry his daughter which he accepts. \n\nSomprabha's mother also meets a poet who had written about her charm, mother also offers him the same and he also accepted.\n\nAt the same time, brother also offers the same to an engineer who had built a Viman, who also accepts. At the time of the official matchmaking ceremony, all three suitors arrive and the bride is given the choice of choosing her betrothed. \n\nAlas, the giant demon arrives and abducts Somprabha, much to the dismay of her family and three suitors. The suitors then decide to go after the demon, as the poet knows the place where the demon lives. Using the engineer's Viman, all three arrive at the demon's place and the warrior manages to defeat the demon. With Somprabha in tow, all of them go back safely to her home. Somprabha now faces a dilemma on whom to pick as her husband.\n\nQuestion:Who should Somprabha marry? The warrior, the poet or the engineer?\n\nAnswer:As a husband should be able to protect his wife from all forms of danger, the warrior is most worthy among the three as he alone was able to defeat and save Somprabha from the demon.\n\nOur Playlist :- \n\nVIKRAM BETAL:\nhttps://www.youtube.com/playlist?list=PLbUOVtj70hR0Z-ppbUyNRZDfaQ9hPjBdK\n\nRAMAYAN (HD):\nhttps://www.youtube.com/playlist?list=PLbUOVtj70hR1TAMZ4IqwLSuzUpr9Uwa5V\n\nMAHABHARAT DOHA:\nhttps://www.youtube.com/playlist?list=PLbUOVtj70hR06TC1xJMJf68Gvc4AWSO0h\n\nOther Social Links :-\nYoutube - http://www.youtube.com/c/BhaktiVihar\nFacebook - https://www.facebook.com/Bhaktivihar/\nTwitter- https://twitter.com/BhaktiVihar?s=09\n\n#vikrambetal #vikrambetalepisode4 #vikrambetal4 #vikrambetalfirstepisode #vikrambetalpart4 #vikrambetalfull #vikrambetalfullepisode #vikrambetalallepisode #vikrambetalserial #vikrambetalserialallepisode",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VC5_tXghqZA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VC5_tXghqZA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VC5_tXghqZA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VC5_tXghqZA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Raju Rathaur",
+        "playlistId": "PLTfk5dN-W6BPDwIOKbrIp3VArYCeDNOL2",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VC5_tXghqZA"
+        }
+      },
+      "contentDetails": {
+        "videoId": "VC5_tXghqZA",
+        "videoPublishedAt": "2019-12-01T19:38:10Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "rN7vszYynmj2xVjNLX67ge-PYzA",
+      "id": "UExUZms1ZE4tVzZCUER3SU9LYnJJcDNWQXJZQ2VETk9MMi5CQkEwRDA0MDkwNUM2MDY1",
+      "snippet": {
+        "publishedAt": "2020-05-22T06:23:29Z",
+        "channelId": "UC24MhsLlhe8S0GDYgt21CwQ",
+        "title": "Vikram Betal - Episode 5 - \"The Story of Padmavati and Prince Vajramukti\"",
+        "description": "Vikram Betal - Episode 5 - \"The Story of Padmavati and Prince Vajramukti\"\n\nCast :-\nRajni Bala as Dai Ma\nRamesh Bhatkar as Diwan's son\nSatish Kaul as Prince Vajramukti\nRama Vij as Padmavati\n\nAbout this video:- Prince Vajramukti is a handsome Prince of a Kingdom.He is in friendship with his Diwan(Minister)'s Son.One day, both wandered around the forest where the Prince sees a beautiful girl and is smitten by her beauty. \n\nHe asked her about her name, address and her father's occupation by which she replied by pointing herself with a lotus, touching her ear and acting as if uprooting the tooth. This puzzles Vajramukti and he asks his friend about it who easily solves the puzzles and knows her whereabouts in Karnapur as Dentist's daughter and named Padmavati. Then he finds her and proposes marriage, which she accepts. But, the King of Karnapur is also smitten by her and intends to marry her. \n\nVajramukti is angered by it but his friend advised a peaceful way of solving the problem. The Diwan's son disguised as a thief steals Padmavati's Jewelry and then again disguised as a sage goes to king and says that the girl with the particular jewelry has enticed him sexually. This enraged the king and he immediately exiles Padmavati who is then happily married to Vajramukti.\n\nQuestion:Who is more sinful and culprit among the three Prince, Diwan's Son or the King?\n\nAnswer:The king is more sinful as Prince has loved the girl and Diwan's son is only helping his friend but the King had exiled an innocent girl without any proof or evidence.\n\nOur Playlist :- \n\nVIKRAM BETAL:\nhttps://www.youtube.com/playlist?list=PLbUOVtj70hR0Z-ppbUyNRZDfaQ9hPjBdK\n\nRAMAYAN (HD):\nhttps://www.youtube.com/playlist?list=PLbUOVtj70hR1TAMZ4IqwLSuzUpr9Uwa5V\n\nMAHABHARAT DOHA:\nhttps://www.youtube.com/playlist?list=PLbUOVtj70hR06TC1xJMJf68Gvc4AWSO0h\n\nOther Social Links :-\nYoutube - http://www.youtube.com/c/BhaktiVihar\nFacebook - https://www.facebook.com/Bhaktivihar/\nTwitter- https://twitter.com/BhaktiVihar?s=09\n\n#vikrambetal #vikrambetalepisode5 #vikrambetal5 #vikrambetalfirstepisode #vikrambetalpart5 #vikrambetalfull #vikrambetalfullepisode #vikrambetalallepisode #vikrambetalserial #vikrambetalserialallepisode",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-xgNe_U_Ntc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-xgNe_U_Ntc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-xgNe_U_Ntc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-xgNe_U_Ntc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Raju Rathaur",
+        "playlistId": "PLTfk5dN-W6BPDwIOKbrIp3VArYCeDNOL2",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-xgNe_U_Ntc"
+        }
+      },
+      "contentDetails": {
+        "videoId": "-xgNe_U_Ntc",
+        "videoPublishedAt": "2019-12-10T02:06:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7SAb_XqGNQ1t4qy1shbUV_KSwt0",
+      "id": "UExUZms1ZE4tVzZCUER3SU9LYnJJcDNWQXJZQ2VETk9MMi4wNEU1MTI4NkZEMzVBN0JF",
+      "snippet": {
+        "publishedAt": "2020-05-22T06:23:49Z",
+        "channelId": "UC24MhsLlhe8S0GDYgt21CwQ",
+        "title": "Vikram Betal - Episode 6 - \"Rich Girl Accepts Thief as Husband\"",
+        "description": "Vikram Betal - Episode 6 - \"Rich Girl Accepts Thief as Husband\"\n\nCast :- \nVijay Arora as King Veerketu\nPuneet Issar as Thief\nMulraj Rajda as Ratnasen\nRama Vij as the Rich Girl\n\nAbout this video :- King Veerketu is king of Ayodhya. He is tensed as his kingdom is rampaged by an unknown thief. He decides to nab the thief himself by disguising as thief himself. Meanwhile, a rich girl Manna meets a young man. The man impress her by his unique acrobatic and physical skills and talent. Manna begins to like him and vice versa. Manna has a record of rejecting several qualified men as her suitor. Then the very night, the king(disguised) meets the thief (same young man) and befriends him. \n\nThen the thief reveals that he wanted to be a soldier but the corruption of ministers has kept him far from his aim. Then king reveals himself and nabs him. He is put on trial. Then, Manna's father vows to protect the thief as her daughter loved him and Manna wanted to marry him. This declaration makes the thief cry and laugh simultaneously. After learning all the truth and sake of friendship with the thief, Veerkutu released the thief and appoints him his Commander.\n\nQuestion: Why the thief cries and laughs simultaneously after hearing the declaration of the Rich Man?\n\nAnswer: The thief cries because as he knew he can't repay the deeds of the Manna and her father as he is going to die, and he laughed because he couldn't believe in his fate as Manna liked him over other qualified suitor.\n\nOur Playlist :- \n\nVIKRAM BETAL:\nhttps://www.youtube.com/playlist?list=PLbUOVtj70hR0Z-ppbUyNRZDfaQ9hPjBdK\n\nRAMAYAN (HD):\nhttps://www.youtube.com/playlist?list=PLbUOVtj70hR1TAMZ4IqwLSuzUpr9Uwa5V\n\nMAHABHARAT DOHA:\nhttps://www.youtube.com/playlist?list=PLbUOVtj70hR06TC1xJMJf68Gvc4AWSO0h\n\nOther Social Links :-\nYoutube - http://www.youtube.com/c/BhaktiVihar\nFacebook - https://www.facebook.com/Bhaktivihar/\nTwitter- https://twitter.com/BhaktiVihar?s=09\n\n#vikrambetal #vikrambetalepisode6 #vikrambetal6 #vikrambetalfirstepisode #vikrambetalpart6 #vikrambetalfull #vikrambetalfullepisode #vikrambetalallepisode #vikrambetalserial #vikrambetalserialallepisode",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xPevygDZ9yY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xPevygDZ9yY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xPevygDZ9yY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xPevygDZ9yY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Raju Rathaur",
+        "playlistId": "PLTfk5dN-W6BPDwIOKbrIp3VArYCeDNOL2",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xPevygDZ9yY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "xPevygDZ9yY",
+        "videoPublishedAt": "2019-12-13T17:53:33Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Ba4gVdZtCbvvxee9PM6_BS8OKKM",
+      "id": "UExUZms1ZE4tVzZCUER3SU9LYnJJcDNWQXJZQ2VETk9MMi4wMTYxQzVBRDI1NEVDQUZE",
+      "snippet": {
+        "publishedAt": "2020-05-22T06:23:54Z",
+        "channelId": "UC24MhsLlhe8S0GDYgt21CwQ",
+        "title": "Vikram Betal - Episode 7 - \"King Chandrasen And His Servant Satvashil\"",
+        "description": "Vikram Betal - Episode 07 - \"King Chandrasen and his Servant Satvashil\"\n\nCast :-\n\nVijay Arora as King Chandrasen\nSatish Kaul as Satvasheel\nRama Vij as the Sea Princess\n\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n ◆-◆-◆-◆-◆ Vikram Betal All Episodes ◆-◆-◆-◆-◆\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\nVikram Betal Episode 01 (King Vikramaditya and the Yogi/Suryamal And his Wife Bride's Dilemma) - https://youtu.be/z1Riq06aNio\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 02 (King Rupsen and his Bodyguard Virvar) - https://youtu.be/Mgyf8BxST2o\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 03 (Love Story of King Yashodhan) - https://youtu.be/huRTyo-77cs\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 04 (Three Suitors and Somprabha) - https://youtu.be/VC5_tXghqZA\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 05 (The story of Padmavati and the Prince Vajramukti) - https://youtu.be/-xgNe_U_\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 06 (Rich Girl Accept Thief as a Husband) - https://youtu.be/xPevygDZ9yY\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 07 (King Chandrasen And his Servant Satvashil) - https://youtu.be/YCEKzLDEz-g\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 08 (Three Sensitive Brothers) - https://youtu.be/prnsz64tOxY\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 09 (The Husband, the Thief, and the Lover) - https://youtu.be/fYC_c5VE4eo\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 10 (The Prince and the Three Sensitive Sisters) - https://youtu.be/xkwwuPtTS1g\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 11 (Whom will the Princess Marry?) - https://youtu.be/z5r5np2U9yI\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 12 (Who is the Real Father) - https://youtu.be/IpYhzMecTw0\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 13 (The Giant And The Brave Boy) - https://youtu.be/0AvCkHdtGh8\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 14 (Love Is Eternal) - https://youtu.be/0jfnJPBf7p0\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 15 (The Lover of Princess Chandraprabha) - https://youtu.be/PIj5UqX-dds\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 16 (The Dilemma Of Mahamantri and King Vallabh)  - https://youtu.be/Dg__dgnw2qE\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 17 (The Unsuccessful Panance of Gunkar) - https://youtu.be/tcMDXNw5mlI\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 18 (The Story of Rajkumar and the Bird) - https://youtu.be/aqgjOt0dZ2o\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 19 (The Gambling Temptation of gopu) - https://youtu.be/9ah4nSTvtBU\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 20 (The Realization for King Anandsen) - https://youtu.be/UhKtnH4KW-w\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 21 (The Legendary love of Sukesh and Legendary Duty of King Dharmaveer) - https://youtu.be/BeEmtSdYqCI\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 22 (The Love Story of Four Princess) - https://youtu.be/t1ujiIxiZao\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 23 (The Justice Of King Satyadev) - https://youtu.be/jLcKe_XQcLk\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 24 (The Dreams of Dagdoo) - https://youtu.be/d23T7q-1gSE\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 25 (The Story of Greedy Apurva) - https://youtu.be/I7RoT3hBVwA\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 26 (The Revenge of Nagin) - https://youtu.be/MJuZjflSwbg\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\n\n#vikrambetal #vikrambetalepisode7 #vikrambetal7 #vikramaurbetaal7  #vikrambetalpart7 #vikrambetalfull #vikrambetalfullepisode #vikrambetalallepisode #vikramaurbetalepisode7",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YCEKzLDEz-g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YCEKzLDEz-g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YCEKzLDEz-g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YCEKzLDEz-g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Raju Rathaur",
+        "playlistId": "PLTfk5dN-W6BPDwIOKbrIp3VArYCeDNOL2",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YCEKzLDEz-g"
+        }
+      },
+      "contentDetails": {
+        "videoId": "YCEKzLDEz-g",
+        "videoPublishedAt": "2019-12-14T13:06:55Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "JRMRfRy0qKjD-oNAjYh1MjILh3g",
+      "id": "UExUZms1ZE4tVzZCUER3SU9LYnJJcDNWQXJZQ2VETk9MMi4zMUEyMkQwOTk0NTg4MDgw",
+      "snippet": {
+        "publishedAt": "2020-05-22T06:24:00Z",
+        "channelId": "UC24MhsLlhe8S0GDYgt21CwQ",
+        "title": "Vikram Betal - Episode 8 - \"Three Sensitive Brothers \"",
+        "description": "Vikram Betal - Episode 08 - \"Three Sensitive Brothers\"\n\nCast :-\n\nRajni Bala as the Court Singer\nSunil Lahri as the First Brother\nSamir Rajda as Second Brother\nBabloo Mukherjee ... Third Brother\nMulraj Rajda ... the King\n\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n ◆-◆-◆-◆-◆ Vikram Betal All Episodes ◆-◆-◆-◆-◆\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\nVikram Betal Episode 01 (King Vikramaditya and the Yogi/Suryamal And his Wife Bride's Dilemma) - https://youtu.be/z1Riq06aNio\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 02 (King Rupsen and his Bodyguard Virvar) - https://youtu.be/Mgyf8BxST2o\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 03 (Love Story of King Yashodhan) - https://youtu.be/huRTyo-77cs\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 04 (Three Suitors and Somprabha) - https://youtu.be/VC5_tXghqZA\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 05 (The story of Padmavati and the Prince Vajramukti) - https://youtu.be/-xgNe_U_\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 06 (Rich Girl Accept Thief as a Husband) - https://youtu.be/xPevygDZ9yY\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 07 (King Chandrasen And his Servant Satvashil) - https://youtu.be/YCEKzLDEz-g\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 08 (Three Sensitive Brothers) - https://youtu.be/prnsz64tOxY\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 09 (The Husband, the Thief, and the Lover) - https://youtu.be/fYC_c5VE4eo\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 10 (The Prince and the Three Sensitive Sisters) - https://youtu.be/xkwwuPtTS1g\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 11 (Whom will the Princess Marry?) - https://youtu.be/z5r5np2U9yI\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 12 (Who is the Real Father) - https://youtu.be/IpYhzMecTw0\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 13 (The Giant And The Brave Boy) - https://youtu.be/0AvCkHdtGh8\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 14 (Love Is Eternal) - https://youtu.be/0jfnJPBf7p0\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 15 (The Lover of Princess Chandraprabha) - https://youtu.be/PIj5UqX-dds\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 16 (The Dilemma Of Mahamantri and King Vallabh)  - https://youtu.be/Dg__dgnw2qE\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 17 (The Unsuccessful Panance of Gunkar) - https://youtu.be/tcMDXNw5mlI\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 18 (The Story of Rajkumar and the Bird) - https://youtu.be/aqgjOt0dZ2o\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 19 (The Gambling Temptation of gopu) - https://youtu.be/9ah4nSTvtBU\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 20 (The Realization for King Anandsen) - https://youtu.be/UhKtnH4KW-w\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 21 (The Legendary love of Sukesh and Legendary Duty of King Dharmaveer) - https://youtu.be/BeEmtSdYqCI\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 22 (The Love Story of Four Princess) - https://youtu.be/t1ujiIxiZao\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 23 (The Justice Of King Satyadev) - https://youtu.be/jLcKe_XQcLk\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 24 (The Dreams of Dagdoo) - https://youtu.be/d23T7q-1gSE\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 25 (The Story of Greedy Apurva) - https://youtu.be/I7RoT3hBVwA\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 26 (The Revenge of Nagin) - https://youtu.be/MJuZjflSwbg\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\n#vikrambetal #vikrambetalepisode8 #vikrambetal8 #vikrambetalpart8 #vikramaurbetal #vikramaurbetalepisode8 #vikrambetalfull #vikrambetalfullepisode #vikrambetalallepisode #vikramaurbetaal8",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/prnsz64tOxY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/prnsz64tOxY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/prnsz64tOxY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/prnsz64tOxY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Raju Rathaur",
+        "playlistId": "PLTfk5dN-W6BPDwIOKbrIp3VArYCeDNOL2",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "prnsz64tOxY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "prnsz64tOxY",
+        "videoPublishedAt": "2019-12-15T13:16:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "iA5bR1bRjxGWQ5o5ca0NuuMur-8",
+      "id": "UExUZms1ZE4tVzZCUER3SU9LYnJJcDNWQXJZQ2VETk9MMi42QzdBMzlBQzQzRjQ0QkQy",
+      "snippet": {
+        "publishedAt": "2020-05-22T06:24:07Z",
+        "channelId": "UC24MhsLlhe8S0GDYgt21CwQ",
+        "title": "Vikram Betal - Episode 9 - \"The Husband, the Thief, and the Lover",
+        "description": "Vikram Betal - Episode 09 - \"The Husband, the Thief, and the Lover\"\n\nCast :-\n\nVijay Arora as the Husband\nRamesh Bhatkar as the Thief\nSatish Kaul as the Lover\nSangeeta Naik as Madan Sena\nMulraj Rajda as Father-in-Law\n\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n ◆-◆-◆-◆-◆ Vikram Betal All Episodes ◆-◆-◆-◆-◆\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\nVikram Betal Episode 01 (King Vikramaditya and the Yogi/Suryamal And his Wife Bride's Dilemma) - https://youtu.be/z1Riq06aNio\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 02 (King Rupsen and his Bodyguard Virvar) - https://youtu.be/Mgyf8BxST2o\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 03 (Love Story of King Yashodhan) - https://youtu.be/huRTyo-77cs\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 04 (Three Suitors and Somprabha) - https://youtu.be/VC5_tXghqZA\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 05 (The story of Padmavati and the Prince Vajramukti) - https://youtu.be/-xgNe_U_\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 06 (Rich Girl Accept Thief as a Husband) - https://youtu.be/xPevygDZ9yY\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 07 (King Chandrasen And his Servant Satvashil) - https://youtu.be/YCEKzLDEz-g\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 08 (Three Sensitive Brothers) - https://youtu.be/prnsz64tOxY\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 09 (The Husband, the Thief, and the Lover) - https://youtu.be/fYC_c5VE4eo\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 10 (The Prince and the Three Sensitive Sisters) - https://youtu.be/xkwwuPtTS1g\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 11 (Whom will the Princess Marry?) - https://youtu.be/z5r5np2U9yI\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 12 (Who is the Real Father) - https://youtu.be/IpYhzMecTw0\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 13 (The Giant And The Brave Boy) - https://youtu.be/0AvCkHdtGh8\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 14 (Love Is Eternal) - https://youtu.be/0jfnJPBf7p0\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 15 (The Lover of Princess Chandraprabha) - https://youtu.be/PIj5UqX-dds\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 16 (The Dilemma Of Mahamantri and King Vallabh)  - https://youtu.be/Dg__dgnw2qE\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 17 (The Unsuccessful Panance of Gunkar) - https://youtu.be/tcMDXNw5mlI\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 18 (The Story of Rajkumar and the Bird) - https://youtu.be/aqgjOt0dZ2o\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 19 (The Gambling Temptation of gopu) - https://youtu.be/9ah4nSTvtBU\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 20 (The Realization for King Anandsen) - https://youtu.be/UhKtnH4KW-w\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 21 (The Legendary love of Sukesh and Legendary Duty of King Dharmaveer) - https://youtu.be/BeEmtSdYqCI\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 22 (The Love Story of Four Princess) - https://youtu.be/t1ujiIxiZao\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 23 (The Justice Of King Satyadev) - https://youtu.be/jLcKe_XQcLk\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 24 (The Dreams of Dagdoo) - https://youtu.be/d23T7q-1gSE\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 25 (The Story of Greedy Apurva) - https://youtu.be/I7RoT3hBVwA\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 26 (The Revenge of Nagin) - https://youtu.be/MJuZjflSwbg\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\n#vikrambetal #vikrambetalepisode9 #vikrambetal9 #vikrambetalpart9 #vikramaurbetal #vikramaurbetalepisode9 #vikrambetalfull #vikrambetalfullepisode #vikrambetalallepisode #vikramaurbetaal9 #vikrambetalserial #vikrambetalserialallepisode",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fYC_c5VE4eo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fYC_c5VE4eo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fYC_c5VE4eo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fYC_c5VE4eo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Raju Rathaur",
+        "playlistId": "PLTfk5dN-W6BPDwIOKbrIp3VArYCeDNOL2",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fYC_c5VE4eo"
+        }
+      },
+      "contentDetails": {
+        "videoId": "fYC_c5VE4eo",
+        "videoPublishedAt": "2019-12-16T19:37:06Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "T56O0zSaGKeTXU_9F3NoL4cV20Q",
+      "id": "UExUZms1ZE4tVzZCUER3SU9LYnJJcDNWQXJZQ2VETk9MMi41OURENDc2NEM1MDI5Mjky",
+      "snippet": {
+        "publishedAt": "2020-05-22T06:24:14Z",
+        "channelId": "UC24MhsLlhe8S0GDYgt21CwQ",
+        "title": "Vikram Betal - Episode 10 - \"The Prince and the Three Sensitive Sisters\"",
+        "description": "Vikram Betal - Episode 10 - \"The Prince and the Three Sensitive Sisters\"\n\nCast :-\n\nBijaya Jena (Dolly Jena) as the most sensitive princess Mrigangvati,\nRajni Bala as Taravalli\nMohan Choti as Munim\nVijay Kavish as Prabandhak\nSunil Lahri as the Prince\nLilliput as the Servant\nRama Vij as Indulekha\n\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n ◆-◆-◆-◆-◆ Vikram Betal All Episodes ◆-◆-◆-◆-◆\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\nVikram Betal Episode 01 (King Vikramaditya and the Yogi/Suryamal And his Wife Bride's Dilemma) - https://youtu.be/z1Riq06aNio\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 02 (King Rupsen and his Bodyguard Virvar) - https://youtu.be/Mgyf8BxST2o\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 03 (Love Story of King Yashodhan) - https://youtu.be/huRTyo-77cs\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 04 (Three Suitors and Somprabha) - https://youtu.be/VC5_tXghqZA\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 05 (The story of Padmavati and the Prince Vajramukti) - https://youtu.be/-xgNe_U_\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 06 (Rich Girl Accept Thief as a Husband) - https://youtu.be/xPevygDZ9yY\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 07 (King Chandrasen And his Servant Satvashil) - https://youtu.be/YCEKzLDEz-g\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 08 (Three Sensitive Brothers) - https://youtu.be/prnsz64tOxY\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 09 (The Husband, the Thief, and the Lover) - https://youtu.be/fYC_c5VE4eo\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 10 (The Prince and the Three Sensitive Sisters) - https://youtu.be/xkwwuPtTS1g\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 11 (Whom will the Princess Marry?) - https://youtu.be/z5r5np2U9yI\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 12 (Who is the Real Father) - https://youtu.be/IpYhzMecTw0\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 13 (The Giant And The Brave Boy) - https://youtu.be/0AvCkHdtGh8\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 14 (Love Is Eternal) - https://youtu.be/0jfnJPBf7p0\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 15 (The Lover of Princess Chandraprabha) - https://youtu.be/PIj5UqX-dds\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 16 (The Dilemma Of Mahamantri and King Vallabh)  - https://youtu.be/Dg__dgnw2qE\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 17 (The Unsuccessful Panance of Gunkar) - https://youtu.be/tcMDXNw5mlI\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 18 (The Story of Rajkumar and the Bird) - https://youtu.be/aqgjOt0dZ2o\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 19 (The Gambling Temptation of gopu) - https://youtu.be/9ah4nSTvtBU\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 20 (The Realization for King Anandsen) - https://youtu.be/UhKtnH4KW-w\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 21 (The Legendary love of Sukesh and Legendary Duty of King Dharmaveer) - https://youtu.be/BeEmtSdYqCI\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 22 (The Love Story of Four Princess) - https://youtu.be/t1ujiIxiZao\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 23 (The Justice Of King Satyadev) - https://youtu.be/jLcKe_XQcLk\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 24 (The Dreams of Dagdoo) - https://youtu.be/d23T7q-1gSE\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 25 (The Story of Greedy Apurva) - https://youtu.be/I7RoT3hBVwA\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 26 (The Revenge of Nagin) - https://youtu.be/MJuZjflSwbg\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\n#vikrambetal #vikrambetalepisode10 #vikrambetal10 #vikrambetalserial #vikrambetalserialallepisode  #vikrambetalpart10 #vikramaurbetal #vikramaurbetalepisode10 #vikrambetalfull #vikrambetalfullepisode #vikrambetalallepisode #vikramaurbetaal10",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xkwwuPtTS1g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xkwwuPtTS1g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xkwwuPtTS1g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xkwwuPtTS1g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Raju Rathaur",
+        "playlistId": "PLTfk5dN-W6BPDwIOKbrIp3VArYCeDNOL2",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xkwwuPtTS1g"
+        }
+      },
+      "contentDetails": {
+        "videoId": "xkwwuPtTS1g",
+        "videoPublishedAt": "2019-12-17T07:24:14Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "RR_ACVjCkZal4vCb8IeyErYHQp0",
+      "id": "UExUZms1ZE4tVzZCUER3SU9LYnJJcDNWQXJZQ2VETk9MMi4wRjhFM0MxMTU1MEUzQ0VB",
+      "snippet": {
+        "publishedAt": "2020-05-22T06:24:29Z",
+        "channelId": "UC24MhsLlhe8S0GDYgt21CwQ",
+        "title": "Vikram Betal - Episode 11 - \"Whom Will the Princess Marry?\"",
+        "description": "Vikram Betal - Episode 11 - \"Whom will the Princess Marry?\"\n\nCast :-\nVijay Arora as the Birdman\nPuneet Issar as the Brave Man\nSatish Kaul as the Vaid\nVijay Kavish as the Weaver\nMulraj Rajda as the King\nRama Vij as the Princess\n\n\n\nVikram Betal Episode 01 (King Vikramaditya and the Yogi/Suryamal And his Wife Bride's Dilemma) - https://youtu.be/z1Riq06aNio\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 02 (King Rupsen and his Bodyguard Virvar) - https://youtu.be/Mgyf8BxST2o\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 03 (Love Story of King Yashodhan) - https://youtu.be/huRTyo-77cs\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 04 (Three Suitors and Somprabha) - https://youtu.be/VC5_tXghqZA\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 05 (The story of Padmavati and the Prince Vajramukti) - https://youtu.be/-xgNe_U_\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 06 (Rich Girl Accept Thief as a Husband) - https://youtu.be/xPevygDZ9yY\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 07 (King Chandrasen And his Servant Satvashil) - https://youtu.be/YCEKzLDEz-g\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 08 (Three Sensitive Brothers) - https://youtu.be/prnsz64tOxY\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 09 (The Husband, the Thief, and the Lover) - https://youtu.be/fYC_c5VE4eo\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 10 (The Prince and the Three Sensitive Sisters) - https://youtu.be/xkwwuPtTS1g\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 11 (Whom will the Princess Marry?) - https://youtu.be/z5r5np2U9yI\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 12 (Who is the Real Father) - https://youtu.be/IpYhzMecTw0\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 13 (The Giant And The Brave Boy) - https://youtu.be/0AvCkHdtGh8\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 14 (Love Is Eternal) - https://youtu.be/0jfnJPBf7p0\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 15 (The Lover of Princess Chandraprabha) - https://youtu.be/PIj5UqX-dds\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 16 (The Dilemma Of Mahamantri and King Vallabh)  - https://youtu.be/Dg__dgnw2qE\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 17 (The Unsuccessful Panance of Gunkar) - https://youtu.be/tcMDXNw5mlI\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 18 (The Story of Rajkumar and the Bird) - https://youtu.be/aqgjOt0dZ2o\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 19 (The Gambling Temptation of gopu) - https://youtu.be/9ah4nSTvtBU\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 20 (The Realization for King Anandsen) - https://youtu.be/UhKtnH4KW-w\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 21 (The Legendary love of Sukesh and Legendary Duty of King Dharmaveer) - https://youtu.be/BeEmtSdYqCI\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 22 (The Love Story of Four Princess) - https://youtu.be/t1ujiIxiZao\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 23 (The Justice Of King Satyadev) - https://youtu.be/jLcKe_XQcLk\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 24 (The Dreams of Dagdoo) - https://youtu.be/d23T7q-1gSE\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 25 (The Story of Greedy Apurva) - https://youtu.be/I7RoT3hBVwA\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 26 (The Revenge of Nagin) - https://youtu.be/MJuZjflSwbg\n\n#vikrambetal #vikrambetalepisode11 #vikrambetal11 #vikrambetalpart11 #vikramaurbetal #vikramaurbetalepisode11 #vikrambetalserial #vikrambetalfullepisode #vikrambetalallepisode #vikramaurbetaal11",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/z5r5np2U9yI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/z5r5np2U9yI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/z5r5np2U9yI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/z5r5np2U9yI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Raju Rathaur",
+        "playlistId": "PLTfk5dN-W6BPDwIOKbrIp3VArYCeDNOL2",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "z5r5np2U9yI"
+        }
+      },
+      "contentDetails": {
+        "videoId": "z5r5np2U9yI",
+        "videoPublishedAt": "2019-12-18T00:54:58Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_y976IcCKLZjK_yes1GoanrPQRg",
+      "id": "UExUZms1ZE4tVzZCUER3SU9LYnJJcDNWQXJZQ2VETk9MMi5CNTZFOTNGQzZEODg1RUQx",
+      "snippet": {
+        "publishedAt": "2020-05-22T06:24:35Z",
+        "channelId": "UC24MhsLlhe8S0GDYgt21CwQ",
+        "title": "Vikram Betal - Episode 12 - \"Who Is the Real Father\"",
+        "description": "Vikram Betal - Episode 12 - \"Who is Real Father\"\n\nCast :-\nRajni Bala as Bhagwati\nRamesh Bhatkar as the Greedy Man\nPuneet Issar as the Thief\nBabloo Mukherjee as Dhanwati's Son\nSangeeta Naik as Dhanwati\nMulraj Rajda as the King\n\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n ◆-◆-◆-◆-◆ Vikram Betal All Episodes ◆-◆-◆-◆-◆\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\nVikram Betal Episode 01 (King Vikramaditya and the Yogi/Suryamal And his Wife Bride's Dilemma) - https://youtu.be/z1Riq06aNio\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 02 (King Rupsen and his Bodyguard Virvar) - https://youtu.be/Mgyf8BxST2o\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 03 (Love Story of King Yashodhan) - https://youtu.be/huRTyo-77cs\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 04 (Three Suitors and Somprabha) - https://youtu.be/VC5_tXghqZA\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 05 (The story of Padmavati and the Prince Vajramukti) - https://youtu.be/-xgNe_U_\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 06 (Rich Girl Accept Thief as a Husband) - https://youtu.be/xPevygDZ9yY\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 07 (King Chandrasen And his Servant Satvashil) - https://youtu.be/YCEKzLDEz-g\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 08 (Three Sensitive Brothers) - https://youtu.be/prnsz64tOxY\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 09 (The Husband, the Thief, and the Lover) - https://youtu.be/fYC_c5VE4eo\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 10 (The Prince and the Three Sensitive Sisters) - https://youtu.be/xkwwuPtTS1g\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 11 (Whom will the Princess Marry?) - https://youtu.be/z5r5np2U9yI\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 12 (Who is the Real Father) - https://youtu.be/IpYhzMecTw0\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 13 (The Giant And The Brave Boy) - https://youtu.be/0AvCkHdtGh8\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 14 (Love Is Eternal) - https://youtu.be/0jfnJPBf7p0\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 15 (The Lover of Princess Chandraprabha) - https://youtu.be/PIj5UqX-dds\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 16 (The Dilemma Of Mahamantri and King Vallabh)  - https://youtu.be/Dg__dgnw2qE\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 17 (The Unsuccessful Panance of Gunkar) - https://youtu.be/tcMDXNw5mlI\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 18 (The Story of Rajkumar and the Bird) - https://youtu.be/aqgjOt0dZ2o\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 19 (The Gambling Temptation of gopu) - https://youtu.be/9ah4nSTvtBU\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 20 (The Realization for King Anandsen) - https://youtu.be/UhKtnH4KW-w\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 21 (The Legendary love of Sukesh and Legendary Duty of King Dharmaveer) - https://youtu.be/BeEmtSdYqCI\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 22 (The Love Story of Four Princess) - https://youtu.be/t1ujiIxiZao\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 23 (The Justice Of King Satyadev) - https://youtu.be/jLcKe_XQcLk\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 24 (The Dreams of Dagdoo) - https://youtu.be/d23T7q-1gSE\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 25 (The Story of Greedy Apurva) - https://youtu.be/I7RoT3hBVwA\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 26 (The Revenge of Nagin) - https://youtu.be/MJuZjflSwbg\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\n#vikrambetal #vikrambetalepisode12 #vikrambetal12 #vikrambetalserial #vikrambetalserialallepisode  #vikrambetalpart12 #vikramaurbetal  #vikramaurbetalepisode12 #vikrambetalfull  #vikrambetalfullepisode #vikrambetalallepisode #vikramaurbetaal12",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IpYhzMecTw0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IpYhzMecTw0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IpYhzMecTw0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IpYhzMecTw0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Raju Rathaur",
+        "playlistId": "PLTfk5dN-W6BPDwIOKbrIp3VArYCeDNOL2",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "IpYhzMecTw0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "IpYhzMecTw0",
+        "videoPublishedAt": "2019-12-19T11:45:06Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "gNT_lZwnUgbg5xDd8zY9oMydRdM",
+      "id": "UExUZms1ZE4tVzZCUER3SU9LYnJJcDNWQXJZQ2VETk9MMi5CNTcxMDQ0NThBNzMxODYz",
+      "snippet": {
+        "publishedAt": "2020-05-22T06:24:47Z",
+        "channelId": "UC24MhsLlhe8S0GDYgt21CwQ",
+        "title": "Vikram Betal - Episode 13 - \"The Giant And The Brave Boy\"",
+        "description": "Vikram Betal - Episode 13 - \"The Giant And The Brave Boy\"\n\nCast :-\nVijay Arora as the King\nRajni Bala as the Boy's Mother\nDeepika as the Queen\nLilliput as the Boy's Father\nSameer Rajda as the Brave Boy\nShamsuddin as the Giant\n\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n ◆-◆-◆-◆-◆ Vikram Betal All Episodes ◆-◆-◆-◆-◆\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\nVikram Betal Episode 01 (King Vikramaditya and the Yogi/Suryamal And his Wife Bride's Dilemma) - https://youtu.be/z1Riq06aNio\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 02 (King Rupsen and his Bodyguard Virvar) - https://youtu.be/Mgyf8BxST2o\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 03 (Love Story of King Yashodhan) - https://youtu.be/huRTyo-77cs\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 04 (Three Suitors and Somprabha) - https://youtu.be/VC5_tXghqZA\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 05 (The story of Padmavati and the Prince Vajramukti) - https://youtu.be/-xgNe_U_\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 06 (Rich Girl Accept Thief as a Husband) - https://youtu.be/xPevygDZ9yY\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 07 (King Chandrasen And his Servant Satvashil) - https://youtu.be/YCEKzLDEz-g\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 08 (Three Sensitive Brothers) - https://youtu.be/prnsz64tOxY\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 09 (The Husband, the Thief, and the Lover) - https://youtu.be/fYC_c5VE4eo\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 10 (The Prince and the Three Sensitive Sisters) - https://youtu.be/xkwwuPtTS1g\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 11 (Whom will the Princess Marry?) - https://youtu.be/z5r5np2U9yI\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 12 (Who is the Real Father) - https://youtu.be/IpYhzMecTw0\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 13 (The Giant And The Brave Boy) - https://youtu.be/0AvCkHdtGh8\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 14 (Love Is Eternal) - https://youtu.be/0jfnJPBf7p0\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 15 (The Lover of Princess Chandraprabha) - https://youtu.be/PIj5UqX-dds\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 16 (The Dilemma Of Mahamantri and King Vallabh)  - https://youtu.be/Dg__dgnw2qE\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 17 (The Unsuccessful Panance of Gunkar) - https://youtu.be/tcMDXNw5mlI\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 18 (The Story of Rajkumar and the Bird) - https://youtu.be/aqgjOt0dZ2o\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 19 (The Gambling Temptation of gopu) - https://youtu.be/9ah4nSTvtBU\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 20 (The Realization for King Anandsen) - https://youtu.be/UhKtnH4KW-w\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 21 (The Legendary love of Sukesh and Legendary Duty of King Dharmaveer) - https://youtu.be/BeEmtSdYqCI\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 22 (The Love Story of Four Princess) - https://youtu.be/t1ujiIxiZao\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 23 (The Justice Of King Satyadev) - https://youtu.be/jLcKe_XQcLk\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 24 (The Dreams of Dagdoo) - https://youtu.be/d23T7q-1gSE\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 25 (The Story of Greedy Apurva) - https://youtu.be/I7RoT3hBVwA\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 26 (The Revenge of Nagin) - https://youtu.be/MJuZjflSwbg\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\n#vikrambetal #vikrambetalepisode13 #vikrambetal13 #vikrambetalserial #vikrambetalserialallepisode  #vikrambetalpart13 #vikramaurbetal  #vikramaurbetalepisode13 #vikrambetalfull   #vikrambetalfullepisode #vikrambetalallepisode #vikramaurbetaal13 #vikrambetalserialepisode",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0AvCkHdtGh8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0AvCkHdtGh8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0AvCkHdtGh8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0AvCkHdtGh8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Raju Rathaur",
+        "playlistId": "PLTfk5dN-W6BPDwIOKbrIp3VArYCeDNOL2",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0AvCkHdtGh8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "0AvCkHdtGh8",
+        "videoPublishedAt": "2020-01-06T00:00:15Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "RrBXv8RnM8Ed30H2hTWZEBOpqgo",
+      "id": "UExUZms1ZE4tVzZCUER3SU9LYnJJcDNWQXJZQ2VETk9MMi4xOTEzQzhBQzU3MDNDNjcz",
+      "snippet": {
+        "publishedAt": "2020-04-20T18:20:21Z",
+        "channelId": "UC24MhsLlhe8S0GDYgt21CwQ",
+        "title": "Vikram Betal - Episode 14 - \"Love Is Eternal \"",
+        "description": "Vikram Betal - Episode 14 - \"Love is Eternal\"\n\nCast :-\nVijay Arora as Haridatt\nSatish Kaul as Madhusudan\nKaajal Kiran as Madhumalti\nSunil Lahri as Vaman\nMulraj Rajda as Pandit\n\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n ◆-◆-◆-◆-◆ Vikram Betal All Episodes ◆-◆-◆-◆-◆\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\nVikram Betal Episode 01 (King Vikramaditya and the Yogi/Suryamal And his Wife Bride's Dilemma) - https://youtu.be/z1Riq06aNio\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 02 (King Rupsen and his Bodyguard Virvar) - https://youtu.be/Mgyf8BxST2o\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 03 (Love Story of King Yashodhan) - https://youtu.be/huRTyo-77cs\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 04 (Three Suitors and Somprabha) - https://youtu.be/VC5_tXghqZA\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 05 (The story of Padmavati and the Prince Vajramukti) - https://youtu.be/-xgNe_U_\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 06 (Rich Girl Accept Thief as a Husband) - https://youtu.be/xPevygDZ9yY\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 07 (King Chandrasen And his Servant Satvashil) - https://youtu.be/YCEKzLDEz-g\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 08 (Three Sensitive Brothers) - https://youtu.be/prnsz64tOxY\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 09 (The Husband, the Thief, and the Lover) - https://youtu.be/fYC_c5VE4eo\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 10 (The Prince and the Three Sensitive Sisters) - https://youtu.be/xkwwuPtTS1g\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 11 (Whom will the Princess Marry?) - https://youtu.be/z5r5np2U9yI\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 12 (Who is the Real Father) - https://youtu.be/IpYhzMecTw0\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 13 (The Giant And The Brave Boy) - https://youtu.be/0AvCkHdtGh8\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 14 (Love Is Eternal) - https://youtu.be/0jfnJPBf7p0\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 15 (The Lover of Princess Chandraprabha) - https://youtu.be/PIj5UqX-dds\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 16 (The Dilemma Of Mahamantri and King Vallabh)  - https://youtu.be/Dg__dgnw2qE\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 17 (The Unsuccessful Panance of Gunkar) - https://youtu.be/tcMDXNw5mlI\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 18 (The Story of Rajkumar and the Bird) - https://youtu.be/aqgjOt0dZ2o\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 19 (The Gambling Temptation of gopu) - https://youtu.be/9ah4nSTvtBU\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 20 (The Realization for King Anandsen) - https://youtu.be/UhKtnH4KW-w\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 21 (The Legendary love of Sukesh and Legendary Duty of King Dharmaveer) - https://youtu.be/BeEmtSdYqCI\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 22 (The Love Story of Four Princess) - https://youtu.be/t1ujiIxiZao\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 23 (The Justice Of King Satyadev) - https://youtu.be/jLcKe_XQcLk\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 24 (The Dreams of Dagdoo) - https://youtu.be/d23T7q-1gSE\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 25 (The Story of Greedy Apurva) - https://youtu.be/I7RoT3hBVwA\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 26 (The Revenge of Nagin) - https://youtu.be/MJuZjflSwbg\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\n#vikrambetal #vikrambetalepisode14 #vikrambetal14 #vikrambetalserial #vikrambetalserialallepisode  #vikrambetalpart14 #vikramaurbetal  #vikramaurbetalepisode14 #vikrambetalfull   #vikrambetalfullepisode #vikrambetalallepisode #vikramaurbetaal14  #vikrambetalserialepisode",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0jfnJPBf7p0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0jfnJPBf7p0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0jfnJPBf7p0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0jfnJPBf7p0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Raju Rathaur",
+        "playlistId": "PLTfk5dN-W6BPDwIOKbrIp3VArYCeDNOL2",
         "position": 13,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "-MZuJcF14ns"
+          "videoId": "0jfnJPBf7p0"
         }
       },
       "contentDetails": {
-        "videoId": "-MZuJcF14ns",
-        "videoPublishedAt": "2020-04-07T02:30:00.000Z"
+        "videoId": "0jfnJPBf7p0",
+        "videoPublishedAt": "2020-01-06T17:30:42Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/JD2--UBtQ5RNsiBsT1byWyw5vSU\"",
-      "id": "UExvcWlnUDZmSmk3TWhZcWZMMFNZa3dBSDZDMUhQVkpCei41Mzk2QTAxMTkzNDk4MDhF",
+      "etag": "em3Ty20sFrZPARBIpN1M9H68oJY",
+      "id": "UExUZms1ZE4tVzZCUER3SU9LYnJJcDNWQXJZQ2VETk9MMi5ERkUyQTM0MzEwQjZCMTY5",
       "snippet": {
-        "publishedAt": "2020-04-13T11:42:54.000Z",
-        "channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
-        "title": "Vikram Aur Betaal ep.15",
-        "description": "a mythological seriel based on old Indian Folktales of Vikram and Betaal\nProduced and Directed by: Ramanand Sagar\nStarring: Arun Govil, Deepika and Rama Vij\nOriginal Run: Doordarshan 1987",
+        "publishedAt": "2020-05-22T06:25:08Z",
+        "channelId": "UC24MhsLlhe8S0GDYgt21CwQ",
+        "title": "Vikram Betal - Episode 15 - \"The Lover of Princess Chandraprabha\"",
+        "description": "Vikram Betal - Episode 15 - \"The Lover of Princess Chandraprabha\" \n\nCast :-\nRamesh Bhatkar as Mantri Putra\nDeepika as Princess Chandraprabha\nVijay Kavish as the Magician's Son\nLilliput as the Magician\nBabloo Mukherjee as Manu Kumar / Manu Kumari\nMulraj Rajda as the King\n\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n ◆-◆-◆-◆-◆ Vikram Betal All Episodes ◆-◆-◆-◆-◆\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\nVikram Betal Episode 01 (King Vikramaditya and the Yogi/Suryamal And his Wife Bride's Dilemma) - https://youtu.be/z1Riq06aNio\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 02 (King Rupsen and his Bodyguard Virvar) - https://youtu.be/Mgyf8BxST2o\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 03 (Love Story of King Yashodhan) - https://youtu.be/huRTyo-77cs\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 04 (Three Suitors and Somprabha) - https://youtu.be/VC5_tXghqZA\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 05 (The story of Padmavati and the Prince Vajramukti) - https://youtu.be/-xgNe_U_\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 06 (Rich Girl Accept Thief as a Husband) - https://youtu.be/xPevygDZ9yY\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 07 (King Chandrasen And his Servant Satvashil) - https://youtu.be/YCEKzLDEz-g\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 08 (Three Sensitive Brothers) - https://youtu.be/prnsz64tOxY\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 09 (The Husband, the Thief, and the Lover) - https://youtu.be/fYC_c5VE4eo\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 10 (The Prince and the Three Sensitive Sisters) - https://youtu.be/xkwwuPtTS1g\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 11 (Whom will the Princess Marry?) - https://youtu.be/z5r5np2U9yI\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 12 (Who is the Real Father) - https://youtu.be/IpYhzMecTw0\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 13 (The Giant And The Brave Boy) - https://youtu.be/0AvCkHdtGh8\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 14 (Love Is Eternal) - https://youtu.be/0jfnJPBf7p0\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 15 (The Lover of Princess Chandraprabha) - https://youtu.be/PIj5UqX-dds\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 16 (The Dilemma Of Mahamantri and King Vallabh)  - https://youtu.be/Dg__dgnw2qE\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 17 (The Unsuccessful Panance of Gunkar) - https://youtu.be/tcMDXNw5mlI\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 18 (The Story of Rajkumar and the Bird) - https://youtu.be/aqgjOt0dZ2o\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 19 (The Gambling Temptation of gopu) - https://youtu.be/9ah4nSTvtBU\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 20 (The Realization for King Anandsen) - https://youtu.be/UhKtnH4KW-w\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 21 (The Legendary love of Sukesh and Legendary Duty of King Dharmaveer) - https://youtu.be/BeEmtSdYqCI\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 22 (The Love Story of Four Princess) - https://youtu.be/t1ujiIxiZao\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 23 (The Justice Of King Satyadev) - https://youtu.be/jLcKe_XQcLk\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 24 (The Dreams of Dagdoo) - https://youtu.be/d23T7q-1gSE\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 25 (The Story of Greedy Apurva) - https://youtu.be/I7RoT3hBVwA\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 26 (The Revenge of Nagin) - https://youtu.be/MJuZjflSwbg\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\n#vikrambetal #vikrambetalepisode15 #vikrambetal15 #vikrambetalserial #vikrambetalserialallepisode  #vikrambetalpart15 #vikramaurbetal  #vikramaurbetalepisode15 #vikrambetalfull   #vikrambetalfullepisode #vikrambetalallepisode #vikramaurbetaal15   #vikrambetalserialepisode",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/HKzXEoA5l-c/default.jpg",
+            "url": "https://i.ytimg.com/vi/PIj5UqX-dds/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/HKzXEoA5l-c/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/PIj5UqX-dds/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/HKzXEoA5l-c/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/PIj5UqX-dds/hqdefault.jpg",
             "width": 480,
             "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PIj5UqX-dds/sddefault.jpg",
+            "width": 640,
+            "height": 480
           }
         },
-        "channelTitle": "look jonson",
-        "playlistId": "PLoqigP6fJi7MhYqfL0SYkwAH6C1HPVJBz",
+        "channelTitle": "Raju Rathaur",
+        "playlistId": "PLTfk5dN-W6BPDwIOKbrIp3VArYCeDNOL2",
         "position": 14,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "HKzXEoA5l-c"
+          "videoId": "PIj5UqX-dds"
         }
       },
       "contentDetails": {
-        "videoId": "HKzXEoA5l-c",
-        "videoPublishedAt": "2018-10-14T21:24:02.000Z"
+        "videoId": "PIj5UqX-dds",
+        "videoPublishedAt": "2020-01-08T19:59:40Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/UuRpUG7Jrz0jJ-SU0lR-soj6QEo\"",
-      "id": "UExvcWlnUDZmSmk3TWhZcWZMMFNZa3dBSDZDMUhQVkpCei5EQUE1NTFDRjcwMDg0NEMz",
+      "etag": "AMauZtCZiiUfrFqVrIMoQ2VKhwc",
+      "id": "UExUZms1ZE4tVzZCUER3SU9LYnJJcDNWQXJZQ2VETk9MMi4xM0YyM0RDNDE4REQ1NDA0",
       "snippet": {
-        "publishedAt": "2020-04-13T11:43:06.000Z",
-        "channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
-        "title": "Vikram Aur Betaal ep.16",
-        "description": "a mythological seriel based on old Indian Folktales of Vikram and Betaal\nProduced and Directed by: Ramanand Sagar\nStarring: Arun Govil, Deepika and Rama Vij\nOriginal Run: Doordarshan 1987",
+        "publishedAt": "2020-05-22T06:25:15Z",
+        "channelId": "UC24MhsLlhe8S0GDYgt21CwQ",
+        "title": "Vikram Betal - Episode 16 - \"The Dilemma of Mahamantri and King Vallabh\"",
+        "description": "Vikram Betal - Episode 16 - \"The Dilemma of Mahamantri and King Vallabh\"\n\nCast :-\n\nVijay Arora as King Vallabh\nRajni Bala as Mahamantri's Wife\nRamesh Bhatkar as Mahamantri\nLilliput as the Painter\nShamsuddin as Rakshas\namrita ghosh as the gandharv kanyya\n\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n ◆-◆-◆-◆-◆ Vikram Betal All Episodes ◆-◆-◆-◆-◆\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\nVikram Betal Episode 01 (King Vikramaditya and the Yogi/Suryamal And his Wife Bride's Dilemma) - https://youtu.be/z1Riq06aNio\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 02 (King Rupsen and his Bodyguard Virvar) - https://youtu.be/Mgyf8BxST2o\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 03 (Love Story of King Yashodhan) - https://youtu.be/huRTyo-77cs\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 04 (Three Suitors and Somprabha) - https://youtu.be/VC5_tXghqZA\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 05 (The story of Padmavati and the Prince Vajramukti) - https://youtu.be/-xgNe_U_\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 06 (Rich Girl Accept Thief as a Husband) - https://youtu.be/xPevygDZ9yY\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 07 (King Chandrasen And his Servant Satvashil) - https://youtu.be/YCEKzLDEz-g\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 08 (Three Sensitive Brothers) - https://youtu.be/prnsz64tOxY\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 09 (The Husband, the Thief, and the Lover) - https://youtu.be/fYC_c5VE4eo\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 10 (The Prince and the Three Sensitive Sisters) - https://youtu.be/xkwwuPtTS1g\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 11 (Whom will the Princess Marry?) - https://youtu.be/z5r5np2U9yI\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 12 (Who is the Real Father) - https://youtu.be/IpYhzMecTw0\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 13 (The Giant And The Brave Boy) - https://youtu.be/0AvCkHdtGh8\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 14 (Love Is Eternal) - https://youtu.be/0jfnJPBf7p0\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 15 (The Lover of Princess Chandraprabha) - https://youtu.be/PIj5UqX-dds\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 16 (The Dilemma Of Mahamantri and King Vallabh)  - https://youtu.be/Dg__dgnw2qE\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 17 (The Unsuccessful Panance of Gunkar) - https://youtu.be/tcMDXNw5mlI\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 18 (The Story of Rajkumar and the Bird) - https://youtu.be/aqgjOt0dZ2o\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 19 (The Gambling Temptation of gopu) - https://youtu.be/9ah4nSTvtBU\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 20 (The Realization for King Anandsen) - https://youtu.be/UhKtnH4KW-w\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 21 (The Legendary love of Sukesh and Legendary Duty of King Dharmaveer) - https://youtu.be/BeEmtSdYqCI\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 22 (The Love Story of Four Princess) - https://youtu.be/t1ujiIxiZao\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 23 (The Justice Of King Satyadev) - https://youtu.be/jLcKe_XQcLk\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 24 (The Dreams of Dagdoo) - https://youtu.be/d23T7q-1gSE\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 25 (The Story of Greedy Apurva) - https://youtu.be/I7RoT3hBVwA\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 26 (The Revenge of Nagin) - https://youtu.be/MJuZjflSwbg\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\n#vikrambetal #vikrambetalepisode16 #vikrambetal16 #vikrambetalserial #vikrambetalserialallepisode  #vikrambetalpart16 #vikramaurbetal  #vikramaurbetalepisode16 #vikrambetalfull   #vikrambetalfullepisode #vikrambetalallepisode #vikramaurbetaal16    #vikrambetalserialepisode",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/3VUN0ropgQA/default.jpg",
+            "url": "https://i.ytimg.com/vi/Dg__dgnw2qE/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/3VUN0ropgQA/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Dg__dgnw2qE/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/3VUN0ropgQA/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Dg__dgnw2qE/hqdefault.jpg",
             "width": 480,
             "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Dg__dgnw2qE/sddefault.jpg",
+            "width": 640,
+            "height": 480
           }
         },
-        "channelTitle": "look jonson",
-        "playlistId": "PLoqigP6fJi7MhYqfL0SYkwAH6C1HPVJBz",
+        "channelTitle": "Raju Rathaur",
+        "playlistId": "PLTfk5dN-W6BPDwIOKbrIp3VArYCeDNOL2",
         "position": 15,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "3VUN0ropgQA"
+          "videoId": "Dg__dgnw2qE"
         }
       },
       "contentDetails": {
-        "videoId": "3VUN0ropgQA",
-        "videoPublishedAt": "2018-10-14T21:24:36.000Z"
+        "videoId": "Dg__dgnw2qE",
+        "videoPublishedAt": "2020-01-09T18:03:26Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/tCcy9kgUw2u7kJ6vW33o5sI9oYg\"",
-      "id": "UExvcWlnUDZmSmk3TWhZcWZMMFNZa3dBSDZDMUhQVkpCei41QTY1Q0UxMTVCODczNThE",
+      "etag": "qEPaoQHHm47srGbBBBVM-6L2Mfw",
+      "id": "UExUZms1ZE4tVzZCUER3SU9LYnJJcDNWQXJZQ2VETk9MMi42MjYzMTMyQjA0QURCN0JF",
       "snippet": {
-        "publishedAt": "2020-04-13T11:43:18.000Z",
-        "channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
-        "title": "Vikram Aur Betaal ep.17",
-        "description": "a mythological seriel based on old Indian Folktales of Vikram and Betaal\nProduced and Directed by: Ramanand Sagar\nStarring: Arun Govil, Deepika and Rama Vij\nOriginal Run: Doordarshan 1987",
+        "publishedAt": "2020-05-22T06:25:20Z",
+        "channelId": "UC24MhsLlhe8S0GDYgt21CwQ",
+        "title": "Vikram Betal - Episode 17 - \"The Unsuccessful Penance of Gunkar\"",
+        "description": "Vikram Betal - Episode 17 - \"The Unsuccessful Penance of Gunkar\"\n\nCast :-\n\nRajni Bala as Gunkar's Mother\nRamesh Bhatkar as The Saint\nVijayendra Ghatge  as Gunkar\nLilliput as the Gambler\nMulraj Rajda as Gunkar's Father\nAmrita ghose as the apsara\n\n\n\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n ◆-◆-◆-◆-◆ Vikram Betal All Episodes ◆-◆-◆-◆-◆\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\nVikram Betal Episode 01 (King Vikramaditya and the Yogi/Suryamal And his Wife Bride's Dilemma) - https://youtu.be/z1Riq06aNio\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 02 (King Rupsen and his Bodyguard Virvar) - https://youtu.be/Mgyf8BxST2o\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 03 (Love Story of King Yashodhan) - https://youtu.be/huRTyo-77cs\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 04 (Three Suitors and Somprabha) - https://youtu.be/VC5_tXghqZA\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 05 (The story of Padmavati and the Prince Vajramukti) - https://youtu.be/-xgNe_U_\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 06 (Rich Girl Accept Thief as a Husband) - https://youtu.be/xPevygDZ9yY\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 07 (King Chandrasen And his Servant Satvashil) - https://youtu.be/YCEKzLDEz-g\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 08 (Three Sensitive Brothers) - https://youtu.be/prnsz64tOxY\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 09 (The Husband, the Thief, and the Lover) - https://youtu.be/fYC_c5VE4eo\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 10 (The Prince and the Three Sensitive Sisters) - https://youtu.be/xkwwuPtTS1g\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 11 (Whom will the Princess Marry?) - https://youtu.be/z5r5np2U9yI\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 12 (Who is the Real Father) - https://youtu.be/IpYhzMecTw0\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 13 (The Giant And The Brave Boy) - https://youtu.be/0AvCkHdtGh8\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 14 (Love Is Eternal) - https://youtu.be/0jfnJPBf7p0\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 15 (The Lover of Princess Chandraprabha) - https://youtu.be/PIj5UqX-dds\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 16 (The Dilemma Of Mahamantri and King Vallabh)  - https://youtu.be/Dg__dgnw2qE\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 17 (The Unsuccessful Panance of Gunkar) - https://youtu.be/tcMDXNw5mlI\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 18 (The Story of Rajkumar and the Bird) - https://youtu.be/aqgjOt0dZ2o\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 19 (The Gambling Temptation of gopu) - https://youtu.be/9ah4nSTvtBU\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 20 (The Realization for King Anandsen) - https://youtu.be/UhKtnH4KW-w\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 21 (The Legendary love of Sukesh and Legendary Duty of King Dharmaveer) - https://youtu.be/BeEmtSdYqCI\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 22 (The Love Story of Four Princess) - https://youtu.be/t1ujiIxiZao\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 23 (The Justice Of King Satyadev) - https://youtu.be/jLcKe_XQcLk\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 24 (The Dreams of Dagdoo) - https://youtu.be/d23T7q-1gSE\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 25 (The Story of Greedy Apurva) - https://youtu.be/I7RoT3hBVwA\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 26 (The Revenge of Nagin) - https://youtu.be/MJuZjflSwbg\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\n\n#vikrambetal #vikrambetalepisode17 #vikrambetal17 #vikrambetalserial #vikrambetalserialallepisode  #vikrambetalpart17 #vikramaurbetal  #vikramaurbetalepisode17 #vikrambetalfull   #vikrambetalfullepisode #vikrambetalallepisode #vikramaurbetaal17     #vikrambetalserialepisode",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/G-bX6-Y7caM/default.jpg",
+            "url": "https://i.ytimg.com/vi/tcMDXNw5mlI/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/G-bX6-Y7caM/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/tcMDXNw5mlI/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/G-bX6-Y7caM/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/tcMDXNw5mlI/hqdefault.jpg",
             "width": 480,
             "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tcMDXNw5mlI/sddefault.jpg",
+            "width": 640,
+            "height": 480
           }
         },
-        "channelTitle": "look jonson",
-        "playlistId": "PLoqigP6fJi7MhYqfL0SYkwAH6C1HPVJBz",
+        "channelTitle": "Raju Rathaur",
+        "playlistId": "PLTfk5dN-W6BPDwIOKbrIp3VArYCeDNOL2",
         "position": 16,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "G-bX6-Y7caM"
+          "videoId": "tcMDXNw5mlI"
         }
       },
       "contentDetails": {
-        "videoId": "G-bX6-Y7caM",
-        "videoPublishedAt": "2018-10-14T21:25:57.000Z"
+        "videoId": "tcMDXNw5mlI",
+        "videoPublishedAt": "2020-01-10T17:17:43Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/2OLHaAeX59so6hjnxVNHyvrFEEY\"",
-      "id": "UExvcWlnUDZmSmk3TWhZcWZMMFNZa3dBSDZDMUhQVkpCei4yMUQyQTQzMjRDNzMyQTMy",
+      "etag": "lulbdmI2aYxtjNQ1tC3i2oZOK2M",
+      "id": "UExUZms1ZE4tVzZCUER3SU9LYnJJcDNWQXJZQ2VETk9MMi40MDNEMzA0QTBFRThFMzBE",
       "snippet": {
-        "publishedAt": "2020-04-13T11:43:28.000Z",
-        "channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
-        "title": "Vikram Aur Betaal ep.18",
-        "description": "a mythological seriel based on old Indian Folktales of Vikram and Betaal\nProduced and Directed by: Ramanand Sagar\nStarring: Arun Govil, Deepika and Rama Vij\nOriginal Run: Doordarshan 1987",
+        "publishedAt": "2020-05-22T06:25:26Z",
+        "channelId": "UC24MhsLlhe8S0GDYgt21CwQ",
+        "title": "Vikram Betal - Episode 18 - \"The Story of Rajkumar and the Bird\"",
+        "description": "Vikram Betal - Episode 18 - \"The story of Rajkumar and the Bird\"\n\nCast :-\nSunil Lahri as Rajkumar Jimutvahan\nLilliput as The Thief\n\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n ◆-◆-◆-◆-◆ Vikram Betal All Episodes ◆-◆-◆-◆-◆\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\nVikram Betal Episode 01 (King Vikramaditya and the Yogi/Suryamal And his Wife Bride's Dilemma) - https://youtu.be/z1Riq06aNio\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 02 (King Rupsen and his Bodyguard Virvar) - https://youtu.be/Mgyf8BxST2o\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 03 (Love Story of King Yashodhan) - https://youtu.be/huRTyo-77cs\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 04 (Three Suitors and Somprabha) - https://youtu.be/VC5_tXghqZA\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 05 (The story of Padmavati and the Prince Vajramukti) - https://youtu.be/-xgNe_U_\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 06 (Rich Girl Accept Thief as a Husband) - https://youtu.be/xPevygDZ9yY\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 07 (King Chandrasen And his Servant Satvashil) - https://youtu.be/YCEKzLDEz-g\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 08 (Three Sensitive Brothers) - https://youtu.be/prnsz64tOxY\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 09 (The Husband, the Thief, and the Lover) - https://youtu.be/fYC_c5VE4eo\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 10 (The Prince and the Three Sensitive Sisters) - https://youtu.be/xkwwuPtTS1g\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 11 (Whom will the Princess Marry?) - https://youtu.be/z5r5np2U9yI\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 12 (Who is the Real Father) - https://youtu.be/IpYhzMecTw0\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 13 (The Giant And The Brave Boy) - https://youtu.be/0AvCkHdtGh8\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 14 (Love Is Eternal) - https://youtu.be/0jfnJPBf7p0\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 15 (The Lover of Princess Chandraprabha) - https://youtu.be/PIj5UqX-dds\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 16 (The Dilemma Of Mahamantri and King Vallabh)  - https://youtu.be/Dg__dgnw2qE\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 17 (The Unsuccessful Panance of Gunkar) - https://youtu.be/tcMDXNw5mlI\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 18 (The Story of Rajkumar and the Bird) - https://youtu.be/aqgjOt0dZ2o\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 19 (The Gambling Temptation of gopu) - https://youtu.be/9ah4nSTvtBU\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 20 (The Realization for King Anandsen) - https://youtu.be/UhKtnH4KW-w\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 21 (The Legendary love of Sukesh and Legendary Duty of King Dharmaveer) - https://youtu.be/BeEmtSdYqCI\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 22 (The Love Story of Four Princess) - https://youtu.be/t1ujiIxiZao\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 23 (The Justice Of King Satyadev) - https://youtu.be/jLcKe_XQcLk\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 24 (The Dreams of Dagdoo) - https://youtu.be/d23T7q-1gSE\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 25 (The Story of Greedy Apurva) - https://youtu.be/I7RoT3hBVwA\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 26 (The Revenge of Nagin) - https://youtu.be/MJuZjflSwbg\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\n#vikrambetal #vikrambetalepisode18 #vikrambetal18 #vikrambetalserial #vikrambetalserialallepisode  #vikrambetalpart18 #vikramaurbetal  #vikramaurbetalepisode18 #vikrambetalfull   #vikrambetalfullepisode #vikrambetalallepisode #vikramaurbetaal18    #vikrambetalserialepisode",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/I-o4qxmQ5wY/default.jpg",
+            "url": "https://i.ytimg.com/vi/aqgjOt0dZ2o/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/I-o4qxmQ5wY/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/aqgjOt0dZ2o/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/I-o4qxmQ5wY/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/aqgjOt0dZ2o/hqdefault.jpg",
             "width": 480,
             "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aqgjOt0dZ2o/sddefault.jpg",
+            "width": 640,
+            "height": 480
           }
         },
-        "channelTitle": "look jonson",
-        "playlistId": "PLoqigP6fJi7MhYqfL0SYkwAH6C1HPVJBz",
+        "channelTitle": "Raju Rathaur",
+        "playlistId": "PLTfk5dN-W6BPDwIOKbrIp3VArYCeDNOL2",
         "position": 17,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "I-o4qxmQ5wY"
+          "videoId": "aqgjOt0dZ2o"
         }
       },
       "contentDetails": {
-        "videoId": "I-o4qxmQ5wY",
-        "videoPublishedAt": "2018-10-14T21:29:23.000Z"
+        "videoId": "aqgjOt0dZ2o",
+        "videoPublishedAt": "2020-01-10T22:15:37Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/94o3s3-Bj6EdTga3T6UNUeaNXgw\"",
-      "id": "UExvcWlnUDZmSmk3TWhZcWZMMFNZa3dBSDZDMUhQVkpCei45RTgxNDRBMzUwRjQ0MDhC",
+      "etag": "RZMeO2AMLz1VSxohlCVH4zFz_m0",
+      "id": "UExUZms1ZE4tVzZCUER3SU9LYnJJcDNWQXJZQ2VETk9MMi42RTNCOEMxREI3Q0VDMjU2",
       "snippet": {
-        "publishedAt": "2020-04-13T11:43:46.000Z",
-        "channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
-        "title": "Vikram Aur Betaal ep.19",
-        "description": "a mythological seriel based on old Indian Folktales of Vikram and Betaal\nProduced and Directed by: Ramanand Sagar\nStarring: Arun Govil, Deepika and Rama Vij\nOriginal Run: Doordarshan 1987",
+        "publishedAt": "2020-05-22T06:25:31Z",
+        "channelId": "UC24MhsLlhe8S0GDYgt21CwQ",
+        "title": "Vikram Betal - Episode 19 - \"The Gambling Temptation of Gopu\"",
+        "description": "Vikram Betal - Episode 19 - \"Gambling Temptation of Gopu\"\n\nCast :-\nRamesh Bhatkar as Gopu\nDeepika as Ratna\nLilliput as the Gambler\nMulraj Rajda as Ratna's Father\n\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n ◆-◆-◆-◆-◆ Vikram Betal All Episodes ◆-◆-◆-◆-◆\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\nVikram Betal Episode 01 (King Vikramaditya and the Yogi/Suryamal And his Wife Bride's Dilemma) - https://youtu.be/z1Riq06aNio\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 02 (King Rupsen and his Bodyguard Virvar) - https://youtu.be/Mgyf8BxST2o\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 03 (Love Story of King Yashodhan) - https://youtu.be/huRTyo-77cs\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 04 (Three Suitors and Somprabha) - https://youtu.be/VC5_tXghqZA\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 05 (The story of Padmavati and the Prince Vajramukti) - https://youtu.be/-xgNe_U_\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 06 (Rich Girl Accept Thief as a Husband) - https://youtu.be/xPevygDZ9yY\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 07 (King Chandrasen And his Servant Satvashil) - https://youtu.be/YCEKzLDEz-g\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 08 (Three Sensitive Brothers) - https://youtu.be/prnsz64tOxY\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 09 (The Husband, the Thief, and the Lover) - https://youtu.be/fYC_c5VE4eo\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 10 (The Prince and the Three Sensitive Sisters) - https://youtu.be/xkwwuPtTS1g\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 11 (Whom will the Princess Marry?) - https://youtu.be/z5r5np2U9yI\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 12 (Who is the Real Father) - https://youtu.be/IpYhzMecTw0\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 13 (The Giant And The Brave Boy) - https://youtu.be/0AvCkHdtGh8\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 14 (Love Is Eternal) - https://youtu.be/0jfnJPBf7p0\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 15 (The Lover of Princess Chandraprabha) - https://youtu.be/PIj5UqX-dds\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 16 (The Dilemma Of Mahamantri and King Vallabh)  - https://youtu.be/Dg__dgnw2qE\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 17 (The Unsuccessful Panance of Gunkar) - https://youtu.be/tcMDXNw5mlI\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 18 (The Story of Rajkumar and the Bird) - https://youtu.be/aqgjOt0dZ2o\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 19 (The Gambling Temptation of gopu) - https://youtu.be/9ah4nSTvtBU\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 20 (The Realization for King Anandsen) - https://youtu.be/UhKtnH4KW-w\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 21 (The Legendary love of Sukesh and Legendary Duty of King Dharmaveer) - https://youtu.be/BeEmtSdYqCI\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 22 (The Love Story of Four Princess) - https://youtu.be/t1ujiIxiZao\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 23 (The Justice Of King Satyadev) - https://youtu.be/jLcKe_XQcLk\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 24 (The Dreams of Dagdoo) - https://youtu.be/d23T7q-1gSE\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 25 (The Story of Greedy Apurva) - https://youtu.be/I7RoT3hBVwA\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 26 (The Revenge of Nagin) - https://youtu.be/MJuZjflSwbg\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\n#vikrambetal #vikrambetalepisode19 #vikrambetal19 #vikrambetalserial #vikrambetalserialallepisode  #vikrambetalpart19 #vikramaurbetal  #vikramaurbetalepisode19 #vikrambetalfull   #vikrambetalfullepisode #vikrambetalallepisode #vikramaurbetaal19    #vikrambetalserialepisode #vikrambetalepisode",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/yED-1k9ePgQ/default.jpg",
+            "url": "https://i.ytimg.com/vi/9ah4nSTvtBU/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/yED-1k9ePgQ/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/9ah4nSTvtBU/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/yED-1k9ePgQ/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/9ah4nSTvtBU/hqdefault.jpg",
             "width": 480,
             "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9ah4nSTvtBU/sddefault.jpg",
+            "width": 640,
+            "height": 480
           }
         },
-        "channelTitle": "look jonson",
-        "playlistId": "PLoqigP6fJi7MhYqfL0SYkwAH6C1HPVJBz",
+        "channelTitle": "Raju Rathaur",
+        "playlistId": "PLTfk5dN-W6BPDwIOKbrIp3VArYCeDNOL2",
         "position": 18,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "yED-1k9ePgQ"
+          "videoId": "9ah4nSTvtBU"
         }
       },
       "contentDetails": {
-        "videoId": "yED-1k9ePgQ",
-        "videoPublishedAt": "2018-10-14T21:28:44.000Z"
+        "videoId": "9ah4nSTvtBU",
+        "videoPublishedAt": "2020-01-11T21:10:18Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/ej7Rsb45Dt7_iRI44pmzq_HF9bM\"",
-      "id": "UExvcWlnUDZmSmk3TWhZcWZMMFNZa3dBSDZDMUhQVkpCei5ENDU4Q0M4RDExNzM1Mjcy",
+      "etag": "GiDSdv41Zabh3GJWCbPxWvFV5VI",
+      "id": "UExUZms1ZE4tVzZCUER3SU9LYnJJcDNWQXJZQ2VETk9MMi43QzNCNkZENzIyMDY2MjZB",
       "snippet": {
-        "publishedAt": "2020-04-13T11:43:56.000Z",
-        "channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
-        "title": "Vikram Aur Betaal ep.20",
-        "description": "a mythological seriel based on old Indian Folktales of Vikram and Betaal\nProduced and Directed by: Ramanand Sagar\nStarring: Arun Govil, Deepika and Rama Vij\nOriginal Run: Doordarshan 1987",
+        "publishedAt": "2020-05-22T06:25:37Z",
+        "channelId": "UC24MhsLlhe8S0GDYgt21CwQ",
+        "title": "Vikram Betal - Episode 20 - \"The Realization For Prince Anandsen\"",
+        "description": "Vikram Betal - Episode 20 - \"The Realization For Prince Anandsen\"\n\nCast :-\nRamesh Bhatkar as Haribaba\nDeepika as Princess Roopvati\nSatish Kaul as Yuvraj Anandsen\nMulraj Rajda as Raja Dharamveer\n\nसवाल :- बता विक्रम, राजकुमार आनंदसेन बिना राजकुमारी रूपवती को साथ लिए अकेला क्यों वापस चला गया?\n\nजवाब :- बहोत गहरी बात सोची थी आनंदसेन ने, जब उसे हरिबाबा से पता लगा की एकबार उस जवान घोड़े की परनानी पानी से डर गयी थी, उसकी नानी, उसकी माँ और अब वो खुद भी पानी से डरता है तो उसका माथा ठनका, की आज किसी की बेटी अपने माँ बाप की परवाह किये बगैर आज उसके साथ भाग रही है, कल को अगर उसके खुद की अपनी बेटी अपने प्रेमी के साथ भागेगी तो उसका क्या हाल होगा।\n\nबस, यही बात सोच में आते ही आनंदसेन ने राजा धरमवीर की इज़्ज़त और सन्मान में बिना कोई आंच लगाये वापस चला गया।\n\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n ◆-◆-◆-◆-◆ Vikram Betal All Episodes ◆-◆-◆-◆-◆\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\nVikram Betal Episode 01 (King Vikramaditya and the Yogi/Suryamal And his Wife Bride's Dilemma) - https://youtu.be/z1Riq06aNio\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 02 (King Rupsen and his Bodyguard Virvar) - https://youtu.be/Mgyf8BxST2o\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 03 (Love Story of King Yashodhan) - https://youtu.be/huRTyo-77cs\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 04 (Three Suitors and Somprabha) - https://youtu.be/VC5_tXghqZA\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 05 (The story of Padmavati and the Prince Vajramukti) - https://youtu.be/-xgNe_U_\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 06 (Rich Girl Accept Thief as a Husband) - https://youtu.be/xPevygDZ9yY\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 07 (King Chandrasen And his Servant Satvashil) - https://youtu.be/YCEKzLDEz-g\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 08 (Three Sensitive Brothers) - https://youtu.be/prnsz64tOxY\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 09 (The Husband, the Thief, and the Lover) - https://youtu.be/fYC_c5VE4eo\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 10 (The Prince and the Three Sensitive Sisters) - https://youtu.be/xkwwuPtTS1g\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 11 (Whom will the Princess Marry?) - https://youtu.be/z5r5np2U9yI\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 12 (Who is the Real Father) - https://youtu.be/IpYhzMecTw0\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 13 (The Giant And The Brave Boy) - https://youtu.be/0AvCkHdtGh8\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 14 (Love Is Eternal) - https://youtu.be/0jfnJPBf7p0\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 15 (The Lover of Princess Chandraprabha) - https://youtu.be/PIj5UqX-dds\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 16 (The Dilemma Of Mahamantri and King Vallabh)  - https://youtu.be/Dg__dgnw2qE\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 17 (The Unsuccessful Panance of Gunkar) - https://youtu.be/tcMDXNw5mlI\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 18 (The Story of Rajkumar and the Bird) - https://youtu.be/aqgjOt0dZ2o\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 19 (The Gambling Temptation of gopu) - https://youtu.be/9ah4nSTvtBU\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 20 (The Realization for King Anandsen) - https://youtu.be/UhKtnH4KW-w\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 21 (The Legendary love of Sukesh and Legendary Duty of King Dharmaveer) - https://youtu.be/BeEmtSdYqCI\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 22 (The Love Story of Four Princess) - https://youtu.be/t1ujiIxiZao\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 23 (The Justice Of King Satyadev) - https://youtu.be/jLcKe_XQcLk\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 24 (The Dreams of Dagdoo) - https://youtu.be/d23T7q-1gSE\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 25 (The Story of Greedy Apurva) - https://youtu.be/I7RoT3hBVwA\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 26 (The Revenge of Nagin) - https://youtu.be/MJuZjflSwbg\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\n#vikrambetal #vikrambetalepisode20 #vikrambetal20 #vikrambetalserial #vikrambetalserialallepisode  #vikrambetalpart20 #vikramaurbetal  #vikramaurbetalepisode20 #vikrambetalfull   #vikrambetalfullepisode #vikrambetalallepisode #vikramaurbetaal20     #vikrambetalserialepisode #vikrambetaal",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/lmELMg3eNjo/default.jpg",
+            "url": "https://i.ytimg.com/vi/UhKtnH4KW-w/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/lmELMg3eNjo/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/UhKtnH4KW-w/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/lmELMg3eNjo/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/UhKtnH4KW-w/hqdefault.jpg",
             "width": 480,
             "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UhKtnH4KW-w/sddefault.jpg",
+            "width": 640,
+            "height": 480
           }
         },
-        "channelTitle": "look jonson",
-        "playlistId": "PLoqigP6fJi7MhYqfL0SYkwAH6C1HPVJBz",
+        "channelTitle": "Raju Rathaur",
+        "playlistId": "PLTfk5dN-W6BPDwIOKbrIp3VArYCeDNOL2",
         "position": 19,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "lmELMg3eNjo"
+          "videoId": "UhKtnH4KW-w"
         }
       },
       "contentDetails": {
-        "videoId": "lmELMg3eNjo",
-        "videoPublishedAt": "2018-10-14T21:30:25.000Z"
+        "videoId": "UhKtnH4KW-w",
+        "videoPublishedAt": "2020-01-12T00:04:08Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/rzoPBenhBJWqmbHVrInK5L15LGE\"",
-      "id": "UExvcWlnUDZmSmk3TWhZcWZMMFNZa3dBSDZDMUhQVkpCei4yMDhBMkNBNjRDMjQxQTg1",
+      "etag": "fOhlDigWcftz3_dtFNlI4JF85U4",
+      "id": "UExUZms1ZE4tVzZCUER3SU9LYnJJcDNWQXJZQ2VETk9MMi5EQkE3RTJCQTJEQkFBQTcz",
       "snippet": {
-        "publishedAt": "2020-04-13T11:44:05.000Z",
-        "channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
-        "title": "Vikram Aur Betaal ep.21",
-        "description": "a mythological seriel based on old Indian Folktales of Vikram and Betaal\nProduced and Directed by: Ramanand Sagar\nStarring: Arun Govil, Deepika and Rama Vij\nOriginal Run: Doordarshan 1987",
+        "publishedAt": "2020-05-22T06:25:45Z",
+        "channelId": "UC24MhsLlhe8S0GDYgt21CwQ",
+        "title": "Vikram Betal - Episode 21 - \"The Legendary Love of Sukesh and Legendary Duty of King Dharamveer\"",
+        "description": "Vikram Betal - Episode 21 - \"The Legendary love of Sukesh and Legendary Duty of King Dharamveer\"\n\nCast :-\nVijay Arora as  King Dharamveer\nRajni Bala as Pari\nSuraj Chaddha as Sukesh\nAnil Chaudhary as Mantri\nDeepika Chikhalia  as Nandini\nVijay Kavish as Divya Atma\nLilliput as Jadoogar Abhijeet\nVilas Raj as Pradhan Mantri\nMulraj Rajda as Yashwant Dubey\nVikram Sahu as Nagar Seth\n\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n ◆-◆-◆-◆-◆ Vikram Betal All Episodes ◆-◆-◆-◆-◆\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\nVikram Betal Episode 01 (King Vikramaditya and the Yogi/Suryamal And his Wife Bride's Dilemma) - https://youtu.be/z1Riq06aNio\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 02 (King Rupsen and his Bodyguard Virvar) - https://youtu.be/Mgyf8BxST2o\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 03 (Love Story of King Yashodhan) - https://youtu.be/huRTyo-77cs\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 04 (Three Suitors and Somprabha) - https://youtu.be/VC5_tXghqZA\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 05 (The story of Padmavati and the Prince Vajramukti) - https://youtu.be/-xgNe_U_\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 06 (Rich Girl Accept Thief as a Husband) - https://youtu.be/xPevygDZ9yY\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 07 (King Chandrasen And his Servant Satvashil) - https://youtu.be/YCEKzLDEz-g\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 08 (Three Sensitive Brothers) - https://youtu.be/prnsz64tOxY\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 09 (The Husband, the Thief, and the Lover) - https://youtu.be/fYC_c5VE4eo\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 10 (The Prince and the Three Sensitive Sisters) - https://youtu.be/xkwwuPtTS1g\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 11 (Whom will the Princess Marry?) - https://youtu.be/z5r5np2U9yI\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 12 (Who is the Real Father) - https://youtu.be/IpYhzMecTw0\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 13 (The Giant And The Brave Boy) - https://youtu.be/0AvCkHdtGh8\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 14 (Love Is Eternal) - https://youtu.be/0jfnJPBf7p0\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 15 (The Lover of Princess Chandraprabha) - https://youtu.be/PIj5UqX-dds\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 16 (The Dilemma Of Mahamantri and King Vallabh)  - https://youtu.be/Dg__dgnw2qE\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 17 (The Unsuccessful Panance of Gunkar) - https://youtu.be/tcMDXNw5mlI\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 18 (The Story of Rajkumar and the Bird) - https://youtu.be/aqgjOt0dZ2o\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 19 (The Gambling Temptation of gopu) - https://youtu.be/9ah4nSTvtBU\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 20 (The Realization for King Anandsen) - https://youtu.be/UhKtnH4KW-w\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 21 (The Legendary love of Sukesh and Legendary Duty of King Dharmaveer) - https://youtu.be/BeEmtSdYqCI\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 22 (The Love Story of Four Princess) - https://youtu.be/t1ujiIxiZao\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 23 (The Justice Of King Satyadev) - https://youtu.be/jLcKe_XQcLk\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 24 (The Dreams of Dagdoo) - https://youtu.be/d23T7q-1gSE\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 25 (The Story of Greedy Apurva) - https://youtu.be/I7RoT3hBVwA\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 26 (The Revenge of Nagin) - https://youtu.be/MJuZjflSwbg\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\n#vikrambetal #vikrambetalepisode21 #vikrambetal21 #vikrambetalserial #vikrambetalserialallepisode  #vikrambetalpart21 #vikramaurbetal  #vikramaurbetalepisode21 #vikrambetalfull   #vikrambetalfullepisode #vikrambetalallepisode #vikramaurbetaal21     #vikrambetalserialepisode #vikrambetaal",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/rDF9F48I73I/default.jpg",
+            "url": "https://i.ytimg.com/vi/BeEmtSdYqCI/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/rDF9F48I73I/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/BeEmtSdYqCI/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/rDF9F48I73I/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/BeEmtSdYqCI/hqdefault.jpg",
             "width": 480,
             "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BeEmtSdYqCI/sddefault.jpg",
+            "width": 640,
+            "height": 480
           }
         },
-        "channelTitle": "look jonson",
-        "playlistId": "PLoqigP6fJi7MhYqfL0SYkwAH6C1HPVJBz",
+        "channelTitle": "Raju Rathaur",
+        "playlistId": "PLTfk5dN-W6BPDwIOKbrIp3VArYCeDNOL2",
         "position": 20,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "rDF9F48I73I"
+          "videoId": "BeEmtSdYqCI"
         }
       },
       "contentDetails": {
-        "videoId": "rDF9F48I73I",
-        "videoPublishedAt": "2018-10-14T21:32:49.000Z"
+        "videoId": "BeEmtSdYqCI",
+        "videoPublishedAt": "2020-01-12T13:19:48Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/TXAD7FwNuqkoJGTG4cLL-FqtIJQ\"",
-      "id": "UExvcWlnUDZmSmk3TWhZcWZMMFNZa3dBSDZDMUhQVkpCei5GM0Q3M0MzMzY5NTJFNTdE",
+      "etag": "yNWxPZTSIqep6kRjId-IPoXGvnM",
+      "id": "UExUZms1ZE4tVzZCUER3SU9LYnJJcDNWQXJZQ2VETk9MMi4yQzk4QTA5QjkzMTFFOEI1",
       "snippet": {
-        "publishedAt": "2020-04-13T11:44:18.000Z",
-        "channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
-        "title": "Vikram Aur Betaal ep.22",
-        "description": "a mythological seriel based on old Indian Folktales of Vikram and Betaal\nProduced and Directed by: Ramanand Sagar\nStarring: Arun Govil, Deepika and Rama Vij\nOriginal Run: Doordarshan 1987",
+        "publishedAt": "2020-05-22T06:25:51Z",
+        "channelId": "UC24MhsLlhe8S0GDYgt21CwQ",
+        "title": "Vikram Betal - Episode 22 - \"The Love Story of Four Princes\"",
+        "description": "Vikram Betal - Episode 22 - \"The Love Story of Four Princess\"\n\nCast :-\nVijay Arora as Prince Govind\nRamesh Bhatkar as Prince Amar\nDeepika as Rajkumari\nSatish Kaul as Prince Ajay\nVijay Kavish as Chamatkari Yogi\nSunil Lahri as Prince Vijay\nLilliput as Rakshas\nVilas Raj as Vaidya\nMulraj Rajda as Rajah\n\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n ◆-◆-◆-◆-◆ Vikram Betal All Episodes ◆-◆-◆-◆-◆\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\nVikram Betal Episode 01 (King Vikramaditya and the Yogi/Suryamal And his Wife Bride's Dilemma) - https://youtu.be/z1Riq06aNio\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 02 (King Rupsen and his Bodyguard Virvar) - https://youtu.be/Mgyf8BxST2o\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 03 (Love Story of King Yashodhan) - https://youtu.be/huRTyo-77cs\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 04 (Three Suitors and Somprabha) - https://youtu.be/VC5_tXghqZA\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 05 (The story of Padmavati and the Prince Vajramukti) - https://youtu.be/-xgNe_U_\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 06 (Rich Girl Accept Thief as a Husband) - https://youtu.be/xPevygDZ9yY\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 07 (King Chandrasen And his Servant Satvashil) - https://youtu.be/YCEKzLDEz-g\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 08 (Three Sensitive Brothers) - https://youtu.be/prnsz64tOxY\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 09 (The Husband, the Thief, and the Lover) - https://youtu.be/fYC_c5VE4eo\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 10 (The Prince and the Three Sensitive Sisters) - https://youtu.be/xkwwuPtTS1g\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 11 (Whom will the Princess Marry?) - https://youtu.be/z5r5np2U9yI\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 12 (Who is the Real Father) - https://youtu.be/IpYhzMecTw0\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 13 (The Giant And The Brave Boy) - https://youtu.be/0AvCkHdtGh8\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 14 (Love Is Eternal) - https://youtu.be/0jfnJPBf7p0\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 15 (The Lover of Princess Chandraprabha) - https://youtu.be/PIj5UqX-dds\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 16 (The Dilemma Of Mahamantri and King Vallabh)  - https://youtu.be/Dg__dgnw2qE\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 17 (The Unsuccessful Panance of Gunkar) - https://youtu.be/tcMDXNw5mlI\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 18 (The Story of Rajkumar and the Bird) - https://youtu.be/aqgjOt0dZ2o\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 19 (The Gambling Temptation of gopu) - https://youtu.be/9ah4nSTvtBU\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 20 (The Realization for King Anandsen) - https://youtu.be/UhKtnH4KW-w\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 21 (The Legendary love of Sukesh and Legendary Duty of King Dharmaveer) - https://youtu.be/BeEmtSdYqCI\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 22 (The Love Story of Four Princess) - https://youtu.be/t1ujiIxiZao\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 23 (The Justice Of King Satyadev) - https://youtu.be/jLcKe_XQcLk\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 24 (The Dreams of Dagdoo) - https://youtu.be/d23T7q-1gSE\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 25 (The Story of Greedy Apurva) - https://youtu.be/I7RoT3hBVwA\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 26 (The Revenge of Nagin) - https://youtu.be/MJuZjflSwbg\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\n#vikrambetal #vikrambetalepisode22 #vikrambetal22 #vikrambetalserial #vikrambetalserialallepisode  #vikrambetalpart22 #vikramaurbetal  #vikramaurbetalepisode22 #vikrambetalfull   #vikrambetalfullepisode #vikrambetalallepisode #vikramaurbetaal22    #vikrambetalserialepisode #vikrambetaal",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/jI4isytQbzE/default.jpg",
+            "url": "https://i.ytimg.com/vi/t1ujiIxiZao/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/jI4isytQbzE/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/t1ujiIxiZao/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/jI4isytQbzE/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/t1ujiIxiZao/hqdefault.jpg",
             "width": 480,
             "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/t1ujiIxiZao/sddefault.jpg",
+            "width": 640,
+            "height": 480
           }
         },
-        "channelTitle": "look jonson",
-        "playlistId": "PLoqigP6fJi7MhYqfL0SYkwAH6C1HPVJBz",
+        "channelTitle": "Raju Rathaur",
+        "playlistId": "PLTfk5dN-W6BPDwIOKbrIp3VArYCeDNOL2",
         "position": 21,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "jI4isytQbzE"
+          "videoId": "t1ujiIxiZao"
         }
       },
       "contentDetails": {
-        "videoId": "jI4isytQbzE",
-        "videoPublishedAt": "2018-10-14T21:33:04.000Z"
+        "videoId": "t1ujiIxiZao",
+        "videoPublishedAt": "2020-01-12T14:55:13Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/N9K4D8YxoUcAt_v_eSW4ddmcIyc\"",
-      "id": "UExvcWlnUDZmSmk3TWhZcWZMMFNZa3dBSDZDMUhQVkpCei4zRjM0MkVCRTg0MkYyQTM0",
+      "etag": "c49npFBB8vR5E_eD2CseE2Oc8XA",
+      "id": "UExUZms1ZE4tVzZCUER3SU9LYnJJcDNWQXJZQ2VETk9MMi45NDlDQUFFOThDMTAxQjUw",
       "snippet": {
-        "publishedAt": "2020-04-13T11:44:24.000Z",
-        "channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
-        "title": "Vikram Aur Betaal ep.23",
-        "description": "a mythological seriel based on old Indian Folktales of Vikram and Betaal\nProduced and Directed by: Ramanand Sagar\nStarring: Arun Govil, Deepika and Rama Vij\nOriginal Run: Doordarshan 1987",
+        "publishedAt": "2020-05-22T06:26:00Z",
+        "channelId": "UC24MhsLlhe8S0GDYgt21CwQ",
+        "title": "Vikram Betal - Episode 23 - \"The Justice of King Satyadev\"",
+        "description": "Vikram Betal - Episode 23 - \"The Justice of King Satyadev\"\n\nCast :-\nVijay Arora as Kavi Haribhat\nRamesh Bhatkar as Kaliya\nBandini Mishra as Rajkumari Priyavanda\nMulraj Rajda as Raja Satyadev\nHari Shukla as Raja Dharamdev\n\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n ◆-◆-◆-◆-◆ Vikram Betal All Episodes ◆-◆-◆-◆-◆\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\nVikram Betal Episode 01 (King Vikramaditya and the Yogi/Suryamal And his Wife Bride's Dilemma) - https://youtu.be/z1Riq06aNio\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 02 (King Rupsen and his Bodyguard Virvar) - https://youtu.be/Mgyf8BxST2o\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 03 (Love Story of King Yashodhan) - https://youtu.be/huRTyo-77cs\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 04 (Three Suitors and Somprabha) - https://youtu.be/VC5_tXghqZA\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 05 (The story of Padmavati and the Prince Vajramukti) - https://youtu.be/-xgNe_U_\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 06 (Rich Girl Accept Thief as a Husband) - https://youtu.be/xPevygDZ9yY\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 07 (King Chandrasen And his Servant Satvashil) - https://youtu.be/YCEKzLDEz-g\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 08 (Three Sensitive Brothers) - https://youtu.be/prnsz64tOxY\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 09 (The Husband, the Thief, and the Lover) - https://youtu.be/fYC_c5VE4eo\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 10 (The Prince and the Three Sensitive Sisters) - https://youtu.be/xkwwuPtTS1g\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 11 (Whom will the Princess Marry?) - https://youtu.be/z5r5np2U9yI\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 12 (Who is the Real Father) - https://youtu.be/IpYhzMecTw0\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 13 (The Giant And The Brave Boy) - https://youtu.be/0AvCkHdtGh8\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 14 (Love Is Eternal) - https://youtu.be/0jfnJPBf7p0\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 15 (The Lover of Princess Chandraprabha) - https://youtu.be/PIj5UqX-dds\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 16 (The Dilemma Of Mahamantri and King Vallabh)  - https://youtu.be/Dg__dgnw2qE\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 17 (The Unsuccessful Panance of Gunkar) - https://youtu.be/tcMDXNw5mlI\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 18 (The Story of Rajkumar and the Bird) - https://youtu.be/aqgjOt0dZ2o\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 19 (The Gambling Temptation of gopu) - https://youtu.be/9ah4nSTvtBU\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 20 (The Realization for King Anandsen) - https://youtu.be/UhKtnH4KW-w\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 21 (The Legendary love of Sukesh and Legendary Duty of King Dharmaveer) - https://youtu.be/BeEmtSdYqCI\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 22 (The Love Story of Four Princess) - https://youtu.be/t1ujiIxiZao\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 23 (The Justice Of King Satyadev) - https://youtu.be/jLcKe_XQcLk\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 24 (The Dreams of Dagdoo) - https://youtu.be/d23T7q-1gSE\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 25 (The Story of Greedy Apurva) - https://youtu.be/I7RoT3hBVwA\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 26 (The Revenge of Nagin) - https://youtu.be/MJuZjflSwbg\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\n#vikrambetal #vikrambetalepisode23 #vikrambetal23 #vikrambetalserial #vikrambetalserialallepisode  #vikrambetalpart23 #vikramaurbetal  #vikramaurbetalepisode23 #vikrambetalfull   #vikrambetalfullepisode #vikrambetalallepisode #vikramaurbetaal23     #vikrambetalserialepisode #vikrambetaal",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/3qEys6z2mrY/default.jpg",
+            "url": "https://i.ytimg.com/vi/jLcKe_XQcLk/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/3qEys6z2mrY/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/jLcKe_XQcLk/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/3qEys6z2mrY/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/jLcKe_XQcLk/hqdefault.jpg",
             "width": 480,
             "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jLcKe_XQcLk/sddefault.jpg",
+            "width": 640,
+            "height": 480
           }
         },
-        "channelTitle": "look jonson",
-        "playlistId": "PLoqigP6fJi7MhYqfL0SYkwAH6C1HPVJBz",
+        "channelTitle": "Raju Rathaur",
+        "playlistId": "PLTfk5dN-W6BPDwIOKbrIp3VArYCeDNOL2",
         "position": 22,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "3qEys6z2mrY"
+          "videoId": "jLcKe_XQcLk"
         }
       },
       "contentDetails": {
-        "videoId": "3qEys6z2mrY",
-        "videoPublishedAt": "2018-10-14T21:45:06.000Z"
+        "videoId": "jLcKe_XQcLk",
+        "videoPublishedAt": "2020-01-12T19:36:14Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/BDSgmA11a63E-VcCRqSxPzQTYis\"",
-      "id": "UExvcWlnUDZmSmk3TWhZcWZMMFNZa3dBSDZDMUhQVkpCei45NzUwQkI1M0UxNThBMkU0",
+      "etag": "pH3lCy9tB3omb2Hb4dnG_jnRugo",
+      "id": "UExUZms1ZE4tVzZCUER3SU9LYnJJcDNWQXJZQ2VETk9MMi4xN0Y2QjVBOEI2MzQ5OUM5",
       "snippet": {
-        "publishedAt": "2020-04-13T11:44:40.000Z",
-        "channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
-        "title": "Vikram Aur Betaal ep.24",
-        "description": "a mythological seriel based on old Indian Folktales of Vikram and Betaal\nProduced and Directed by: Ramanand Sagar\nStarring: Arun Govil, Deepika and Rama Vij\nOriginal Run: Doordarshan 1987",
+        "publishedAt": "2020-05-22T06:26:06Z",
+        "channelId": "UC24MhsLlhe8S0GDYgt21CwQ",
+        "title": "Vikram Betal - Episode 24 - \"The Dreams of Dagdoo \"",
+        "description": "Vikram Betal - Episode 24 - \"The Dreams of Dagdoo\"\n\nCast :-\nRajni Bala as Dagdoo's Mother\nPaintal As a Dagdoo\nMularaj Rajada as Maharaja\n\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n ◆-◆-◆-◆-◆ Vikram Betal All Episodes ◆-◆-◆-◆-◆\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\nVikram Betal Episode 01 (King Vikramaditya and the Yogi/Suryamal And his Wife Bride's Dilemma) - https://youtu.be/z1Riq06aNio\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 02 (King Rupsen and his Bodyguard Virvar) - https://youtu.be/Mgyf8BxST2o\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 03 (Love Story of King Yashodhan) - https://youtu.be/huRTyo-77cs\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 04 (Three Suitors and Somprabha) - https://youtu.be/VC5_tXghqZA\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 05 (The story of Padmavati and the Prince Vajramukti) - https://youtu.be/-xgNe_U_\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 06 (Rich Girl Accept Thief as a Husband) - https://youtu.be/xPevygDZ9yY\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 07 (King Chandrasen And his Servant Satvashil) - https://youtu.be/YCEKzLDEz-g\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 08 (Three Sensitive Brothers) - https://youtu.be/prnsz64tOxY\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 09 (The Husband, the Thief, and the Lover) - https://youtu.be/fYC_c5VE4eo\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 10 (The Prince and the Three Sensitive Sisters) - https://youtu.be/xkwwuPtTS1g\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 11 (Whom will the Princess Marry?) - https://youtu.be/z5r5np2U9yI\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 12 (Who is the Real Father) - https://youtu.be/IpYhzMecTw0\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 13 (The Giant And The Brave Boy) - https://youtu.be/0AvCkHdtGh8\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 14 (Love Is Eternal) - https://youtu.be/0jfnJPBf7p0\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 15 (The Lover of Princess Chandraprabha) - https://youtu.be/PIj5UqX-dds\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 16 (The Dilemma Of Mahamantri and King Vallabh)  - https://youtu.be/Dg__dgnw2qE\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 17 (The Unsuccessful Panance of Gunkar) - https://youtu.be/tcMDXNw5mlI\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 18 (The Story of Rajkumar and the Bird) - https://youtu.be/aqgjOt0dZ2o\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 19 (The Gambling Temptation of gopu) - https://youtu.be/9ah4nSTvtBU\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 20 (The Realization for King Anandsen) - https://youtu.be/UhKtnH4KW-w\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 21 (The Legendary love of Sukesh and Legendary Duty of King Dharmaveer) - https://youtu.be/BeEmtSdYqCI\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 22 (The Love Story of Four Princess) - https://youtu.be/t1ujiIxiZao\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 23 (The Justice Of King Satyadev) - https://youtu.be/jLcKe_XQcLk\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 24 (The Dreams of Dagdoo) - https://youtu.be/d23T7q-1gSE\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 25 (The Story of Greedy Apurva) - https://youtu.be/I7RoT3hBVwA\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 26 (The Revenge of Nagin) - https://youtu.be/MJuZjflSwbg\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\n#vikrambetal #vikrambetalepisode24 #vikrambetal24 #vikrambetalserial #vikrambetalserialallepisode  #vikrambetalpart24 #vikramaurbetal  #vikramaurbetalepisode24 #vikrambetalfull   #vikrambetalfullepisode #vikrambetalallepisode #vikramaurbetaal24     #vikrambetalserialepisode #vikrambetaal",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/AxPkB1E25ck/default.jpg",
+            "url": "https://i.ytimg.com/vi/d23T7q-1gSE/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/AxPkB1E25ck/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/d23T7q-1gSE/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/AxPkB1E25ck/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/d23T7q-1gSE/hqdefault.jpg",
             "width": 480,
             "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/d23T7q-1gSE/sddefault.jpg",
+            "width": 640,
+            "height": 480
           }
         },
-        "channelTitle": "look jonson",
-        "playlistId": "PLoqigP6fJi7MhYqfL0SYkwAH6C1HPVJBz",
+        "channelTitle": "Raju Rathaur",
+        "playlistId": "PLTfk5dN-W6BPDwIOKbrIp3VArYCeDNOL2",
         "position": 23,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "AxPkB1E25ck"
+          "videoId": "d23T7q-1gSE"
         }
       },
       "contentDetails": {
-        "videoId": "AxPkB1E25ck",
-        "videoPublishedAt": "2018-10-14T21:33:59.000Z"
+        "videoId": "d23T7q-1gSE",
+        "videoPublishedAt": "2020-01-12T20:59:30Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/ng1lpzGWBHNDAwjBwp-tAZBVL1w\"",
-      "id": "UExvcWlnUDZmSmk3TWhZcWZMMFNZa3dBSDZDMUhQVkpCei5DNzE1RjZEMUZCMjA0RDBB",
+      "etag": "qvF9dJyg81JsqlXtcPBwEvJ_q6c",
+      "id": "UExUZms1ZE4tVzZCUER3SU9LYnJJcDNWQXJZQ2VETk9MMi5FQUY2Qzk4RUFDN0ZFRkZF",
       "snippet": {
-        "publishedAt": "2020-04-13T11:44:45.000Z",
-        "channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
-        "title": "Vikram Aur Betaal ep.25",
-        "description": "a mythological seriel based on old Indian Folktales of Vikram and Betaal\nProduced and Directed by: Ramanand Sagar\nStarring: Arun Govil, Deepika and Rama Vij\nOriginal Run: Doordarshan 1987",
+        "publishedAt": "2020-05-22T06:26:12Z",
+        "channelId": "UC24MhsLlhe8S0GDYgt21CwQ",
+        "title": "Vikram Betal - Episode 25 - \"The Story of Greedy Apurva \"",
+        "description": "Vikram Betal - Episode 25 - \"The Story Of Greedy Apurva\"\n\nCast :-\nVijay Arora as Rajkumar Ambrish\nRamesh Bhatkar as Apurva\nAnil Chaudhary as Vyapari\nDeepika as Anjali\nSunil Lahari as Satyakam\nMulraj Rajada as Avinash\n\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n ◆-◆-◆-◆-◆ Vikram Betal All Episodes ◆-◆-◆-◆-◆\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\nVikram Betal Episode 01 (King Vikramaditya and the Yogi/Suryamal And his Wife Bride's Dilemma) - https://youtu.be/z1Riq06aNio\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 02 (King Rupsen and his Bodyguard Virvar) - https://youtu.be/Mgyf8BxST2o\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 03 (Love Story of King Yashodhan) - https://youtu.be/huRTyo-77cs\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 04 (Three Suitors and Somprabha) - https://youtu.be/VC5_tXghqZA\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 05 (The story of Padmavati and the Prince Vajramukti) - https://youtu.be/-xgNe_U_\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 06 (Rich Girl Accept Thief as a Husband) - https://youtu.be/xPevygDZ9yY\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 07 (King Chandrasen And his Servant Satvashil) - https://youtu.be/YCEKzLDEz-g\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 08 (Three Sensitive Brothers) - https://youtu.be/prnsz64tOxY\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 09 (The Husband, the Thief, and the Lover) - https://youtu.be/fYC_c5VE4eo\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 10 (The Prince and the Three Sensitive Sisters) - https://youtu.be/xkwwuPtTS1g\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 11 (Whom will the Princess Marry?) - https://youtu.be/z5r5np2U9yI\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 12 (Who is the Real Father) - https://youtu.be/IpYhzMecTw0\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 13 (The Giant And The Brave Boy) - https://youtu.be/0AvCkHdtGh8\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 14 (Love Is Eternal) - https://youtu.be/0jfnJPBf7p0\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 15 (The Lover of Princess Chandraprabha) - https://youtu.be/PIj5UqX-dds\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 16 (The Dilemma Of Mahamantri and King Vallabh)  - https://youtu.be/Dg__dgnw2qE\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 17 (The Unsuccessful Panance of Gunkar) - https://youtu.be/tcMDXNw5mlI\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 18 (The Story of Rajkumar and the Bird) - https://youtu.be/aqgjOt0dZ2o\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 19 (The Gambling Temptation of gopu) - https://youtu.be/9ah4nSTvtBU\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 20 (The Realization for King Anandsen) - https://youtu.be/UhKtnH4KW-w\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 21 (The Legendary love of Sukesh and Legendary Duty of King Dharmaveer) - https://youtu.be/BeEmtSdYqCI\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 22 (The Love Story of Four Princess) - https://youtu.be/t1ujiIxiZao\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 23 (The Justice Of King Satyadev) - https://youtu.be/jLcKe_XQcLk\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 24 (The Dreams of Dagdoo) - https://youtu.be/d23T7q-1gSE\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 25 (The Story of Greedy Apurva) - https://youtu.be/I7RoT3hBVwA\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 26 (The Revenge of Nagin) - https://youtu.be/MJuZjflSwbg\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\n#vikrambetal #vikrambetalepisode25 #vikrambetal25 #vikrambetalserial #vikrambetalserialallepisode  #vikrambetalpart25 #vikramaurbetal  #vikramaurbetalepisode25 #vikrambetalfull   #vikrambetalfullepisode #vikrambetalallepisode #vikramaurbetaal25     #vikrambetalserialepisode #vikrambetaal",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/eGX6Ffz83bQ/default.jpg",
+            "url": "https://i.ytimg.com/vi/I7RoT3hBVwA/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/eGX6Ffz83bQ/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/I7RoT3hBVwA/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/eGX6Ffz83bQ/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/I7RoT3hBVwA/hqdefault.jpg",
             "width": 480,
             "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/I7RoT3hBVwA/sddefault.jpg",
+            "width": 640,
+            "height": 480
           }
         },
-        "channelTitle": "look jonson",
-        "playlistId": "PLoqigP6fJi7MhYqfL0SYkwAH6C1HPVJBz",
+        "channelTitle": "Raju Rathaur",
+        "playlistId": "PLTfk5dN-W6BPDwIOKbrIp3VArYCeDNOL2",
         "position": 24,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "eGX6Ffz83bQ"
+          "videoId": "I7RoT3hBVwA"
         }
       },
       "contentDetails": {
-        "videoId": "eGX6Ffz83bQ",
-        "videoPublishedAt": "2018-10-14T21:35:10.000Z"
+        "videoId": "I7RoT3hBVwA",
+        "videoPublishedAt": "2020-01-12T21:23:57Z"
       }
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "\"tnVOtk4NeGU6nDncDTE5m9SmuHc/O4en9cu2tGcw_2WYiUgOz_n9cUQ\"",
-      "id": "UExvcWlnUDZmSmk3TWhZcWZMMFNZa3dBSDZDMUhQVkpCei43MTI1NDIwOTMwQjIxMzNG",
+      "etag": "LyVD5orvl4PMCSRIqoMhlGNB6wI",
+      "id": "UExUZms1ZE4tVzZCUER3SU9LYnJJcDNWQXJZQ2VETk9MMi5CMEVBRUJERkUyNTBENTkz",
       "snippet": {
-        "publishedAt": "2020-04-13T11:44:50.000Z",
-        "channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
-        "title": "Vikram Aur Betaal ep.26 last",
-        "description": "a mythological seriel based on old Indian Folktales of Vikram and Betaal\nProduced and Directed by: Ramanand Sagar\nStarring: Arun Govil, Deepika and Rama Vij\nOriginal Run: Doordarshan 1987",
+        "publishedAt": "2020-05-22T06:26:17Z",
+        "channelId": "UC24MhsLlhe8S0GDYgt21CwQ",
+        "title": "Vikram Betal - Episode 26 - \"The Revenge of Nagin\"",
+        "description": "Vikram Betal - Episode 26 - \"The Revenge of Nagin\"\n\nCast :-\nVijay Arora as Yuvraj Shaktinath\nRajni Bala as Princess Arundhati\nAnil Chaudhary as Arundhati's Brother\nDeepika as Nageshwari\nMulraj Rajda as Raja Hargovind Das\n\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n ◆-◆-◆-◆-◆ Vikram Betal All Episodes ◆-◆-◆-◆-◆\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\nVikram Betal Episode 01 (King Vikramaditya and the Yogi/Suryamal And his Wife Bride's Dilemma) - https://youtu.be/z1Riq06aNio\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 02 (King Rupsen and his Bodyguard Virvar) - https://youtu.be/Mgyf8BxST2o\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 03 (Love Story of King Yashodhan) - https://youtu.be/huRTyo-77cs\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 04 (Three Suitors and Somprabha) - https://youtu.be/VC5_tXghqZA\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 05 (The story of Padmavati and the Prince Vajramukti) - https://youtu.be/-xgNe_U_\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 06 (Rich Girl Accept Thief as a Husband) - https://youtu.be/xPevygDZ9yY\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 07 (King Chandrasen And his Servant Satvashil) - https://youtu.be/YCEKzLDEz-g\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 08 (Three Sensitive Brothers) - https://youtu.be/prnsz64tOxY\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 09 (The Husband, the Thief, and the Lover) - https://youtu.be/fYC_c5VE4eo\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 10 (The Prince and the Three Sensitive Sisters) - https://youtu.be/xkwwuPtTS1g\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 11 (Whom will the Princess Marry?) - https://youtu.be/z5r5np2U9yI\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 12 (Who is the Real Father) - https://youtu.be/IpYhzMecTw0\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 13 (The Giant And The Brave Boy) - https://youtu.be/0AvCkHdtGh8\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 14 (Love Is Eternal) - https://youtu.be/0jfnJPBf7p0\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 15 (The Lover of Princess Chandraprabha) - https://youtu.be/PIj5UqX-dds\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 16 (The Dilemma Of Mahamantri and King Vallabh)  - https://youtu.be/Dg__dgnw2qE\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 17 (The Unsuccessful Panance of Gunkar) - https://youtu.be/tcMDXNw5mlI\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 18 (The Story of Rajkumar and the Bird) - https://youtu.be/aqgjOt0dZ2o\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 19 (The Gambling Temptation of gopu) - https://youtu.be/9ah4nSTvtBU\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 20 (The Realization for King Anandsen) - https://youtu.be/UhKtnH4KW-w\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 21 (The Legendary love of Sukesh and Legendary Duty of King Dharmaveer) - https://youtu.be/BeEmtSdYqCI\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 22 (The Love Story of Four Princess) - https://youtu.be/t1ujiIxiZao\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 23 (The Justice Of King Satyadev) - https://youtu.be/jLcKe_XQcLk\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 24 (The Dreams of Dagdoo) - https://youtu.be/d23T7q-1gSE\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 25 (The Story of Greedy Apurva) - https://youtu.be/I7RoT3hBVwA\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\nVikram Betal Episode 26 (The Revenge of Nagin) - https://youtu.be/MJuZjflSwbg\n◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-◆-\n\n#vikrambetal #vikrambetalepisode26 #vikrambetal26 #vikrambetalserial #vikrambetalserialallepisode  #vikrambetalpart26 #vikramaurbetal  #vikramaurbetalepisode26 #vikrambetalfull   #vikrambetalfullepisode #vikrambetalallepisode #vikramaurbetaal26     #vikrambetalserialepisode #vikrambetallastepisode #vikrambetallastpart #vikrambetalantimbhag",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/dMhPwLp2N8Y/default.jpg",
+            "url": "https://i.ytimg.com/vi/MJuZjflSwbg/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/dMhPwLp2N8Y/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/MJuZjflSwbg/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/dMhPwLp2N8Y/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/MJuZjflSwbg/hqdefault.jpg",
             "width": 480,
             "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MJuZjflSwbg/sddefault.jpg",
+            "width": 640,
+            "height": 480
           }
         },
-        "channelTitle": "look jonson",
-        "playlistId": "PLoqigP6fJi7MhYqfL0SYkwAH6C1HPVJBz",
+        "channelTitle": "Raju Rathaur",
+        "playlistId": "PLTfk5dN-W6BPDwIOKbrIp3VArYCeDNOL2",
         "position": 25,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "dMhPwLp2N8Y"
+          "videoId": "MJuZjflSwbg"
         }
       },
       "contentDetails": {
-        "videoId": "dMhPwLp2N8Y",
-        "videoPublishedAt": "2018-10-14T21:35:52.000Z"
+        "videoId": "MJuZjflSwbg",
+        "videoPublishedAt": "2020-01-12T21:51:03Z"
       }
     }
-  ]
+  ],
+  "pageInfo": {
+    "totalResults": 26,
+    "resultsPerPage": 50
+  }
 }
