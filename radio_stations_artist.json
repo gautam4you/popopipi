@@ -1,5 +1,86 @@
 [
 	{
+		"name": "Swaarg Sangeet",
+		"name_h": "4KSt4KS+4KSw4KWAIOCkuOCkguCkl+ClgOCkpA==",
+		"url": "http://swaarg.com:8000/;",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood,Web",
+		"image": "http://shortfilmsite.com/images/swaargsangeet.jpg",
+		"pub": "05-07-2020"
+	},
+	{
+		"name": "Eawaz Radio",
+		"name_h": "4KSP4KS14KS+4KSc4KS8IOCksOClh+CkoeCkv+Ckr+Cliw==",
+		"url": "http://s23.myradiostream.com:7764/;",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood,Web",
+		"image": "http://shortfilmsite.com/images/eawazradio.jpg",
+		"pub": "05-07-2020"
+	},
+	{
+		"name": "Radio Jhanj",
+		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCkneCkvuCkgeCknQ==",
+		"url": "http://jhanj.riggrodigital.com:8046/stream",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood,Web",
+		"image": "http://shortfilmsite.com/images/radiojhanj.jpg",
+		"pub": "05-07-2020"
+	},
+	{
+		"name": "Radio Saptrang",
+		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCkuOCkquCljeCkpOCkguCklw==",
+		"url": "http://malta2044.startdedicated.com:8138/stream",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood,Web",
+		"image": "http://shortfilmsite.com/images/radiosaptarang.jpg",
+		"pub": "05-07-2020"
+	},
+	{
+		"name": "Desi Dance",
+		"name_h": "4KSm4KWH4KS44KWAIOCkoeCkvuCkguCkuA==",
+		"url": "http://usa6.fastcast4u.com:5029/stream",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood,Web",
+		"image": "http://shortfilmsite.com/images/desinetworks.jpg",
+		"pub": "05-07-2020"
+	},
+	{
+		"name": "Jus Radio",
+		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCknOClguCkuA==",
+		"url": "http://juspunjabradio.serverroom.us:6680/;",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood,Web",
+		"image": "http://shortfilmsite.com/images/jusradio.jpg",
+		"pub": "05-07-2020"
+	},
+	{
+		"name": "RC Caprice",
+		"name_h": "4KSG4KSw4KS44KWAIOCkleCliOCkquCljeCksOCkv+CkuA==",
+		"url": "http://79.120.39.202:9089/;",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood,Web",
+		"image": "http://shortfilmsite.com/images/radiorccaprice.jpg",
+		"pub": "05-07-2020"
+	},
+	{
+		"name": "Radio Crazy One",
+		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCkleCljeCksOClh+CknOClgCDgpLXgpKg=",
+		"url": "http://crazyone.riggrodigital.com:8174/streamstream",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood,Web",
+		"image": "http://shortfilmsite.com/images/radiocrazyone.jpg",
+		"pub": "05-07-2020"
+	},
+	{
+		"name": "YO Punjabi Mirchi",
+		"name_h": "WU8g4KSq4KSC4KSc4KS+4KSs4KWAIOCkruCkv+CksOCljeCkmuClgA==",
+		"url": "https://yopunjabihdlive-lh.akamaihd.net/i/YoPunjabiHDLive_1_1@345454/master.m3u8",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood,Web",
+		"image": "http://shortfilmsite.com/images/yopunjabimirchi.jpg",
+		"pub": "05-07-2020"
+	},
+	{
 		"name": "Radio Narmada",
 		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCkqOCksOCljeCkruCkpuCkvg==",
 		"url": "http://85.25.185.202:8255/stream",
