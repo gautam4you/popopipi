@@ -1,6 +1,3 @@
-// 20200705090135
-// https://www.googleapis.com/youtube/v3/playlistItems?part=id,contentDetails,snippet&maxResults=50&playlistId=PLTfk5dN-W6BPDwIOKbrIp3VArYCeDNOL2&key=AIzaSyCH83pVZXIuSjG9IjP4xMaOLui9UWXCLRE
-
 {
   "kind": "youtube#playlistItemListResponse",
   "etag": "E4SSRH9OefDSV4XwZ-8r7pDrvbo",
