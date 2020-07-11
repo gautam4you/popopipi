@@ -1,5 +1,5 @@
 [
-	{
+{
 		"name": "Swaarg Sangeet",
 		"name_h": "4KSt4KS+4KSw4KWAIOCkuOCkguCkl+ClgOCkpA==",
 		"url": "http://swaarg.com:8000/;",
@@ -61,6 +61,15 @@
 		"cat": "Hindi,Bollywood,Web",
 		"image": "http://shortfilmsite.com/images/radiorccaprice.jpg",
 		"pub": "05-07-2020"
+	},
+	{
+		"name": "Radio Varsha",
+		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCkteCksOCljeCkt+Ckvg==",
+		"url": "http://stream.radiojar.com/6ee55w4n9eeuv",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood,Web",
+		"image": "http://shortfilmsite.com/images/radiovarsha.jpg",
+		"pub": "11-07-2020"
 	},
 	{
 		"name": "Radio Rajasthan",
