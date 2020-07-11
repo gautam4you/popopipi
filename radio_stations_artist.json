@@ -555,7 +555,7 @@
 	{
 		"name": "ABP News",
 		"name_h": "QUJQIE5ld3M=",
-		"url": "https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_136.m3u8",
+		"url": "https://abp-i.akamaihd.net/hls/live/765529-b/abphindi/masterhls_136.m3u8",
 		"samplerate": "",
 		"cat": "Hindi,news",
 		"image": "http://shortfilmsite.com/images/abpnews.jpg",
