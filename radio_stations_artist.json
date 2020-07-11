@@ -1,4 +1,14 @@
-[{
+[
+	{
+		"name": "Mirchi Toota Dil",
+		"name_h": "4KSu4KS/4KSw4KWN4KSa4KWAIOCkn+ClguCkn+CkviDgpKbgpL/gpLI=",
+		"url": "https://tootadil-lh.akamaihd.net/i/tootadil_1@42539/master.m3u8",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood,Web",
+		"image": "http://shortfilmsite.com/images/mirchitootadil.jpg",
+		"pub": "11-07-2020"
+	},
+	{
 		"name": "Bolly Hits Radio",
 		"name_h": "4KSs4KWL4KSy4KWAIOCkueCkv+Ckn+CljeCkuCDgpLDgpYfgpKHgpL/gpK/gpYs=",
 		"url": "https://hoth.alonhosting.com:1100/stream",
@@ -77,6 +87,33 @@
 		"samplerate": "",
 		"cat": "Hindi,Bollywood,Web",
 		"image": "http://shortfilmsite.com/images/radiovarsha.jpg",
+		"pub": "11-07-2020"
+	},
+	{
+		"name": "Kissan Radio",
+		"name_h": "S2lzc2FuIFJhZGlv",
+		"url": "http://streamasiacdn.atc-labs.com/kisanfm.aac",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood,Web",
+		"image": "http://shortfilmsite.com/images/kissanradio.jpg",
+		"pub": "11-07-2020"
+	},
+	{
+		"name": "Radio Time Sagar",
+		"name_h": "UmFkaW8gVGltZSBTYWdhcg==",
+		"url": "http://51.91.119.75:8129/stream",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood,Web",
+		"image": "http://shortfilmsite.com/images/radiotime.jpg",
+		"pub": "11-07-2020"
+	},
+		{
+		"name": "Hindvani",
+		"name_h": "SGluZHZhbmk=",
+		"url": "http://albert.antfarm.co.za:8000/Hindvani",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood,Web",
+		"image": "http://shortfilmsite.com/images/hindvani.jpg",
 		"pub": "11-07-2020"
 	},
 	{
