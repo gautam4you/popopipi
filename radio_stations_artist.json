@@ -1,7 +1,16 @@
 [
 	{
+		"name": "Radio Nashaa",
+		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCkqOCktuCkvg==",
+		"url": "http://s1.thailandstreaming.net:8020/nashaa.mp3",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood,Web",
+		"image": "http://shortfilmsite.com/images/radionashaafm.jpg",
+		"pub": "30-08-2020"
+	},
+	{
 		"name": "Radio Anardana",
-		"name_h": "UmFkaW8gQW5hcmRhbmE=",
+		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCkheCkqOCkvuCksOCkpuCkvuCkqOCkvg==",
 		"url": "http://85.25.185.202:8055/;",
 		"samplerate": "",
 		"cat": "Hindi,Bollywood,Web",
