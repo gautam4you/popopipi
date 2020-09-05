@@ -1,46 +1,57 @@
 [
 {
 		"imgLogo": "http://onlinebanglanewspaperlist.com/source/upload/prothomalolog.jpg",
+	        "name": "Jagaran",
 		"link": "http://www.prothom-alo.com/"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/Bangali/pic/kalerkantho.png",
+	"name": "Jagaran",
 		"link": "http://www.kalerkantho.com/"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/Bangali/pic/amardesh.png",
+	"name": "Jagaran",
 		"link": "http://www.amardeshonline.com/"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/Bangali/pic/nayadiganta.png",
+	"name": "Jagaran",
 		"link": "http://www.dailynayadiganta.com/"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/Bangali/pic/mzamin.png",
+	"name": "Jagaran",
 		"link": "http://www.mzamin.com/"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/Bangali/pic/amadershomoys.png",
+	"name": "Jagaran",
 		"link": "http://www.amadershomoys.com/"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/Bangali/pic/dailyinqilab.png",
+	"name": "Jagaran",
 		"link": "https://www.dailyinqilab.com/"
 },
 {
 		"imgLogo": "http://onlinebanglanewspaperlist.com/source/upload/ittefaq.jpg",
+	"name": "Jagaran",
 		"link": "http://www.ittefaq.com.bd/"
 },
 {
 		"imgLogo": "http://onlinebanglanewspaperlist.com/source/upload/bangladesh-pratidin.png",
+	"name": "Jagaran",
 		"link": "https://www.bd-pratidin.com/"
 },
 {
 		"imgLogo": "http://onlinebanglanewspaperlist.com/source/upload/nayadigant.jpg",
+	"name": "Jagaran",
 		"link": "http://www.dailynayadiganta.com/"
 },
 {
 		"imgLogo": "http://onlinebanglanewspaperlist.com/source/upload/amarsangbbadnews.jpg",
+	"name": "Jagaran",
 		"link": "http://www.amar-sangbad.com/"
 }
 ]
