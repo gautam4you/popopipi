@@ -1276,10 +1276,202 @@
 "videoPublishedAt": "2013-03-29T09:27:08Z"
 }
 },
-{},
-{},
-{},
-{},
+{
+"kind": "youtube#playlistItem",
+"etag": "jx7862f1caYd0EPYH5o0_3jCc6Q",
+"id": "UExQWk1LRzI3ZmZhZ0JQaWowdWJrWnRMTTU5X0ZMeGZWMS41NkI0NEY2RDEwNTU3Q0M2",
+"snippet": {
+"publishedAt": "2020-09-05T06:20:01Z",
+"channelId": "UCj2Hw9nrvjDtVMJsgm_BhEA",
+"title": "Amaro Lagiya Bondhu | আমারও লাগিয়া বন্ধু | Beder Meye Josna | Ilias Kanchan | Anju | Sabina | Andrew",
+"description": "Song: Amaro Lagiya Bondhu\nSinger: Sabina Yasmin & Andrew Kishor\nLyric: Tojammel Haque Bokul\nTune: Abu Taher\nMusic: Abu Taher\nMovie: Beder Meye Josna\nCast: Elias Kanchan, Anju Gosh,Probir Mitro,Mitun,Farzana Bobi,Saifuddin,Showkat Akbar,Dildar,Nasir Khan,Rowson Jamil,\nCinematography: Jakir Hossen\nEditing: Fozle Hoque\nStory And Dialogue: Tojammel Haque Bokul\nProducer: Anando Mela Cholochitro\nDirecto : Tojammel Haque Bokul\nLabel: G-Series\n\nFor Mobile : Download RadioG and stream thousands of songs : ➤http://android.radiogbd.com\n\nSubscribe to our Exclusive YouTube Channels and get the latest entertainment\n\nG Series Music : ➤http://psce.pw/LA9SD\n\nG Series Movies : ➤http://psce.pw/L7QH3\n\nG Series Drama : ➤http://psce.pw/KVKSW\n\nG Series Bangla Movie Song : ➤http://psce.pw/J34SM\n\nG Series World Music : ➤http://psce.pw/LL78R\nG Series Kids : ➤http://psce.pw/LNSGZ\nG Series Classics : ➤http://psce.pw/KHZR7\nG Series Funny Clips : ➤http://psce.pw/KQVZZ\nNewsg24 : ➤http://psce.pw/JUCSC\nNewsg Lifestyle : ➤http://psce.pw/LDEFU\n\nGet connected with us on Facebook : ➤http://psce.pw/LQETR\nGet connected with us on Instagram : ➤http://psce.pw/JM7YX\nGet connected with us on Twitter : ➤http://psce.pw/LTEWM\n\nGet the latest news from : ➤http://www.newsg24.com\n\n#AmaroLagiyaBondhu\n#BederMeyeJosna\n#AnjuGhosh\n#IliasKanchan\n#SabinaYasmin\n#AndrewKishor\n#AndrewKishorBanglaMovieSong\n#SabinaYasminBanglaMovieSong\n#BanglaSong\n#BanglaMovieSong2019\n#BanglaNewSong2019\n#GSeriesBanglaMovieSongs\n#আমারওলাগিয়াবন্ধু",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/nxyfXkH60oY/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/nxyfXkH60oY/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/nxyfXkH60oY/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/nxyfXkH60oY/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/nxyfXkH60oY/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Gautam Kushwaha",
+"playlistId": "PLPZMKG27ffagBPij0ubkZtLM59_FLxfV1",
+"position": 0,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "nxyfXkH60oY"
+}
+},
+"contentDetails": {
+"videoId": "nxyfXkH60oY",
+"videoPublishedAt": "2018-04-17T13:54:11Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "wRYrKcbLBxbqrFMq7pTmvdXN5Tc",
+"id": "UExQWk1LRzI3ZmZhZ0JQaWowdWJrWnRMTTU5X0ZMeGZWMS4yODlGNEE0NkRGMEEzMEQy",
+"snippet": {
+"publishedAt": "2020-09-05T06:20:31Z",
+"channelId": "UCj2Hw9nrvjDtVMJsgm_BhEA",
+"title": "বাংলাদেশের সর্বোচ্চ আয় করা শ্রেষ্ঠ ১০ চলচ্চিত্র | Top 10 Movies Of Bangladesh",
+"description": "বাংলাদেশের সবচেয়ে বেশি আয় করা শ্রেষ্ঠ ১০ চলচ্চিত্র | Top 10 Movies Of Bangladesh \n-\n-\nSubscribe This Official YouTube Channel : https://www.youtube.com/channel/UCQclz-heEsvCAEYSiBNGckg\n\nOfficial facebook page : https:https://www.facebook.com/btd.news\n-\n*** ANTI-PIRACY WARNING ***\nThis content is Copyright to BTD News. Any unauthorized reproduction, redistribution or re-upload is strictly prohibited of this material. Legal action will be taken against those who violate the copyright of the following material presented!",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/gOyUSVEzh78/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/gOyUSVEzh78/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/gOyUSVEzh78/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/gOyUSVEzh78/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/gOyUSVEzh78/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Gautam Kushwaha",
+"playlistId": "PLPZMKG27ffagBPij0ubkZtLM59_FLxfV1",
+"position": 1,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "gOyUSVEzh78"
+}
+},
+"contentDetails": {
+"videoId": "gOyUSVEzh78",
+"videoPublishedAt": "2017-09-14T10:44:16Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "kmY9YBlRVlOvPixmm5CRCmFO2Lo",
+"id": "UExQWk1LRzI3ZmZhZ0JQaWowdWJrWnRMTTU5X0ZMeGZWMS4wMTcyMDhGQUE4NTIzM0Y5",
+"snippet": {
+"publishedAt": "2020-09-05T06:20:46Z",
+"channelId": "UCj2Hw9nrvjDtVMJsgm_BhEA",
+"title": "Jiban Kahini | Bengali Movie | English Subtitle | Anup Kumar, Sandhya Roy",
+"description": "Watch the Bengali full movie Jiban Kahini : জীবন কাহিনী বাংলা ছবি on YouTube. Directed by Rajen Tarafdar, starring Sandhya Roy, Bikash Roy, Anup Kumar, Sita Mukherjee, Renuka Roy, Jahar Ganguli, Bhanu Bandopadhyay.\n\nSubscribe to “Bengali Songs” Channel for unlimited Bengali Movie Video Songs\nhttps://www.youtube.com/angelsongs\n\nMovie : Jiban Kahini\nLanguage : Bengali\nGenre : Drama, Classic\nProducer : Rathin Tarafdar\nDirector : Rajen Tarafdar\nStory : Shaktipada Rajguru\nMusic Director : Prabir Mazumder\nLyricist : Pulak Bandyopadhyay\nPlayback : Hemanta Mukherjee, Aarti Mukherji\nRelease : 1974\nStarcast : Sandhya Roy, Bikash Roy, Anup Kumar, Sita Mukherjee, Renuka Roy, Jahar Ganguli, Bhanu Bandopadhyay, Nani Majumdar, Tarun Kumar, Durgadas Bannerjee, Mannath Mukherjee\n\nWatch Now!!!!!\n►Best of Sandhya Roy | Bengali Full Movies : https://goo.gl/v22JrN\n►Old Bengali Movie Songs : https://goo.gl/2SLfnj\n\nSynopsis::\nJiban Kahini is a family drama. Navjeevan is an insurance agent and has a daughter named Shamli. They are very poor. Navjeevan takes loan from several people to make ends meet. Tired of his poverty ridden life he tries to commit suicide. He meets Amar, a young boy who too has come to commit suicide. Navjeevan cancels his plan and takes Amar home. Amar and Shamli fall in love. When Navjeevan finds out about their affair he is shattered and plans to commit suicide again. But gradually all problems are resolved.\n\n#BengaliMovie\n#BanglaMovie\n#BengaliFullMovie\n#SuperhitBengaliMovie\n#BanglaMovies\n#tollywoodhitmovies\n#bengaliletestmovie\n#latestbengalimovie\n#bengalidramamovie\n#bengalioldhitmovie\n#tollywoodmovies\n#BengaliTopHitsMovies\n#banglaromanticfilm\n#BengaliNewMovies\n#BengaliActionMovies\n\nEnjoy and stay connected with us!!\n\nWatch more of your favorite Bengali Movies Subscriber Now !! for unlimited entertainment\n► https://www.youtube.com/BengaliCinemaHD\n\nOfficial Website ► https://www.angeldigital.co.in\nLike us on Facebook ► https://www.fb.com/angeldigital.videos\nTwitter ►https://www.twitter.com/AngelVideo\nCircle us on G+ ► https://plus.google.com/+angeldigitalvideos",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/_u0K3wp-DI8/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/_u0K3wp-DI8/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/_u0K3wp-DI8/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/_u0K3wp-DI8/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/_u0K3wp-DI8/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Gautam Kushwaha",
+"playlistId": "PLPZMKG27ffagBPij0ubkZtLM59_FLxfV1",
+"position": 2,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "_u0K3wp-DI8"
+}
+},
+"contentDetails": {
+"videoId": "_u0K3wp-DI8",
+"videoPublishedAt": "2018-08-12T08:30:00Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "ugYLwjayYJIVZoxP4wJGZfF6fAE",
+"id": "UExQWk1LRzI3ZmZhZ0JQaWowdWJrWnRMTTU5X0ZMeGZWMS41MjE1MkI0OTQ2QzJGNzNG",
+"snippet": {
+"publishedAt": "2020-09-05T06:21:03Z",
+"channelId": "UCj2Hw9nrvjDtVMJsgm_BhEA",
+"title": "Bhagya Chakra | ভাগ্যচক্র | Bengali Movie | Ranjit Mallick, Mithu Mukherjee",
+"description": "Watch the Bengali full movie Bhagya Chakra : ভাগ্যচক্র বাংলা ছবি on YouTube. The Bengali Film Bhagya Chakra was released in the year 1980, Directed by Ajoy Biswas, starring Ranjit Mallick, Sandhya Rani, Basanta Choudhury, Bikash Roy, Kamal Mitra, Bhanu Bandopadhyay & Others.\n\nSubscribe to “Bengali Songs” Channel for unlimited Bengali Movie Video Songs\nhttps://www.youtube.com/angelsongs\n\nMovie : Bhagya Chakra\nLanguage : Bengali\nGenre : Drama\nProducer : Ajit Kar\nDirector : Ajoy Biswas\nMusic Director : Satinath Mukherjee\nLyricist : Shyamal Gupta\nPlayback : Manna Dey, Hemanta Mukherjee, Aarti Mukherji, Satinath Mukherjee, Utpala Sen, Arindam Ganguly\nRelease : 1980\nStar Cast : Ranjit Mallick, Mithu Mukherjee, Sandhya Rani, Basanta Choudhury, Bikash Roy, Kamal Mitra, Bhanu Bandopadhyay, Ajitesh Bandopadhyay, Shailen Mukherjee, Biren Chatterjee, Sulata Chowdhury, Samar Kumar, Arindam Ganguly, Alpana Goswami, Nandini Maliya, Joy Sengupta\n\nClick here to watch more videos...........!!!!!!!!!!!!!!!!!\n►Best Of Ranjit Mallick Bengali Full Movies : https://goo.gl/ci3ijV\n►Pujarini | Bengali Movie Songs | Video Jukebox : https://youtu.be/b0gmbIS9qc0\n\n\n#BengaliMovie\n#BanglaMovie\n#BengaliFullMovie\n#BanglaMovies\n#NewBengaliMovie\n#SuperhitBengaliMovie\n#TollywoodHitMovies\n#BengaliLetestMovie\n#LatestBengaliMovie\n#BengaliDramaMovie\n#BengaliOldHitMovie\n#TollywoodMovies\n#BengaliTopHitsMovies\n#BanglaRomanticFilm\n#BanglaNewMovies\n#BengaliActionMovies \n\nEnjoy and stay connected with us!!\n\nWatch more of your favourite Bengali Movies Subscribe Now !! for unlimited entertainment\n► https://www.youtube.com/angel\n\nOfficial Website ► https://www.angeldigital.co.in\nLike us on Facebook ► https://www.fb.com/angeldigital.videos\nTwitter ►https://www.twitter.com/AngelVideo\nCircle us on G+ ► https://plus.google.com/+angeldigitalvideos",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/ap7n3igYzT4/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/ap7n3igYzT4/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/ap7n3igYzT4/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/ap7n3igYzT4/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/ap7n3igYzT4/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Gautam Kushwaha",
+"playlistId": "PLPZMKG27ffagBPij0ubkZtLM59_FLxfV1",
+"position": 3,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "ap7n3igYzT4"
+}
+},
+"contentDetails": {
+"videoId": "ap7n3igYzT4",
+"videoPublishedAt": "2019-04-05T12:30:00Z"
+}
+},
 {
 "kind": "youtube#playlistItem",
 "etag": "tVXgYJL7AeHcn0jvkO-P5fqo4LI",
@@ -3058,6 +3250,7 @@
 "videoPublishedAt": "2020-05-26T10:14:09Z"
 }
 }
+
 ],
 "pageInfo": {
 "totalResults": 26,
