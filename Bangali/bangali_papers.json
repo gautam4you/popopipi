@@ -83,5 +83,20 @@
 		"imgLogo": "http://onlinebanglanewspaperlist.com/source/upload/jagoron.jpg",
 	"name": "Daily jagaran",
 		"link": "http://www.dailyjagaran.com/"
+},
+{
+		"imgLogo": "http://onlinebanglanewspaperlist.com/source/upload/dailyasiabarta.png",
+	"name": "Asia Bani",
+		"link": "http://dailyasiabani.com/index.php/"
+},
+{
+		"imgLogo": "http://onlinebanglanewspaperlist.com/source/upload/banlakhorob.jpg",
+	"name": "Bangladesher Khabor",
+		"link": "http://www.bangladesherkhabor.net/"
+},
+{
+		"imgLogo": "http://onlinebanglanewspaperlist.com/source/upload/aurthonitekagoj.jpg",
+	"name": "arthoniteerkagoj.com",
+		"link": "http://www.arthoniteerkagoj.com/"
 }
 ]
