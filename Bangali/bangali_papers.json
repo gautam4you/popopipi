@@ -1,7 +1,7 @@
 [
 {
 		"imgLogo": "http://onlinebanglanewspaperlist.com/source/upload/prothomalolog.jpg",
-	        "name": "Jagaran",
+	        "name": "Prothom Alo",
 		"link": "http://www.prothom-alo.com/"
 },
 {
@@ -11,47 +11,77 @@
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/Bangali/pic/amardesh.png",
-	"name": "Jagaran",
+	"name": "Daily Kalerkantho",
 		"link": "http://www.amardeshonline.com/"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/Bangali/pic/nayadiganta.png",
-	"name": "Jagaran",
+	"name": "Daily Naya Diganta",
 		"link": "http://www.dailynayadiganta.com/"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/Bangali/pic/mzamin.png",
-	"name": "Jagaran",
+	"name": "Manab Zamin",
 		"link": "http://www.mzamin.com/"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/Bangali/pic/amadershomoys.png",
-	"name": "Jagaran",
+	"name": "Amader Shomoy",
 		"link": "http://www.amadershomoys.com/"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/Bangali/pic/dailyinqilab.png",
-	"name": "Jagaran",
+	"name": "Daily Inqilab",
 		"link": "https://www.dailyinqilab.com/"
 },
 {
 		"imgLogo": "http://onlinebanglanewspaperlist.com/source/upload/ittefaq.jpg",
-	"name": "Jagaran",
+	"name": "Daily Ittefaq",
 		"link": "http://www.ittefaq.com.bd/"
 },
 {
 		"imgLogo": "http://onlinebanglanewspaperlist.com/source/upload/bangladesh-pratidin.png",
-	"name": "Jagaran",
+	"name": "Bangladesh Pratidin",
 		"link": "https://www.bd-pratidin.com/"
 },
 {
 		"imgLogo": "http://onlinebanglanewspaperlist.com/source/upload/nayadigant.jpg",
-	"name": "Jagaran",
+	"name": "Daily Naya Diganta",
 		"link": "http://www.dailynayadiganta.com/"
 },
 {
 		"imgLogo": "http://onlinebanglanewspaperlist.com/source/upload/amarsangbbadnews.jpg",
-	"name": "Jagaran",
+	"name": "Amar Sangbad",
 		"link": "http://www.amar-sangbad.com/"
+},
+{
+		"imgLogo": "http://onlinebanglanewspaperlist.com/source/upload/20140506104709.jpg",
+	"name": "Daily Bonikbarta",
+		"link": "http://www.bonikbarta.com/"
+},
+{
+		"imgLogo": "http://onlinebanglanewspaperlist.com/source/upload/alokitobd.jpg",
+	"name": "Alokito Bangladesh",
+		"link": "http://www.alokitobangladesh.com/"
+},
+{
+		"imgLogo": "http://onlinebanglanewspaperlist.com/source/upload/natunvoorlogo.jpg",
+	"name": "dailynotunvor.com",
+		"link": "http://www.dailynotunvor.com/"
+},
+{
+		"imgLogo": "http://onlinebanglanewspaperlist.com/source/upload/ajkerpatrikalogo.jpg",
+	"name": "ajkerpatrika.com",
+		"link": "http://www.ajkerpatrika.com/"
+},
+{
+		"imgLogo": "http://onlinebanglanewspaperlist.com/source/upload/sangbad.jpg",
+	"name": "Daily Sangbad",
+		"link": "http://www.thesangbad.net/"
+},
+{
+		"imgLogo": "http://onlinebanglanewspaperlist.com/source/upload/jagoron.jpg",
+	"name": "Daily jagaran",
+		"link": "http://www.dailyjagaran.com/"
 }
 ]
