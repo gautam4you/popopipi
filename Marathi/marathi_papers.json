@@ -1,82 +1,107 @@
 [
 {
-		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/Nepali/1.png",
-		"link": "https://bit.ly/2IWK5hr"
+		"imgLogo": "https://www.w3newspapers.com/india/marathi/images/lokmat.png",
+	        "name": "Lokmat",
+		"link": "https://www.lokmat.com/"
 },
 {
-		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/Nepali/2.png",
-		"link": "https://bit.ly/2DFB5MX"
+		"imgLogo": "https://www.w3newspapers.com/india/marathi/images/loksatta.png",
+	    "name": "Loksatta",
+		"link": "https://www.loksatta.com/"
 },
 {
-		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/Nepali/3.png",
-		"link": "https://bit.ly/2URiD9O"
+		"imgLogo": "https://www.w3newspapers.com/india/marathi/images/sakal.png",
+	    "name": "Sakaal",
+		"link": "https://www.esakal.com/"
 },
 {
-		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/Nepali/4.png",
-		"link": "https://bbc.in/2JdouEn"
+		"imgLogo": "https://www.w3newspapers.com/india/marathi/images/maharashtratimes.png",
+	    "name": "Maharashtra Times",
+		"link": "https://maharashtratimes.com/"
 },
 {
-		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/Nepali/5.png",
-		"link": "https://bit.ly/2wcsvUF"
+		"imgLogo": "https://www.w3newspapers.com/india/marathi/images/divyamarathi.png",
+	    "name": "Divya Marathi",
+		"link": "https://divyamarathi.bhaskar.com/"
 },
 {
-		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/Nepali/6.png",
-		"link": "https://bit.ly/2GTmq1k"
+		"imgLogo": "https://www.w3newspapers.com/india/marathi/images/pudhari.png",
+		    "name": "Pudhari",
+		"link": "https://www.pudhari.news/"
 },
 {
-		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/Nepali/7.png",
-		"link": "https://bit.ly/2UYUe26"
+		"imgLogo": "https://www.w3newspapers.com/india/marathi/images/saamana.png",
+		    "name": "Saamana",
+		"link": "https://www.saamana.com/"
 },
 {
-		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/Nepali/8.png",
-		"link": "https://bit.ly/2noVfox"
+		"imgLogo": "https://www.w3newspapers.com/india/marathi/images/tarunbharat.png",
+		    "name": "Tarun Bharat",
+		"link": "https://www.tarunbharat.com/"
 },
 {
-		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/Nepali/9.png",
-		"link": "https://bit.ly/2Y0SSFZ"
+		"imgLogo": "https://www.w3newspapers.com/india/marathi/images/punyanagari.png",
+		    "name": "Punyanangari epaper",
+		"link": "http://www.epunyanagari.com/"
 },
 {
-		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/Nepali/11.png",
-		"link": "https://bit.ly/2Vc0gBD"
+		"imgLogo": "https://www.w3newspapers.com/india/marathi/images/deshonnati.png",
+		    "name": "Deshonatti",
+		"link": "https://www.deshonnati.com/"
 },
 {
-		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/Nepali/12.png",
-		"link": "https://bit.ly/2GZ1Vl6"
+		"imgLogo": "https://www.w3newspapers.com/india/marathi/images/prahaar.png",
+		    "name": "Prahaar",
+		"link": "http://prahaar.in/"
 },
 {
-		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/Nepali/13.png",
-		"link": "https://bit.ly/2VG8fGd"
+		"imgLogo": "https://www.w3newspapers.com/india/marathi/images/parshvbhumi.png",
+		    "name": "Parshv Bhumi",
+		"link": "https://parshvbhumi.com/"
 },
 {
-		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/Nepali/14.png",
-		"link": "https://bit.ly/2GWRIEH"
+		"imgLogo": "https://www.w3newspapers.com/india/marathi/images/beedreporter.png",
+		    "name": "Beed Reporter",
+		"link": "https://beedreporter.net/"
 },
 {
-		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/Nepali/15.png",
-		"link": "https://bit.ly/2Y9Hgkh"
+		"imgLogo": "https://www.w3newspapers.com/india/marathi/images/ekmat.png",
+		    "name": "Ekmat",
+		"link": "http://epaper.dainikekmat.com/"
 },
 {
-		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/Nepali/16.png",
-		"link": "https://bit.ly/2JaYZmZ"
+		"imgLogo": "https://www.w3newspapers.com/india/marathi/images/sanchar.png",
+		    "name": "Sanchar",
+		"link": "http://www.esanchar.co.in/"
 },
 {
-		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/Nepali/17.png",
-		"link": "https://bit.ly/2lKOZ8M"
+		"imgLogo": "https://www.w3newspapers.com/india/marathi/images/sakaaltimes.png",
+		    "name": "Sakaal Times",
+		"link": "https://www.sakaltimes.com/"
 },
 {
-		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/Nepali/18.png",
-		"link": "https://bit.ly/2cerdcJ"
+		"imgLogo": "https://www.w3newspapers.com/india/marathi/images/aikya.png",
+		    "name": "Aikya",
+		"link": "http://www.dainikaikya.com/"
 },
 {
-		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/Nepali/19.png",
-		"link": "https://bit.ly/2LfPDJg"
+		"imgLogo": "https://www.w3newspapers.com/india/marathi/images/lokasha.png",
+		    "name": "Lokasha",
+		"link": "http://elokasha.com/"
 },
 {
-		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/Nepali/20.png",
-		"link": "https://bit.ly/2UW09oO"
+		"imgLogo": "https://www.w3newspapers.com/india/marathi/images/navshakti.png",
+		    "name": "Navshakti",
+		"link": "https://www.navshakti.co.in/"
 },
 {
-		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/Nepali/21.png",
-		"link": "https://bit.ly/2UUGMMQ"
+		"imgLogo": "https://www.w3newspapers.com/india/marathi/images/marathwadaneta.png",
+		    "name": "Marathwada Neta",
+		"link": "http://www.marathwadaneta.com/"
+},
+{
+		"imgLogo": "https://www.w3newspapers.com/india/marathi/images/lokprashna.png",
+		    "name": "Lok Prashn",
+		"link": "http://www.lokprashna.com/"
 }
 ]
