@@ -580,6 +580,15 @@
 		"pub": "08-01-2020"
 	},
 	{
+		"name": "AIR Bangla",
+		"name_h": "QUlSIEJhbmdsYQ==",
+		"url": "https://radioindia.net/radio/air_bangla_radio/icecast.audio",
+		"samplerate": "",
+		"cat": "Hindi",
+		"image": "https://onlineradiofm.in/assets/image/radio/180/air-bangla.jpg",
+		"pub": "15-09-2020"
+	},
+	{
 		"name": "AIR Almora",
 		"name_h": "QUlSIEFsbW9yYQ==",
 		"url": "https://airlsmp8-lh.akamaihd.net/i/AIRLSMP170_1@358837/master.m3u8",
