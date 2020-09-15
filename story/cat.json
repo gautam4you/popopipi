@@ -43,5 +43,14 @@
                  "rent": "paid",
 		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/horror.jpg"
 
+	},
+	 {
+		"name": "Mixe Story",
+		"name_h": "SG9ycm9yIFN0b3J5",
+		"url": "https://raw.githubusercontent.com/gautam4you/popopipi/master/story/Horror/mixed.json",
+		"pub": "04-05-2019",
+                 "rent": "paid",
+		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/horror.jpg"
+
 	}
 ]
