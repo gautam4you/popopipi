@@ -37,14 +37,6 @@
 			"extraLink": "",
 			"title": "Jai Ganga Maiya",
 			"moreButton": true
-		},
-			
-			{
-			"videosListId": "om.json",
-			"type": "YP",
-			"extraLink": "",
-			"title": "Om Namah Shivaya",
-			"moreButton": true
 		}
 	],
 	"ExtraHomeVideosList": [{
