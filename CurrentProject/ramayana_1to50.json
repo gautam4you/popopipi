@@ -1,587 +1,2554 @@
 {
-  "kind": "youtube#playlistItemListResponse",
-  "etag": "AdUbUmHbhwOuh9R-ZMdeOiK0pHk",
-  "items": [
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "FDcAISGC311zlWX-KKjhIzhZjK0",
-      "id": "UExGcl9qa3dVcDBoaXktUktEM0pLMTJEMy0zQVVTVC1OVC41RDUzRjJFQ0Y0MUI3NzU1",
-      "snippet": {
-        "publishedAt": "2020-09-17T12:29:13Z",
-        "channelId": "UCHJ7nJjkqa1E8eYsYJlJkCw",
-        "title": "Ramayan episode-4",
-        "description": "https://youtu.be/5YkA969eRHQ",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/5YkA969eRHQ/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/5YkA969eRHQ/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/5YkA969eRHQ/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/5YkA969eRHQ/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          }
-        },
-        "channelTitle": "Vivek kumar",
-        "playlistId": "PLFr_jkwUp0hiy-RKD3JK12D3-3AUST-NT",
-        "position": 0,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "5YkA969eRHQ"
-        }
-      },
-      "contentDetails": {
-        "videoId": "5YkA969eRHQ",
-        "videoPublishedAt": "2020-04-14T22:27:36Z"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "ABiYLEPEpOdwOdnLvrW664J_PzQ",
-      "id": "UExGcl9qa3dVcDBoaXktUktEM0pLMTJEMy0zQVVTVC1OVC44QjNCNkRENjNFQTBEMUND",
-      "snippet": {
-        "publishedAt": "2020-09-18T11:17:52Z",
-        "channelId": "UCHJ7nJjkqa1E8eYsYJlJkCw",
-        "title": "Ramayan - रामायण - Episode 3 - Ramanand Sagar Ramayan - Full Episode",
-        "description": "Ramayan - रामायण - Episode 3 - Ramanand Sagar Ramayan - Full Episode\n\nThe Untold story NVA",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/LiBJAwKiy6Y/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/LiBJAwKiy6Y/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/LiBJAwKiy6Y/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/LiBJAwKiy6Y/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          }
-        },
-        "channelTitle": "Vivek kumar",
-        "playlistId": "PLFr_jkwUp0hiy-RKD3JK12D3-3AUST-NT",
-        "position": 1,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "LiBJAwKiy6Y"
-        }
-      },
-      "contentDetails": {
-        "videoId": "LiBJAwKiy6Y",
-        "videoPublishedAt": "2020-07-17T01:50:01Z"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "8IXYm0w6mDVi9h3cTi2AjFnYtq4",
-      "id": "UExGcl9qa3dVcDBoaXktUktEM0pLMTJEMy0zQVVTVC1OVC5EMUJFNzRCNDRFQjE5RjM4",
-      "snippet": {
-        "publishedAt": "2020-09-18T11:17:17Z",
-        "channelId": "UCHJ7nJjkqa1E8eYsYJlJkCw",
-        "title": "Ramayan   रामायण   Episode 2  Ramanand Sagar Ramayan   Full Episode",
-        "description": "Ramayan   रामायण   Episode 2  Ramanand Sagar Ramayan   Full Episode,\n#ramayan , #ram , #ramsita , #रामायण , ramanand sagar ramayan , ramayan episode 1 , ram janm , ram ravan , ravan , sita , ramlila , sita ram , siya ram , kid ram , begnning of ramayan , ravan dehan , sita haran , hanuman , lord ram , lord hanuman , lakshman , dashrath , राम , सीता , सिया राम , रावण , रावण वाध , दशहरा , दीप उत्सव , वनवास , राम वनवास , Ram Vanvas , लक्ष्मण , भरत मिलाप , Kumbhkaran , कुंभकरण , लंकापति , लंका , आयोध्या , Ayodhya , दशरथ , हनुमान , लंका दहन , Lanka dehan , गुरुकुल , राम विवाह , Ram Vivah , lav kush , ramnavmi,Ramayanlive,\nRamayanRamanandSagarFull,\nSampurnaRamayan,\nRamayanLive,\nDDnationalLive,\nramayan,\nDdnational,\n#ramayanyudh, ramayan live today episode , 29 April ramayan live 9pm , ramayan live 29 April today , DD national ramayan live today , ramayan live DD national today , ramayan live aaj ka episode , ramayan 29 April live today episode DD national , 29 April ramayan , 30 April ramayan live , ramayan aaj ka episode live , DD National",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/0ozQCvitLpQ/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/0ozQCvitLpQ/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/0ozQCvitLpQ/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/0ozQCvitLpQ/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          }
-        },
-        "channelTitle": "Vivek kumar",
-        "playlistId": "PLFr_jkwUp0hiy-RKD3JK12D3-3AUST-NT",
-        "position": 2,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "0ozQCvitLpQ"
-        }
-      },
-      "contentDetails": {
-        "videoId": "0ozQCvitLpQ",
-        "videoPublishedAt": "2020-05-01T02:16:07Z"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "cG7L7aIc7hwbMFhDayJ_Kdr56fE",
-      "id": "UExGcl9qa3dVcDBoaXktUktEM0pLMTJEMy0zQVVTVC1OVC4wOTA3OTZBNzVEMTUzOTMy",
-      "snippet": {
-        "publishedAt": "2020-09-15T09:20:56Z",
-        "channelId": "UCHJ7nJjkqa1E8eYsYJlJkCw",
-        "title": "Ramayan Episode 05. Hari Om",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/J2zHdfgLgSU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/J2zHdfgLgSU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/J2zHdfgLgSU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/J2zHdfgLgSU/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          }
-        },
-        "channelTitle": "Vivek kumar",
-        "playlistId": "PLFr_jkwUp0hiy-RKD3JK12D3-3AUST-NT",
-        "position": 4,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "J2zHdfgLgSU"
-        }
-      },
-      "contentDetails": {
-        "videoId": "J2zHdfgLgSU",
-        "videoPublishedAt": "2020-07-05T02:21:15Z"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "YS0KY7zSBrzqPT7zCqAixzwiP3M",
-      "id": "UExGcl9qa3dVcDBoaXktUktEM0pLMTJEMy0zQVVTVC1OVC4xMkVGQjNCMUM1N0RFNEUx",
-      "snippet": {
-        "publishedAt": "2020-09-15T09:20:59Z",
-        "channelId": "UCHJ7nJjkqa1E8eYsYJlJkCw",
-        "title": "Ramayan Episode 06. Hari Om",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/pcsL8JuPWHw/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/pcsL8JuPWHw/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/pcsL8JuPWHw/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/pcsL8JuPWHw/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          }
-        },
-        "channelTitle": "Vivek kumar",
-        "playlistId": "PLFr_jkwUp0hiy-RKD3JK12D3-3AUST-NT",
-        "position": 5,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "pcsL8JuPWHw"
-        }
-      },
-      "contentDetails": {
-        "videoId": "pcsL8JuPWHw",
-        "videoPublishedAt": "2020-07-05T02:33:11Z"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "Gd-Ukj1_AYPBxUm1lPBwTGbfHic",
-      "id": "UExGcl9qa3dVcDBoaXktUktEM0pLMTJEMy0zQVVTVC1OVC41MzJCQjBCNDIyRkJDN0VD",
-      "snippet": {
-        "publishedAt": "2020-09-15T09:21:10Z",
-        "channelId": "UCHJ7nJjkqa1E8eYsYJlJkCw",
-        "title": "Ramayan Episode 07. Hari Om",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/eQqQn23nsl0/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/eQqQn23nsl0/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/eQqQn23nsl0/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/eQqQn23nsl0/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          }
-        },
-        "channelTitle": "Vivek kumar",
-        "playlistId": "PLFr_jkwUp0hiy-RKD3JK12D3-3AUST-NT",
-        "position": 6,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "eQqQn23nsl0"
-        }
-      },
-      "contentDetails": {
-        "videoId": "eQqQn23nsl0",
-        "videoPublishedAt": "2020-07-05T02:54:36Z"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "YqHo8D1bG6IBwYfC5vDdbY79ONI",
-      "id": "UExGcl9qa3dVcDBoaXktUktEM0pLMTJEMy0zQVVTVC1OVC5DQUNERDQ2NkIzRUQxNTY1",
-      "snippet": {
-        "publishedAt": "2020-09-15T09:21:14Z",
-        "channelId": "UCHJ7nJjkqa1E8eYsYJlJkCw",
-        "title": "Ramayan रामायण Episode 8  Ramanad Sagar  Full Episode",
-        "description": "Ramayan रामायण Episode 8 Full Episode",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Hj74xd922-4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Hj74xd922-4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Hj74xd922-4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/Hj74xd922-4/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/Hj74xd922-4/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Vivek kumar",
-        "playlistId": "PLFr_jkwUp0hiy-RKD3JK12D3-3AUST-NT",
-        "position": 7,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "Hj74xd922-4"
-        }
-      },
-      "contentDetails": {
-        "videoId": "Hj74xd922-4",
-        "videoPublishedAt": "2019-11-11T04:11:00Z"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "dF7P7GvLSeDSLfUMnPn1ECbocNI",
-      "id": "UExGcl9qa3dVcDBoaXktUktEM0pLMTJEMy0zQVVTVC1OVC45NDk1REZENzhEMzU5MDQz",
-      "snippet": {
-        "publishedAt": "2020-09-15T09:21:16Z",
-        "channelId": "UCHJ7nJjkqa1E8eYsYJlJkCw",
-        "title": "Ramayan  रामायण  Episode 9  Ramanand Sagar Ramayan  Full Episode  रामायण सीता हरण",
-        "description": "Ramayan   रामायण   Episode 9",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/W80UuzKL20A/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/W80UuzKL20A/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/W80UuzKL20A/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/W80UuzKL20A/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/W80UuzKL20A/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Vivek kumar",
-        "playlistId": "PLFr_jkwUp0hiy-RKD3JK12D3-3AUST-NT",
-        "position": 8,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "W80UuzKL20A"
-        }
-      },
-      "contentDetails": {
-        "videoId": "W80UuzKL20A",
-        "videoPublishedAt": "2019-11-17T08:02:59Z"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "fu4vzd8NvaUR-UdhnzKRKAYEcRw",
-      "id": "UExGcl9qa3dVcDBoaXktUktEM0pLMTJEMy0zQVVTVC1OVC5GNjNDRDREMDQxOThCMDQ2",
-      "snippet": {
-        "publishedAt": "2020-09-15T09:21:20Z",
-        "channelId": "UCHJ7nJjkqa1E8eYsYJlJkCw",
-        "title": "Ramayan रामायण Episode 10  Ramanand Sagar Ramayan Full Episode",
-        "description": "Ramayan   रामायण   Episode 10",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/SscgjFUGEeU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/SscgjFUGEeU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/SscgjFUGEeU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/SscgjFUGEeU/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/SscgjFUGEeU/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Vivek kumar",
-        "playlistId": "PLFr_jkwUp0hiy-RKD3JK12D3-3AUST-NT",
-        "position": 9,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "SscgjFUGEeU"
-        }
-      },
-      "contentDetails": {
-        "videoId": "SscgjFUGEeU",
-        "videoPublishedAt": "2019-11-19T11:00:58Z"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "MRM7TyeBJugMdhGPiZk2Q2_599Y",
-      "id": "UExGcl9qa3dVcDBoaXktUktEM0pLMTJEMy0zQVVTVC1OVC4zMEQ1MEIyRTFGNzhDQzFB",
-      "snippet": {
-        "publishedAt": "2020-09-17T09:51:45Z",
-        "channelId": "UCHJ7nJjkqa1E8eYsYJlJkCw",
-        "title": "Full Ramayan Episode - 11 ( फुल रामायण ) - HD Ramayan - Ramanand Sagar Ramayan gangotrisangam",
-        "description": "Full Ramayan Episode - 11 ( फुल रामायण ) - HD Ramayan - Ramanand Sagar Ramayan Gangotrisangam\n#Subscribe_my_channel_please",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/MD7s3jwAF-8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/MD7s3jwAF-8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/MD7s3jwAF-8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/MD7s3jwAF-8/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          }
-        },
-        "channelTitle": "Vivek kumar",
-        "playlistId": "PLFr_jkwUp0hiy-RKD3JK12D3-3AUST-NT",
-        "position": 10,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "MD7s3jwAF-8"
-        }
-      },
-      "contentDetails": {
-        "videoId": "MD7s3jwAF-8",
-        "videoPublishedAt": "2020-09-10T13:17:02Z"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "WGCQchRXkCT24kYbbJEnT_39s4c",
-      "id": "UExGcl9qa3dVcDBoaXktUktEM0pLMTJEMy0zQVVTVC1OVC5FRjdGNDMzN0I2RTI3MDlG",
-      "snippet": {
-        "publishedAt": "2020-09-17T12:29:38Z",
-        "channelId": "UCHJ7nJjkqa1E8eYsYJlJkCw",
-        "title": "Deleted video",
-        "description": "This video is unavailable.",
-        "thumbnails": {
-          
-        },
-        "channelTitle": "Vivek kumar",
-        "playlistId": "PLFr_jkwUp0hiy-RKD3JK12D3-3AUST-NT",
-        "position": 11,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "7wPOKfqmXYM"
-        }
-      },
-      "contentDetails": {
-        "videoId": "7wPOKfqmXYM"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "Do-Brf8IY4yJedzOmTV9iYWHnhE",
-      "id": "UExGcl9qa3dVcDBoaXktUktEM0pLMTJEMy0zQVVTVC1OVC4yM0EyQ0U1M0I2RkIwNTQ0",
-      "snippet": {
-        "publishedAt": "2020-09-17T10:53:02Z",
-        "channelId": "UCHJ7nJjkqa1E8eYsYJlJkCw",
-        "title": "संपूर्ण HD रामायण भाग  17    Sampoorna HD Ramayana Part   17 Ramanand Sagar's Ramayan",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/fZlOlVGwT0g/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/fZlOlVGwT0g/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/fZlOlVGwT0g/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/fZlOlVGwT0g/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/fZlOlVGwT0g/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Vivek kumar",
-        "playlistId": "PLFr_jkwUp0hiy-RKD3JK12D3-3AUST-NT",
-        "position": 16,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "fZlOlVGwT0g"
-        }
-      },
-      "contentDetails": {
-        "videoId": "fZlOlVGwT0g",
-        "videoPublishedAt": "2020-09-12T15:36:18Z"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "e8mpRglaDDTalhcy3O6J0dH-E3M",
-      "id": "UExGcl9qa3dVcDBoaXktUktEM0pLMTJEMy0zQVVTVC1OVC41ODIyMTgwQzA4NjJCQkZC",
-      "snippet": {
-        "publishedAt": "2020-09-18T01:15:09Z",
-        "channelId": "UCHJ7nJjkqa1E8eYsYJlJkCw",
-        "title": "Ramayana: Episode -  21 || Ramanand Sagar Series.",
-        "description": "The Ramayana is an ancient Sanskrit epic about Rama. It is one of the two most important ancient epics of India, the first one being the ancient Mahabharata. The epic was originally written by sage (rishi) Valmiki of Ancient India. The book has about 96,000 verses and is divided into seven parts.\n\nThe story of the Ramayana is about Prince Rama who has been exiled from his kingdom of Ayodhya. He goes on to kill king Ravana of Lanka in a long battle.\n\nDifferent versions of the book are available. It has been translated into all the major languages of the world.\n\nThe different parts of the Ramayana are also called books. These seven parts or books are noted below:\n\nThe first book is Balakand, meaning the book of childhood.\nThe second book is Ayodhyakanda, meaning the book of Ayodhya.\nThe third book is Aranyakanda, meaning the book of the forests.\nThe fourth book is Kishkindhakanda, meaning the book of Kishkindha.\nThe fifth book is Sundarakanda, meaning the book beautiful.\nThe sixth book is Yuddhakanda, meaning the book of the war.\nThe seventh book is Uttarakanda, meaning the book of after events.\nThere are different views about the time the Ramayana was written. Some people believe that it was written 2,500 years ago. Others think that it was written around 1,800 years ago. All agree that the book is very old and was written before the Mahabharata.\n\nThe Ramayana is still very popular today. Every autumn the Ramlila (Rama play) is performed at the festival of Dassehra. A huge model of Ravana is set alight. This symbolizes the triumph of light over darkness. He is also believed that he turned in to krhna and also many more\n\nA Tamil version of the book was written between the 9th and 10th centuries. The writer of this book was Kamban. This version is known as Iramavataram, which means coming of Rama. In the 16th century, Tulasidas wrote a Hindi version of Ramayana. This was named Ramacharitmanasa. Over many centuries, the story of Rama reached places in other countries like Indonesia and Malaysia. The Ramayana has been translated into most of the major languages of the world.\n\nThe Ramayana was used in Ancient India for the teaching of young children. It was mainly used for acting out their religious beliefs so that their children knew that they were to worship the main Hindu beliefs that were: Brahman, Multiples gods, Dharma, Samsara, and Karma the sita and Rama was a beautiful couple.\n\nThe characters Rama, Sita, Lakshmana, Bharata, Hanuman, and Ravana are all fundamental to the cultural consciousness of the South Asian nations of India, Nepal, Sri Lanka, and the South-East Asian countries of Thailand, Cambodia, Malaysia, and Indonesia.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/4qNp2pioZTQ/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/4qNp2pioZTQ/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/4qNp2pioZTQ/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/4qNp2pioZTQ/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/4qNp2pioZTQ/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Vivek kumar",
-        "playlistId": "PLFr_jkwUp0hiy-RKD3JK12D3-3AUST-NT",
-        "position": 20,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "4qNp2pioZTQ"
-        }
-      },
-      "contentDetails": {
-        "videoId": "4qNp2pioZTQ",
-        "videoPublishedAt": "2020-06-24T02:57:15Z"
-      }
-    }
-  ],
-  "pageInfo": {
-    "totalResults": 50,
-    "resultsPerPage": 50
-  }
+"kind": "youtube#playlistItemListResponse",
+"etag": "8QK3LO_0R467C2MG93q13kJI1rs",
+"nextPageToken": "CDIQAA",
+"items": [
+  {
+"kind": "youtube#playlistItem",
+"etag": "Fqz8E0dzgmbYEpxCPzpxHKOoGaU",
+"id": "UExvcWlnUDZmSmk3UG15VGdDTUdoZ25ERlJDM2RwT0otZC41NkI0NEY2RDEwNTU3Q0M2",
+"snippet": {
+"publishedAt": "2020-09-20T03:04:29Z",
+"channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
+"title": "Ramayan | Episode 01 | Ramanand Sagar's Ramayan | Arun Govil",
+"description": "Watch The Most Epic Serial of Indian History \"Ramayan\"\n.\nAiring on DD National Daily at 9:00AM\n\nEpisode 1\n\n\nCast:-\n\nArun Govil as Ram/Vishnu\n\nDeepika Chikhalia as Sita/Lakshmi\n\nSunil Lahri as Lakshman\n\nArvind Trivedi as Ravana / Sage Vishrava\n\nDara Singh as Hanuman\n\nSanjay Jog as Bharat\n\nSameer Rajda as Shatrughna\n\nBal Dhuri as Dasharatha\n\nJayshree Gadkar as Kausalya\n\nPadma Khanna as Kaikeyi\n\nRajni Bala as Sumitra\n\nLalita Pawar as Manthara\n\nVijay Arora as Indrajit\n\nNalin Dave as Kumbhakarna\n\nMukesh Rawal as Vibhishana\n\nAparajita Bhushan as Mandodari\n\nShyamsundar Kaalaani as Sugriva / Vali",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/Wiv_UIpwUsc/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/Wiv_UIpwUsc/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/Wiv_UIpwUsc/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/Wiv_UIpwUsc/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/Wiv_UIpwUsc/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "look jonson",
+"playlistId": "PLoqigP6fJi7PmyTgCMGhgnDFRC3dpOJ-d",
+"position": 0,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "Wiv_UIpwUsc"
+}
+},
+"contentDetails": {
+"videoId": "Wiv_UIpwUsc",
+"videoPublishedAt": "2020-04-14T03:30:35Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "eId46apgNzT7aQ3_s5BPCtymrrE",
+"id": "UExvcWlnUDZmSmk3UG15VGdDTUdoZ25ERlJDM2RwT0otZC4yODlGNEE0NkRGMEEzMEQy",
+"snippet": {
+"publishedAt": "2020-09-20T03:04:38Z",
+"channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
+"title": "Ramayan   रामायण   Episode 2  Ramanand Sagar Ramayan   Full Episode",
+"description": "Ramayan   रामायण   Episode 2  Ramanand Sagar Ramayan   Full Episode,\n#ramayan , #ram , #ramsita , #रामायण , ramanand sagar ramayan , ramayan episode 1 , ram janm , ram ravan , ravan , sita , ramlila , sita ram , siya ram , kid ram , begnning of ramayan , ravan dehan , sita haran , hanuman , lord ram , lord hanuman , lakshman , dashrath , राम , सीता , सिया राम , रावण , रावण वाध , दशहरा , दीप उत्सव , वनवास , राम वनवास , Ram Vanvas , लक्ष्मण , भरत मिलाप , Kumbhkaran , कुंभकरण , लंकापति , लंका , आयोध्या , Ayodhya , दशरथ , हनुमान , लंका दहन , Lanka dehan , गुरुकुल , राम विवाह , Ram Vivah , lav kush , ramnavmi,Ramayanlive,\nRamayanRamanandSagarFull,\nSampurnaRamayan,\nRamayanLive,\nDDnationalLive,\nramayan,\nDdnational,\n#ramayanyudh, ramayan live today episode , 29 April ramayan live 9pm , ramayan live 29 April today , DD national ramayan live today , ramayan live DD national today , ramayan live aaj ka episode , ramayan 29 April live today episode DD national , 29 April ramayan , 30 April ramayan live , ramayan aaj ka episode live , DD National",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/0ozQCvitLpQ/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/0ozQCvitLpQ/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/0ozQCvitLpQ/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/0ozQCvitLpQ/sddefault.jpg",
+"width": 640,
+"height": 480
+}
+},
+"channelTitle": "look jonson",
+"playlistId": "PLoqigP6fJi7PmyTgCMGhgnDFRC3dpOJ-d",
+"position": 1,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "0ozQCvitLpQ"
+}
+},
+"contentDetails": {
+"videoId": "0ozQCvitLpQ",
+"videoPublishedAt": "2020-05-01T02:16:07Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "G28WVfvQqVbpsxaf3fusE50DDJU",
+"id": "UExGcl9qa3dVcDBoZzdWLVMzVG03ZmlzTWxjZVIzT1VINy41NkI0NEY2RDEwNTU3Q0M2",
+"snippet": {
+"publishedAt": "2020-09-18T13:51:58Z",
+"channelId": "UCHJ7nJjkqa1E8eYsYJlJkCw",
+"title": "Ramayan (रामायण) Episode 03 (English Subtitles)",
+"description": "रामायण एक महाकाव्य भारतीय टेलीविजन श्रृंखला है जो इसी नाम के प्राचीन भारतीय संस्कृत महाकाव्य पर आधारित है। यह शो मूल रूप से 1987 और 1988 के बीच डीडी नेशनल पर प्रसारित किया गया था। यह रामानंद सागर द्वारा निर्मित, लिखित और निर्देशित था। यह शो मुख्य रूप से वाल्मीकि के रामायण और तुलसीदास के रामचरितमानस पर आधारित है।\nइस श्रृंखला में 82 प्रतिशत दर्शकों की संख्या थी, जो किसी भी भारतीय टेलीविजन श्रृंखला के लिए रिकॉर्ड ऊंचाई थी। श्रृंखला के प्रत्येक एपिसोड ने कथित तौर पर डीडी नेशनल reported 40 लाख की कमाई की।\nइस श्रृंखला को 2020 के कोरोनावायरस लॉकडाउन के दौरान दिखाया गया था और विश्व स्तर पर कई दर्शकों के रिकॉर्ड को तोड़ दिया था जिसमें दुनिया में अब तक के सबसे ज्यादा देखे जाने वाले टीवी शो में रिकॉर्ड स्थापित करना भी शामिल है (यानी 16 अप्रैल, 2020 को 77 मिलियन दर्शक)।\nRamayan is an epic Indian television series based on ancient Indian Sanskrit epic of the same name. The show was originally aired between 1987 and 1988 on DD National. It was created, written, and directed by Ramanand Sagar.The show is primarily based on Valmiki's Ramayan and Tulsidas' Ramcharitmanas.\nThe series had a viewership of 82 per cent, a record high for any Indian television series. Each episode of the series reportedly earned DD National ₹40 lakh.\nThe series was reaired during the 2020 Coronavirus lockdown and broke several viewership records globally which includes setting the record for one of the most watched TV show ever in the world ( i.e 77 millions viewers on 16th april, 2020).",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/9AVD9YRoecU/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/9AVD9YRoecU/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/9AVD9YRoecU/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/9AVD9YRoecU/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/9AVD9YRoecU/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Vivek kumar",
+"playlistId": "PLFr_jkwUp0hg7V-S3Tm7fisMlceR3OUH7",
+"position": 0,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "9AVD9YRoecU"
+}
+},
+"contentDetails": {
+"videoId": "9AVD9YRoecU",
+"videoPublishedAt": "2020-06-19T11:33:39Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "O9y-NSkC1YpcuKqo4a2RXW9Y2DA",
+"id": "UExGcl9qa3dVcDBoZzdWLVMzVG03ZmlzTWxjZVIzT1VINy4yODlGNEE0NkRGMEEzMEQy",
+"snippet": {
+"publishedAt": "2020-09-18T13:52:05Z",
+"channelId": "UCHJ7nJjkqa1E8eYsYJlJkCw",
+"title": "Ramayan (रामायण) Episode 04 (English Subtitles)",
+"description": "रामायण एक महाकाव्य भारतीय टेलीविजन श्रृंखला है जो इसी नाम के प्राचीन भारतीय संस्कृत महाकाव्य पर आधारित है। यह शो मूल रूप से 1987 और 1988 के बीच डीडी नेशनल पर प्रसारित किया गया था। यह रामानंद सागर द्वारा निर्मित, लिखित और निर्देशित था। यह शो मुख्य रूप से वाल्मीकि के रामायण और तुलसीदास के रामचरितमानस पर आधारित है।\nइस श्रृंखला में 82 प्रतिशत दर्शकों की संख्या थी, जो किसी भी भारतीय टेलीविजन श्रृंखला के लिए रिकॉर्ड ऊंचाई थी। श्रृंखला के प्रत्येक एपिसोड ने कथित तौर पर डीडी नेशनल reported 40 लाख की कमाई की।\nइस श्रृंखला को 2020 के कोरोनावायरस लॉकडाउन के दौरान दिखाया गया था और विश्व स्तर पर कई दर्शकों के रिकॉर्ड को तोड़ दिया था जिसमें दुनिया में अब तक के सबसे ज्यादा देखे जाने वाले टीवी शो में रिकॉर्ड स्थापित करना भी शामिल है (यानी 16 अप्रैल, 2020 को 77 मिलियन दर्शक)।\nRamayan is an epic Indian television series based on ancient Indian Sanskrit epic of the same name. The show was originally aired between 1987 and 1988 on DD National. It was created, written, and directed by Ramanand Sagar.The show is primarily based on Valmiki's Ramayan and Tulsidas' Ramcharitmanas.\nThe series had a viewership of 82 per cent, a record high for any Indian television series. Each episode of the series reportedly earned DD National ₹40 lakh.\nThe series was reaired during the 2020 Coronavirus lockdown and broke several viewership records globally which includes setting the record for one of the most watched TV show ever in the world ( i.e 77 millions viewers on 16th april, 2020).",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/Yz9J9Ao2SxI/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/Yz9J9Ao2SxI/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/Yz9J9Ao2SxI/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/Yz9J9Ao2SxI/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/Yz9J9Ao2SxI/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Vivek kumar",
+"playlistId": "PLFr_jkwUp0hg7V-S3Tm7fisMlceR3OUH7",
+"position": 1,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "Yz9J9Ao2SxI"
+}
+},
+"contentDetails": {
+"videoId": "Yz9J9Ao2SxI",
+"videoPublishedAt": "2020-06-19T11:46:51Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "N7WPQ7ksUVU9Fe5Qy7PMkl91zEo",
+"id": "UExGcl9qa3dVcDBoZzdWLVMzVG03ZmlzTWxjZVIzT1VINy4wMTcyMDhGQUE4NTIzM0Y5",
+"snippet": {
+"publishedAt": "2020-09-18T13:52:09Z",
+"channelId": "UCHJ7nJjkqa1E8eYsYJlJkCw",
+"title": "Ramayan (रामायण) Episode 05 (English Subtitles)",
+"description": "रामायण एक महाकाव्य भारतीय टेलीविजन श्रृंखला है जो इसी नाम के प्राचीन भारतीय संस्कृत महाकाव्य पर आधारित है। यह शो मूल रूप से 1987 और 1988 के बीच डीडी नेशनल पर प्रसारित किया गया था। यह रामानंद सागर द्वारा निर्मित, लिखित और निर्देशित था। यह शो मुख्य रूप से वाल्मीकि के रामायण और तुलसीदास के रामचरितमानस पर आधारित है।\nइस श्रृंखला में 82 प्रतिशत दर्शकों की संख्या थी, जो किसी भी भारतीय टेलीविजन श्रृंखला के लिए रिकॉर्ड ऊंचाई थी। श्रृंखला के प्रत्येक एपिसोड ने कथित तौर पर डीडी नेशनल reported 40 लाख की कमाई की।\nइस श्रृंखला को 2020 के कोरोनावायरस लॉकडाउन के दौरान दिखाया गया था और विश्व स्तर पर कई दर्शकों के रिकॉर्ड को तोड़ दिया था जिसमें दुनिया में अब तक के सबसे ज्यादा देखे जाने वाले टीवी शो में रिकॉर्ड स्थापित करना भी शामिल है (यानी 16 अप्रैल, 2020 को 77 मिलियन दर्शक)।\nRamayan is an epic Indian television series based on ancient Indian Sanskrit epic of the same name. The show was originally aired between 1987 and 1988 on DD National. It was created, written, and directed by Ramanand Sagar.The show is primarily based on Valmiki's Ramayan and Tulsidas' Ramcharitmanas.\nThe series had a viewership of 82 per cent, a record high for any Indian television series. Each episode of the series reportedly earned DD National ₹40 lakh.\nThe series was reaired during the 2020 Coronavirus lockdown and broke several viewership records globally which includes setting the record for one of the most watched TV show ever in the world ( i.e 77 millions viewers on 16th april, 2020).",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/zNNmqBa5wII/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/zNNmqBa5wII/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/zNNmqBa5wII/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/zNNmqBa5wII/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/zNNmqBa5wII/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Vivek kumar",
+"playlistId": "PLFr_jkwUp0hg7V-S3Tm7fisMlceR3OUH7",
+"position": 2,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "zNNmqBa5wII"
+}
+},
+"contentDetails": {
+"videoId": "zNNmqBa5wII",
+"videoPublishedAt": "2020-06-19T11:56:24Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "HupTaIGKA4vUw8NEDr764Cy6wrs",
+"id": "UExGcl9qa3dVcDBoZzdWLVMzVG03ZmlzTWxjZVIzT1VINy41MjE1MkI0OTQ2QzJGNzNG",
+"snippet": {
+"publishedAt": "2020-09-18T13:52:12Z",
+"channelId": "UCHJ7nJjkqa1E8eYsYJlJkCw",
+"title": "Ramayan (रामायण) Episode 06 (English Subtitles)",
+"description": "रामायण एक महाकाव्य भारतीय टेलीविजन श्रृंखला है जो इसी नाम के प्राचीन भारतीय संस्कृत महाकाव्य पर आधारित है। यह शो मूल रूप से 1987 और 1988 के बीच डीडी नेशनल पर प्रसारित किया गया था। यह रामानंद सागर द्वारा निर्मित, लिखित और निर्देशित था। यह शो मुख्य रूप से वाल्मीकि के रामायण और तुलसीदास के रामचरितमानस पर आधारित है।\nइस श्रृंखला में 82 प्रतिशत दर्शकों की संख्या थी, जो किसी भी भारतीय टेलीविजन श्रृंखला के लिए रिकॉर्ड ऊंचाई थी। श्रृंखला के प्रत्येक एपिसोड ने कथित तौर पर डीडी नेशनल reported 40 लाख की कमाई की।\nइस श्रृंखला को 2020 के कोरोनावायरस लॉकडाउन के दौरान दिखाया गया था और विश्व स्तर पर कई दर्शकों के रिकॉर्ड को तोड़ दिया था जिसमें दुनिया में अब तक के सबसे ज्यादा देखे जाने वाले टीवी शो में रिकॉर्ड स्थापित करना भी शामिल है (यानी 16 अप्रैल, 2020 को 77 मिलियन दर्शक)।\nRamayan is an epic Indian television series based on ancient Indian Sanskrit epic of the same name. The show was originally aired between 1987 and 1988 on DD National. It was created, written, and directed by Ramanand Sagar.The show is primarily based on Valmiki's Ramayan and Tulsidas' Ramcharitmanas.\nThe series had a viewership of 82 per cent, a record high for any Indian television series. Each episode of the series reportedly earned DD National ₹40 lakh.\nThe series was reaired during the 2020 Coronavirus lockdown and broke several viewership records globally which includes setting the record for one of the most watched TV show ever in the world ( i.e 77 millions viewers on 16th april, 2020).",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/1_c8V0myGEw/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/1_c8V0myGEw/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/1_c8V0myGEw/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/1_c8V0myGEw/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/1_c8V0myGEw/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Vivek kumar",
+"playlistId": "PLFr_jkwUp0hg7V-S3Tm7fisMlceR3OUH7",
+"position": 3,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "1_c8V0myGEw"
+}
+},
+"contentDetails": {
+"videoId": "1_c8V0myGEw",
+"videoPublishedAt": "2020-06-29T19:10:41Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "ccGXCmI9NfXyxpLJSVcZ8TwrTJk",
+"id": "UExGcl9qa3dVcDBoZzdWLVMzVG03ZmlzTWxjZVIzT1VINy4wOTA3OTZBNzVEMTUzOTMy",
+"snippet": {
+"publishedAt": "2020-09-18T13:52:15Z",
+"channelId": "UCHJ7nJjkqa1E8eYsYJlJkCw",
+"title": "Ramayan (रामायण) Episode 07 (English Subtitles)",
+"description": "रामायण एक महाकाव्य भारतीय टेलीविजन श्रृंखला है जो इसी नाम के प्राचीन भारतीय संस्कृत महाकाव्य पर आधारित है। यह शो मूल रूप से 1987 और 1988 के बीच डीडी नेशनल पर प्रसारित किया गया था। यह रामानंद सागर द्वारा निर्मित, लिखित और निर्देशित था। यह शो मुख्य रूप से वाल्मीकि के रामायण और तुलसीदास के रामचरितमानस पर आधारित है।\nइस श्रृंखला में 82 प्रतिशत दर्शकों की संख्या थी, जो किसी भी भारतीय टेलीविजन श्रृंखला के लिए रिकॉर्ड ऊंचाई थी। श्रृंखला के प्रत्येक एपिसोड ने कथित तौर पर डीडी नेशनल reported 40 लाख की कमाई की।\nइस श्रृंखला को 2020 के कोरोनावायरस लॉकडाउन के दौरान दिखाया गया था और विश्व स्तर पर कई दर्शकों के रिकॉर्ड को तोड़ दिया था जिसमें दुनिया में अब तक के सबसे ज्यादा देखे जाने वाले टीवी शो में रिकॉर्ड स्थापित करना भी शामिल है (यानी 16 अप्रैल, 2020 को 77 मिलियन दर्शक)।\nRamayan is an epic Indian television series based on ancient Indian Sanskrit epic of the same name. The show was originally aired between 1987 and 1988 on DD National. It was created, written, and directed by Ramanand Sagar.The show is primarily based on Valmiki's Ramayan and Tulsidas' Ramcharitmanas.\nThe series had a viewership of 82 per cent, a record high for any Indian television series. Each episode of the series reportedly earned DD National ₹40 lakh.\nThe series was reaired during the 2020 Coronavirus lockdown and broke several viewership records globally which includes setting the record for one of the most watched TV show ever in the world ( i.e 77 millions viewers on 16th april, 2020).",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/DPqyc_5ZuWI/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/DPqyc_5ZuWI/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/DPqyc_5ZuWI/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/DPqyc_5ZuWI/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/DPqyc_5ZuWI/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Vivek kumar",
+"playlistId": "PLFr_jkwUp0hg7V-S3Tm7fisMlceR3OUH7",
+"position": 4,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "DPqyc_5ZuWI"
+}
+},
+"contentDetails": {
+"videoId": "DPqyc_5ZuWI",
+"videoPublishedAt": "2020-06-29T19:17:32Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "8yohXBOvdsA5zDIJF8S8SNesacs",
+"id": "UExGcl9qa3dVcDBoZzdWLVMzVG03ZmlzTWxjZVIzT1VINy4xMkVGQjNCMUM1N0RFNEUx",
+"snippet": {
+"publishedAt": "2020-09-18T13:52:22Z",
+"channelId": "UCHJ7nJjkqa1E8eYsYJlJkCw",
+"title": "Ramayan (रामायण) Episode 09 (English Subtitles)",
+"description": "रामायण एक महाकाव्य भारतीय टेलीविजन श्रृंखला है जो इसी नाम के प्राचीन भारतीय संस्कृत महाकाव्य पर आधारित है। यह शो मूल रूप से 1987 और 1988 के बीच डीडी नेशनल पर प्रसारित किया गया था। यह रामानंद सागर द्वारा निर्मित, लिखित और निर्देशित था। यह शो मुख्य रूप से वाल्मीकि के रामायण और तुलसीदास के रामचरितमानस पर आधारित है।\nइस श्रृंखला में 82 प्रतिशत दर्शकों की संख्या थी, जो किसी भी भारतीय टेलीविजन श्रृंखला के लिए रिकॉर्ड ऊंचाई थी। श्रृंखला के प्रत्येक एपिसोड ने कथित तौर पर डीडी नेशनल reported 40 लाख की कमाई की।\nइस श्रृंखला को 2020 के कोरोनावायरस लॉकडाउन के दौरान दिखाया गया था और विश्व स्तर पर कई दर्शकों के रिकॉर्ड को तोड़ दिया था जिसमें दुनिया में अब तक के सबसे ज्यादा देखे जाने वाले टीवी शो में रिकॉर्ड स्थापित करना भी शामिल है (यानी 16 अप्रैल, 2020 को 77 मिलियन दर्शक)।\nRamayan is an epic Indian television series based on ancient Indian Sanskrit epic of the same name. The show was originally aired between 1987 and 1988 on DD National. It was created, written, and directed by Ramanand Sagar.The show is primarily based on Valmiki's Ramayan and Tulsidas' Ramcharitmanas.\nThe series had a viewership of 82 per cent, a record high for any Indian television series. Each episode of the series reportedly earned DD National ₹40 lakh.\nThe series was reaired during the 2020 Coronavirus lockdown and broke several viewership records globally which includes setting the record for one of the most watched TV show ever in the world ( i.e 77 millions viewers on 16th april, 2020).",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/0VlFUglEeQQ/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/0VlFUglEeQQ/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/0VlFUglEeQQ/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/0VlFUglEeQQ/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/0VlFUglEeQQ/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Vivek kumar",
+"playlistId": "PLFr_jkwUp0hg7V-S3Tm7fisMlceR3OUH7",
+"position": 5,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "0VlFUglEeQQ"
+}
+},
+"contentDetails": {
+"videoId": "0VlFUglEeQQ",
+"videoPublishedAt": "2020-06-29T19:25:32Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "9wsUgWSTUC-jmUL8lReR5jJptug",
+"id": "UExGcl9qa3dVcDBoZzdWLVMzVG03ZmlzTWxjZVIzT1VINy41MzJCQjBCNDIyRkJDN0VD",
+"snippet": {
+"publishedAt": "2020-09-18T13:52:25Z",
+"channelId": "UCHJ7nJjkqa1E8eYsYJlJkCw",
+"title": "Ramayan (रामायण) Episode 11 (English Subtitles)",
+"description": "रामायण एक महाकाव्य भारतीय टेलीविजन श्रृंखला है जो इसी नाम के प्राचीन भारतीय संस्कृत महाकाव्य पर आधारित है। यह शो मूल रूप से 1987 और 1988 के बीच डीडी नेशनल पर प्रसारित किया गया था। यह रामानंद सागर द्वारा निर्मित, लिखित और निर्देशित था। यह शो मुख्य रूप से वाल्मीकि के रामायण और तुलसीदास के रामचरितमानस पर आधारित है।\nइस श्रृंखला में 82 प्रतिशत दर्शकों की संख्या थी, जो किसी भी भारतीय टेलीविजन श्रृंखला के लिए रिकॉर्ड ऊंचाई थी। श्रृंखला के प्रत्येक एपिसोड ने कथित तौर पर डीडी नेशनल reported 40 लाख की कमाई की।\nइस श्रृंखला को 2020 के कोरोनावायरस लॉकडाउन के दौरान दिखाया गया था और विश्व स्तर पर कई दर्शकों के रिकॉर्ड को तोड़ दिया था जिसमें दुनिया में अब तक के सबसे ज्यादा देखे जाने वाले टीवी शो में रिकॉर्ड स्थापित करना भी शामिल है (यानी 16 अप्रैल, 2020 को 77 मिलियन दर्शक)।\nRamayan is an epic Indian television series based on ancient Indian Sanskrit epic of the same name. The show was originally aired between 1987 and 1988 on DD National. It was created, written, and directed by Ramanand Sagar.The show is primarily based on Valmiki's Ramayan and Tulsidas' Ramcharitmanas.\nThe series had a viewership of 82 per cent, a record high for any Indian television series. Each episode of the series reportedly earned DD National ₹40 lakh.\nThe series was reaired during the 2020 Coronavirus lockdown and broke several viewership records globally which includes setting the record for one of the most watched TV show ever in the world ( i.e 77 millions viewers on 16th april, 2020).",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/sxPfxxIHXFI/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/sxPfxxIHXFI/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/sxPfxxIHXFI/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/sxPfxxIHXFI/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/sxPfxxIHXFI/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Vivek kumar",
+"playlistId": "PLFr_jkwUp0hg7V-S3Tm7fisMlceR3OUH7",
+"position": 6,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "sxPfxxIHXFI"
+}
+},
+"contentDetails": {
+"videoId": "sxPfxxIHXFI",
+"videoPublishedAt": "2020-09-13T07:58:10Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "IHbAdTfko_QsOti51HqDIrMsECg",
+"id": "UExGcl9qa3dVcDBoZzdWLVMzVG03ZmlzTWxjZVIzT1VINy5DQUNERDQ2NkIzRUQxNTY1",
+"snippet": {
+"publishedAt": "2020-09-18T13:52:29Z",
+"channelId": "UCHJ7nJjkqa1E8eYsYJlJkCw",
+"title": "Ramayan (रामायण) Episode 12 (English Subtitles)",
+"description": "रामायण एक महाकाव्य भारतीय टेलीविजन श्रृंखला है जो इसी नाम के प्राचीन भारतीय संस्कृत महाकाव्य पर आधारित है। यह शो मूल रूप से 1987 और 1988 के बीच डीडी नेशनल पर प्रसारित किया गया था। यह रामानंद सागर द्वारा निर्मित, लिखित और निर्देशित था। यह शो मुख्य रूप से वाल्मीकि के रामायण और तुलसीदास के रामचरितमानस पर आधारित है।\nइस श्रृंखला में 82 प्रतिशत दर्शकों की संख्या थी, जो किसी भी भारतीय टेलीविजन श्रृंखला के लिए रिकॉर्ड ऊंचाई थी। श्रृंखला के प्रत्येक एपिसोड ने कथित तौर पर डीडी नेशनल reported 40 लाख की कमाई की।\nइस श्रृंखला को 2020 के कोरोनावायरस लॉकडाउन के दौरान दिखाया गया था और विश्व स्तर पर कई दर्शकों के रिकॉर्ड को तोड़ दिया था जिसमें दुनिया में अब तक के सबसे ज्यादा देखे जाने वाले टीवी शो में रिकॉर्ड स्थापित करना भी शामिल है (यानी 16 अप्रैल, 2020 को 77 मिलियन दर्शक)।\nRamayan is an epic Indian television series based on ancient Indian Sanskrit epic of the same name. The show was originally aired between 1987 and 1988 on DD National. It was created, written, and directed by Ramanand Sagar.The show is primarily based on Valmiki's Ramayan and Tulsidas' Ramcharitmanas.\nThe series had a viewership of 82 per cent, a record high for any Indian television series. Each episode of the series reportedly earned DD National ₹40 lakh.\nThe series was reaired during the 2020 Coronavirus lockdown and broke several viewership records globally which includes setting the record for one of the most watched TV show ever in the world ( i.e 77 millions viewers on 16th april, 2020).",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/uV_FmjdPYg8/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/uV_FmjdPYg8/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/uV_FmjdPYg8/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/uV_FmjdPYg8/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/uV_FmjdPYg8/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Vivek kumar",
+"playlistId": "PLFr_jkwUp0hg7V-S3Tm7fisMlceR3OUH7",
+"position": 7,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "uV_FmjdPYg8"
+}
+},
+"contentDetails": {
+"videoId": "uV_FmjdPYg8",
+"videoPublishedAt": "2020-09-13T07:59:52Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "czt4_S8zepGC_C9u2yJduSp-fu8",
+"id": "UExGcl9qa3dVcDBoZzdWLVMzVG03ZmlzTWxjZVIzT1VINy45NDk1REZENzhEMzU5MDQz",
+"snippet": {
+"publishedAt": "2020-09-18T13:52:33Z",
+"channelId": "UCHJ7nJjkqa1E8eYsYJlJkCw",
+"title": "Ramayan (रामायण) Episode 13 (English Subtitles)",
+"description": "रामायण एक महाकाव्य भारतीय टेलीविजन श्रृंखला है जो इसी नाम के प्राचीन भारतीय संस्कृत महाकाव्य पर आधारित है। यह शो मूल रूप से 1987 और 1988 के बीच डीडी नेशनल पर प्रसारित किया गया था। यह रामानंद सागर द्वारा निर्मित, लिखित और निर्देशित था। यह शो मुख्य रूप से वाल्मीकि के रामायण और तुलसीदास के रामचरितमानस पर आधारित है।\nइस श्रृंखला में 82 प्रतिशत दर्शकों की संख्या थी, जो किसी भी भारतीय टेलीविजन श्रृंखला के लिए रिकॉर्ड ऊंचाई थी। श्रृंखला के प्रत्येक एपिसोड ने कथित तौर पर डीडी नेशनल reported 40 लाख की कमाई की।\nइस श्रृंखला को 2020 के कोरोनावायरस लॉकडाउन के दौरान दिखाया गया था और विश्व स्तर पर कई दर्शकों के रिकॉर्ड को तोड़ दिया था जिसमें दुनिया में अब तक के सबसे ज्यादा देखे जाने वाले टीवी शो में रिकॉर्ड स्थापित करना भी शामिल है (यानी 16 अप्रैल, 2020 को 77 मिलियन दर्शक)।\nRamayan is an epic Indian television series based on ancient Indian Sanskrit epic of the same name. The show was originally aired between 1987 and 1988 on DD National. It was created, written, and directed by Ramanand Sagar.The show is primarily based on Valmiki's Ramayan and Tulsidas' Ramcharitmanas.\nThe series had a viewership of 82 per cent, a record high for any Indian television series. Each episode of the series reportedly earned DD National ₹40 lakh.\nThe series was reaired during the 2020 Coronavirus lockdown and broke several viewership records globally which includes setting the record for one of the most watched TV show ever in the world ( i.e 77 millions viewers on 16th april, 2020).",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/qeQnh6u7ljY/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/qeQnh6u7ljY/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/qeQnh6u7ljY/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/qeQnh6u7ljY/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/qeQnh6u7ljY/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Vivek kumar",
+"playlistId": "PLFr_jkwUp0hg7V-S3Tm7fisMlceR3OUH7",
+"position": 8,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "qeQnh6u7ljY"
+}
+},
+"contentDetails": {
+"videoId": "qeQnh6u7ljY",
+"videoPublishedAt": "2020-09-13T08:02:01Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "9kBiu4AZKK1oqT-TFVneYtyTWtg",
+"id": "UExGcl9qa3dVcDBoZzdWLVMzVG03ZmlzTWxjZVIzT1VINy5GNjNDRDREMDQxOThCMDQ2",
+"snippet": {
+"publishedAt": "2020-09-18T13:52:36Z",
+"channelId": "UCHJ7nJjkqa1E8eYsYJlJkCw",
+"title": "Ramayan (रामायण) Episode 14 (English Subtitles)",
+"description": "रामायण एक महाकाव्य भारतीय टेलीविजन श्रृंखला है जो इसी नाम के प्राचीन भारतीय संस्कृत महाकाव्य पर आधारित है। यह शो मूल रूप से 1987 और 1988 के बीच डीडी नेशनल पर प्रसारित किया गया था। यह रामानंद सागर द्वारा निर्मित, लिखित और निर्देशित था। यह शो मुख्य रूप से वाल्मीकि के रामायण और तुलसीदास के रामचरितमानस पर आधारित है।\nइस श्रृंखला में 82 प्रतिशत दर्शकों की संख्या थी, जो किसी भी भारतीय टेलीविजन श्रृंखला के लिए रिकॉर्ड ऊंचाई थी। श्रृंखला के प्रत्येक एपिसोड ने कथित तौर पर डीडी नेशनल reported 40 लाख की कमाई की।\nइस श्रृंखला को 2020 के कोरोनावायरस लॉकडाउन के दौरान दिखाया गया था और विश्व स्तर पर कई दर्शकों के रिकॉर्ड को तोड़ दिया था जिसमें दुनिया में अब तक के सबसे ज्यादा देखे जाने वाले टीवी शो में रिकॉर्ड स्थापित करना भी शामिल है (यानी 16 अप्रैल, 2020 को 77 मिलियन दर्शक)।\nRamayan is an epic Indian television series based on ancient Indian Sanskrit epic of the same name. The show was originally aired between 1987 and 1988 on DD National. It was created, written, and directed by Ramanand Sagar.The show is primarily based on Valmiki's Ramayan and Tulsidas' Ramcharitmanas.\nThe series had a viewership of 82 per cent, a record high for any Indian television series. Each episode of the series reportedly earned DD National ₹40 lakh.\nThe series was reaired during the 2020 Coronavirus lockdown and broke several viewership records globally which includes setting the record for one of the most watched TV show ever in the world ( i.e 77 millions viewers on 16th april, 2020).",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/rVMw1_ALAZ8/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/rVMw1_ALAZ8/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/rVMw1_ALAZ8/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/rVMw1_ALAZ8/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/rVMw1_ALAZ8/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Vivek kumar",
+"playlistId": "PLFr_jkwUp0hg7V-S3Tm7fisMlceR3OUH7",
+"position": 9,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "rVMw1_ALAZ8"
+}
+},
+"contentDetails": {
+"videoId": "rVMw1_ALAZ8",
+"videoPublishedAt": "2020-09-13T08:03:25Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "gjnPWM1cqVTK4BT7B-hYnk7M1fc",
+"id": "UExGcl9qa3dVcDBoZzdWLVMzVG03ZmlzTWxjZVIzT1VINy40NzZCMERDMjVEN0RFRThB",
+"snippet": {
+"publishedAt": "2020-09-18T13:52:39Z",
+"channelId": "UCHJ7nJjkqa1E8eYsYJlJkCw",
+"title": "Ramayan (रामायण) Episode 15 (English Subtitles)",
+"description": "रामायण एक महाकाव्य भारतीय टेलीविजन श्रृंखला है जो इसी नाम के प्राचीन भारतीय संस्कृत महाकाव्य पर आधारित है। यह शो मूल रूप से 1987 और 1988 के बीच डीडी नेशनल पर प्रसारित किया गया था। यह रामानंद सागर द्वारा निर्मित, लिखित और निर्देशित था। यह शो मुख्य रूप से वाल्मीकि के रामायण और तुलसीदास के रामचरितमानस पर आधारित है।\nइस श्रृंखला में 82 प्रतिशत दर्शकों की संख्या थी, जो किसी भी भारतीय टेलीविजन श्रृंखला के लिए रिकॉर्ड ऊंचाई थी। श्रृंखला के प्रत्येक एपिसोड ने कथित तौर पर डीडी नेशनल reported 40 लाख की कमाई की।\nइस श्रृंखला को 2020 के कोरोनावायरस लॉकडाउन के दौरान दिखाया गया था और विश्व स्तर पर कई दर्शकों के रिकॉर्ड को तोड़ दिया था जिसमें दुनिया में अब तक के सबसे ज्यादा देखे जाने वाले टीवी शो में रिकॉर्ड स्थापित करना भी शामिल है (यानी 16 अप्रैल, 2020 को 77 मिलियन दर्शक)।\nRamayan is an epic Indian television series based on ancient Indian Sanskrit epic of the same name. The show was originally aired between 1987 and 1988 on DD National. It was created, written, and directed by Ramanand Sagar.The show is primarily based on Valmiki's Ramayan and Tulsidas' Ramcharitmanas.\nThe series had a viewership of 82 per cent, a record high for any Indian television series. Each episode of the series reportedly earned DD National ₹40 lakh.\nThe series was reaired during the 2020 Coronavirus lockdown and broke several viewership records globally which includes setting the record for one of the most watched TV show ever in the world ( i.e 77 millions viewers on 16th april, 2020).",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/cI9qRkPXGww/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/cI9qRkPXGww/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/cI9qRkPXGww/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/cI9qRkPXGww/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/cI9qRkPXGww/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Vivek kumar",
+"playlistId": "PLFr_jkwUp0hg7V-S3Tm7fisMlceR3OUH7",
+"position": 10,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "cI9qRkPXGww"
+}
+},
+"contentDetails": {
+"videoId": "cI9qRkPXGww",
+"videoPublishedAt": "2020-09-13T08:04:46Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "kpAck1APNtpi4cLpAn1nahtWqqg",
+"id": "UExGcl9qa3dVcDBoZzdWLVMzVG03ZmlzTWxjZVIzT1VINy5EMEEwRUY5M0RDRTU3NDJC",
+"snippet": {
+"publishedAt": "2020-09-18T13:52:43Z",
+"channelId": "UCHJ7nJjkqa1E8eYsYJlJkCw",
+"title": "Ramayan (रामायण) Episode 16 (English Subtitles)",
+"description": "रामायण एक महाकाव्य भारतीय टेलीविजन श्रृंखला है जो इसी नाम के प्राचीन भारतीय संस्कृत महाकाव्य पर आधारित है। यह शो मूल रूप से 1987 और 1988 के बीच डीडी नेशनल पर प्रसारित किया गया था। यह रामानंद सागर द्वारा निर्मित, लिखित और निर्देशित था। यह शो मुख्य रूप से वाल्मीकि के रामायण और तुलसीदास के रामचरितमानस पर आधारित है।\nइस श्रृंखला में 82 प्रतिशत दर्शकों की संख्या थी, जो किसी भी भारतीय टेलीविजन श्रृंखला के लिए रिकॉर्ड ऊंचाई थी। श्रृंखला के प्रत्येक एपिसोड ने कथित तौर पर डीडी नेशनल reported 40 लाख की कमाई की।\nइस श्रृंखला को 2020 के कोरोनावायरस लॉकडाउन के दौरान दिखाया गया था और विश्व स्तर पर कई दर्शकों के रिकॉर्ड को तोड़ दिया था जिसमें दुनिया में अब तक के सबसे ज्यादा देखे जाने वाले टीवी शो में रिकॉर्ड स्थापित करना भी शामिल है (यानी 16 अप्रैल, 2020 को 77 मिलियन दर्शक)।\nRamayan is an epic Indian television series based on ancient Indian Sanskrit epic of the same name. The show was originally aired between 1987 and 1988 on DD National. It was created, written, and directed by Ramanand Sagar.The show is primarily based on Valmiki's Ramayan and Tulsidas' Ramcharitmanas.\nThe series had a viewership of 82 per cent, a record high for any Indian television series. Each episode of the series reportedly earned DD National ₹40 lakh.\nThe series was reaired during the 2020 Coronavirus lockdown and broke several viewership records globally which includes setting the record for one of the most watched TV show ever in the world ( i.e 77 millions viewers on 16th april, 2020).",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/2R6hQqEO-bE/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/2R6hQqEO-bE/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/2R6hQqEO-bE/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/2R6hQqEO-bE/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/2R6hQqEO-bE/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Vivek kumar",
+"playlistId": "PLFr_jkwUp0hg7V-S3Tm7fisMlceR3OUH7",
+"position": 11,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "2R6hQqEO-bE"
+}
+},
+"contentDetails": {
+"videoId": "2R6hQqEO-bE",
+"videoPublishedAt": "2020-09-13T08:21:44Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "hkycN3WRXsf8AE9gYJ2Ycwx2bX4",
+"id": "UExGcl9qa3dVcDBoZzdWLVMzVG03ZmlzTWxjZVIzT1VINy45ODRDNTg0QjA4NkFBNkQy",
+"snippet": {
+"publishedAt": "2020-09-18T13:52:46Z",
+"channelId": "UCHJ7nJjkqa1E8eYsYJlJkCw",
+"title": "Ramayan (रामायण) Episode 17 (English Subtitles)",
+"description": "रामायण एक महाकाव्य भारतीय टेलीविजन श्रृंखला है जो इसी नाम के प्राचीन भारतीय संस्कृत महाकाव्य पर आधारित है। यह शो मूल रूप से 1987 और 1988 के बीच डीडी नेशनल पर प्रसारित किया गया था। यह रामानंद सागर द्वारा निर्मित, लिखित और निर्देशित था। यह शो मुख्य रूप से वाल्मीकि के रामायण और तुलसीदास के रामचरितमानस पर आधारित है।\nइस श्रृंखला में 82 प्रतिशत दर्शकों की संख्या थी, जो किसी भी भारतीय टेलीविजन श्रृंखला के लिए रिकॉर्ड ऊंचाई थी। श्रृंखला के प्रत्येक एपिसोड ने कथित तौर पर डीडी नेशनल reported 40 लाख की कमाई की।\nइस श्रृंखला को 2020 के कोरोनावायरस लॉकडाउन के दौरान दिखाया गया था और विश्व स्तर पर कई दर्शकों के रिकॉर्ड को तोड़ दिया था जिसमें दुनिया में अब तक के सबसे ज्यादा देखे जाने वाले टीवी शो में रिकॉर्ड स्थापित करना भी शामिल है (यानी 16 अप्रैल, 2020 को 77 मिलियन दर्शक)।\nRamayan is an epic Indian television series based on ancient Indian Sanskrit epic of the same name. The show was originally aired between 1987 and 1988 on DD National. It was created, written, and directed by Ramanand Sagar.The show is primarily based on Valmiki's Ramayan and Tulsidas' Ramcharitmanas.\nThe series had a viewership of 82 per cent, a record high for any Indian television series. Each episode of the series reportedly earned DD National ₹40 lakh.\nThe series was reaired during the 2020 Coronavirus lockdown and broke several viewership records globally which includes setting the record for one of the most watched TV show ever in the world ( i.e 77 millions viewers on 16th april, 2020).",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/ePPAtdldQBU/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/ePPAtdldQBU/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/ePPAtdldQBU/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/ePPAtdldQBU/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/ePPAtdldQBU/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Vivek kumar",
+"playlistId": "PLFr_jkwUp0hg7V-S3Tm7fisMlceR3OUH7",
+"position": 12,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "ePPAtdldQBU"
+}
+},
+"contentDetails": {
+"videoId": "ePPAtdldQBU",
+"videoPublishedAt": "2020-09-13T08:22:36Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "O-5skRVDhEGt4d79bmxZKRRJxlM",
+"id": "UExGcl9qa3dVcDBoZzdWLVMzVG03ZmlzTWxjZVIzT1VINy4zMDg5MkQ5MEVDMEM1NTg2",
+"snippet": {
+"publishedAt": "2020-09-18T13:52:50Z",
+"channelId": "UCHJ7nJjkqa1E8eYsYJlJkCw",
+"title": "Ramayan (रामायण) Episode 18 (English Subtitles)",
+"description": "रामायण एक महाकाव्य भारतीय टेलीविजन श्रृंखला है जो इसी नाम के प्राचीन भारतीय संस्कृत महाकाव्य पर आधारित है। यह शो मूल रूप से 1987 और 1988 के बीच डीडी नेशनल पर प्रसारित किया गया था। यह रामानंद सागर द्वारा निर्मित, लिखित और निर्देशित था। यह शो मुख्य रूप से वाल्मीकि के रामायण और तुलसीदास के रामचरितमानस पर आधारित है।\nइस श्रृंखला में 82 प्रतिशत दर्शकों की संख्या थी, जो किसी भी भारतीय टेलीविजन श्रृंखला के लिए रिकॉर्ड ऊंचाई थी। श्रृंखला के प्रत्येक एपिसोड ने कथित तौर पर डीडी नेशनल reported 40 लाख की कमाई की।\nइस श्रृंखला को 2020 के कोरोनावायरस लॉकडाउन के दौरान दिखाया गया था और विश्व स्तर पर कई दर्शकों के रिकॉर्ड को तोड़ दिया था जिसमें दुनिया में अब तक के सबसे ज्यादा देखे जाने वाले टीवी शो में रिकॉर्ड स्थापित करना भी शामिल है (यानी 16 अप्रैल, 2020 को 77 मिलियन दर्शक)।\nRamayan is an epic Indian television series based on ancient Indian Sanskrit epic of the same name. The show was originally aired between 1987 and 1988 on DD National. It was created, written, and directed by Ramanand Sagar.The show is primarily based on Valmiki's Ramayan and Tulsidas' Ramcharitmanas.\nThe series had a viewership of 82 per cent, a record high for any Indian television series. Each episode of the series reportedly earned DD National ₹40 lakh.\nThe series was reaired during the 2020 Coronavirus lockdown and broke several viewership records globally which includes setting the record for one of the most watched TV show ever in the world ( i.e 77 millions viewers on 16th april, 2020).",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/dxV8vPJMluU/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/dxV8vPJMluU/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/dxV8vPJMluU/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/dxV8vPJMluU/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/dxV8vPJMluU/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Vivek kumar",
+"playlistId": "PLFr_jkwUp0hg7V-S3Tm7fisMlceR3OUH7",
+"position": 13,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "dxV8vPJMluU"
+}
+},
+"contentDetails": {
+"videoId": "dxV8vPJMluU",
+"videoPublishedAt": "2020-09-13T08:23:30Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "TACRO8zaYkRN-S2Xakb4121094c",
+"id": "UExGcl9qa3dVcDBoZzdWLVMzVG03ZmlzTWxjZVIzT1VINy41Mzk2QTAxMTkzNDk4MDhF",
+"snippet": {
+"publishedAt": "2020-09-18T13:52:53Z",
+"channelId": "UCHJ7nJjkqa1E8eYsYJlJkCw",
+"title": "Ramayan (रामायण) Episode 19 (English Subtitles)",
+"description": "रामायण एक महाकाव्य भारतीय टेलीविजन श्रृंखला है जो इसी नाम के प्राचीन भारतीय संस्कृत महाकाव्य पर आधारित है। यह शो मूल रूप से 1987 और 1988 के बीच डीडी नेशनल पर प्रसारित किया गया था। यह रामानंद सागर द्वारा निर्मित, लिखित और निर्देशित था। यह शो मुख्य रूप से वाल्मीकि के रामायण और तुलसीदास के रामचरितमानस पर आधारित है।\nइस श्रृंखला में 82 प्रतिशत दर्शकों की संख्या थी, जो किसी भी भारतीय टेलीविजन श्रृंखला के लिए रिकॉर्ड ऊंचाई थी। श्रृंखला के प्रत्येक एपिसोड ने कथित तौर पर डीडी नेशनल reported 40 लाख की कमाई की।\nइस श्रृंखला को 2020 के कोरोनावायरस लॉकडाउन के दौरान दिखाया गया था और विश्व स्तर पर कई दर्शकों के रिकॉर्ड को तोड़ दिया था जिसमें दुनिया में अब तक के सबसे ज्यादा देखे जाने वाले टीवी शो में रिकॉर्ड स्थापित करना भी शामिल है (यानी 16 अप्रैल, 2020 को 77 मिलियन दर्शक)।\nRamayan is an epic Indian television series based on ancient Indian Sanskrit epic of the same name. The show was originally aired between 1987 and 1988 on DD National. It was created, written, and directed by Ramanand Sagar.The show is primarily based on Valmiki's Ramayan and Tulsidas' Ramcharitmanas.\nThe series had a viewership of 82 per cent, a record high for any Indian television series. Each episode of the series reportedly earned DD National ₹40 lakh.\nThe series was reaired during the 2020 Coronavirus lockdown and broke several viewership records globally which includes setting the record for one of the most watched TV show ever in the world ( i.e 77 millions viewers on 16th april, 2020).",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/C0D3B-s86oM/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/C0D3B-s86oM/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/C0D3B-s86oM/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/C0D3B-s86oM/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/C0D3B-s86oM/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Vivek kumar",
+"playlistId": "PLFr_jkwUp0hg7V-S3Tm7fisMlceR3OUH7",
+"position": 14,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "C0D3B-s86oM"
+}
+},
+"contentDetails": {
+"videoId": "C0D3B-s86oM",
+"videoPublishedAt": "2020-09-13T08:24:37Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "fDok9ed1jDxLI8D-gY7KQ-4XN6I",
+"id": "UExGcl9qa3dVcDBoZzdWLVMzVG03ZmlzTWxjZVIzT1VINy5EQUE1NTFDRjcwMDg0NEMz",
+"snippet": {
+"publishedAt": "2020-09-18T13:52:56Z",
+"channelId": "UCHJ7nJjkqa1E8eYsYJlJkCw",
+"title": "Ramayan (रामायण) Episode 20 (English Subtitles)",
+"description": "रामायण एक महाकाव्य भारतीय टेलीविजन श्रृंखला है जो इसी नाम के प्राचीन भारतीय संस्कृत महाकाव्य पर आधारित है। यह शो मूल रूप से 1987 और 1988 के बीच डीडी नेशनल पर प्रसारित किया गया था। यह रामानंद सागर द्वारा निर्मित, लिखित और निर्देशित था। यह शो मुख्य रूप से वाल्मीकि के रामायण और तुलसीदास के रामचरितमानस पर आधारित है।\nइस श्रृंखला में 82 प्रतिशत दर्शकों की संख्या थी, जो किसी भी भारतीय टेलीविजन श्रृंखला के लिए रिकॉर्ड ऊंचाई थी। श्रृंखला के प्रत्येक एपिसोड ने कथित तौर पर डीडी नेशनल reported 40 लाख की कमाई की।\nइस श्रृंखला को 2020 के कोरोनावायरस लॉकडाउन के दौरान दिखाया गया था और विश्व स्तर पर कई दर्शकों के रिकॉर्ड को तोड़ दिया था जिसमें दुनिया में अब तक के सबसे ज्यादा देखे जाने वाले टीवी शो में रिकॉर्ड स्थापित करना भी शामिल है (यानी 16 अप्रैल, 2020 को 77 मिलियन दर्शक)।\nRamayan is an epic Indian television series based on ancient Indian Sanskrit epic of the same name. The show was originally aired between 1987 and 1988 on DD National. It was created, written, and directed by Ramanand Sagar.The show is primarily based on Valmiki's Ramayan and Tulsidas' Ramcharitmanas.\nThe series had a viewership of 82 per cent, a record high for any Indian television series. Each episode of the series reportedly earned DD National ₹40 lakh.\nThe series was reaired during the 2020 Coronavirus lockdown and broke several viewership records globally which includes setting the record for one of the most watched TV show ever in the world ( i.e 77 millions viewers on 16th april, 2020).",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/0WuABuCawNQ/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/0WuABuCawNQ/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/0WuABuCawNQ/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/0WuABuCawNQ/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/0WuABuCawNQ/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Vivek kumar",
+"playlistId": "PLFr_jkwUp0hg7V-S3Tm7fisMlceR3OUH7",
+"position": 15,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "0WuABuCawNQ"
+}
+},
+"contentDetails": {
+"videoId": "0WuABuCawNQ",
+"videoPublishedAt": "2020-09-13T08:25:32Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "Xj7tNfnvGzOVubIS1iMVRjEdvds",
+"id": "UExGcl9qa3dVcDBoZzdWLVMzVG03ZmlzTWxjZVIzT1VINy41QTY1Q0UxMTVCODczNThE",
+"snippet": {
+"publishedAt": "2020-09-18T13:53:00Z",
+"channelId": "UCHJ7nJjkqa1E8eYsYJlJkCw",
+"title": "Ramayan (रामायण) Episode 21 (English Subtitles)",
+"description": "रामायण एक महाकाव्य भारतीय टेलीविजन श्रृंखला है जो इसी नाम के प्राचीन भारतीय संस्कृत महाकाव्य पर आधारित है। यह शो मूल रूप से 1987 और 1988 के बीच डीडी नेशनल पर प्रसारित किया गया था। यह रामानंद सागर द्वारा निर्मित, लिखित और निर्देशित था। यह शो मुख्य रूप से वाल्मीकि के रामायण और तुलसीदास के रामचरितमानस पर आधारित है।\nइस श्रृंखला में 82 प्रतिशत दर्शकों की संख्या थी, जो किसी भी भारतीय टेलीविजन श्रृंखला के लिए रिकॉर्ड ऊंचाई थी। श्रृंखला के प्रत्येक एपिसोड ने कथित तौर पर डीडी नेशनल reported 40 लाख की कमाई की।\nइस श्रृंखला को 2020 के कोरोनावायरस लॉकडाउन के दौरान दिखाया गया था और विश्व स्तर पर कई दर्शकों के रिकॉर्ड को तोड़ दिया था जिसमें दुनिया में अब तक के सबसे ज्यादा देखे जाने वाले टीवी शो में रिकॉर्ड स्थापित करना भी शामिल है (यानी 16 अप्रैल, 2020 को 77 मिलियन दर्शक)।\nRamayan is an epic Indian television series based on ancient Indian Sanskrit epic of the same name. The show was originally aired between 1987 and 1988 on DD National. It was created, written, and directed by Ramanand Sagar.The show is primarily based on Valmiki's Ramayan and Tulsidas' Ramcharitmanas.\nThe series had a viewership of 82 per cent, a record high for any Indian television series. Each episode of the series reportedly earned DD National ₹40 lakh.\nThe series was reaired during the 2020 Coronavirus lockdown and broke several viewership records globally which includes setting the record for one of the most watched TV show ever in the world ( i.e 77 millions viewers on 16th april, 2020).",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/q_FhR8N4lmE/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/q_FhR8N4lmE/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/q_FhR8N4lmE/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/q_FhR8N4lmE/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/q_FhR8N4lmE/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Vivek kumar",
+"playlistId": "PLFr_jkwUp0hg7V-S3Tm7fisMlceR3OUH7",
+"position": 16,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "q_FhR8N4lmE"
+}
+},
+"contentDetails": {
+"videoId": "q_FhR8N4lmE",
+"videoPublishedAt": "2020-09-13T08:42:20Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "uJ0JvP477LIxuUQ95EwsEN0JttU",
+"id": "UExGcl9qa3dVcDBoZzdWLVMzVG03ZmlzTWxjZVIzT1VINy4yMUQyQTQzMjRDNzMyQTMy",
+"snippet": {
+"publishedAt": "2020-09-18T13:53:03Z",
+"channelId": "UCHJ7nJjkqa1E8eYsYJlJkCw",
+"title": "Ramayan (रामायण) Episode 22 (English Subtitles)",
+"description": "रामायण एक महाकाव्य भारतीय टेलीविजन श्रृंखला है जो इसी नाम के प्राचीन भारतीय संस्कृत महाकाव्य पर आधारित है। यह शो मूल रूप से 1987 और 1988 के बीच डीडी नेशनल पर प्रसारित किया गया था। यह रामानंद सागर द्वारा निर्मित, लिखित और निर्देशित था। यह शो मुख्य रूप से वाल्मीकि के रामायण और तुलसीदास के रामचरितमानस पर आधारित है।\nइस श्रृंखला में 82 प्रतिशत दर्शकों की संख्या थी, जो किसी भी भारतीय टेलीविजन श्रृंखला के लिए रिकॉर्ड ऊंचाई थी। श्रृंखला के प्रत्येक एपिसोड ने कथित तौर पर डीडी नेशनल reported 40 लाख की कमाई की।\nइस श्रृंखला को 2020 के कोरोनावायरस लॉकडाउन के दौरान दिखाया गया था और विश्व स्तर पर कई दर्शकों के रिकॉर्ड को तोड़ दिया था जिसमें दुनिया में अब तक के सबसे ज्यादा देखे जाने वाले टीवी शो में रिकॉर्ड स्थापित करना भी शामिल है (यानी 16 अप्रैल, 2020 को 77 मिलियन दर्शक)।\nRamayan is an epic Indian television series based on ancient Indian Sanskrit epic of the same name. The show was originally aired between 1987 and 1988 on DD National. It was created, written, and directed by Ramanand Sagar.The show is primarily based on Valmiki's Ramayan and Tulsidas' Ramcharitmanas.\nThe series had a viewership of 82 per cent, a record high for any Indian television series. Each episode of the series reportedly earned DD National ₹40 lakh.\nThe series was reaired during the 2020 Coronavirus lockdown and broke several viewership records globally which includes setting the record for one of the most watched TV show ever in the world ( i.e 77 millions viewers on 16th april, 2020).",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/TgnhbfpLJ0k/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/TgnhbfpLJ0k/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/TgnhbfpLJ0k/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/TgnhbfpLJ0k/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/TgnhbfpLJ0k/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Vivek kumar",
+"playlistId": "PLFr_jkwUp0hg7V-S3Tm7fisMlceR3OUH7",
+"position": 17,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "TgnhbfpLJ0k"
+}
+},
+"contentDetails": {
+"videoId": "TgnhbfpLJ0k",
+"videoPublishedAt": "2020-09-13T08:43:27Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "cxwzb1f-scDWNYDM720WlOcL7c8",
+"id": "UExGcl9qa3dVcDBoZzdWLVMzVG03ZmlzTWxjZVIzT1VINy45RTgxNDRBMzUwRjQ0MDhC",
+"snippet": {
+"publishedAt": "2020-09-18T13:53:07Z",
+"channelId": "UCHJ7nJjkqa1E8eYsYJlJkCw",
+"title": "Ramayan (रामायण) Episode 23 (English Subtitles)",
+"description": "रामायण एक महाकाव्य भारतीय टेलीविजन श्रृंखला है जो इसी नाम के प्राचीन भारतीय संस्कृत महाकाव्य पर आधारित है। यह शो मूल रूप से 1987 और 1988 के बीच डीडी नेशनल पर प्रसारित किया गया था। यह रामानंद सागर द्वारा निर्मित, लिखित और निर्देशित था। यह शो मुख्य रूप से वाल्मीकि के रामायण और तुलसीदास के रामचरितमानस पर आधारित है।\nइस श्रृंखला में 82 प्रतिशत दर्शकों की संख्या थी, जो किसी भी भारतीय टेलीविजन श्रृंखला के लिए रिकॉर्ड ऊंचाई थी। श्रृंखला के प्रत्येक एपिसोड ने कथित तौर पर डीडी नेशनल reported 40 लाख की कमाई की।\nइस श्रृंखला को 2020 के कोरोनावायरस लॉकडाउन के दौरान दिखाया गया था और विश्व स्तर पर कई दर्शकों के रिकॉर्ड को तोड़ दिया था जिसमें दुनिया में अब तक के सबसे ज्यादा देखे जाने वाले टीवी शो में रिकॉर्ड स्थापित करना भी शामिल है (यानी 16 अप्रैल, 2020 को 77 मिलियन दर्शक)।\nRamayan is an epic Indian television series based on ancient Indian Sanskrit epic of the same name. The show was originally aired between 1987 and 1988 on DD National. It was created, written, and directed by Ramanand Sagar.The show is primarily based on Valmiki's Ramayan and Tulsidas' Ramcharitmanas.\nThe series had a viewership of 82 per cent, a record high for any Indian television series. Each episode of the series reportedly earned DD National ₹40 lakh.\nThe series was reaired during the 2020 Coronavirus lockdown and broke several viewership records globally which includes setting the record for one of the most watched TV show ever in the world ( i.e 77 millions viewers on 16th april, 2020).",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/JSnSotLEJkQ/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/JSnSotLEJkQ/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/JSnSotLEJkQ/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/JSnSotLEJkQ/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/JSnSotLEJkQ/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Vivek kumar",
+"playlistId": "PLFr_jkwUp0hg7V-S3Tm7fisMlceR3OUH7",
+"position": 18,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "JSnSotLEJkQ"
+}
+},
+"contentDetails": {
+"videoId": "JSnSotLEJkQ",
+"videoPublishedAt": "2020-09-13T08:44:47Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "IebrYXd5Bb0xtReefwq5EYMpaLE",
+"id": "UExGcl9qa3dVcDBoZzdWLVMzVG03ZmlzTWxjZVIzT1VINy5ENDU4Q0M4RDExNzM1Mjcy",
+"snippet": {
+"publishedAt": "2020-09-18T13:53:09Z",
+"channelId": "UCHJ7nJjkqa1E8eYsYJlJkCw",
+"title": "Ramayan (रामायण) Episode 24 (English Subtitles)",
+"description": "रामायण एक महाकाव्य भारतीय टेलीविजन श्रृंखला है जो इसी नाम के प्राचीन भारतीय संस्कृत महाकाव्य पर आधारित है। यह शो मूल रूप से 1987 और 1988 के बीच डीडी नेशनल पर प्रसारित किया गया था। यह रामानंद सागर द्वारा निर्मित, लिखित और निर्देशित था। यह शो मुख्य रूप से वाल्मीकि के रामायण और तुलसीदास के रामचरितमानस पर आधारित है।\nइस श्रृंखला में 82 प्रतिशत दर्शकों की संख्या थी, जो किसी भी भारतीय टेलीविजन श्रृंखला के लिए रिकॉर्ड ऊंचाई थी। श्रृंखला के प्रत्येक एपिसोड ने कथित तौर पर डीडी नेशनल reported 40 लाख की कमाई की।\nइस श्रृंखला को 2020 के कोरोनावायरस लॉकडाउन के दौरान दिखाया गया था और विश्व स्तर पर कई दर्शकों के रिकॉर्ड को तोड़ दिया था जिसमें दुनिया में अब तक के सबसे ज्यादा देखे जाने वाले टीवी शो में रिकॉर्ड स्थापित करना भी शामिल है (यानी 16 अप्रैल, 2020 को 77 मिलियन दर्शक)।\nRamayan is an epic Indian television series based on ancient Indian Sanskrit epic of the same name. The show was originally aired between 1987 and 1988 on DD National. It was created, written, and directed by Ramanand Sagar.The show is primarily based on Valmiki's Ramayan and Tulsidas' Ramcharitmanas.\nThe series had a viewership of 82 per cent, a record high for any Indian television series. Each episode of the series reportedly earned DD National ₹40 lakh.\nThe series was reaired during the 2020 Coronavirus lockdown and broke several viewership records globally which includes setting the record for one of the most watched TV show ever in the world ( i.e 77 millions viewers on 16th april, 2020).",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/l0VK_BNOcDw/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/l0VK_BNOcDw/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/l0VK_BNOcDw/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/l0VK_BNOcDw/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/l0VK_BNOcDw/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Vivek kumar",
+"playlistId": "PLFr_jkwUp0hg7V-S3Tm7fisMlceR3OUH7",
+"position": 19,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "l0VK_BNOcDw"
+}
+},
+"contentDetails": {
+"videoId": "l0VK_BNOcDw",
+"videoPublishedAt": "2020-09-13T08:45:58Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "IZGPNW_2vqrL8uLQ6L2N4EvKyDY",
+"id": "UExGcl9qa3dVcDBoZzdWLVMzVG03ZmlzTWxjZVIzT1VINy4yMDhBMkNBNjRDMjQxQTg1",
+"snippet": {
+"publishedAt": "2020-09-18T13:53:11Z",
+"channelId": "UCHJ7nJjkqa1E8eYsYJlJkCw",
+"title": "Ramayan (रामायण) Episode 25 (English Subtitles)",
+"description": "रामायण एक महाकाव्य भारतीय टेलीविजन श्रृंखला है जो इसी नाम के प्राचीन भारतीय संस्कृत महाकाव्य पर आधारित है। यह शो मूल रूप से 1987 और 1988 के बीच डीडी नेशनल पर प्रसारित किया गया था। यह रामानंद सागर द्वारा निर्मित, लिखित और निर्देशित था। यह शो मुख्य रूप से वाल्मीकि के रामायण और तुलसीदास के रामचरितमानस पर आधारित है।\nइस श्रृंखला में 82 प्रतिशत दर्शकों की संख्या थी, जो किसी भी भारतीय टेलीविजन श्रृंखला के लिए रिकॉर्ड ऊंचाई थी। श्रृंखला के प्रत्येक एपिसोड ने कथित तौर पर डीडी नेशनल reported 40 लाख की कमाई की।\nइस श्रृंखला को 2020 के कोरोनावायरस लॉकडाउन के दौरान दिखाया गया था और विश्व स्तर पर कई दर्शकों के रिकॉर्ड को तोड़ दिया था जिसमें दुनिया में अब तक के सबसे ज्यादा देखे जाने वाले टीवी शो में रिकॉर्ड स्थापित करना भी शामिल है (यानी 16 अप्रैल, 2020 को 77 मिलियन दर्शक)।\nRamayan is an epic Indian television series based on ancient Indian Sanskrit epic of the same name. The show was originally aired between 1987 and 1988 on DD National. It was created, written, and directed by Ramanand Sagar.The show is primarily based on Valmiki's Ramayan and Tulsidas' Ramcharitmanas.\nThe series had a viewership of 82 per cent, a record high for any Indian television series. Each episode of the series reportedly earned DD National ₹40 lakh.\nThe series was reaired during the 2020 Coronavirus lockdown and broke several viewership records globally which includes setting the record for one of the most watched TV show ever in the world ( i.e 77 millions viewers on 16th april, 2020).",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/nEF7H6Bw8xA/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/nEF7H6Bw8xA/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/nEF7H6Bw8xA/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/nEF7H6Bw8xA/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/nEF7H6Bw8xA/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Vivek kumar",
+"playlistId": "PLFr_jkwUp0hg7V-S3Tm7fisMlceR3OUH7",
+"position": 20,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "nEF7H6Bw8xA"
+}
+},
+"contentDetails": {
+"videoId": "nEF7H6Bw8xA",
+"videoPublishedAt": "2020-09-13T08:47:11Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "zoSc5hOmXDgn0t1ABnhTvLQP6ng",
+"id": "UExGcl9qa3dVcDBoZzdWLVMzVG03ZmlzTWxjZVIzT1VINy5GM0Q3M0MzMzY5NTJFNTdE",
+"snippet": {
+"publishedAt": "2020-09-18T13:53:15Z",
+"channelId": "UCHJ7nJjkqa1E8eYsYJlJkCw",
+"title": "Ramayan (रामायण) Episode 26 (English Subtitles)",
+"description": "रामायण एक महाकाव्य भारतीय टेलीविजन श्रृंखला है जो इसी नाम के प्राचीन भारतीय संस्कृत महाकाव्य पर आधारित है। यह शो मूल रूप से 1987 और 1988 के बीच डीडी नेशनल पर प्रसारित किया गया था। यह रामानंद सागर द्वारा निर्मित, लिखित और निर्देशित था। यह शो मुख्य रूप से वाल्मीकि के रामायण और तुलसीदास के रामचरितमानस पर आधारित है।\nइस श्रृंखला में 82 प्रतिशत दर्शकों की संख्या थी, जो किसी भी भारतीय टेलीविजन श्रृंखला के लिए रिकॉर्ड ऊंचाई थी। श्रृंखला के प्रत्येक एपिसोड ने कथित तौर पर डीडी नेशनल reported 40 लाख की कमाई की।\nइस श्रृंखला को 2020 के कोरोनावायरस लॉकडाउन के दौरान दिखाया गया था और विश्व स्तर पर कई दर्शकों के रिकॉर्ड को तोड़ दिया था जिसमें दुनिया में अब तक के सबसे ज्यादा देखे जाने वाले टीवी शो में रिकॉर्ड स्थापित करना भी शामिल है (यानी 16 अप्रैल, 2020 को 77 मिलियन दर्शक)।\nRamayan is an epic Indian television series based on ancient Indian Sanskrit epic of the same name. The show was originally aired between 1987 and 1988 on DD National. It was created, written, and directed by Ramanand Sagar.The show is primarily based on Valmiki's Ramayan and Tulsidas' Ramcharitmanas.\nThe series had a viewership of 82 per cent, a record high for any Indian television series. Each episode of the series reportedly earned DD National ₹40 lakh.\nThe series was reaired during the 2020 Coronavirus lockdown and broke several viewership records globally which includes setting the record for one of the most watched TV show ever in the world ( i.e 77 millions viewers on 16th april, 2020).",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/C1cmqTfAo54/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/C1cmqTfAo54/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/C1cmqTfAo54/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/C1cmqTfAo54/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/C1cmqTfAo54/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Vivek kumar",
+"playlistId": "PLFr_jkwUp0hg7V-S3Tm7fisMlceR3OUH7",
+"position": 21,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "C1cmqTfAo54"
+}
+},
+"contentDetails": {
+"videoId": "C1cmqTfAo54",
+"videoPublishedAt": "2020-09-13T12:33:00Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "xqjm_iq0clDw0zlmAfBEwaGnd1w",
+"id": "UExGcl9qa3dVcDBoZzdWLVMzVG03ZmlzTWxjZVIzT1VINy4zRjM0MkVCRTg0MkYyQTM0",
+"snippet": {
+"publishedAt": "2020-09-18T13:53:22Z",
+"channelId": "UCHJ7nJjkqa1E8eYsYJlJkCw",
+"title": "Ramayan (रामायण) Episode 27 (English Subtitles)",
+"description": "रामायण एक महाकाव्य भारतीय टेलीविजन श्रृंखला है जो इसी नाम के प्राचीन भारतीय संस्कृत महाकाव्य पर आधारित है। यह शो मूल रूप से 1987 और 1988 के बीच डीडी नेशनल पर प्रसारित किया गया था। यह रामानंद सागर द्वारा निर्मित, लिखित और निर्देशित था। यह शो मुख्य रूप से वाल्मीकि के रामायण और तुलसीदास के रामचरितमानस पर आधारित है।\nइस श्रृंखला में 82 प्रतिशत दर्शकों की संख्या थी, जो किसी भी भारतीय टेलीविजन श्रृंखला के लिए रिकॉर्ड ऊंचाई थी। श्रृंखला के प्रत्येक एपिसोड ने कथित तौर पर डीडी नेशनल reported 40 लाख की कमाई की।\nइस श्रृंखला को 2020 के कोरोनावायरस लॉकडाउन के दौरान दिखाया गया था और विश्व स्तर पर कई दर्शकों के रिकॉर्ड को तोड़ दिया था जिसमें दुनिया में अब तक के सबसे ज्यादा देखे जाने वाले टीवी शो में रिकॉर्ड स्थापित करना भी शामिल है (यानी 16 अप्रैल, 2020 को 77 मिलियन दर्शक)।\nRamayan is an epic Indian television series based on ancient Indian Sanskrit epic of the same name. The show was originally aired between 1987 and 1988 on DD National. It was created, written, and directed by Ramanand Sagar.The show is primarily based on Valmiki's Ramayan and Tulsidas' Ramcharitmanas.\nThe series had a viewership of 82 per cent, a record high for any Indian television series. Each episode of the series reportedly earned DD National ₹40 lakh.\nThe series was reaired during the 2020 Coronavirus lockdown and broke several viewership records globally which includes setting the record for one of the most watched TV show ever in the world ( i.e 77 millions viewers on 16th april, 2020).",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/a3u3J1NxIFQ/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/a3u3J1NxIFQ/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/a3u3J1NxIFQ/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/a3u3J1NxIFQ/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/a3u3J1NxIFQ/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Vivek kumar",
+"playlistId": "PLFr_jkwUp0hg7V-S3Tm7fisMlceR3OUH7",
+"position": 22,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "a3u3J1NxIFQ"
+}
+},
+"contentDetails": {
+"videoId": "a3u3J1NxIFQ",
+"videoPublishedAt": "2020-09-13T12:34:03Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "4RKOZz2SUYS47huJPjWFDExnqpo",
+"id": "UExGcl9qa3dVcDBoZzdWLVMzVG03ZmlzTWxjZVIzT1VINy45NzUwQkI1M0UxNThBMkU0",
+"snippet": {
+"publishedAt": "2020-09-18T13:53:28Z",
+"channelId": "UCHJ7nJjkqa1E8eYsYJlJkCw",
+"title": "Ramayan (रामायण) Episode 28 (English Subtitles)",
+"description": "रामायण एक महाकाव्य भारतीय टेलीविजन श्रृंखला है जो इसी नाम के प्राचीन भारतीय संस्कृत महाकाव्य पर आधारित है। यह शो मूल रूप से 1987 और 1988 के बीच डीडी नेशनल पर प्रसारित किया गया था। यह रामानंद सागर द्वारा निर्मित, लिखित और निर्देशित था। यह शो मुख्य रूप से वाल्मीकि के रामायण और तुलसीदास के रामचरितमानस पर आधारित है।\nइस श्रृंखला में 82 प्रतिशत दर्शकों की संख्या थी, जो किसी भी भारतीय टेलीविजन श्रृंखला के लिए रिकॉर्ड ऊंचाई थी। श्रृंखला के प्रत्येक एपिसोड ने कथित तौर पर डीडी नेशनल reported 40 लाख की कमाई की।\nइस श्रृंखला को 2020 के कोरोनावायरस लॉकडाउन के दौरान दिखाया गया था और विश्व स्तर पर कई दर्शकों के रिकॉर्ड को तोड़ दिया था जिसमें दुनिया में अब तक के सबसे ज्यादा देखे जाने वाले टीवी शो में रिकॉर्ड स्थापित करना भी शामिल है (यानी 16 अप्रैल, 2020 को 77 मिलियन दर्शक)।\nRamayan is an epic Indian television series based on ancient Indian Sanskrit epic of the same name. The show was originally aired between 1987 and 1988 on DD National. It was created, written, and directed by Ramanand Sagar.The show is primarily based on Valmiki's Ramayan and Tulsidas' Ramcharitmanas.\nThe series had a viewership of 82 per cent, a record high for any Indian television series. Each episode of the series reportedly earned DD National ₹40 lakh.\nThe series was reaired during the 2020 Coronavirus lockdown and broke several viewership records globally which includes setting the record for one of the most watched TV show ever in the world ( i.e 77 millions viewers on 16th april, 2020).",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/GhfgzV0gg1g/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/GhfgzV0gg1g/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/GhfgzV0gg1g/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/GhfgzV0gg1g/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/GhfgzV0gg1g/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Vivek kumar",
+"playlistId": "PLFr_jkwUp0hg7V-S3Tm7fisMlceR3OUH7",
+"position": 23,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "GhfgzV0gg1g"
+}
+},
+"contentDetails": {
+"videoId": "GhfgzV0gg1g",
+"videoPublishedAt": "2020-09-13T12:55:49Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "V09l22TOQqQv4X8iPtCExg6zHX8",
+"id": "UExGcl9qa3dVcDBoZzdWLVMzVG03ZmlzTWxjZVIzT1VINy5DNzE1RjZEMUZCMjA0RDBB",
+"snippet": {
+"publishedAt": "2020-09-18T13:53:31Z",
+"channelId": "UCHJ7nJjkqa1E8eYsYJlJkCw",
+"title": "Ramayan (रामायण) Episode 29 (English Subtitles)",
+"description": "रामायण एक महाकाव्य भारतीय टेलीविजन श्रृंखला है जो इसी नाम के प्राचीन भारतीय संस्कृत महाकाव्य पर आधारित है। यह शो मूल रूप से 1987 और 1988 के बीच डीडी नेशनल पर प्रसारित किया गया था। यह रामानंद सागर द्वारा निर्मित, लिखित और निर्देशित था। यह शो मुख्य रूप से वाल्मीकि के रामायण और तुलसीदास के रामचरितमानस पर आधारित है।\nइस श्रृंखला में 82 प्रतिशत दर्शकों की संख्या थी, जो किसी भी भारतीय टेलीविजन श्रृंखला के लिए रिकॉर्ड ऊंचाई थी। श्रृंखला के प्रत्येक एपिसोड ने कथित तौर पर डीडी नेशनल reported 40 लाख की कमाई की।\nइस श्रृंखला को 2020 के कोरोनावायरस लॉकडाउन के दौरान दिखाया गया था और विश्व स्तर पर कई दर्शकों के रिकॉर्ड को तोड़ दिया था जिसमें दुनिया में अब तक के सबसे ज्यादा देखे जाने वाले टीवी शो में रिकॉर्ड स्थापित करना भी शामिल है (यानी 16 अप्रैल, 2020 को 77 मिलियन दर्शक)।\nRamayan is an epic Indian television series based on ancient Indian Sanskrit epic of the same name. The show was originally aired between 1987 and 1988 on DD National. It was created, written, and directed by Ramanand Sagar.The show is primarily based on Valmiki's Ramayan and Tulsidas' Ramcharitmanas.\nThe series had a viewership of 82 per cent, a record high for any Indian television series. Each episode of the series reportedly earned DD National ₹40 lakh.\nThe series was reaired during the 2020 Coronavirus lockdown and broke several viewership records globally which includes setting the record for one of the most watched TV show ever in the world ( i.e 77 millions viewers on 16th april, 2020).",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/8ScIRaFPgek/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/8ScIRaFPgek/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/8ScIRaFPgek/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/8ScIRaFPgek/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/8ScIRaFPgek/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Vivek kumar",
+"playlistId": "PLFr_jkwUp0hg7V-S3Tm7fisMlceR3OUH7",
+"position": 24,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "8ScIRaFPgek"
+}
+},
+"contentDetails": {
+"videoId": "8ScIRaFPgek",
+"videoPublishedAt": "2020-09-13T12:56:38Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "3nJ3PgA480p0omUdEAs0iTVn7c0",
+"id": "UExGcl9qa3dVcDBoZzdWLVMzVG03ZmlzTWxjZVIzT1VINy43MTI1NDIwOTMwQjIxMzNG",
+"snippet": {
+"publishedAt": "2020-09-18T13:53:34Z",
+"channelId": "UCHJ7nJjkqa1E8eYsYJlJkCw",
+"title": "Ramayan (रामायण) Episode 30 (English Subtitles)",
+"description": "रामायण एक महाकाव्य भारतीय टेलीविजन श्रृंखला है जो इसी नाम के प्राचीन भारतीय संस्कृत महाकाव्य पर आधारित है। यह शो मूल रूप से 1987 और 1988 के बीच डीडी नेशनल पर प्रसारित किया गया था। यह रामानंद सागर द्वारा निर्मित, लिखित और निर्देशित था। यह शो मुख्य रूप से वाल्मीकि के रामायण और तुलसीदास के रामचरितमानस पर आधारित है।\nइस श्रृंखला में 82 प्रतिशत दर्शकों की संख्या थी, जो किसी भी भारतीय टेलीविजन श्रृंखला के लिए रिकॉर्ड ऊंचाई थी। श्रृंखला के प्रत्येक एपिसोड ने कथित तौर पर डीडी नेशनल reported 40 लाख की कमाई की।\nइस श्रृंखला को 2020 के कोरोनावायरस लॉकडाउन के दौरान दिखाया गया था और विश्व स्तर पर कई दर्शकों के रिकॉर्ड को तोड़ दिया था जिसमें दुनिया में अब तक के सबसे ज्यादा देखे जाने वाले टीवी शो में रिकॉर्ड स्थापित करना भी शामिल है (यानी 16 अप्रैल, 2020 को 77 मिलियन दर्शक)।\nRamayan is an epic Indian television series based on ancient Indian Sanskrit epic of the same name. The show was originally aired between 1987 and 1988 on DD National. It was created, written, and directed by Ramanand Sagar.The show is primarily based on Valmiki's Ramayan and Tulsidas' Ramcharitmanas.\nThe series had a viewership of 82 per cent, a record high for any Indian television series. Each episode of the series reportedly earned DD National ₹40 lakh.\nThe series was reaired during the 2020 Coronavirus lockdown and broke several viewership records globally which includes setting the record for one of the most watched TV show ever in the world ( i.e 77 millions viewers on 16th april, 2020).",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/10yk6Hr-tVk/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/10yk6Hr-tVk/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/10yk6Hr-tVk/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/10yk6Hr-tVk/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/10yk6Hr-tVk/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Vivek kumar",
+"playlistId": "PLFr_jkwUp0hg7V-S3Tm7fisMlceR3OUH7",
+"position": 25,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "10yk6Hr-tVk"
+}
+},
+"contentDetails": {
+"videoId": "10yk6Hr-tVk",
+"videoPublishedAt": "2020-09-13T12:57:35Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "upL1vYqDcL_52-MoFplBzu6vg1A",
+"id": "UExGcl9qa3dVcDBoZzdWLVMzVG03ZmlzTWxjZVIzT1VINy5DQ0MyQ0Y4Mzg0M0VGOEYw",
+"snippet": {
+"publishedAt": "2020-09-18T13:53:37Z",
+"channelId": "UCHJ7nJjkqa1E8eYsYJlJkCw",
+"title": "Ramayan (रामायण) Episode 31 (English Subtitles)",
+"description": "रामायण एक महाकाव्य भारतीय टेलीविजन श्रृंखला है जो इसी नाम के प्राचीन भारतीय संस्कृत महाकाव्य पर आधारित है। यह शो मूल रूप से 1987 और 1988 के बीच डीडी नेशनल पर प्रसारित किया गया था। यह रामानंद सागर द्वारा निर्मित, लिखित और निर्देशित था। यह शो मुख्य रूप से वाल्मीकि के रामायण और तुलसीदास के रामचरितमानस पर आधारित है।\nइस श्रृंखला में 82 प्रतिशत दर्शकों की संख्या थी, जो किसी भी भारतीय टेलीविजन श्रृंखला के लिए रिकॉर्ड ऊंचाई थी। श्रृंखला के प्रत्येक एपिसोड ने कथित तौर पर डीडी नेशनल reported 40 लाख की कमाई की।\nइस श्रृंखला को 2020 के कोरोनावायरस लॉकडाउन के दौरान दिखाया गया था और विश्व स्तर पर कई दर्शकों के रिकॉर्ड को तोड़ दिया था जिसमें दुनिया में अब तक के सबसे ज्यादा देखे जाने वाले टीवी शो में रिकॉर्ड स्थापित करना भी शामिल है (यानी 16 अप्रैल, 2020 को 77 मिलियन दर्शक)।\nRamayan is an epic Indian television series based on ancient Indian Sanskrit epic of the same name. The show was originally aired between 1987 and 1988 on DD National. It was created, written, and directed by Ramanand Sagar.The show is primarily based on Valmiki's Ramayan and Tulsidas' Ramcharitmanas.\nThe series had a viewership of 82 per cent, a record high for any Indian television series. Each episode of the series reportedly earned DD National ₹40 lakh.\nThe series was reaired during the 2020 Coronavirus lockdown and broke several viewership records globally which includes setting the record for one of the most watched TV show ever in the world ( i.e 77 millions viewers on 16th april, 2020).",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/A3Yyd8IwfN0/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/A3Yyd8IwfN0/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/A3Yyd8IwfN0/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/A3Yyd8IwfN0/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/A3Yyd8IwfN0/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Vivek kumar",
+"playlistId": "PLFr_jkwUp0hg7V-S3Tm7fisMlceR3OUH7",
+"position": 26,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "A3Yyd8IwfN0"
+}
+},
+"contentDetails": {
+"videoId": "A3Yyd8IwfN0",
+"videoPublishedAt": "2020-09-13T12:59:13Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "HuubIVgPEkHJ2w9P0URsb5-uw1U",
+"id": "UExGcl9qa3dVcDBoZzdWLVMzVG03ZmlzTWxjZVIzT1VINy4yQUE2Q0JEMTk4NTM3RTZC",
+"snippet": {
+"publishedAt": "2020-09-18T13:53:40Z",
+"channelId": "UCHJ7nJjkqa1E8eYsYJlJkCw",
+"title": "Ramayan (रामायण) Episode 32 (English Subtitles)",
+"description": "रामायण एक महाकाव्य भारतीय टेलीविजन श्रृंखला है जो इसी नाम के प्राचीन भारतीय संस्कृत महाकाव्य पर आधारित है। यह शो मूल रूप से 1987 और 1988 के बीच डीडी नेशनल पर प्रसारित किया गया था। यह रामानंद सागर द्वारा निर्मित, लिखित और निर्देशित था। यह शो मुख्य रूप से वाल्मीकि के रामायण और तुलसीदास के रामचरितमानस पर आधारित है।\nइस श्रृंखला में 82 प्रतिशत दर्शकों की संख्या थी, जो किसी भी भारतीय टेलीविजन श्रृंखला के लिए रिकॉर्ड ऊंचाई थी। श्रृंखला के प्रत्येक एपिसोड ने कथित तौर पर डीडी नेशनल reported 40 लाख की कमाई की।\nइस श्रृंखला को 2020 के कोरोनावायरस लॉकडाउन के दौरान दिखाया गया था और विश्व स्तर पर कई दर्शकों के रिकॉर्ड को तोड़ दिया था जिसमें दुनिया में अब तक के सबसे ज्यादा देखे जाने वाले टीवी शो में रिकॉर्ड स्थापित करना भी शामिल है (यानी 16 अप्रैल, 2020 को 77 मिलियन दर्शक)।\nRamayan is an epic Indian television series based on ancient Indian Sanskrit epic of the same name. The show was originally aired between 1987 and 1988 on DD National. It was created, written, and directed by Ramanand Sagar.The show is primarily based on Valmiki's Ramayan and Tulsidas' Ramcharitmanas.\nThe series had a viewership of 82 per cent, a record high for any Indian television series. Each episode of the series reportedly earned DD National ₹40 lakh.\nThe series was reaired during the 2020 Coronavirus lockdown and broke several viewership records globally which includes setting the record for one of the most watched TV show ever in the world ( i.e 77 millions viewers on 16th april, 2020).",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/c5PGkEi8tSg/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/c5PGkEi8tSg/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/c5PGkEi8tSg/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/c5PGkEi8tSg/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/c5PGkEi8tSg/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Vivek kumar",
+"playlistId": "PLFr_jkwUp0hg7V-S3Tm7fisMlceR3OUH7",
+"position": 27,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "c5PGkEi8tSg"
+}
+},
+"contentDetails": {
+"videoId": "c5PGkEi8tSg",
+"videoPublishedAt": "2020-09-13T12:59:58Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "7bm4aR_RXzqL-EQkl3jfDLwZpYQ",
+"id": "UExGcl9qa3dVcDBoZzdWLVMzVG03ZmlzTWxjZVIzT1VINy5DMkU4NTY1QUFGQTYwMDE3",
+"snippet": {
+"publishedAt": "2020-09-18T13:53:42Z",
+"channelId": "UCHJ7nJjkqa1E8eYsYJlJkCw",
+"title": "Ramayan (रामायण) Episode 33 (English Subtitles)",
+"description": "रामायण एक महाकाव्य भारतीय टेलीविजन श्रृंखला है जो इसी नाम के प्राचीन भारतीय संस्कृत महाकाव्य पर आधारित है। यह शो मूल रूप से 1987 और 1988 के बीच डीडी नेशनल पर प्रसारित किया गया था। यह रामानंद सागर द्वारा निर्मित, लिखित और निर्देशित था। यह शो मुख्य रूप से वाल्मीकि के रामायण और तुलसीदास के रामचरितमानस पर आधारित है।\nइस श्रृंखला में 82 प्रतिशत दर्शकों की संख्या थी, जो किसी भी भारतीय टेलीविजन श्रृंखला के लिए रिकॉर्ड ऊंचाई थी। श्रृंखला के प्रत्येक एपिसोड ने कथित तौर पर डीडी नेशनल reported 40 लाख की कमाई की।\nइस श्रृंखला को 2020 के कोरोनावायरस लॉकडाउन के दौरान दिखाया गया था और विश्व स्तर पर कई दर्शकों के रिकॉर्ड को तोड़ दिया था जिसमें दुनिया में अब तक के सबसे ज्यादा देखे जाने वाले टीवी शो में रिकॉर्ड स्थापित करना भी शामिल है (यानी 16 अप्रैल, 2020 को 77 मिलियन दर्शक)।\nRamayan is an epic Indian television series based on ancient Indian Sanskrit epic of the same name. The show was originally aired between 1987 and 1988 on DD National. It was created, written, and directed by Ramanand Sagar.The show is primarily based on Valmiki's Ramayan and Tulsidas' Ramcharitmanas.\nThe series had a viewership of 82 per cent, a record high for any Indian television series. Each episode of the series reportedly earned DD National ₹40 lakh.\nThe series was reaired during the 2020 Coronavirus lockdown and broke several viewership records globally which includes setting the record for one of the most watched TV show ever in the world ( i.e 77 millions viewers on 16th april, 2020).",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/udeNEY_wwF8/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/udeNEY_wwF8/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/udeNEY_wwF8/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/udeNEY_wwF8/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/udeNEY_wwF8/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Vivek kumar",
+"playlistId": "PLFr_jkwUp0hg7V-S3Tm7fisMlceR3OUH7",
+"position": 28,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "udeNEY_wwF8"
+}
+},
+"contentDetails": {
+"videoId": "udeNEY_wwF8",
+"videoPublishedAt": "2020-09-13T13:11:18Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "iqTw03x9FA-FN2nWQ8tUNYnEFUc",
+"id": "UExGcl9qa3dVcDBoZzdWLVMzVG03ZmlzTWxjZVIzT1VINy44Mjc5REFBRUE2MTdFRDU0",
+"snippet": {
+"publishedAt": "2020-09-18T13:53:46Z",
+"channelId": "UCHJ7nJjkqa1E8eYsYJlJkCw",
+"title": "Ramayan (रामायण) Episode 34 (English Subtitles)",
+"description": "रामायण एक महाकाव्य भारतीय टेलीविजन श्रृंखला है जो इसी नाम के प्राचीन भारतीय संस्कृत महाकाव्य पर आधारित है। यह शो मूल रूप से 1987 और 1988 के बीच डीडी नेशनल पर प्रसारित किया गया था। यह रामानंद सागर द्वारा निर्मित, लिखित और निर्देशित था। यह शो मुख्य रूप से वाल्मीकि के रामायण और तुलसीदास के रामचरितमानस पर आधारित है।\nइस श्रृंखला में 82 प्रतिशत दर्शकों की संख्या थी, जो किसी भी भारतीय टेलीविजन श्रृंखला के लिए रिकॉर्ड ऊंचाई थी। श्रृंखला के प्रत्येक एपिसोड ने कथित तौर पर डीडी नेशनल reported 40 लाख की कमाई की।\nइस श्रृंखला को 2020 के कोरोनावायरस लॉकडाउन के दौरान दिखाया गया था और विश्व स्तर पर कई दर्शकों के रिकॉर्ड को तोड़ दिया था जिसमें दुनिया में अब तक के सबसे ज्यादा देखे जाने वाले टीवी शो में रिकॉर्ड स्थापित करना भी शामिल है (यानी 16 अप्रैल, 2020 को 77 मिलियन दर्शक)।\nRamayan is an epic Indian television series based on ancient Indian Sanskrit epic of the same name. The show was originally aired between 1987 and 1988 on DD National. It was created, written, and directed by Ramanand Sagar.The show is primarily based on Valmiki's Ramayan and Tulsidas' Ramcharitmanas.\nThe series had a viewership of 82 per cent, a record high for any Indian television series. Each episode of the series reportedly earned DD National ₹40 lakh.\nThe series was reaired during the 2020 Coronavirus lockdown and broke several viewership records globally which includes setting the record for one of the most watched TV show ever in the world ( i.e 77 millions viewers on 16th april, 2020).",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/NaG4qdOFkZw/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/NaG4qdOFkZw/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/NaG4qdOFkZw/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/NaG4qdOFkZw/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/NaG4qdOFkZw/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Vivek kumar",
+"playlistId": "PLFr_jkwUp0hg7V-S3Tm7fisMlceR3OUH7",
+"position": 29,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "NaG4qdOFkZw"
+}
+},
+"contentDetails": {
+"videoId": "NaG4qdOFkZw",
+"videoPublishedAt": "2020-09-13T13:11:34Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "f37VS7jOzM9rBRMUIfpnPwe3wps",
+"id": "UExGcl9qa3dVcDBoZzdWLVMzVG03ZmlzTWxjZVIzT1VINy43NDhFRTgwOTRERTU4Rjg3",
+"snippet": {
+"publishedAt": "2020-09-18T13:53:48Z",
+"channelId": "UCHJ7nJjkqa1E8eYsYJlJkCw",
+"title": "Ramayan (रामायण) Episode 35 (English Subtitles)",
+"description": "रामायण एक महाकाव्य भारतीय टेलीविजन श्रृंखला है जो इसी नाम के प्राचीन भारतीय संस्कृत महाकाव्य पर आधारित है। यह शो मूल रूप से 1987 और 1988 के बीच डीडी नेशनल पर प्रसारित किया गया था। यह रामानंद सागर द्वारा निर्मित, लिखित और निर्देशित था। यह शो मुख्य रूप से वाल्मीकि के रामायण और तुलसीदास के रामचरितमानस पर आधारित है।\nइस श्रृंखला में 82 प्रतिशत दर्शकों की संख्या थी, जो किसी भी भारतीय टेलीविजन श्रृंखला के लिए रिकॉर्ड ऊंचाई थी। श्रृंखला के प्रत्येक एपिसोड ने कथित तौर पर डीडी नेशनल reported 40 लाख की कमाई की।\nइस श्रृंखला को 2020 के कोरोनावायरस लॉकडाउन के दौरान दिखाया गया था और विश्व स्तर पर कई दर्शकों के रिकॉर्ड को तोड़ दिया था जिसमें दुनिया में अब तक के सबसे ज्यादा देखे जाने वाले टीवी शो में रिकॉर्ड स्थापित करना भी शामिल है (यानी 16 अप्रैल, 2020 को 77 मिलियन दर्शक)।\nRamayan is an epic Indian television series based on ancient Indian Sanskrit epic of the same name. The show was originally aired between 1987 and 1988 on DD National. It was created, written, and directed by Ramanand Sagar.The show is primarily based on Valmiki's Ramayan and Tulsidas' Ramcharitmanas.\nThe series had a viewership of 82 per cent, a record high for any Indian television series. Each episode of the series reportedly earned DD National ₹40 lakh.\nThe series was reaired during the 2020 Coronavirus lockdown and broke several viewership records globally which includes setting the record for one of the most watched TV show ever in the world ( i.e 77 millions viewers on 16th april, 2020).",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/OG7AbPStTZU/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/OG7AbPStTZU/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/OG7AbPStTZU/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/OG7AbPStTZU/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/OG7AbPStTZU/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Vivek kumar",
+"playlistId": "PLFr_jkwUp0hg7V-S3Tm7fisMlceR3OUH7",
+"position": 30,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "OG7AbPStTZU"
+}
+},
+"contentDetails": {
+"videoId": "OG7AbPStTZU",
+"videoPublishedAt": "2020-09-13T13:11:48Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "EizpXjsJbf39urW6AEJprmiZx1M",
+"id": "UExGcl9qa3dVcDBoZzdWLVMzVG03ZmlzTWxjZVIzT1VINy41QUZGQTY5OTE4QTREQUU4",
+"snippet": {
+"publishedAt": "2020-09-18T13:53:52Z",
+"channelId": "UCHJ7nJjkqa1E8eYsYJlJkCw",
+"title": "Ramayan (रामायण) Episode 36 (English Subtitles)",
+"description": "रामायण एक महाकाव्य भारतीय टेलीविजन श्रृंखला है जो इसी नाम के प्राचीन भारतीय संस्कृत महाकाव्य पर आधारित है। यह शो मूल रूप से 1987 और 1988 के बीच डीडी नेशनल पर प्रसारित किया गया था। यह रामानंद सागर द्वारा निर्मित, लिखित और निर्देशित था। यह शो मुख्य रूप से वाल्मीकि के रामायण और तुलसीदास के रामचरितमानस पर आधारित है।\nइस श्रृंखला में 82 प्रतिशत दर्शकों की संख्या थी, जो किसी भी भारतीय टेलीविजन श्रृंखला के लिए रिकॉर्ड ऊंचाई थी। श्रृंखला के प्रत्येक एपिसोड ने कथित तौर पर डीडी नेशनल reported 40 लाख की कमाई की।\nइस श्रृंखला को 2020 के कोरोनावायरस लॉकडाउन के दौरान दिखाया गया था और विश्व स्तर पर कई दर्शकों के रिकॉर्ड को तोड़ दिया था जिसमें दुनिया में अब तक के सबसे ज्यादा देखे जाने वाले टीवी शो में रिकॉर्ड स्थापित करना भी शामिल है (यानी 16 अप्रैल, 2020 को 77 मिलियन दर्शक)।\nRamayan is an epic Indian television series based on ancient Indian Sanskrit epic of the same name. The show was originally aired between 1987 and 1988 on DD National. It was created, written, and directed by Ramanand Sagar.The show is primarily based on Valmiki's Ramayan and Tulsidas' Ramcharitmanas.\nThe series had a viewership of 82 per cent, a record high for any Indian television series. Each episode of the series reportedly earned DD National ₹40 lakh.\nThe series was reaired during the 2020 Coronavirus lockdown and broke several viewership records globally which includes setting the record for one of the most watched TV show ever in the world ( i.e 77 millions viewers on 16th april, 2020).",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/x8b5JJ3P7Rw/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/x8b5JJ3P7Rw/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/x8b5JJ3P7Rw/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/x8b5JJ3P7Rw/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/x8b5JJ3P7Rw/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Vivek kumar",
+"playlistId": "PLFr_jkwUp0hg7V-S3Tm7fisMlceR3OUH7",
+"position": 31,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "x8b5JJ3P7Rw"
+}
+},
+"contentDetails": {
+"videoId": "x8b5JJ3P7Rw",
+"videoPublishedAt": "2020-09-13T13:12:27Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "qO5BMAFmudmze8s8U2W0_zFvypc",
+"id": "UExGcl9qa3dVcDBoZzdWLVMzVG03ZmlzTWxjZVIzT1VINy4zRDBDOEZDOUM0MDY5NEEz",
+"snippet": {
+"publishedAt": "2020-09-18T13:53:54Z",
+"channelId": "UCHJ7nJjkqa1E8eYsYJlJkCw",
+"title": "Ramayan (रामायण) Episode 37 (English Subtitles)",
+"description": "रामायण एक महाकाव्य भारतीय टेलीविजन श्रृंखला है जो इसी नाम के प्राचीन भारतीय संस्कृत महाकाव्य पर आधारित है। यह शो मूल रूप से 1987 और 1988 के बीच डीडी नेशनल पर प्रसारित किया गया था। यह रामानंद सागर द्वारा निर्मित, लिखित और निर्देशित था। यह शो मुख्य रूप से वाल्मीकि के रामायण और तुलसीदास के रामचरितमानस पर आधारित है।\nइस श्रृंखला में 82 प्रतिशत दर्शकों की संख्या थी, जो किसी भी भारतीय टेलीविजन श्रृंखला के लिए रिकॉर्ड ऊंचाई थी। श्रृंखला के प्रत्येक एपिसोड ने कथित तौर पर डीडी नेशनल reported 40 लाख की कमाई की।\nइस श्रृंखला को 2020 के कोरोनावायरस लॉकडाउन के दौरान दिखाया गया था और विश्व स्तर पर कई दर्शकों के रिकॉर्ड को तोड़ दिया था जिसमें दुनिया में अब तक के सबसे ज्यादा देखे जाने वाले टीवी शो में रिकॉर्ड स्थापित करना भी शामिल है (यानी 16 अप्रैल, 2020 को 77 मिलियन दर्शक)।\nRamayan is an epic Indian television series based on ancient Indian Sanskrit epic of the same name. The show was originally aired between 1987 and 1988 on DD National. It was created, written, and directed by Ramanand Sagar.The show is primarily based on Valmiki's Ramayan and Tulsidas' Ramcharitmanas.\nThe series had a viewership of 82 per cent, a record high for any Indian television series. Each episode of the series reportedly earned DD National ₹40 lakh.\nThe series was reaired during the 2020 Coronavirus lockdown and broke several viewership records globally which includes setting the record for one of the most watched TV show ever in the world ( i.e 77 millions viewers on 16th april, 2020).",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/j3hMIpfVg2g/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/j3hMIpfVg2g/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/j3hMIpfVg2g/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/j3hMIpfVg2g/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/j3hMIpfVg2g/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Vivek kumar",
+"playlistId": "PLFr_jkwUp0hg7V-S3Tm7fisMlceR3OUH7",
+"position": 32,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "j3hMIpfVg2g"
+}
+},
+"contentDetails": {
+"videoId": "j3hMIpfVg2g",
+"videoPublishedAt": "2020-09-13T13:13:01Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "Fnim9pnr8QhVbGD5BAXohMSYXSw",
+"id": "UExGcl9qa3dVcDBoZzdWLVMzVG03ZmlzTWxjZVIzT1VINy5CMEQ2Mjk5NTc3NDZFRUNB",
+"snippet": {
+"publishedAt": "2020-09-18T13:53:57Z",
+"channelId": "UCHJ7nJjkqa1E8eYsYJlJkCw",
+"title": "Ramayan (रामायण) Episode 38 (English Subtitles)",
+"description": "रामायण एक महाकाव्य भारतीय टेलीविजन श्रृंखला है जो इसी नाम के प्राचीन भारतीय संस्कृत महाकाव्य पर आधारित है। यह शो मूल रूप से 1987 और 1988 के बीच डीडी नेशनल पर प्रसारित किया गया था। यह रामानंद सागर द्वारा निर्मित, लिखित और निर्देशित था। यह शो मुख्य रूप से वाल्मीकि के रामायण और तुलसीदास के रामचरितमानस पर आधारित है।\nइस श्रृंखला में 82 प्रतिशत दर्शकों की संख्या थी, जो किसी भी भारतीय टेलीविजन श्रृंखला के लिए रिकॉर्ड ऊंचाई थी। श्रृंखला के प्रत्येक एपिसोड ने कथित तौर पर डीडी नेशनल reported 40 लाख की कमाई की।\nइस श्रृंखला को 2020 के कोरोनावायरस लॉकडाउन के दौरान दिखाया गया था और विश्व स्तर पर कई दर्शकों के रिकॉर्ड को तोड़ दिया था जिसमें दुनिया में अब तक के सबसे ज्यादा देखे जाने वाले टीवी शो में रिकॉर्ड स्थापित करना भी शामिल है (यानी 16 अप्रैल, 2020 को 77 मिलियन दर्शक)।\nRamayan is an epic Indian television series based on ancient Indian Sanskrit epic of the same name. The show was originally aired between 1987 and 1988 on DD National. It was created, written, and directed by Ramanand Sagar.The show is primarily based on Valmiki's Ramayan and Tulsidas' Ramcharitmanas.\nThe series had a viewership of 82 per cent, a record high for any Indian television series. Each episode of the series reportedly earned DD National ₹40 lakh.\nThe series was reaired during the 2020 Coronavirus lockdown and broke several viewership records globally which includes setting the record for one of the most watched TV show ever in the world ( i.e 77 millions viewers on 16th april, 2020).",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/UQgYkDgguNM/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/UQgYkDgguNM/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/UQgYkDgguNM/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/UQgYkDgguNM/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/UQgYkDgguNM/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Vivek kumar",
+"playlistId": "PLFr_jkwUp0hg7V-S3Tm7fisMlceR3OUH7",
+"position": 33,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "UQgYkDgguNM"
+}
+},
+"contentDetails": {
+"videoId": "UQgYkDgguNM",
+"videoPublishedAt": "2020-09-13T13:37:18Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "5ZG0zgnjGmUzrqzh-PA51s0t0sw",
+"id": "UExGcl9qa3dVcDBoZzdWLVMzVG03ZmlzTWxjZVIzT1VINy42MTI4Njc2QjM1RjU1MjlG",
+"snippet": {
+"publishedAt": "2020-09-18T13:54:00Z",
+"channelId": "UCHJ7nJjkqa1E8eYsYJlJkCw",
+"title": "Ramayan (रामायण) Episode 39 (English Subtitles)",
+"description": "रामायण एक महाकाव्य भारतीय टेलीविजन श्रृंखला है जो इसी नाम के प्राचीन भारतीय संस्कृत महाकाव्य पर आधारित है। यह शो मूल रूप से 1987 और 1988 के बीच डीडी नेशनल पर प्रसारित किया गया था। यह रामानंद सागर द्वारा निर्मित, लिखित और निर्देशित था। यह शो मुख्य रूप से वाल्मीकि के रामायण और तुलसीदास के रामचरितमानस पर आधारित है।\nइस श्रृंखला में 82 प्रतिशत दर्शकों की संख्या थी, जो किसी भी भारतीय टेलीविजन श्रृंखला के लिए रिकॉर्ड ऊंचाई थी। श्रृंखला के प्रत्येक एपिसोड ने कथित तौर पर डीडी नेशनल reported 40 लाख की कमाई की।\nइस श्रृंखला को 2020 के कोरोनावायरस लॉकडाउन के दौरान दिखाया गया था और विश्व स्तर पर कई दर्शकों के रिकॉर्ड को तोड़ दिया था जिसमें दुनिया में अब तक के सबसे ज्यादा देखे जाने वाले टीवी शो में रिकॉर्ड स्थापित करना भी शामिल है (यानी 16 अप्रैल, 2020 को 77 मिलियन दर्शक)।\nRamayan is an epic Indian television series based on ancient Indian Sanskrit epic of the same name. The show was originally aired between 1987 and 1988 on DD National. It was created, written, and directed by Ramanand Sagar.The show is primarily based on Valmiki's Ramayan and Tulsidas' Ramcharitmanas.\nThe series had a viewership of 82 per cent, a record high for any Indian television series. Each episode of the series reportedly earned DD National ₹40 lakh.\nThe series was reaired during the 2020 Coronavirus lockdown and broke several viewership records globally which includes setting the record for one of the most watched TV show ever in the world ( i.e 77 millions viewers on 16th april, 2020).",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/Nng1cT7IPgY/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/Nng1cT7IPgY/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/Nng1cT7IPgY/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/Nng1cT7IPgY/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/Nng1cT7IPgY/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Vivek kumar",
+"playlistId": "PLFr_jkwUp0hg7V-S3Tm7fisMlceR3OUH7",
+"position": 34,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "Nng1cT7IPgY"
+}
+},
+"contentDetails": {
+"videoId": "Nng1cT7IPgY",
+"videoPublishedAt": "2020-09-13T13:33:15Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "LIEcUvN8a3DA3R0Z0ndTb8hWBkQ",
+"id": "UExGcl9qa3dVcDBoZzdWLVMzVG03ZmlzTWxjZVIzT1VINy45RjNFMDhGQ0Q2RkFCQTc1",
+"snippet": {
+"publishedAt": "2020-09-18T13:54:03Z",
+"channelId": "UCHJ7nJjkqa1E8eYsYJlJkCw",
+"title": "Ramayan (रामायण) Episode 40 (English Subtitles)",
+"description": "रामायण एक महाकाव्य भारतीय टेलीविजन श्रृंखला है जो इसी नाम के प्राचीन भारतीय संस्कृत महाकाव्य पर आधारित है। यह शो मूल रूप से 1987 और 1988 के बीच डीडी नेशनल पर प्रसारित किया गया था। यह रामानंद सागर द्वारा निर्मित, लिखित और निर्देशित था। यह शो मुख्य रूप से वाल्मीकि के रामायण और तुलसीदास के रामचरितमानस पर आधारित है।\nइस श्रृंखला में 82 प्रतिशत दर्शकों की संख्या थी, जो किसी भी भारतीय टेलीविजन श्रृंखला के लिए रिकॉर्ड ऊंचाई थी। श्रृंखला के प्रत्येक एपिसोड ने कथित तौर पर डीडी नेशनल reported 40 लाख की कमाई की।\nइस श्रृंखला को 2020 के कोरोनावायरस लॉकडाउन के दौरान दिखाया गया था और विश्व स्तर पर कई दर्शकों के रिकॉर्ड को तोड़ दिया था जिसमें दुनिया में अब तक के सबसे ज्यादा देखे जाने वाले टीवी शो में रिकॉर्ड स्थापित करना भी शामिल है (यानी 16 अप्रैल, 2020 को 77 मिलियन दर्शक)।\nRamayan is an epic Indian television series based on ancient Indian Sanskrit epic of the same name. The show was originally aired between 1987 and 1988 on DD National. It was created, written, and directed by Ramanand Sagar.The show is primarily based on Valmiki's Ramayan and Tulsidas' Ramcharitmanas.\nThe series had a viewership of 82 per cent, a record high for any Indian television series. Each episode of the series reportedly earned DD National ₹40 lakh.\nThe series was reaired during the 2020 Coronavirus lockdown and broke several viewership records globally which includes setting the record for one of the most watched TV show ever in the world ( i.e 77 millions viewers on 16th april, 2020).",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/u5MZFYLlwak/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/u5MZFYLlwak/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/u5MZFYLlwak/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/u5MZFYLlwak/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/u5MZFYLlwak/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Vivek kumar",
+"playlistId": "PLFr_jkwUp0hg7V-S3Tm7fisMlceR3OUH7",
+"position": 35,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "u5MZFYLlwak"
+}
+},
+"contentDetails": {
+"videoId": "u5MZFYLlwak",
+"videoPublishedAt": "2020-09-13T13:33:55Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "q6V-xsLmveQ7kCSjYZNUv2tT6oM",
+"id": "UExGcl9qa3dVcDBoZzdWLVMzVG03ZmlzTWxjZVIzT1VINy40QTA3NTU2RkM1QzlCMzYx",
+"snippet": {
+"publishedAt": "2020-09-18T13:54:06Z",
+"channelId": "UCHJ7nJjkqa1E8eYsYJlJkCw",
+"title": "Ramayan (रामायण) Episode 41 (English Subtitles)",
+"description": "रामायण एक महाकाव्य भारतीय टेलीविजन श्रृंखला है जो इसी नाम के प्राचीन भारतीय संस्कृत महाकाव्य पर आधारित है। यह शो मूल रूप से 1987 और 1988 के बीच डीडी नेशनल पर प्रसारित किया गया था। यह रामानंद सागर द्वारा निर्मित, लिखित और निर्देशित था। यह शो मुख्य रूप से वाल्मीकि के रामायण और तुलसीदास के रामचरितमानस पर आधारित है।\nइस श्रृंखला में 82 प्रतिशत दर्शकों की संख्या थी, जो किसी भी भारतीय टेलीविजन श्रृंखला के लिए रिकॉर्ड ऊंचाई थी। श्रृंखला के प्रत्येक एपिसोड ने कथित तौर पर डीडी नेशनल reported 40 लाख की कमाई की।\nइस श्रृंखला को 2020 के कोरोनावायरस लॉकडाउन के दौरान दिखाया गया था और विश्व स्तर पर कई दर्शकों के रिकॉर्ड को तोड़ दिया था जिसमें दुनिया में अब तक के सबसे ज्यादा देखे जाने वाले टीवी शो में रिकॉर्ड स्थापित करना भी शामिल है (यानी 16 अप्रैल, 2020 को 77 मिलियन दर्शक)।\nRamayan is an epic Indian television series based on ancient Indian Sanskrit epic of the same name. The show was originally aired between 1987 and 1988 on DD National. It was created, written, and directed by Ramanand Sagar.The show is primarily based on Valmiki's Ramayan and Tulsidas' Ramcharitmanas.\nThe series had a viewership of 82 per cent, a record high for any Indian television series. Each episode of the series reportedly earned DD National ₹40 lakh.\nThe series was reaired during the 2020 Coronavirus lockdown and broke several viewership records globally which includes setting the record for one of the most watched TV show ever in the world ( i.e 77 millions viewers on 16th april, 2020).",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/EvoMKjEwuQE/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/EvoMKjEwuQE/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/EvoMKjEwuQE/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/EvoMKjEwuQE/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/EvoMKjEwuQE/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Vivek kumar",
+"playlistId": "PLFr_jkwUp0hg7V-S3Tm7fisMlceR3OUH7",
+"position": 36,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "EvoMKjEwuQE"
+}
+},
+"contentDetails": {
+"videoId": "EvoMKjEwuQE",
+"videoPublishedAt": "2020-09-13T13:43:25Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "pFxgyvwWCD70bDHIHsk50WX_60U",
+"id": "UExGcl9qa3dVcDBoZzdWLVMzVG03ZmlzTWxjZVIzT1VINy5BRjJDODk5REM0NjkzMUIy",
+"snippet": {
+"publishedAt": "2020-09-18T13:54:10Z",
+"channelId": "UCHJ7nJjkqa1E8eYsYJlJkCw",
+"title": "Ramayan (रामायण) Episode 42 (English Subtitles)",
+"description": "रामायण एक महाकाव्य भारतीय टेलीविजन श्रृंखला है जो इसी नाम के प्राचीन भारतीय संस्कृत महाकाव्य पर आधारित है। यह शो मूल रूप से 1987 और 1988 के बीच डीडी नेशनल पर प्रसारित किया गया था। यह रामानंद सागर द्वारा निर्मित, लिखित और निर्देशित था। यह शो मुख्य रूप से वाल्मीकि के रामायण और तुलसीदास के रामचरितमानस पर आधारित है।\nइस श्रृंखला में 82 प्रतिशत दर्शकों की संख्या थी, जो किसी भी भारतीय टेलीविजन श्रृंखला के लिए रिकॉर्ड ऊंचाई थी। श्रृंखला के प्रत्येक एपिसोड ने कथित तौर पर डीडी नेशनल reported 40 लाख की कमाई की।\nइस श्रृंखला को 2020 के कोरोनावायरस लॉकडाउन के दौरान दिखाया गया था और विश्व स्तर पर कई दर्शकों के रिकॉर्ड को तोड़ दिया था जिसमें दुनिया में अब तक के सबसे ज्यादा देखे जाने वाले टीवी शो में रिकॉर्ड स्थापित करना भी शामिल है (यानी 16 अप्रैल, 2020 को 77 मिलियन दर्शक)।\nRamayan is an epic Indian television series based on ancient Indian Sanskrit epic of the same name. The show was originally aired between 1987 and 1988 on DD National. It was created, written, and directed by Ramanand Sagar.The show is primarily based on Valmiki's Ramayan and Tulsidas' Ramcharitmanas.\nThe series had a viewership of 82 per cent, a record high for any Indian television series. Each episode of the series reportedly earned DD National ₹40 lakh.\nThe series was reaired during the 2020 Coronavirus lockdown and broke several viewership records globally which includes setting the record for one of the most watched TV show ever in the world ( i.e 77 millions viewers on 16th april, 2020).",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/nUX9xbFbvE0/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/nUX9xbFbvE0/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/nUX9xbFbvE0/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/nUX9xbFbvE0/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/nUX9xbFbvE0/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Vivek kumar",
+"playlistId": "PLFr_jkwUp0hg7V-S3Tm7fisMlceR3OUH7",
+"position": 37,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "nUX9xbFbvE0"
+}
+},
+"contentDetails": {
+"videoId": "nUX9xbFbvE0",
+"videoPublishedAt": "2020-09-13T14:49:17Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "l3mufifDIM_ZNU1iKWCbZ7bTvbo",
+"id": "UExGcl9qa3dVcDBoZzdWLVMzVG03ZmlzTWxjZVIzT1VINy4xOTEzQzhBQzU3MDNDNjcz",
+"snippet": {
+"publishedAt": "2020-09-18T13:54:12Z",
+"channelId": "UCHJ7nJjkqa1E8eYsYJlJkCw",
+"title": "Ramayan (रामायण) Episode 43 (English Subtitles)",
+"description": "रामायण एक महाकाव्य भारतीय टेलीविजन श्रृंखला है जो इसी नाम के प्राचीन भारतीय संस्कृत महाकाव्य पर आधारित है। यह शो मूल रूप से 1987 और 1988 के बीच डीडी नेशनल पर प्रसारित किया गया था। यह रामानंद सागर द्वारा निर्मित, लिखित और निर्देशित था। यह शो मुख्य रूप से वाल्मीकि के रामायण और तुलसीदास के रामचरितमानस पर आधारित है।\nइस श्रृंखला में 82 प्रतिशत दर्शकों की संख्या थी, जो किसी भी भारतीय टेलीविजन श्रृंखला के लिए रिकॉर्ड ऊंचाई थी। श्रृंखला के प्रत्येक एपिसोड ने कथित तौर पर डीडी नेशनल reported 40 लाख की कमाई की।\nइस श्रृंखला को 2020 के कोरोनावायरस लॉकडाउन के दौरान दिखाया गया था और विश्व स्तर पर कई दर्शकों के रिकॉर्ड को तोड़ दिया था जिसमें दुनिया में अब तक के सबसे ज्यादा देखे जाने वाले टीवी शो में रिकॉर्ड स्थापित करना भी शामिल है (यानी 16 अप्रैल, 2020 को 77 मिलियन दर्शक)।\nRamayan is an epic Indian television series based on ancient Indian Sanskrit epic of the same name. The show was originally aired between 1987 and 1988 on DD National. It was created, written, and directed by Ramanand Sagar.The show is primarily based on Valmiki's Ramayan and Tulsidas' Ramcharitmanas.\nThe series had a viewership of 82 per cent, a record high for any Indian television series. Each episode of the series reportedly earned DD National ₹40 lakh.\nThe series was reaired during the 2020 Coronavirus lockdown and broke several viewership records globally which includes setting the record for one of the most watched TV show ever in the world ( i.e 77 millions viewers on 16th april, 2020).",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/xzPBWwi547I/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/xzPBWwi547I/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/xzPBWwi547I/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/xzPBWwi547I/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/xzPBWwi547I/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Vivek kumar",
+"playlistId": "PLFr_jkwUp0hg7V-S3Tm7fisMlceR3OUH7",
+"position": 38,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "xzPBWwi547I"
+}
+},
+"contentDetails": {
+"videoId": "xzPBWwi547I",
+"videoPublishedAt": "2020-09-13T14:50:16Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "KBoFvhmmj941tCef8qNaOPWD4N8",
+"id": "UExGcl9qa3dVcDBoZzdWLVMzVG03ZmlzTWxjZVIzT1VINy5GNDg1Njc1QzZERjlFRjE5",
+"snippet": {
+"publishedAt": "2020-09-18T13:54:15Z",
+"channelId": "UCHJ7nJjkqa1E8eYsYJlJkCw",
+"title": "Ramayan (रामायण) Episode 44 (English Subtitles)",
+"description": "रामायण एक महाकाव्य भारतीय टेलीविजन श्रृंखला है जो इसी नाम के प्राचीन भारतीय संस्कृत महाकाव्य पर आधारित है। यह शो मूल रूप से 1987 और 1988 के बीच डीडी नेशनल पर प्रसारित किया गया था। यह रामानंद सागर द्वारा निर्मित, लिखित और निर्देशित था। यह शो मुख्य रूप से वाल्मीकि के रामायण और तुलसीदास के रामचरितमानस पर आधारित है।\nइस श्रृंखला में 82 प्रतिशत दर्शकों की संख्या थी, जो किसी भी भारतीय टेलीविजन श्रृंखला के लिए रिकॉर्ड ऊंचाई थी। श्रृंखला के प्रत्येक एपिसोड ने कथित तौर पर डीडी नेशनल reported 40 लाख की कमाई की।\nइस श्रृंखला को 2020 के कोरोनावायरस लॉकडाउन के दौरान दिखाया गया था और विश्व स्तर पर कई दर्शकों के रिकॉर्ड को तोड़ दिया था जिसमें दुनिया में अब तक के सबसे ज्यादा देखे जाने वाले टीवी शो में रिकॉर्ड स्थापित करना भी शामिल है (यानी 16 अप्रैल, 2020 को 77 मिलियन दर्शक)।\nRamayan is an epic Indian television series based on ancient Indian Sanskrit epic of the same name. The show was originally aired between 1987 and 1988 on DD National. It was created, written, and directed by Ramanand Sagar.The show is primarily based on Valmiki's Ramayan and Tulsidas' Ramcharitmanas.\nThe series had a viewership of 82 per cent, a record high for any Indian television series. Each episode of the series reportedly earned DD National ₹40 lakh.\nThe series was reaired during the 2020 Coronavirus lockdown and broke several viewership records globally which includes setting the record for one of the most watched TV show ever in the world ( i.e 77 millions viewers on 16th april, 2020).",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/pBEsG4lAMdc/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/pBEsG4lAMdc/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/pBEsG4lAMdc/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/pBEsG4lAMdc/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/pBEsG4lAMdc/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Vivek kumar",
+"playlistId": "PLFr_jkwUp0hg7V-S3Tm7fisMlceR3OUH7",
+"position": 39,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "pBEsG4lAMdc"
+}
+},
+"contentDetails": {
+"videoId": "pBEsG4lAMdc",
+"videoPublishedAt": "2020-09-13T14:51:30Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "OwFDJ0OSodhz16AN0Fk7eK1-pzc",
+"id": "UExGcl9qa3dVcDBoZzdWLVMzVG03ZmlzTWxjZVIzT1VINy4zQzFBN0RGNzNFREFCMjBE",
+"snippet": {
+"publishedAt": "2020-09-18T13:54:18Z",
+"channelId": "UCHJ7nJjkqa1E8eYsYJlJkCw",
+"title": "Ramayan (रामायण) Episode 45 (English Subtitles)",
+"description": "रामायण एक महाकाव्य भारतीय टेलीविजन श्रृंखला है जो इसी नाम के प्राचीन भारतीय संस्कृत महाकाव्य पर आधारित है। यह शो मूल रूप से 1987 और 1988 के बीच डीडी नेशनल पर प्रसारित किया गया था। यह रामानंद सागर द्वारा निर्मित, लिखित और निर्देशित था। यह शो मुख्य रूप से वाल्मीकि के रामायण और तुलसीदास के रामचरितमानस पर आधारित है।\nइस श्रृंखला में 82 प्रतिशत दर्शकों की संख्या थी, जो किसी भी भारतीय टेलीविजन श्रृंखला के लिए रिकॉर्ड ऊंचाई थी। श्रृंखला के प्रत्येक एपिसोड ने कथित तौर पर डीडी नेशनल reported 40 लाख की कमाई की।\nइस श्रृंखला को 2020 के कोरोनावायरस लॉकडाउन के दौरान दिखाया गया था और विश्व स्तर पर कई दर्शकों के रिकॉर्ड को तोड़ दिया था जिसमें दुनिया में अब तक के सबसे ज्यादा देखे जाने वाले टीवी शो में रिकॉर्ड स्थापित करना भी शामिल है (यानी 16 अप्रैल, 2020 को 77 मिलियन दर्शक)।\nRamayan is an epic Indian television series based on ancient Indian Sanskrit epic of the same name. The show was originally aired between 1987 and 1988 on DD National. It was created, written, and directed by Ramanand Sagar.The show is primarily based on Valmiki's Ramayan and Tulsidas' Ramcharitmanas.\nThe series had a viewership of 82 per cent, a record high for any Indian television series. Each episode of the series reportedly earned DD National ₹40 lakh.\nThe series was reaired during the 2020 Coronavirus lockdown and broke several viewership records globally which includes setting the record for one of the most watched TV show ever in the world ( i.e 77 millions viewers on 16th april, 2020).",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/wPcoPFXW2WE/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/wPcoPFXW2WE/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/wPcoPFXW2WE/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/wPcoPFXW2WE/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/wPcoPFXW2WE/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Vivek kumar",
+"playlistId": "PLFr_jkwUp0hg7V-S3Tm7fisMlceR3OUH7",
+"position": 40,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "wPcoPFXW2WE"
+}
+},
+"contentDetails": {
+"videoId": "wPcoPFXW2WE",
+"videoPublishedAt": "2020-09-13T14:52:33Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "UOU6E6yyBP1JtyTVHRRbJqGcS1I",
+"id": "UExGcl9qa3dVcDBoZzdWLVMzVG03ZmlzTWxjZVIzT1VINy45NkVENTkxRDdCQUFBMDY4",
+"snippet": {
+"publishedAt": "2020-09-18T13:54:21Z",
+"channelId": "UCHJ7nJjkqa1E8eYsYJlJkCw",
+"title": "Ramayan (रामायण) Episode 47 (English Subtitles)",
+"description": "रामायण एक महाकाव्य भारतीय टेलीविजन श्रृंखला है जो इसी नाम के प्राचीन भारतीय संस्कृत महाकाव्य पर आधारित है। यह शो मूल रूप से 1987 और 1988 के बीच डीडी नेशनल पर प्रसारित किया गया था। यह रामानंद सागर द्वारा निर्मित, लिखित और निर्देशित था। यह शो मुख्य रूप से वाल्मीकि के रामायण और तुलसीदास के रामचरितमानस पर आधारित है।\nइस श्रृंखला में 82 प्रतिशत दर्शकों की संख्या थी, जो किसी भी भारतीय टेलीविजन श्रृंखला के लिए रिकॉर्ड ऊंचाई थी। श्रृंखला के प्रत्येक एपिसोड ने कथित तौर पर डीडी नेशनल reported 40 लाख की कमाई की।\nइस श्रृंखला को 2020 के कोरोनावायरस लॉकडाउन के दौरान दिखाया गया था और विश्व स्तर पर कई दर्शकों के रिकॉर्ड को तोड़ दिया था जिसमें दुनिया में अब तक के सबसे ज्यादा देखे जाने वाले टीवी शो में रिकॉर्ड स्थापित करना भी शामिल है (यानी 16 अप्रैल, 2020 को 77 मिलियन दर्शक)।\nRamayan is an epic Indian television series based on ancient Indian Sanskrit epic of the same name. The show was originally aired between 1987 and 1988 on DD National. It was created, written, and directed by Ramanand Sagar.The show is primarily based on Valmiki's Ramayan and Tulsidas' Ramcharitmanas.\nThe series had a viewership of 82 per cent, a record high for any Indian television series. Each episode of the series reportedly earned DD National ₹40 lakh.\nThe series was reaired during the 2020 Coronavirus lockdown and broke several viewership records globally which includes setting the record for one of the most watched TV show ever in the world ( i.e 77 millions viewers on 16th april, 2020).",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/dkrNAlWmEzA/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/dkrNAlWmEzA/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/dkrNAlWmEzA/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/dkrNAlWmEzA/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/dkrNAlWmEzA/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Vivek kumar",
+"playlistId": "PLFr_jkwUp0hg7V-S3Tm7fisMlceR3OUH7",
+"position": 41,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "dkrNAlWmEzA"
+}
+},
+"contentDetails": {
+"videoId": "dkrNAlWmEzA",
+"videoPublishedAt": "2020-09-13T15:09:25Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "QO6w0OhIgCOEaKUhiDa3y1q1PfE",
+"id": "UExGcl9qa3dVcDBoZzdWLVMzVG03ZmlzTWxjZVIzT1VINy5DNkMwRUI2MkI4QkI4NDFG",
+"snippet": {
+"publishedAt": "2020-09-18T13:54:25Z",
+"channelId": "UCHJ7nJjkqa1E8eYsYJlJkCw",
+"title": "Ramayan (रामायण) Episode 48 (English Subtitles)",
+"description": "रामायण एक महाकाव्य भारतीय टेलीविजन श्रृंखला है जो इसी नाम के प्राचीन भारतीय संस्कृत महाकाव्य पर आधारित है। यह शो मूल रूप से 1987 और 1988 के बीच डीडी नेशनल पर प्रसारित किया गया था। यह रामानंद सागर द्वारा निर्मित, लिखित और निर्देशित था। यह शो मुख्य रूप से वाल्मीकि के रामायण और तुलसीदास के रामचरितमानस पर आधारित है।\nइस श्रृंखला में 82 प्रतिशत दर्शकों की संख्या थी, जो किसी भी भारतीय टेलीविजन श्रृंखला के लिए रिकॉर्ड ऊंचाई थी। श्रृंखला के प्रत्येक एपिसोड ने कथित तौर पर डीडी नेशनल reported 40 लाख की कमाई की।\nइस श्रृंखला को 2020 के कोरोनावायरस लॉकडाउन के दौरान दिखाया गया था और विश्व स्तर पर कई दर्शकों के रिकॉर्ड को तोड़ दिया था जिसमें दुनिया में अब तक के सबसे ज्यादा देखे जाने वाले टीवी शो में रिकॉर्ड स्थापित करना भी शामिल है (यानी 16 अप्रैल, 2020 को 77 मिलियन दर्शक)।\nRamayan is an epic Indian television series based on ancient Indian Sanskrit epic of the same name. The show was originally aired between 1987 and 1988 on DD National. It was created, written, and directed by Ramanand Sagar.The show is primarily based on Valmiki's Ramayan and Tulsidas' Ramcharitmanas.\nThe series had a viewership of 82 per cent, a record high for any Indian television series. Each episode of the series reportedly earned DD National ₹40 lakh.\nThe series was reaired during the 2020 Coronavirus lockdown and broke several viewership records globally which includes setting the record for one of the most watched TV show ever in the world ( i.e 77 millions viewers on 16th april, 2020).",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/JLOxXYBqLN4/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/JLOxXYBqLN4/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/JLOxXYBqLN4/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/JLOxXYBqLN4/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/JLOxXYBqLN4/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Vivek kumar",
+"playlistId": "PLFr_jkwUp0hg7V-S3Tm7fisMlceR3OUH7",
+"position": 42,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "JLOxXYBqLN4"
+}
+},
+"contentDetails": {
+"videoId": "JLOxXYBqLN4",
+"videoPublishedAt": "2020-09-13T15:10:25Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "8aiKlknaeXdCq97jHwJbOicOMNc",
+"id": "UExGcl9qa3dVcDBoZzdWLVMzVG03ZmlzTWxjZVIzT1VINy5DRUQwODMxQzUyRTlGRkY3",
+"snippet": {
+"publishedAt": "2020-09-18T13:54:29Z",
+"channelId": "UCHJ7nJjkqa1E8eYsYJlJkCw",
+"title": "Ramayan (रामायण) Episode 49 (English Subtitles)",
+"description": "रामायण एक महाकाव्य भारतीय टेलीविजन श्रृंखला है जो इसी नाम के प्राचीन भारतीय संस्कृत महाकाव्य पर आधारित है। यह शो मूल रूप से 1987 और 1988 के बीच डीडी नेशनल पर प्रसारित किया गया था। यह रामानंद सागर द्वारा निर्मित, लिखित और निर्देशित था। यह शो मुख्य रूप से वाल्मीकि के रामायण और तुलसीदास के रामचरितमानस पर आधारित है।\nइस श्रृंखला में 82 प्रतिशत दर्शकों की संख्या थी, जो किसी भी भारतीय टेलीविजन श्रृंखला के लिए रिकॉर्ड ऊंचाई थी। श्रृंखला के प्रत्येक एपिसोड ने कथित तौर पर डीडी नेशनल reported 40 लाख की कमाई की।\nइस श्रृंखला को 2020 के कोरोनावायरस लॉकडाउन के दौरान दिखाया गया था और विश्व स्तर पर कई दर्शकों के रिकॉर्ड को तोड़ दिया था जिसमें दुनिया में अब तक के सबसे ज्यादा देखे जाने वाले टीवी शो में रिकॉर्ड स्थापित करना भी शामिल है (यानी 16 अप्रैल, 2020 को 77 मिलियन दर्शक)।\nRamayan is an epic Indian television series based on ancient Indian Sanskrit epic of the same name. The show was originally aired between 1987 and 1988 on DD National. It was created, written, and directed by Ramanand Sagar.The show is primarily based on Valmiki's Ramayan and Tulsidas' Ramcharitmanas.\nThe series had a viewership of 82 per cent, a record high for any Indian television series. Each episode of the series reportedly earned DD National ₹40 lakh.\nThe series was reaired during the 2020 Coronavirus lockdown and broke several viewership records globally which includes setting the record for one of the most watched TV show ever in the world ( i.e 77 millions viewers on 16th april, 2020).",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/T57tkyQx5OQ/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/T57tkyQx5OQ/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/T57tkyQx5OQ/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/T57tkyQx5OQ/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/T57tkyQx5OQ/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Vivek kumar",
+"playlistId": "PLFr_jkwUp0hg7V-S3Tm7fisMlceR3OUH7",
+"position": 43,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "T57tkyQx5OQ"
+}
+},
+"contentDetails": {
+"videoId": "T57tkyQx5OQ",
+"videoPublishedAt": "2020-09-13T15:11:14Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "yBb4d56W6X7gMH5ckuHtLgwFumg",
+"id": "UExGcl9qa3dVcDBoZzdWLVMzVG03ZmlzTWxjZVIzT1VINy41MzY4MzcwOUFFRUU3QzEx",
+"snippet": {
+"publishedAt": "2020-09-18T13:54:31Z",
+"channelId": "UCHJ7nJjkqa1E8eYsYJlJkCw",
+"title": "Ramayan (रामायण) Episode 50 (English Subtitles)",
+"description": "रामायण एक महाकाव्य भारतीय टेलीविजन श्रृंखला है जो इसी नाम के प्राचीन भारतीय संस्कृत महाकाव्य पर आधारित है। यह शो मूल रूप से 1987 और 1988 के बीच डीडी नेशनल पर प्रसारित किया गया था। यह रामानंद सागर द्वारा निर्मित, लिखित और निर्देशित था। यह शो मुख्य रूप से वाल्मीकि के रामायण और तुलसीदास के रामचरितमानस पर आधारित है।\nइस श्रृंखला में 82 प्रतिशत दर्शकों की संख्या थी, जो किसी भी भारतीय टेलीविजन श्रृंखला के लिए रिकॉर्ड ऊंचाई थी। श्रृंखला के प्रत्येक एपिसोड ने कथित तौर पर डीडी नेशनल reported 40 लाख की कमाई की।\nइस श्रृंखला को 2020 के कोरोनावायरस लॉकडाउन के दौरान दिखाया गया था और विश्व स्तर पर कई दर्शकों के रिकॉर्ड को तोड़ दिया था जिसमें दुनिया में अब तक के सबसे ज्यादा देखे जाने वाले टीवी शो में रिकॉर्ड स्थापित करना भी शामिल है (यानी 16 अप्रैल, 2020 को 77 मिलियन दर्शक)।\nRamayan is an epic Indian television series based on ancient Indian Sanskrit epic of the same name. The show was originally aired between 1987 and 1988 on DD National. It was created, written, and directed by Ramanand Sagar.The show is primarily based on Valmiki's Ramayan and Tulsidas' Ramcharitmanas.\nThe series had a viewership of 82 per cent, a record high for any Indian television series. Each episode of the series reportedly earned DD National ₹40 lakh.\nThe series was reaired during the 2020 Coronavirus lockdown and broke several viewership records globally which includes setting the record for one of the most watched TV show ever in the world ( i.e 77 millions viewers on 16th april, 2020).",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/Lfvo16QEspM/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/Lfvo16QEspM/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/Lfvo16QEspM/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/Lfvo16QEspM/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/Lfvo16QEspM/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Vivek kumar",
+"playlistId": "PLFr_jkwUp0hg7V-S3Tm7fisMlceR3OUH7",
+"position": 44,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "Lfvo16QEspM"
+}
+},
+"contentDetails": {
+"videoId": "Lfvo16QEspM",
+"videoPublishedAt": "2020-09-13T15:12:03Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "GH0tjg9f_AKC2Mvrx-7sAU-P-AE",
+"id": "UExGcl9qa3dVcDBoZzdWLVMzVG03ZmlzTWxjZVIzT1VINy4yQjZFRkExQjFGODk3RUFD",
+"snippet": {
+"publishedAt": "2020-09-18T13:54:35Z",
+"channelId": "UCHJ7nJjkqa1E8eYsYJlJkCw",
+"title": "Ramayan (रामायण) Episode 46 (English Subtitles)",
+"description": "रामायण एक महाकाव्य भारतीय टेलीविजन श्रृंखला है जो इसी नाम के प्राचीन भारतीय संस्कृत महाकाव्य पर आधारित है। यह शो मूल रूप से 1987 और 1988 के बीच डीडी नेशनल पर प्रसारित किया गया था। यह रामानंद सागर द्वारा निर्मित, लिखित और निर्देशित था। यह शो मुख्य रूप से वाल्मीकि के रामायण और तुलसीदास के रामचरितमानस पर आधारित है।\nइस श्रृंखला में 82 प्रतिशत दर्शकों की संख्या थी, जो किसी भी भारतीय टेलीविजन श्रृंखला के लिए रिकॉर्ड ऊंचाई थी। श्रृंखला के प्रत्येक एपिसोड ने कथित तौर पर डीडी नेशनल reported 40 लाख की कमाई की।\nइस श्रृंखला को 2020 के कोरोनावायरस लॉकडाउन के दौरान दिखाया गया था और विश्व स्तर पर कई दर्शकों के रिकॉर्ड को तोड़ दिया था जिसमें दुनिया में अब तक के सबसे ज्यादा देखे जाने वाले टीवी शो में रिकॉर्ड स्थापित करना भी शामिल है (यानी 16 अप्रैल, 2020 को 77 मिलियन दर्शक)।\nRamayan is an epic Indian television series based on ancient Indian Sanskrit epic of the same name. The show was originally aired between 1987 and 1988 on DD National. It was created, written, and directed by Ramanand Sagar.The show is primarily based on Valmiki's Ramayan and Tulsidas' Ramcharitmanas.\nThe series had a viewership of 82 per cent, a record high for any Indian television series. Each episode of the series reportedly earned DD National ₹40 lakh.\nThe series was reaired during the 2020 Coronavirus lockdown and broke several viewership records globally which includes setting the record for one of the most watched TV show ever in the world ( i.e 77 millions viewers on 16th april, 2020).",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/XOR0SskSdGo/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/XOR0SskSdGo/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/XOR0SskSdGo/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/XOR0SskSdGo/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/XOR0SskSdGo/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Vivek kumar",
+"playlistId": "PLFr_jkwUp0hg7V-S3Tm7fisMlceR3OUH7",
+"position": 45,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "XOR0SskSdGo"
+}
+},
+"contentDetails": {
+"videoId": "XOR0SskSdGo",
+"videoPublishedAt": "2020-09-13T15:17:13Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "YJWoq8cIXNdZowuibWIB2rS0cGo",
+"id": "UExGcl9qa3dVcDBoZzdWLVMzVG03ZmlzTWxjZVIzT1VINy4yQUJFNUVCMzVDNjcxRTlF",
+"snippet": {
+"publishedAt": "2020-09-18T13:54:38Z",
+"channelId": "UCHJ7nJjkqa1E8eYsYJlJkCw",
+"title": "Ramayan (रामायण) Episode 51 (English Subtitles)",
+"description": "रामायण एक महाकाव्य भारतीय टेलीविजन श्रृंखला है जो इसी नाम के प्राचीन भारतीय संस्कृत महाकाव्य पर आधारित है। यह शो मूल रूप से 1987 और 1988 के बीच डीडी नेशनल पर प्रसारित किया गया था। यह रामानंद सागर द्वारा निर्मित, लिखित और निर्देशित था। यह शो मुख्य रूप से वाल्मीकि के रामायण और तुलसीदास के रामचरितमानस पर आधारित है।\nइस श्रृंखला में 82 प्रतिशत दर्शकों की संख्या थी, जो किसी भी भारतीय टेलीविजन श्रृंखला के लिए रिकॉर्ड ऊंचाई थी। श्रृंखला के प्रत्येक एपिसोड ने कथित तौर पर डीडी नेशनल reported 40 लाख की कमाई की।\nइस श्रृंखला को 2020 के कोरोनावायरस लॉकडाउन के दौरान दिखाया गया था और विश्व स्तर पर कई दर्शकों के रिकॉर्ड को तोड़ दिया था जिसमें दुनिया में अब तक के सबसे ज्यादा देखे जाने वाले टीवी शो में रिकॉर्ड स्थापित करना भी शामिल है (यानी 16 अप्रैल, 2020 को 77 मिलियन दर्शक)।\nRamayan is an epic Indian television series based on ancient Indian Sanskrit epic of the same name. The show was originally aired between 1987 and 1988 on DD National. It was created, written, and directed by Ramanand Sagar.The show is primarily based on Valmiki's Ramayan and Tulsidas' Ramcharitmanas.\nThe series had a viewership of 82 per cent, a record high for any Indian television series. Each episode of the series reportedly earned DD National ₹40 lakh.\nThe series was reaired during the 2020 Coronavirus lockdown and broke several viewership records globally which includes setting the record for one of the most watched TV show ever in the world ( i.e 77 millions viewers on 16th april, 2020).",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/JlD78EsncXs/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/JlD78EsncXs/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/JlD78EsncXs/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/JlD78EsncXs/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/JlD78EsncXs/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Vivek kumar",
+"playlistId": "PLFr_jkwUp0hg7V-S3Tm7fisMlceR3OUH7",
+"position": 46,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "JlD78EsncXs"
+}
+},
+"contentDetails": {
+"videoId": "JlD78EsncXs",
+"videoPublishedAt": "2020-09-13T15:21:34Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "ZTrKsYHtmqBL6zIhr8WmH_auGC8",
+"id": "UExGcl9qa3dVcDBoZzdWLVMzVG03ZmlzTWxjZVIzT1VINy40QzRDOEU0QUYwNUIxN0M1",
+"snippet": {
+"publishedAt": "2020-09-18T13:54:41Z",
+"channelId": "UCHJ7nJjkqa1E8eYsYJlJkCw",
+"title": "Ramayan (रामायण) Episode 53 (English Subtitles)",
+"description": "रामायण एक महाकाव्य भारतीय टेलीविजन श्रृंखला है जो इसी नाम के प्राचीन भारतीय संस्कृत महाकाव्य पर आधारित है। यह शो मूल रूप से 1987 और 1988 के बीच डीडी नेशनल पर प्रसारित किया गया था। यह रामानंद सागर द्वारा निर्मित, लिखित और निर्देशित था। यह शो मुख्य रूप से वाल्मीकि के रामायण और तुलसीदास के रामचरितमानस पर आधारित है।\nइस श्रृंखला में 82 प्रतिशत दर्शकों की संख्या थी, जो किसी भी भारतीय टेलीविजन श्रृंखला के लिए रिकॉर्ड ऊंचाई थी। श्रृंखला के प्रत्येक एपिसोड ने कथित तौर पर डीडी नेशनल reported 40 लाख की कमाई की।\nइस श्रृंखला को 2020 के कोरोनावायरस लॉकडाउन के दौरान दिखाया गया था और विश्व स्तर पर कई दर्शकों के रिकॉर्ड को तोड़ दिया था जिसमें दुनिया में अब तक के सबसे ज्यादा देखे जाने वाले टीवी शो में रिकॉर्ड स्थापित करना भी शामिल है (यानी 16 अप्रैल, 2020 को 77 मिलियन दर्शक)।\nRamayan is an epic Indian television series based on ancient Indian Sanskrit epic of the same name. The show was originally aired between 1987 and 1988 on DD National. It was created, written, and directed by Ramanand Sagar.The show is primarily based on Valmiki's Ramayan and Tulsidas' Ramcharitmanas.\nThe series had a viewership of 82 per cent, a record high for any Indian television series. Each episode of the series reportedly earned DD National ₹40 lakh.\nThe series was reaired during the 2020 Coronavirus lockdown and broke several viewership records globally which includes setting the record for one of the most watched TV show ever in the world ( i.e 77 millions viewers on 16th april, 2020).",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/BMzdAqMFtG0/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/BMzdAqMFtG0/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/BMzdAqMFtG0/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/BMzdAqMFtG0/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/BMzdAqMFtG0/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Vivek kumar",
+"playlistId": "PLFr_jkwUp0hg7V-S3Tm7fisMlceR3OUH7",
+"position": 47,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "BMzdAqMFtG0"
+}
+},
+"contentDetails": {
+"videoId": "BMzdAqMFtG0",
+"videoPublishedAt": "2020-09-13T15:35:17Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "rEQZtgLKYbwglCXizkjMQt09z0E",
+"id": "UExGcl9qa3dVcDBoZzdWLVMzVG03ZmlzTWxjZVIzT1VINy41RTNBREYwMkI5QzU3RkY2",
+"snippet": {
+"publishedAt": "2020-09-18T13:54:44Z",
+"channelId": "UCHJ7nJjkqa1E8eYsYJlJkCw",
+"title": "Ramayan (रामायण) Episode 54 (English Subtitles)",
+"description": "रामायण एक महाकाव्य भारतीय टेलीविजन श्रृंखला है जो इसी नाम के प्राचीन भारतीय संस्कृत महाकाव्य पर आधारित है। यह शो मूल रूप से 1987 और 1988 के बीच डीडी नेशनल पर प्रसारित किया गया था। यह रामानंद सागर द्वारा निर्मित, लिखित और निर्देशित था। यह शो मुख्य रूप से वाल्मीकि के रामायण और तुलसीदास के रामचरितमानस पर आधारित है।\nइस श्रृंखला में 82 प्रतिशत दर्शकों की संख्या थी, जो किसी भी भारतीय टेलीविजन श्रृंखला के लिए रिकॉर्ड ऊंचाई थी। श्रृंखला के प्रत्येक एपिसोड ने कथित तौर पर डीडी नेशनल reported 40 लाख की कमाई की।\nइस श्रृंखला को 2020 के कोरोनावायरस लॉकडाउन के दौरान दिखाया गया था और विश्व स्तर पर कई दर्शकों के रिकॉर्ड को तोड़ दिया था जिसमें दुनिया में अब तक के सबसे ज्यादा देखे जाने वाले टीवी शो में रिकॉर्ड स्थापित करना भी शामिल है (यानी 16 अप्रैल, 2020 को 77 मिलियन दर्शक)।\nRamayan is an epic Indian television series based on ancient Indian Sanskrit epic of the same name. The show was originally aired between 1987 and 1988 on DD National. It was created, written, and directed by Ramanand Sagar.The show is primarily based on Valmiki's Ramayan and Tulsidas' Ramcharitmanas.\nThe series had a viewership of 82 per cent, a record high for any Indian television series. Each episode of the series reportedly earned DD National ₹40 lakh.\nThe series was reaired during the 2020 Coronavirus lockdown and broke several viewership records globally which includes setting the record for one of the most watched TV show ever in the world ( i.e 77 millions viewers on 16th april, 2020).",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/6zLg8YLsW1E/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/6zLg8YLsW1E/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/6zLg8YLsW1E/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/6zLg8YLsW1E/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/6zLg8YLsW1E/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Vivek kumar",
+"playlistId": "PLFr_jkwUp0hg7V-S3Tm7fisMlceR3OUH7",
+"position": 48,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "6zLg8YLsW1E"
+}
+},
+"contentDetails": {
+"videoId": "6zLg8YLsW1E",
+"videoPublishedAt": "2020-09-13T15:35:29Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "V-0ISnZqtT2iQ3tUNt92u9gK55E",
+"id": "UExGcl9qa3dVcDBoZzdWLVMzVG03ZmlzTWxjZVIzT1VINy5ENjI1QUI0MDI5NEQzODFE",
+"snippet": {
+"publishedAt": "2020-09-18T13:54:47Z",
+"channelId": "UCHJ7nJjkqa1E8eYsYJlJkCw",
+"title": "Ramayan (रामायण) Episode 55 (English Subtitles)",
+"description": "रामायण एक महाकाव्य भारतीय टेलीविजन श्रृंखला है जो इसी नाम के प्राचीन भारतीय संस्कृत महाकाव्य पर आधारित है। यह शो मूल रूप से 1987 और 1988 के बीच डीडी नेशनल पर प्रसारित किया गया था। यह रामानंद सागर द्वारा निर्मित, लिखित और निर्देशित था। यह शो मुख्य रूप से वाल्मीकि के रामायण और तुलसीदास के रामचरितमानस पर आधारित है।\nइस श्रृंखला में 82 प्रतिशत दर्शकों की संख्या थी, जो किसी भी भारतीय टेलीविजन श्रृंखला के लिए रिकॉर्ड ऊंचाई थी। श्रृंखला के प्रत्येक एपिसोड ने कथित तौर पर डीडी नेशनल reported 40 लाख की कमाई की।\nइस श्रृंखला को 2020 के कोरोनावायरस लॉकडाउन के दौरान दिखाया गया था और विश्व स्तर पर कई दर्शकों के रिकॉर्ड को तोड़ दिया था जिसमें दुनिया में अब तक के सबसे ज्यादा देखे जाने वाले टीवी शो में रिकॉर्ड स्थापित करना भी शामिल है (यानी 16 अप्रैल, 2020 को 77 मिलियन दर्शक)।\nRamayan is an epic Indian television series based on ancient Indian Sanskrit epic of the same name. The show was originally aired between 1987 and 1988 on DD National. It was created, written, and directed by Ramanand Sagar.The show is primarily based on Valmiki's Ramayan and Tulsidas' Ramcharitmanas.\nThe series had a viewership of 82 per cent, a record high for any Indian television series. Each episode of the series reportedly earned DD National ₹40 lakh.\nThe series was reaired during the 2020 Coronavirus lockdown and broke several viewership records globally which includes setting the record for one of the most watched TV show ever in the world ( i.e 77 millions viewers on 16th april, 2020).",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/aZBQT6cVXlQ/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/aZBQT6cVXlQ/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/aZBQT6cVXlQ/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/aZBQT6cVXlQ/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/aZBQT6cVXlQ/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Vivek kumar",
+"playlistId": "PLFr_jkwUp0hg7V-S3Tm7fisMlceR3OUH7",
+"position": 49,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "aZBQT6cVXlQ"
+}
+},
+"contentDetails": {
+"videoId": "aZBQT6cVXlQ",
+"videoPublishedAt": "2020-09-13T15:35:42Z"
+}
+}
+],
+"pageInfo": {
+"totalResults": 73,
+"resultsPerPage": 50
+}
 }
