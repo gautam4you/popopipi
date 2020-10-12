@@ -1,10 +1,19 @@
 [
 	{
-		"name": "ISHQ Mumbai",
-		"name_h": "SVNIUSDgpK7gpYHgpILgpKzgpIg=",
-		"url": "http://ishq_mumbai-lh.akamaihd.net/i/Ishq_Mumbai_1@855087/master.m3u8",
+		"name": "HDS Radio Dil Se",
+		"name_h": "4KSP4KSa4KSh4KWA4KSP4KS4IOCksOClh+CkoeCkv+Ckr+CliyDgpKbgpL/gpLIg4KS44KWH",
+		"url": "http://82.145.41.107:12765/;stream/1",
 		"samplerate": "",
-		"cat": "cricket",
+		"cat": "Hindi,Bollywood,Web",
+		"image": "http://shortfilmsite.com/images/radiodilse.jpg",
+		"pub": "12-10-2020"
+	},
+	{
+		"name": "ISHQ Delhi",
+		"name_h": "SVNIUSDgpK7gpYHgpILgpKzgpIg=",
+		"url": "http://ishq_delhi-lh.akamaihd.net/i/Ishq_Delhi_1@854570/master.m3u8",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood,Web",
 		"image": "http://shortfilmsite.com/images/ishqfm.jpg",
 		"pub": "11-10-2020"
 	},
@@ -63,13 +72,13 @@
 		"pub": "20-09-2020"
 	},
 	{
-		"name": "Akash Radio Leeds",
+		"name": "Akash Radio",
 		"name_h": "QWthc2ggUmFkaW8gTGVlZHM=",
-		"url": "http://78.129.178.98:9035/;stream.mp3",
+		"url": "http://radio.bongonet.net:8060/stream",
 		"samplerate": "",
 		"cat": "Hindi,Bollywood,Web",
-		"image": "http://shortfilmsite.com/images/akashradioleeds.jpg",
-		"pub": "20-09-2020"
+		"image": "http://shortfilmsite.com/images/radioakash.jpg",
+		"pub": "12-10-2020"
 	},
 	{
 		"name": "Big FM 106.2",
