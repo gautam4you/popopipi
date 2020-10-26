@@ -1,4 +1,13 @@
 [
+	 {
+		"name": "Himal",
+		"name_h": "SGltYWw=",
+		"url": "http://144.76.110.138:9950/;",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood,Web",
+		"image": "http://shortfilmsite.com/images/himalradio.jpg",
+		"pub": "26-10-2020"
+	},
 	
        {
 		"name": "Pahla Nasha",
@@ -10,13 +19,13 @@
 		"pub": "20-10-2020"
 	},
   {
-		"name": "Radio Nashaa",
-		"name_h": "UmFkaW8gTmFzaGFh",
-		"url": "http://s1.thailandstreaming.net:8020/nashaa.mp3",
+		"name": "Radio Zindagi",
+		"name_h": "UmFkaW8gWmluZGFnaQ==",
+		"url": "http://209.95.35.49:7315/stream",
 		"samplerate": "",
 		"cat": "Hindi,Bollywood,Web",
-		"image": "http://shortfilmsite.com/images/radionashaafm.jpg",
-		"pub": "20-10-2020"
+		"image": "http://shortfilmsite.com/images/rzretro.jpg",
+		"pub": "26-10-2020"
 	},
   {
 		"name": "Radio Noida Delhi",
@@ -179,15 +188,6 @@
 		"cat": "Hindi,Bollywood,Web",
 		"image": "http://shortfilmsite.com/images/swaargsangeet.jpg",
 		"pub": "05-07-2020"
-	},
-	{
-		"name": "jhunjhunu Radio",
-		"name_h": "4KSd4KWB4KSC4KSd4KWB4KSo4KWCIOCksOClh+CkoeCkv+Ckr+Cliw==",
-		"url": "http://d11zr0bktijlw0.cloudfront.net/jhunjhunuradio.m3u8",
-		"samplerate": "",
-		"cat": "Hindi,Bollywood,Web",
-		"image": "http://www.jhunjhunuradio.com/wp-content/uploads/2019/01/logonew.png",
-		"pub": "25-07-2020"
 	},
 	{
 		"name": "Eawaz Radio",
