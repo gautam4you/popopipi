@@ -10,51 +10,51 @@
 		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/logo200.jpg",
 		"pub": "05-10-2018"
 	},
-       {
-    "name": "2B! Radio Sangam Shri Ram",
-    "name_h": "MiDgpKzgpYAhIOCksOClh+CkoeCkv+Ckr+CliyDgpLjgpILgpJfgpK4g4KS24KWN4KSw4KWAIOCksOCkvuCkrg==",
-    "url": "http://dard.out.airtime.pro:8000/dard_a",
-    "samplerate": "",
-    "cat": "Devotional",
-    "image": "http://www.2bradioindia.com/wp-content/uploads/edd/2018/02/ram.png",
-    "pub": "19-10-2018"
-  },
-  {
-    "name": "2B! Radio Sangam Shiva",
-    "name_h": "MiDgpKzgpYAhIOCksOClh+CkoeCkv+Ckr+CliyDgpLjgpILgpJfgpK4g4KS24KS/4KS1",
-    "url": "http://hot.out.airtime.pro:8000/hot_a",
-    "samplerate": "",
-    "cat": "Devotional",
-    "image": "http://www.2bradioindia.com/wp-content/uploads/edd/2018/02/shiva.png",
-    "pub": "19-10-2018"
-  },
-  {
-    "name": "2B! Radio Sangam Krishna",
-    "name_h": "MiDgpKzgpYAhIOCksOClh+CkoeCkv+Ckr+CliyDgpLjgpILgpJfgpK4g4KSV4KWD4KS34KWN4KSj",
-    "url": "http://millenniumhits.out.airtime.pro:8000/millenniumhits_a",
-    "samplerate": "",
-    "cat": "Devotional",
-    "image": "http://www.2bradioindia.com/wp-content/uploads/edd//2018/02/krishna.png",
-    "pub": "19-10-2018"
-  },
-  {
-    "name": "2B! Radio Sangam Guruvar",
-    "name_h": "MiDgpKzgpYAhIOCksOClh+CkoeCkv+Ckr+CliyDgpLjgpILgpJfgpK4g4KSX4KWB4KSw4KWB4KS14KS+4KSw",
-    "url": "http://iskon2b.out.airtime.pro:8000/iskon2b_a",
-    "samplerate": "",
-    "cat": "Devotional",
-    "image": "http://www.2bradioindia.com/wp-content//uploads/edd//2018/02/guruvar.png",
-    "pub": "19-10-2018"
-  },
-  {
-    "name": "2B! Radio Sangam Ganesha",
-    "name_h": "MiDgpKzgpYAhIOCksOClh+CkoeCkv+Ckr+CliyDgpLjgpILgpJfgpK4g4KSX4KSj4KWH4KS2",
-    "url": "http://radio2bindia.out.airtime.pro:8000/radio2bindia_a",
-    "samplerate": "",
-    "cat": "Devotional",
-    "image": "http://www.2bradioindia.com/wp-content/uploads/edd//2018/02/ganesha.png",
-    "pub": "19-10-2018"
-  },
+	{
+		"name": "2B! Radio Sangam Shri Ram",
+		"name_h": "MiDgpKzgpYAhIOCksOClh+CkoeCkv+Ckr+CliyDgpLjgpILgpJfgpK4g4KS24KWN4KSw4KWAIOCksOCkvuCkrg==",
+		"url": "http://dard.out.airtime.pro:8000/dard_a",
+		"samplerate": "",
+		"cat": "Hindi,Devotional",
+		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/shreeram.png",
+		"pub": "19-10-2018"
+	},
+	{
+		"name": "2B! Radio Sangam Shiva",
+		"name_h": "MiDgpKzgpYAhIOCksOClh+CkoeCkv+Ckr+CliyDgpLjgpILgpJfgpK4g4KS24KS/4KS1",
+		"url": "http://hot.out.airtime.pro:8000/hot_a",
+		"samplerate": "",
+		"cat": "Hindi,Devotional",
+		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/shivame.png",
+		"pub": "19-10-2018"
+	},
+	{
+		"name": "2B! Radio Sangam Krishna",
+		"name_h": "MiDgpKzgpYAhIOCksOClh+CkoeCkv+Ckr+CliyDgpLjgpILgpJfgpK4g4KSV4KWD4KS34KWN4KSj",
+		"url": "http://millenniumhits.out.airtime.pro:8000/millenniumhits_a",
+		"samplerate": "",
+		"cat": "Hindi,Devotional",
+		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/krishna.png",
+		"pub": "19-10-2018"
+	},
+	{
+		"name": "2B! Radio Sangam Guruvar",
+		"name_h": "MiDgpKzgpYAhIOCksOClh+CkoeCkv+Ckr+CliyDgpLjgpILgpJfgpK4g4KSX4KWB4KSw4KWB4KS14KS+4KSw",
+		"url": "http://iskon2b.out.airtime.pro:8000/iskon2b_a",
+		"samplerate": "",
+		"cat": "Hindi,Devotional",
+		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/gurun.png",
+		"pub": "19-10-2018"
+	},
+	{
+		"name": "2B! Radio Sangam Ganesha",
+		"name_h": "MiDgpKzgpYAhIOCksOClh+CkoeCkv+Ckr+CliyDgpLjgpILgpJfgpK4g4KSX4KSj4KWH4KS2",
+		"url": "http://radio2bindia.out.airtime.pro:8000/radio2bindia_a",
+		"samplerate": "",
+		"cat": "Hindi,Devotional",
+		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/ganesh.png",
+		"pub": "19-10-2018"
+	},
    {
     "name": "Shemaroo Bhakti",
     "name_h": "4KS24KWH4KSu4KS+4KSw4KWCIOCkreCkleCljeCkpOCkvyDgpLDgpYfgpKHgpL/gpK/gpYs=",
