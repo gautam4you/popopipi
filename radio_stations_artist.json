@@ -1,5 +1,14 @@
 [
 	 {
+		"name": "Radio Yarana",
+		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCkr+CkvuCksOCkvuCkqOCkvg==",
+		"url": "http://us3.internet-radio.com:8250/autodj",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood,Web",
+		"image": "http://shortfilmsite.com/images/radioyarana.jpg",
+		"pub": "13-11-2020"
+	},
+	 {
 		"name": "Radio Mausam",
 		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCkruCljOCkuOCkrg==",
 		"url": "http://85.25.185.202:8318/stream",
