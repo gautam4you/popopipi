@@ -37,7 +37,14 @@
 			"extraLink": "",
 			"title": "Jai Ganga Maiya",
 			"moreButton": true
-		}
+		},
+			{
+			"videosListId": "hindi_radio.json",
+			"type": "RD",
+			"extraLink": "",
+			"title": "Bhakti Radio ",
+			"moreButton": true
+		}   
 	],
 	"ExtraHomeVideosList": [{
 			"videosListId": "PLFgquLnL59alCl_2TQvOiD5Vgm1hCaGSI",
