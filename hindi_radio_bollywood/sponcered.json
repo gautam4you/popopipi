@@ -5,52 +5,52 @@
 "has_more": true,
 "spList": [
 {
-		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/sponcerd/artist.png",
-		"playStoreUrl": "https://play.google.com/store/apps/details?id=com.app.artistradio",
+		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/sponcerd/allah.png",
+		"playStoreUrl": "https://play.google.com/store/apps/details?id=com.app.aliflaila",
 		"directLink": "",
-		"info":"FM Radio Hindi - all India radio stations"
+		"info":"Alif Laila"
 
 },
 {
-		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/sponcerd/guru_images.png",
-		"playStoreUrl": "https://play.google.com/store/apps/details?id=com.app.gururandhawa",
+		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/sponcerd/bangla.png",
+		"playStoreUrl": "https://play.google.com/store/apps/details?id=com.app.bangladeshradio&hl=en",
 		"directLink": "",
-		"info":"Guru Randhawa Hit Songs (HD)"
+		"info":"Bangladeshi FM Radio"
 
 },
 {
-		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/sponcerd/nehakakar_images.png",
-		"playStoreUrl": "https://play.google.com/store/apps/details?id=com.app.nehakakkar",
+		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/sponcerd/bhojpuri.png",
+		"playStoreUrl": "https://play.google.com/store/apps/details?id=com.app.bhojpurimixvideo&hl=en",
 		"directLink": "",
-		"info":"Neha Kakkar Hits Video Songs"
+		"info":"Bhojpuri Mixed video songs & Movies"
 
 },
 {
-		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/sponcerd/nepali_images.png",
-		"playStoreUrl": "https://play.google.com/store/apps/details?id=com.app.nepaliradio",
+		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/sponcerd/marathi.png",
+		"playStoreUrl": "https://play.google.com/store/apps/details?id=com.app.marathiradio&hl=en",
 		"directLink": "",
-		"info":"FM Radio Nepali - all Nepali radio stations -HD"
+		"info":"Marathi Radio Stations"
 
 },
 {
-		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/sponcerd/oldbollywood_images.png",
-		"playStoreUrl": "https://play.google.com/store/apps/details?id=com.app.bollywoodvideosmovies",
+		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/sponcerd/nepali.png",
+		"playStoreUrl": "https://play.google.com/store/apps/details?id=com.app.nepaliradio&hl=en",
 		"directLink": "",
-		"info":"Old Bollywood Video Songs & Movies"
+		"info":"Nepali Radio - All FM Stations"
 
 },
 {
-		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/sponcerd/norway_image.png",
-		"playStoreUrl": "https://play.google.com/store/apps/details?id=com.app.norwayradio",
-		"directLink": "https://raw.githubusercontent.com/gautam4you/popopipi/master/sponcerd/norway.apk",
-		"info":"Norway Radio FM - all Norway radio stations"
+		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/sponcerd/satyanarayana.png",
+		"playStoreUrl": "https://play.google.com/store/apps/details?id=com.app.satyanarayanakatha&hl=en",
+		"directLink": "",
+		"info":"Satyanarayan Katha"
 
 },
 {
-		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/sponcerd/finland_image.png",
-		"playStoreUrl": "https://play.google.com/store/apps/details?id=com.app.finlandradio",
-		"directLink": "https://raw.githubusercontent.com/gautam4you/popopipi/master/sponcerd/finland.apk",
-		"info":"Finland Radio Stations (HD)"
+		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/sponcerd/vk.png",
+		"playStoreUrl": "https://play.google.com/store/apps/details?id=com.app.vikrambetaal&hl=en",
+		"directLink": "",
+		"info":"Vikram Aur Betaal "
 
 }
 ]
