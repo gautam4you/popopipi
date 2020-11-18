@@ -38,6 +38,13 @@
 			"title": "Jai Ganga Maiya",
 			"moreButton": true
 		},
+			   	{
+			"videosListId": "omnamahshivaya.json",
+			"type": "DM",
+			"extraLink": "",
+			"title": "Om Namah Shivaya",
+			"moreButton": true
+		},
 			{
 			"videosListId": "hindi_radio.json",
 			"type": "RD",
