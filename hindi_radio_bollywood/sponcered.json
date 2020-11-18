@@ -4,6 +4,13 @@
 "explicit": false,
 "has_more": true,
 "spList": [
+	{
+		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/sponcerd/hindi.png",
+		"playStoreUrl": "https://play.google.com/store/apps/details?id=com.app.artistradio&hl=en",
+		"directLink": "",
+		"info":"Fm Radio Hindi"
+
+},
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/sponcerd/allah.png",
 		"playStoreUrl": "https://play.google.com/store/apps/details?id=com.app.aliflaila",
