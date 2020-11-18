@@ -1,0 +1,51 @@
+[
+{
+		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/sponcerd/artist.png",
+		"playStoreUrl": "https://play.google.com/store/apps/details?id=com.app.artistradio",
+		"directLink": "",
+		"info":"FM Radio Hindi - all India radio stations"
+
+},
+{
+		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/sponcerd/guru_images.png",
+		"playStoreUrl": "https://play.google.com/store/apps/details?id=com.app.gururandhawa",
+		"directLink": "",
+		"info":"Guru Randhawa Hit Songs (HD)"
+
+},
+{
+		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/sponcerd/nehakakar_images.png",
+		"playStoreUrl": "https://play.google.com/store/apps/details?id=com.app.nehakakkar",
+		"directLink": "",
+		"info":"Neha Kakkar Hits Video Songs"
+
+},
+{
+		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/sponcerd/nepali_images.png",
+		"playStoreUrl": "https://play.google.com/store/apps/details?id=com.app.nepaliradio",
+		"directLink": "",
+		"info":"FM Radio Nepali - all Nepali radio stations -HD"
+
+},
+{
+		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/sponcerd/oldbollywood_images.png",
+		"playStoreUrl": "https://play.google.com/store/apps/details?id=com.app.bollywoodvideosmovies",
+		"directLink": "",
+		"info":"Old Bollywood Video Songs & Movies"
+
+},
+{
+		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/sponcerd/norway_image.png",
+		"playStoreUrl": "https://play.google.com/store/apps/details?id=com.app.norwayradio",
+		"directLink": "https://raw.githubusercontent.com/gautam4you/popopipi/master/sponcerd/norway.apk",
+		"info":"Norway Radio FM - all Norway radio stations"
+
+},
+{
+		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/sponcerd/finland_image.png",
+		"playStoreUrl": "https://play.google.com/store/apps/details?id=com.app.finlandradio",
+		"directLink": "https://raw.githubusercontent.com/gautam4you/popopipi/master/sponcerd/finland.apk",
+		"info":"Finland Radio Stations (HD)"
+
+}
+]
