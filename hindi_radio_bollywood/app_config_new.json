@@ -44,7 +44,14 @@
 			"extraLink": "",
 			"title": "Bhakti Radio ",
 			"moreButton": true
-		}   
+		}   ,
+			   {
+			"videosListId": "sponcered.json",
+			"type": "SP",
+			"extraLink": "",
+			"title": "ADS",
+			"moreButton": false
+		}  
 	],
 	"ExtraHomeVideosList": [{
 			"videosListId": "PLFgquLnL59alCl_2TQvOiD5Vgm1hCaGSI",
