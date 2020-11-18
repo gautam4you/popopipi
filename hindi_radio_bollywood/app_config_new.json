@@ -38,6 +38,13 @@
 			"title": "Jai Ganga Maiya",
 			"moreButton": true
 		},
+			      {
+			"videosListId": "sponcered.json",
+			"type": "SP",
+			"extraLink": "",
+			"title": "Ads. Suggested for you",
+			"moreButton": false
+		} ,
 			   	{
 			"videosListId": "omnamahshivaya.json",
 			"type": "DM",
@@ -45,20 +52,15 @@
 			"title": "Om Namah Shivaya",
 			"moreButton": true
 		},
+	
+			
 			{
 			"videosListId": "hindi_radio.json",
 			"type": "RD",
 			"extraLink": "",
 			"title": "Bhakti Radio ",
 			"moreButton": true
-		}   ,
-			   {
-			"videosListId": "sponcered.json",
-			"type": "SP",
-			"extraLink": "",
-			"title": "Ads. Suggested for you",
-			"moreButton": false
-		}  
+		}    
 	],
 	"ExtraHomeVideosList": [{
 			"videosListId": "PLFgquLnL59alCl_2TQvOiD5Vgm1hCaGSI",
