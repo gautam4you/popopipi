@@ -3,7 +3,7 @@
 "limit": 100,
 "explicit": false,
 "has_more": true,
-"SpList": [
+"spList": [
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/sponcerd/artist.png",
 		"playStoreUrl": "https://play.google.com/store/apps/details?id=com.app.artistradio",
