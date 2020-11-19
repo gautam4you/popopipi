@@ -1,5 +1,14 @@
 [
 	 {
+		"name": "Humm FM 106.2",
+		"name_h": "SHVtbSBGTSAxMDYuMg==",
+		"url": "https://cp12.serverse.com/proxy/hummfm?mp=/live",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood,Web",
+		"image": "http://shortfilmsite.com/images/hummfm.jpg",
+		"pub": "19-11-2020"
+	},
+	 {
 		"name": "Radio Yarana",
 		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCkr+CkvuCksOCkvuCkqOCkvg==",
 		"url": "http://us3.internet-radio.com:8250/autodj",
