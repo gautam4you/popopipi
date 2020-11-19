@@ -51,6 +51,12 @@
 			"extraLink": "",
 			"title": "Om Namah Shivaya",
 			"moreButton": true
+		},{
+			"videosListId": "shivpuran.json",
+			"type": "DM",
+			"extraLink": "",
+			"title": "Shiv puran",
+			"moreButton": true
 		},
 	
 			
