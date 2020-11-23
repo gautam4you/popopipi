@@ -20,13 +20,13 @@
 {
 "name": "AIR Beed",
 "category": "Marathi Radios",
-"url": "http://airlsmp5-lh.akamaihd.net/i/AIRLSMP101_1@892641/master.m3u8",
+"url": "https://radioindia.net/radio/air_beed/icecast.audio",
 "logo": "http://shortfilmsite.com/images/air.jpg"
 },
 {
 "name": "AIR Pune",
 "category": "Marathi Radios",
-"url": "http://nondelhi-lh.akamaihd.net/i/airpune_1@825822/master.m3u8",
+"url": "https://radioindia.net/radio/air_pune_radio/icecast.audio",
 "logo": "http://shortfilmsite.com/images/air.jpg"
 },
 {
@@ -50,25 +50,25 @@
 {
 "name": "AIR Jalgaon",
 "category": "Marathi Radios",
-"url": "http://airlsmp2-lh.akamaihd.net/i/AIRLSMP046_1@350401/master.m3u8",
+"url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio002/playlist.m3u8",
 "logo": "http://shortfilmsite.com/images/air.jpg"
 },
 {
 "name": "AIR Ratnagiri",
 "category": "Marathi Radios",
-"url": "http://airlsmp6-lh.akamaihd.net/i/AIRLSMP133_1@369198/master.m3u8",
+"url": "https://radioindia.net/radio/air_ratnagiri_radio/icecast.audio",
 "logo": "http://shortfilmsite.com/images/air.jpg"
 },
 {
 "name": "AIR Aurangabad",
 "category": "Marathi Radios",
-"url": "http://airlsmp-lh.akamaihd.net/i/AIRLSMP036_1@855170/master.m3u8",
+"url": "https://radioindia.net/radio/air_aurangabad_radio/icecast.audio",
 "logo": "http://shortfilmsite.com/images/air.jpg"
 },
 {
 "name": "FM Gold Mumbai",
 "category": "Marathi Radios",
-"url": "http://nondelhi-lh.akamaihd.net/i/goldmumb_1@830453/master.m3u8",
+"url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio005/playlist.m3u8",
 "logo": "http://shortfilmsite.com/images/fmgold.jpg"
 },
 {
@@ -80,7 +80,7 @@
 {
 "name": "AIR Amravati",
 "category": "Marathi Radios",
-"url": "http://airlsmp6-lh.akamaihd.net/i/AIRLSMP128_1@369221/master.m3u8",
+"url": "https://radioindia.net/radio/air_amravati/icecast.audio",
 "logo": "http://shortfilmsite.com/images/air.jpg"
 },
 {
@@ -92,7 +92,7 @@
 {
 "name": "AIR Parbhani",
 "category": "Marathi Radios",
-"url": "http://airlsmp2-lh.akamaihd.net/i/AIRLSMP058_1@350389/master.m3u8",
+"url": "https://radioindia.net/radio/air_parbhani_radio/icecast.audio",
 "logo": "http://shortfilmsite.com/images/air.jpg"
 },
 {
@@ -140,13 +140,13 @@
 {
 "name": "Satara AIR",
 "category": "Marathi Radios",
-"url": "http://airlsmp3-lh.akamaihd-staging.net/i/AIRLSMP063_1@866591/master.m3u8",
+"url": "https://radioindia.net/radio/air_satara_radio/icecast.audio",
 "logo": "http://shortfilmsite.com/images/air.jpg"
 },
 {
 "name": "AIR Marathi",
 "category": "Marathi Radios",
-"url": "http://airmarathi-lh.akamaihd.net/i/airmarathi_1@507815/master.m3u8",
+"url": "https://radioindia.net/radio/air_marathi_radio/icecast.audio",
 "logo": "http://shortfilmsite.com/images/air.jpg"
 },
 {
@@ -164,7 +164,7 @@
 {
 "name": "AIR Nagpur",
 "category": "Marathi Radios",
-"url": "http://nondelhi-lh.akamaihd.net/i/airlsmp001_1@838083/master.m3u8",
+"url": "https://radioindia.net/radio/air_nagpur_radio/icecast.audio",
 "logo": "http://shortfilmsite.com/images/air.jpg"
 },
 {
@@ -182,7 +182,7 @@
 {
 "name": "AIR Sangli",
 "category": "Marathi Radios",
-"url": "http://nondelhi-lh.akamaihd.net/i/gangtok_1@832725/master.m3u8",
+"url": "https://radioindia.net/radio/air_gangli_radio/icecast.audio",
 "logo": "http://shortfilmsite.com/images/air.jpg"
 },
 {
@@ -194,13 +194,13 @@
 {
 "name": "AIR Akola",
 "category": "Marathi Radios",
-"url": "http://airlsmp-lh.akamaihd.net/i/AIRLSMP030_1@855163/master.m3u8",
+"url": "https://radioindia.net/radio/air_akola/icecast.audio",
 "logo": "http://shortfilmsite.com/images/air.jpg"
 },
 {
 "name": "AIR Kolhapur",
 "category": "Marathi Radios",
-"url": "http://nondelhi-lh.akamaihd-staging.net/i/kolhapur_1@832727/master.m3u8",
+"url": "https://radioindia.net/radio/air_colhapure/icecast.audio",
 "logo": "http://shortfilmsite.com/images/air.jpg"
 },
 {
@@ -212,7 +212,7 @@
 {
 "name": "AIR Sindhudurg",
 "category": "Marathi Radios",
-"url": "http://airlsmp6-lh.akamaihd.net/i/AIRLSMP131_1@369200/master.m3u8",
+"url": "https://radioindia.net/radio/air_sindgurh_radio/icecast.audio",
 "logo": "http://shortfilmsite.com/images/air.jpg"
 },
 {
@@ -224,7 +224,7 @@
 {
 "name": "AIR Pune FM",
 "category": "Marathi Radios",
-"url": "http://airlsmp2-lh.akamaihd.net/i/AIRLSMP057_1@350382/master.m3u8",
+"url": "https://radioindia.net/radio/air_pune_fm/icecast.audio",
 "logo": "http://shortfilmsite.com/images/air.jpg"
 },
 {
@@ -260,14 +260,8 @@
 {
 "name": "AIR Yavatmal",
 "category": "Marathi Radios",
-"url": "http://airlsmp2-lh.akamaihd.net/i/AIRLSMP050_1@350397/master.m3u8",
+"url": "https://radioindia.net/radio/air_yavatmal_radio/icecast.audio",
 "logo": "http://shortfilmsite.com/images/air.jpg"
-},
-{
-"name": "Vividh Bharathi Nagpur",
-"category": "Marathi Radios",
-"url": "http://airlsmp5-lh.akamaihd.net/i/AIRLSMP110_1@892655/master.m3u8",
-"logo": "http://shortfilmsite.com/images/vividhbharathi.jpg"
 },
 {
 "name": "Radio City Pune",
@@ -278,7 +272,7 @@
 {
 "name": "AIR Dhule",
 "category": "Marathi Radios",
-"url": "http://airlsmp4-lh.akamaihd.net/i/AIRLSMP082_1@870812/master.m3u8",
+"url": "https://radioindia.net/radio/air_dhule/icecast.audio",
 "logo": "http://shortfilmsite.com/images/air.jpg"
 },
 {
@@ -290,7 +284,7 @@
 {
 "name": "AIR Nanded",
 "category": "Marathi Radios",
-"url": "http://airlsmp3-lh.akamaihd-staging.net/i/AIRLSMP062_1@866590/master.m3u8",
+"url": "https://radioindia.net/radio/air_nanded_radio/icecast.audio",
 "logo": "http://shortfilmsite.com/images/air.jpg"
 },
 {
@@ -306,12 +300,6 @@
 "logo": "http://shortfilmsite.com/images/mgmcommunityradio.jpg"
 },
 {
-"name": "Asmita Mumbai AIR",
-"category": "Marathi Radios",
-"url": "http://airmarathi-lh.akamaihd.net/i/airmarathi_1@507815/master.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg"
-},
-{
 "name": "Divyavani Sanskrit Radio",
 "category": "Marathi Radios",
 "url": "http://epsilon.shoutca.st:8070/autodj",
@@ -320,7 +308,7 @@
 {
 "name": "AIR Ahmednagar",
 "category": "Marathi Radios",
-"url": "http://airlsmp3-lh.akamaihd-staging.net/i/AIRLSMP080_1@866628/master.m3u8",
+"url": "https://radioindia.net/radio/air_ahmednagar_radio/icecast.audio",
 "logo": "http://shortfilmsite.com/images/air.jpg"
 },
 {
@@ -332,7 +320,7 @@
 {
 "name": "AIR Chandrapur",
 "category": "Marathi Radios",
-"url": "http://airlsmp4-lh.akamaihd.net/i/AIRLSMP083_1@870817/master.m3u8",
+"url": "https://radioindia.net/radio/air_chandrapur/icecast.audio",
 "logo": "http://shortfilmsite.com/images/air.jpg"
 },
 {
@@ -344,8 +332,8 @@
 {
 "name": "AIR Osmanabad",
 "category": "Marathi Radios",
-"url": "http://airlsmp2-lh.akamaihd.net/i/AIRLSMP044_1@350388/master.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg"
+"url": "https://radioindia.net/radio/air_smanabad_radio/icecast.audio",
+"logo": "https://onlineradiofm.in/assets/image/radio/180/air-osmanabad.jpg"
 },
 {
 "name": "Radio Dhadak",
@@ -368,14 +356,14 @@
 {
 "name": "AIR Solapur",
 "category": "Marathi Radios",
-"url": "http://nondelhi-lh.akamaihd.net/i/airlsmp006_1@838089/master.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg"
+"url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio093/playlist.m3u8",
+"logo": "https://onlineradiofm.in/assets/image/radio/180/airsolapur.jpg"
 },
 {
 "name": "AIR Nasik",
 "category": "Marathi Radios",
-"url": "http://airlsmp4-lh.akamaihd.net/i/AIRLSMP099_1@870835/master.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg"
+"url": "https://radioindia.net/radio/air_nasik_radio/icecast.audio",
+"logo": "https://onlineradiofm.in/assets/image/radio/180/air-nasik.jpg"
 },
 {
 "name": "Puneri Awaz Radio Pune",
