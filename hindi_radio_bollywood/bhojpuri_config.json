@@ -30,6 +30,13 @@
 			"title": "Bhpjpuri Movies",
 			"moreButton": true
 		},
+			    {
+			"videosListId": "sponcered.json",
+			"type": "SP",
+			"extraLink": "",
+			"title": "Ads. Suggested for you",
+			"moreButton": false
+		},
 			{
 			"videosListId": "bhojpuri_doubed.json",
 			"type": "YP",
