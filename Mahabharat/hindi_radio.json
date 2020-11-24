@@ -1,7 +1,43 @@
 {
 	"active": true,
 	"RadioList":[
-		  {
+		{
+      "name":"Lata Mangeshkar",
+      "name_h":"TGF0YSBNYW5nZXNoa2Fy",
+      "url":"http://stream.zeno.fm/87xam8pf7tzuv",
+      "samplerate":"",
+      "cat":"Artist",
+      "pub":"24-11-2020",
+      "image":"http://shortfilmsite.com/images/latamangeshkarradio.jpg"
+   },
+   {
+      "name":"Asha Bhosle Radio",
+      "name_h":"QXNoYSBCaG9zbGUgUmFkaW8=",
+      "url":"http://stream.zenolive.com/55dqsbewxwzuv",
+      "samplerate":"",
+      "cat":"Artist",
+      "pub":"24-11-2020",
+      "image":"http://shortfilmsite.com/images/ashabhosleradio.jpg"
+   },
+   {
+      "name":"Arjit Singh Radio",
+      "name_h":"QXJqaXQgU2luZ2ggUmFkaW8=",
+      "url":"http://207.180.250.105:8020/stream",
+      "samplerate":"",
+      "cat":"Artist",
+      "pub":"24-11-2020",
+      "image":"http://shortfilmsite.com/images/arjitsinghradio.jpg"
+   },
+   {
+      "name":"RZ Devotional",
+      "name_h":"4KSG4KSw4KSc4KWH4KShIOCkreCkleCljeCkpOCkvw==",
+      "url":"http://209.95.35.49:7011/stream",
+      "samplerate":"",
+      "cat":"Hindi,Devotional",
+      "image":"http://shortfilmsite.com/images/rzdevotional.jpg",
+      "pub":"24-11-2020"
+   },
+{
       "name":"Radio Yarana",
       "name_h":"4KSw4KWH4KSh4KS/4KSv4KWLIOCkr+CkvuCksOCkvuCkqOCkvg==",
       "url":"http://us3.internet-radio.com:8250/autodj",
