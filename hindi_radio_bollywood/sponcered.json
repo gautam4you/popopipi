@@ -5,10 +5,10 @@
 "has_more": true,
 "spList": [
 	{
-		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/sponcerd/hindi.png",
-		"playStoreUrl": "https://play.google.com/store/apps/details?id=com.app.artistradio&hl=en",
+		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/94kb.png",
+		"playStoreUrl": "https://play.google.com/store/apps/details?id=com.app.hindiradionews",
 		"directLink": "",
-		"info":"Fm Radio Hindi"
+		"info":"Hindi Radio- Marathi,Telugu,Tamil & Malyalam Radio"
 
 },
 {
@@ -23,6 +23,12 @@
 		"playStoreUrl": "https://play.google.com/store/apps/details?id=com.app.bangladeshradio&hl=en",
 		"directLink": "",
 		"info":"Bangladeshi FM Radio"
+
+},	{
+		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/sponcerd/hindi.png",
+		"playStoreUrl": "https://play.google.com/store/apps/details?id=com.app.artistradio&hl=en",
+		"directLink": "",
+		"info":"Fm Radio Hindi"
 
 },
 {
