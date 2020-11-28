@@ -148,6 +148,24 @@
 		"pub": "11-10-2020"
 	},
 {
+		"name": "AIR Patiala",
+		"name_h": "QUlSIFBhdGlhbGE=",
+		"url": "https://radioindia.net/radio/air_patiala_radio/icecast.audio",
+		"samplerate": "",
+		"cat": "Bollywood",
+		"image": "https://onlineradiofm.in/assets/image/radio/180/air-patiala.jpg",
+		"pub": "28-11-2020"
+	},
+{
+		"name": "AIR Bhatinda",
+		"name_h": "QUlSIEJoYXRpbmRh",
+		"url": "https://radioindia.net/radio/air_bhatinda_radio/icecast.audio",
+		"samplerate": "",
+		"cat": "Bollywood",
+		"image": "https://onlineradiofm.in/assets/image/radio/180/air-bhatinda.jpg",
+		"pub": "28-11-2020"
+	},
+{
 		"name": "Radio Sports Flashes",
 		"name_h": "UmFkaW8gU3BvcnRzIEZsYXNoZXM=",
 		"url": "https://azura.shoutca.st/radio/8620/radio.mp3",
