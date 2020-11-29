@@ -17,61 +17,34 @@
 			"moreButton": true
 		},
                 {
-			"videosListId": "mahabharat.json",
-			"type": "DM",
+			"videosListId": "jaishree_interview.json",
+			"type": "YP",
 			"extraLink": "",
 			"title": "Mahabharat",
 			"moreButton": true
 		},
 		{
-			"videosListId": "ramayana.json",
+			"videosListId": "jaishree_stage.json",
 			"type": "YP",
 			"extraLink": "",
 			"title": "Ramayana",
 			"moreButton": true
 		},
-			{
-			"videosListId": "jaishreekrishna-dailymotion.json",
-			"type": "DM",
-			"extraLink": "",
-			"title": "Jai Shree Krishna",
-			"moreButton": true
-		},
 			
-			{
-			"videosListId": "jai_ganga_maiya.json",
-			"type": "DM",
-			"extraLink": "",
-			"title": "Jai Ganga Maiya",
-			"moreButton": true
-		},
-			      {
+			   {
 			"videosListId": "sponcered.json",
 			"type": "SP",
 			"extraLink": "",
 			"title": "Ads. Suggested for you",
 			"moreButton": false
 		} ,
-			   	{
-			"videosListId": "omnamahshivaya.json",
-			"type": "DM",
-			"extraLink": "",
-			"title": "Om Namah Shivaya",
-			"moreButton": true
-		},{
-			"videosListId": "shivpuran.json",
-			"type": "DM",
-			"extraLink": "",
-			"title": "Shiv puran",
-			"moreButton": true
-		},
 	
 			
 			{
 			"videosListId": "hindi_radio.json",
 			"type": "RD",
 			"extraLink": "",
-			"title": "Bhakti Radio ",
+			"title": "Live Radio ",
 			"moreButton": true
 		}    
 	],
