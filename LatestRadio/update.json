@@ -1,0 +1,39 @@
+{
+	"active": true,
+        "versionCode":20,
+	"ytKey1": "AIzaSyATjnGM3cOyLdrTdFtmQLS-XO0ywJjcCnI",
+        "ytKey2": "AIzaSyATjnGM3cOyLdrTdFtmQLS-XO0ywJjcCnI",
+        "ytKey3": "AIzaSyATjnGM3cOyLdrTdFtmQLS-XO0ywJjcCnI",
+	"CategoriesList": [{
+			"name": "Hindi Radio",
+			"url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2dhdXRhbTR5b3UvcG9wb3BpcGkvbWFzdGVyL3JhZGlvX3N0YXRpb25zX2FydGlzdC5qc29u",
+			"id": "0"
+			
+		},
+               {
+			"name": "Marathi Radio",
+			"url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2dhdXRhbTR5b3UvcG9wb3BpcGkvbWFzdGVyL01hcmF0aGkvbWFyYXRoaV9yYWRpby5qc29u",
+			"id": "1"
+			
+		},
+
+  {
+			"name": "Tamil Radio",
+			"url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2dhdXRhbTR5b3UvcG9wb3BpcGkvbWFzdGVyL1RhbWlsL3RhbWlsX3JhZGlvLmpzb24=",
+			"id": "2"
+			
+		},
+  {
+			"name": "Telugu Radio",
+			"url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2dhdXRhbTR5b3UvcG9wb3BpcGkvbWFzdGVyL1RlbGd1L3RlbGd1X3JhZGlvLmpzb24=",
+			"id": "3"
+			
+		},
+  {
+			"name": "Malayalam Tadio",
+			"url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2dhdXRhbTR5b3UvcG9wb3BpcGkvbWFzdGVyL01hbHlhbGFtL21hbHlhbGFtX3JhZGlvLmpzb24=",
+			"id": "4"
+			
+		}
+	]
+}
