@@ -1,0 +1,93 @@
+{
+	"active": true,
+	"ads": {
+		"active": true,
+		"bannerAdsUnite": "ca-app-pub-6533269161423177/8572363703",
+		"fullAdsUnite": "ca-app-pub-6533269161423177~4462809873",
+		"rewardVideosAdsUnite": "ca-app-pub-6533269161423177/7997648631",
+		"adsAppId": "ca-app-pub-6533269161423177~4462809873"
+	},
+	"ytKey": "AIzaSyATjnGM3cOyLdrTdFtmQLS-XO0ywJjcCnI",
+	"GridSize": 2,
+	"HomeVideosList": [{
+			"videosListId": "neha_banner.json",
+			"type": "YP",
+			"extraLink": "",
+			"title": "Breaking",
+			"moreButton": true
+		},
+                {
+			"videosListId": "mahabharat.json",
+			"type": "DM",
+			"extraLink": "",
+			"title": "Mahabharat",
+			"moreButton": true
+		},
+		{
+			"videosListId": "ramayana.json",
+			"type": "YP",
+			"extraLink": "",
+			"title": "Ramayana",
+			"moreButton": true
+		},
+			{
+			"videosListId": "jaishreekrishna-dailymotion.json",
+			"type": "DM",
+			"extraLink": "",
+			"title": "Jai Shree Krishna",
+			"moreButton": true
+		},
+			
+			{
+			"videosListId": "jai_ganga_maiya.json",
+			"type": "DM",
+			"extraLink": "",
+			"title": "Jai Ganga Maiya",
+			"moreButton": true
+		},
+			      {
+			"videosListId": "sponcered.json",
+			"type": "SP",
+			"extraLink": "",
+			"title": "Ads. Suggested for you",
+			"moreButton": false
+		} ,
+			   	{
+			"videosListId": "omnamahshivaya.json",
+			"type": "DM",
+			"extraLink": "",
+			"title": "Om Namah Shivaya",
+			"moreButton": true
+		},{
+			"videosListId": "shivpuran.json",
+			"type": "DM",
+			"extraLink": "",
+			"title": "Shiv puran",
+			"moreButton": true
+		},
+	
+			
+			{
+			"videosListId": "hindi_radio.json",
+			"type": "RD",
+			"extraLink": "",
+			"title": "Bhakti Radio ",
+			"moreButton": true
+		}    
+	],
+	"ExtraHomeVideosList": [{
+			"videosListId": "PLFgquLnL59alCl_2TQvOiD5Vgm1hCaGSI",
+			"type": "YP",
+			"extraLink": "",
+			"title": "Recents6",
+			"moreButton": true
+		},
+		{
+			"videosListId": "PLv3TTBr1W_9tppikBxAE_G6qjWdBljBHJ",
+			"type": "YP",
+			"extraLink": "",
+			"title": "Recents7",
+			"moreButton": true
+		}
+	]
+}
