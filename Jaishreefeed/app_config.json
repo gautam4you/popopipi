@@ -13,6 +13,7 @@
 			"videosListId": "neha_banner.json",
 			"type": "YP",
 			"extraLink": "",
+                         "isLive": true,
 			"title": "Breaking",
 			"moreButton": true
 		},
@@ -20,6 +21,7 @@
 			"videosListId": "jaishree_interview.json",
 			"type": "YP",
 			"extraLink": "",
+                        "isLive": true,
 			"title": "Mahabharat",
 			"moreButton": true
 		},
@@ -27,6 +29,7 @@
 			"videosListId": "jaishree_stage.json",
 			"type": "YP",
 			"extraLink": "",
+                        "isLive": true,
 			"title": "Ramayana",
 			"moreButton": true
 		},
@@ -35,6 +38,7 @@
 			"videosListId": "sponcered.json",
 			"type": "SP",
 			"extraLink": "",
+                        "isLive": true,
 			"title": "Ads. Suggested for you",
 			"moreButton": false
 		} ,
@@ -44,6 +48,7 @@
 			"videosListId": "hindi_radio.json",
 			"type": "RD",
 			"extraLink": "",
+                        "isLive": true,
 			"title": "Live Radio ",
 			"moreButton": true
 		}    
@@ -52,6 +57,7 @@
 			"videosListId": "PLFgquLnL59alCl_2TQvOiD5Vgm1hCaGSI",
 			"type": "YP",
 			"extraLink": "",
+                         "isLive": true, 
 			"title": "Recents6",
 			"moreButton": true
 		},
@@ -59,6 +65,7 @@
 			"videosListId": "PLv3TTBr1W_9tppikBxAE_G6qjWdBljBHJ",
 			"type": "YP",
 			"extraLink": "",
+                        "isLive": true,
 			"title": "Recents7",
 			"moreButton": true
 		}
