@@ -34,6 +34,23 @@
 			"url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2dhdXRhbTR5b3UvcG9wb3BpcGkvbWFzdGVyL01hbHlhbGFtL21hbHlhbGFtX3JhZGlvLmpzb24=",
 			"id": "4"
 			
+		},
+			    {
+			"name": "Punjabi Radio",
+			"url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2dhdXRhbTR5b3UvcG9wb3BpcGkvbWFzdGVyL0xhdGVzdFJhZGlvL3B1bmphYmlfZm0uanNvbg==",
+			"id": "5"
+			
+		}, {
+			"name": "Bangla Radio",
+			"url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2dhdXRhbTR5b3UvcG9wb3BpcGkvbWFzdGVyL0xhdGVzdFJhZGlvL2JhbmdsYV9mbS5qc29u",
+			"id": "6"
+			
+		},
+			   {
+			"name": "AIR FM",
+			"url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2dhdXRhbTR5b3UvcG9wb3BpcGkvbWFzdGVyL0xhdGVzdFJhZGlvL2Fpcl9mbS5qc29u",
+			"id": "7"
+			
 		}
 	]
 }
