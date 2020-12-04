@@ -1,5 +1,35 @@
 [
 	{
+		"name": "Bollywood FM",
+		"name_h": "Qm9sbHl3b29kIEZN",
+		"url": "http://www.abm2.com.au:8000/CONTAINER34",
+		"samplerate": "",
+		"cat": "Bollywood",
+		"pub": "04-12-2020",
+		"image": "http://shortfilmsite.com/images/bollywoodfm.jpg"
+
+	},
+	{
+		"name": "Radio Vafara",
+		"name_h": "UmFkaW8gVmFmYXJh",
+		"url": "http://85.25.185.202:8389/stream",
+		"samplerate": "",
+		"cat": "Bollywood",
+		"pub": "04-12-2020",
+		"image": "http://shortfilmsite.com/images/radiovafara.jpg"
+
+	},
+	{
+		"name": "B and W Classics",
+		"name_h": "QiBhbmQgVyBDbGFzc2ljcw==",
+		"url": "http://103.16.47.70:7888/;",
+		"samplerate": "",
+		"cat": "Bollywood",
+		"pub": "04-12-2020",
+		"image": "http://shortfilmsite.com/images/bwclassics1.jpg"
+
+	},
+	{
 		"name": "Lata Mangeshkar",
 		"name_h": "TGF0YSBNYW5nZXNoa2Fy",
 		"url": "http://stream.zeno.fm/87xam8pf7tzuv",
