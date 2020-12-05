@@ -30,6 +30,16 @@
 
 	},
 	{
+		"name": "Radio Chanda",
+		"name_h": "UmFkaW8gQ2hhbmRh",
+		"url": "https://d1xq2f1qgholtc.cloudfront.net/radiochanda.m3u8",
+		"samplerate": "",
+		"cat": "Bollywood",
+		"pub": "05-12-2020",
+		"image": "http://www.radiochanda.com/img/radio-chanda-logo.png"
+
+	},
+	{
 		"name": "Lata Mangeshkar",
 		"name_h": "TGF0YSBNYW5nZXNoa2Fy",
 		"url": "http://stream.zeno.fm/87xam8pf7tzuv",
