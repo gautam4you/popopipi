@@ -1,4 +1,4 @@
-{
+[{
 "logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/unknown.jpg",
 "name": "News 18 Bihar",
 "url": "https://news18bihar-lh.akamaihd.net:443/i/n18biharjh_1@175736/index_2_av-p.m3u8?sd=10&rebase=on",
@@ -256,3 +256,4 @@
 "url": "http://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8",
 "category": "Tv - Audio"
 }
+ ]
