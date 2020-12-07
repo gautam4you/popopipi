@@ -84,12 +84,6 @@
 "category": "Tv - Audio"
 },
 {
-"logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/unknown.jpg",
-"name": "India 24 TV",
-"url": "http://live.wmncdn.net:80/ind24tv/live.stream/chunks.m3u8",
-"category": "Tv - Audio"
-},
-{
 "logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/khabrainabhitak.jpg",
 "name": "Khabrain Abhi Tak Tv",
 "url": "https://vidcdn.vidgyor.com/kat-origin/liveabr/playlist.m3u8",
@@ -158,19 +152,19 @@
 {
 "name": "ET Now",
 "url": "http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_288_av-p.m3u8",
-"logo": "http://www.linatv.com/radiotvvv/verffve/Radi_tv_imag/images/5044_",
+"logo": "https://img.etimg.com/photo/60882360.cms",
 "category": "Tv - Audio"
 },
 {
 "name": "CNN News 18",
 "url": "http://cnnnews18-lh.akamaihd.net/i/cnnnews18_1@174950/index_3_av-p.m3u8",
-"logo": "http://www.linatv.com/radiotvvv/verffve/Radi_tv_imag/images/76353_",
+"logo": "https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2019/06/08/CNN-news18.jpg?itok=DTY8Veed",
 "category": "Tv - Audio"
 },
 {
 "name": "CNBC TV 18",
 "url": "http://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_3_av-p.m3u8",
-"logo": "http://www.linatv.com/radiotvvv/verffve/Radi_tv_imag/images/59214_",
+"logo": "https://images.news18.com/ibnlive/uploads/2018/04/cnbctv181.jpg",
 "category": "Tv - Audio"
 },
 {
