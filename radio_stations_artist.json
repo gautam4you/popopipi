@@ -9,15 +9,6 @@
 		"image": "https://radiosindia.com/images/desibollywood.jpg"
 	},
 	{
-		"name": "Radio Antara",
-		"name_h": "UmFkaW8gQW50YXJh",
-		"url": "https://node-31.zeno.fm/x6ch94sse0quv?rj-ttl=5&rj-tok=AAABdkDd23IAwwPD7l80s-Vw0Q",
-		"samplerate": "",
-		"cat": "Hindi,Bollywood,Web",
-		"pub": "08-12-2020",
-		"image": "https://radiosindia.com/images/radioantara.jpg"
-	},
-	{
 		"name": "Link radio",
 		"name_h": "TGluayByYWRpbw==",
 		"url": "https://indianlink.radioca.st/streams/128kbps",
@@ -71,16 +62,6 @@
 		"cat": "Bollywood",
 		"pub": "04-12-2020",
 		"image": "http://shortfilmsite.com/images/bwclassics1.jpg"
-
-	},
-	{
-		"name": "Radio Chanda",
-		"name_h": "UmFkaW8gQ2hhbmRh",
-		"url": "https://d1xq2f1qgholtc.cloudfront.net/radiochanda.m3u8",
-		"samplerate": "",
-		"cat": "Bollywood",
-		"pub": "05-12-2020",
-		"image": "http://www.radiochanda.com/img/radio-chanda-logo.png"
 
 	},
 	{
