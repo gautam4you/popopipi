@@ -1,5 +1,14 @@
 [
 	{
+		"name": "Radio shruti",
+		"name_h": "UmFkaW8gc2hydXRpIA==",
+		"url": "https://rs.suricloud.com/radio/8000/radio.mp3",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood,Web",
+		"pub": "08-12-2020",
+		"image": "https://radiosindia.com/images/radioshruti.jpg"
+	},
+	{
 		"name": "Radio Retro Bollywood",
 		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCksOClh+Ckn+CljeCksOCliyDgpKzgpYngpLLgpYDgpLXgpYHgpKE=",
 		"url": "http://192.111.151.2:5124/stream?1505228937567.mp3",
