@@ -1,5 +1,23 @@
 [
 	{
+		"name": "Desi bollywood",
+		"name_h": "RGVzaSBib2xseXdvb2Q=",
+		"url": "https://astro4.rastream.com/india",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood,Web",
+		"pub": "08-12-2020",
+		"image": "https://radiosindia.com/images/desibollywood.jpg"
+	},
+	{
+		"name": "Radio Antara",
+		"name_h": "UmFkaW8gQW50YXJh",
+		"url": "https://node-31.zeno.fm/x6ch94sse0quv?rj-ttl=5&rj-tok=AAABdkDd23IAwwPD7l80s-Vw0Q",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood,Web",
+		"pub": "08-12-2020",
+		"image": "https://radiosindia.com/images/radioantara.jpg"
+	},
+	{
 		"name": "Link radio",
 		"name_h": "TGluayByYWRpbw==",
 		"url": "https://indianlink.radioca.st/streams/128kbps",
