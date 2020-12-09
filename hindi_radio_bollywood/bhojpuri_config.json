@@ -24,6 +24,13 @@
 			"moreButton": true
 		},
 			   {
+			"videosListId": "bhojpuri_hot.json",
+			"type": "YP",
+			"extraLink": "",
+			"title": "Bhojpuri Hot Songs",
+			"moreButton": true
+		},
+			   {
 			"videosListId": "bhojpuri_songs1.json",
 			"type": "YP",
 			"extraLink": "",
