@@ -1,5 +1,23 @@
 [
 	{
+		"name": "SHRIPAD HINDI",
+		"name_h": "U0hSSVBBRCBISU5ESQ==",
+		"url": "http://144.217.203.184:8112/stream",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood,Web",
+		"pub": "09-12-2020",
+		"image": "https://hindiradios.com/assets/img/radio-logos/shripad-radio-hindi.jpg"
+	},
+	{
+		"name": "BOLLYWOOD BIO",
+		"name_h": "Qk9MTFlXT09EIEJJTw==",
+		"url": "http://cora.cdnstream.com/1925_192",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood,Web",
+		"pub": "09-12-2020",
+		"image": "https://hindiradios.com/assets/img/radio-logos/bollywoodbio-sweden-fm.jpg"
+	},
+	{
 		"name": "Desi bollywood",
 		"name_h": "RGVzaSBib2xseXdvb2Q=",
 		"url": "https://astro4.rastream.com/india",
@@ -55,13 +73,13 @@
 
 	},
 	{
-		"name": "B and W Classics",
-		"name_h": "QiBhbmQgVyBDbGFzc2ljcw==",
-		"url": "http://103.16.47.70:7888/;",
+		"name": "FNF FM",
+		"name_h": "Rk5GIEZN",
+		"url": "http://192.99.8.192:5032/stream",
 		"samplerate": "",
 		"cat": "Bollywood",
-		"pub": "04-12-2020",
-		"image": "http://shortfilmsite.com/images/bwclassics1.jpg"
+		"pub": "09-12-2020",
+		"image": "https://hindiradios.com/assets/img/radio-logos/fnf-fm-bollywood.jpg"
 
 	},
 	{
