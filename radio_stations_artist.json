@@ -18,6 +18,15 @@
 		"image": "http://shortfilmsite.com/images/filmymirchi12.jpg"
 	},
 	{
+		"name": "Pure Music",
+		"name_h": "4KS24KWB4KSm4KWN4KSnIOCkuOCkguCkl+ClgOCkpA==",
+		"url": "https://sg1.fastcast4u.com/proxy/dzcwbfih?mp=/1",
+		"samplerate": "44100",
+		"cat": "Hindi,Bollywood,Web",
+		"image": "https://cdn.onlineradiobox.com/img/logo/1/11181.png",
+		"pub": "27-11-2018"
+	},
+	{
 		"name": "SHRIPAD HINDI",
 		"name_h": "U0hSSVBBRCBISU5ESQ==",
 		"url": "http://144.217.203.184:8112/stream",
@@ -1498,15 +1507,6 @@
 		"cat": "Hindi,Bollywood,Web",
 		"image": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/yu6hkdagcyxv.png",
 		"pub": "28-11-2018"
-	},
-	{
-		"name": "Pure Music",
-		"name_h": "4KS24KWB4KSm4KWN4KSnIOCkuOCkguCkl+ClgOCkpA==",
-		"url": "https://sg1.fastcast4u.com/proxy/dzcwbfih?mp=/1",
-		"samplerate": "44100",
-		"cat": "Hindi,Bollywood,Web",
-		"image": "https://www.bigfm.ae/wp-content/themes/106bigfm/img/logo.png?v=2",
-		"pub": "27-11-2018"
 	},
 	{
 		"name": "Houston KI Jaan",
