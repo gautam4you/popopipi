@@ -201,5 +201,10 @@
 "url": "https://mirchidelhi-lh.akamaihd.net/i/Mirchi_Delhi@693087/master.m3u8",
 "logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/radio_mirchi.jpg",
 "category": "Delhi Live"
+},{
+"name": "Mirchi mumbaiy",
+"url": "https://marathimumbai-lh.akamaihd.net/i/Marathimumbai_1@710773/index_1_a-p.m3u8",
+"logo": "https://static.mytuner.mobi/media/tvos_radios/568bcyh3t3ff.png",
+"category": "Delhi Live"
 }
 ]
