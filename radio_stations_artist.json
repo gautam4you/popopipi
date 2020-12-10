@@ -1,5 +1,14 @@
 [
 	{
+		"name": "Filmy Mirchi Radio",
+		"name_h": "RmlsbXkgTWlyY2hpIFJhZGlv",
+		"url": "https://filmymirchihdliv-lh.akamaihd.net/i/FilmyMirchiHDLive_1_1@336266/index_1_a-b.m3u8",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood,Web",
+		"pub": "10-12-2020",
+		"image": "http://shortfilmsite.com/images/filmymirchi12.jpg"
+	},
+	{
 		"name": "SHRIPAD HINDI",
 		"name_h": "U0hSSVBBRCBISU5ESQ==",
 		"url": "http://144.217.203.184:8112/stream",
