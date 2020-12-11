@@ -56,5 +56,10 @@
 "url": "http://103.16.47.70:6222/;stream.mp3",
 "logo": "https://hindiradios.com/assets/img/radio-logos/hungama-60s-forever.jpg",
 "category": "Hindi FM Radios"
+},{
+"name": "BW Classics",
+"url": "http://103.16.47.70:7888/;stream.mp3",
+"logo": "https://hindiradios.com/assets/img/radio-logos/hungama-b-and-w-classics.jpg",
+"category": "Hindi FM Radios"
 }
 ]
