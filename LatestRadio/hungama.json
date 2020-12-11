@@ -51,5 +51,15 @@
 "url": "http://103.16.47.70:7777/;stream.nsv",
 "logo": "https://static.mytuner.mobi/media/tvos_radios/gUnPyeckBn.jpeg",
 "category": "Hindi FM Radios"
+},{
+"name": "60S FOREVER",
+"url": "http://103.16.47.70:6222/;stream.mp3",
+"logo": "https://hindiradios.com/assets/img/radio-logos/hungama-60s-forever.jpg",
+"category": "Hindi FM Radios"
+},{
+"name": "DEVOTIONAL",
+"url": "http://103.16.47.70:7777/;stream.mp3",
+"logo": "https://hindiradios.com/assets/img/radio-logos/hungama-devotional-fm.jpg",
+"category": "Hindi FM Radios"
 }
 ]
