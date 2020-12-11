@@ -1,0 +1,50 @@
+[
+{
+"name": "Radio Hungama 90s Once Again",
+"url": "https://radioindia.net/radio/hungama90/icecast.audio",
+"logo": "https://onlineradiofm.in/assets/image/radio/180/Hungama90sOnceAgain.jpg",
+"category": "Hindi FM Radios"
+},
+{
+"name": "Radio Hungama Evergreen Bollywood",
+"url": "https://radioindia.net/radio/hungama_evergreen_bollywood/icecast.audio",
+"logo": "https://onlineradiofm.in/assets/image/radio/180/Evergreen-Bollywood.jpg",
+"category": "Hindi FM Radios"
+},
+{
+"name": "Radio Hungama Bollywood Dil Se",
+"url": "https://radioindia.net/radio/hungamadilse/icecast.audio",
+"logo": "https://onlineradiofm.in/assets/image/radio/180/bollywooddilse.jpg",
+"category": "Hindi FM Radios"
+},
+{
+"name": "Radio Hungama Hot now Bollywood",
+"url": "https://radioindia.net/radio/hungamanow/icecast.audio",
+"logo": "https://onlineradiofm.in/assets/image/radio/180/hot-now-bollywood.jpg",
+"category": "Hindi FM Radios"
+},
+{
+"name": "Radio Hungama Punjabi Hits",
+"url": "https://radioindia.net/radio/hungamapunjabi/icecast.audio",
+"logo": "https://onlineradiofm.in/assets/image/radio/180/hot-now-punjabi.jpg",
+"category": "Hindi FM Radios"
+},
+{
+"name": "Radio Hungama Best of Ghazals",
+"url": "https://radioindia.net/radio/hungamaghazal/icecast.audio",
+"logo": "https://onlineradiofm.in/assets/image/radio/180/Hungama-best-of-glazal.jpg",
+"category": "Hindi FM Radios"
+},
+{
+"name": "Radio Hungama - Dance Masti International",
+"url": "https://radioindia.net/radio/hungamamasti/icecast.audio",
+"logo": "https://onlineradiofm.in/assets/image/radio/180/Hungama-Dance-Masti-International.jpg",
+"category": "Hindi FM Radios"
+},
+{
+"name": "Radio Hungama Hot now tamil",
+"url": "https://radioindia.net/radio/hungamatamil/icecast.audio",
+"logo": "https://onlineradiofm.in/assets/image/radio/180/hot-now-tamil.jpg",
+"category": "Hindi FM Radios"
+}
+]
