@@ -46,5 +46,10 @@
 "url": "https://radioindia.net/radio/hungamatamil/icecast.audio",
 "logo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/LatestRadio/hot-now-tamil.jpg",
 "category": "Hindi FM Radios"
+},{
+"name": "Bhakti Sagar",
+"url": "http://103.16.47.70:7777/;stream.nsv",
+"logo": "https://static.mytuner.mobi/media/tvos_radios/gUnPyeckBn.jpeg",
+"category": "Hindi FM Radios"
 }
 ]
