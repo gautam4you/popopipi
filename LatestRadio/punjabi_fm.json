@@ -4,6 +4,12 @@
 "logo": "http://shortfilmsite.com/images/khalsafm.jpg",
 "category": "Punjabi Radios"
 },
+  {
+"name": "PUNJABI USA",
+"url": "http://s2.voscast.com:7016/;stream.mp3",
+"logo": "https://hindiradios.com/assets/img/radio-logos/punjabi-radio-usa.jpg",
+"category": "Punjabi Radios"
+},
 {
 "name": "Red FM Vancouver",
 "url": "https://ice24.securenetsystems.net/CKYE",
