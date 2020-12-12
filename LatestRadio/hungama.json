@@ -61,5 +61,15 @@
 "url": "http://103.16.47.70:7888/;stream.mp3",
 "logo": "https://hindiradios.com/assets/img/radio-logos/hungama-b-and-w-classics.jpg",
 "category": "Hindi FM Radios"
+},{
+"name": "HINDUSTANI",
+"url": "http://103.16.47.70:9999/;stream.mp3",
+"logo": "https://hindiradios.com/assets/img/radio-logos/hungama-hindustani-classical.jpg",
+"category": "Hindi FM Radios"
+},{
+"name": "INDIE POP",
+"url": "http://103.16.47.70:7111/;stream.mp3",
+"logo": "https://hindiradios.com/assets/img/radio-logos/hungama-indie-pop.jpg",
+"category": "Hindi FM Radios"
 }
 ]
