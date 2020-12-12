@@ -1,4 +1,11 @@
-[{
+[
+  {
+"name": "Bhojpuri Love",
+"url": "https://prclive4.listenon.in/Bhojpuri",
+"logo": "https://hindiradios.com/assets/img/radio-logos/radio-city-bhojpuri.jpg",
+"category": "Hindi FM Radios"
+},
+  {
 "name": "Radio City Hindi",
 "url": "https://prclive4.listenon.in/Hindi",
 "logo": "http://shortfilmsite.com/images/radiocity.jpg",
@@ -9,52 +16,52 @@
 "logo": "http://shortfilmsite.com/images/radiocity.jpg",
 "category": "Hindi FM Radios"
 },{
-"name": "Love Guru Radio city",
+"name": "Love Guru",
 "url": "http://prclive1.listenon.in:8808/;",
 "logo": "http://shortfilmsite.com/images/radiocityloveguru.jpg",
 "category": "Hindi FM Radios"
 },{
-"name": "Radio City HIP HOP",
+"name": "HIP HOP",
 "url": "http://prclive1.listenon.in:9292/;",
 "logo": "http://shortfilmsite.com/images/radiocityhiphop.jpg",
 "category": "Hindi FM Radios"
 },{
-"name": "Radio City FM",
+"name": "City FM",
 "url": "http://54.251.110.128:8000/live",
 "logo": "http://shortfilmsite.com/images/radiocityh.jpg",
 "category": "Hindi FM Radios"
 },{
-"name": "Ghazal Radio City",
+"name": "Ghazal",
 "url": "https://prclive4.listenon.in/Ghazal",
 "logo": "http://shortfilmsite.com/images/radiocityghazal.jpg",
 "category": "Classics Radios"
 },{
-"name": "Radio City Pune",
+"name": "Pune",
 "url": "http://stream.zenolive.com/0v0symztz2quv",
 "logo": "http://shortfilmsite.com/images/radiocity.jpg",
 "category": "Marathi Radios"
 },{
-"name": "Radio City Punjabi",
+"name": "Punjabi",
 "url": "https://prclive4.listenon.in/Punjabi",
 "logo": "http://shortfilmsite.com/images/radiocity.jpg",
 "category": "Punjabi Radios"
 },{
-"name": "Radio City Gujarathi",
+"name": "Gujarathi",
 "url": "http://prclive1.listenon.in:9932/;",
 "logo": "http://shortfilmsite.com/images/radiocity.jpg",
 "category": "Regional Languages"
 },{
-"name": "Radio City Freedom",
+"name": "Freedom",
 "url": "https://prclive4.listenon.in/Freedom",
 "logo": "http://shortfilmsite.com/images/radiocityfreedom.jpg",
 "category": "English Radios"
 },{
-"name": "Radio City Dance",
+"name": "Dance",
 "url": "https://prclive4.listenon.in/Dance",
 "logo": "http://shortfilmsite.com/images/radiocitydance.jpg",
 "category": "English Radios"
 },{
-"name": "Radio City Metal",
+"name": "Metal",
 "url": "https://prclive4.listenon.in/Metal",
 "logo": "http://shortfilmsite.com/images/radiocitymetal.jpg",
 "category": "English Radios"
