@@ -4,6 +4,12 @@
 "logo": "http://shortfilmsite.com/images/fmrainbow1.jpg",
 "category": "Bangla Radio"
 },
+  {
+"name": "BongOnet Disco",
+"url": "https://stream.bongonet.net/proxy/discobanikolkata?mp=/stream",
+"logo": "https://onlineradiofm.in/assets/image/radio/180/DiscoBani-Kolkata-BongOnet.png",
+"category": "Bangla Radio"
+},
 {
 "name": "NSH YFM 91.2",
 "url": "http://radio.bongonet.net:8028/stream",
