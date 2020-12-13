@@ -4,6 +4,12 @@
 "logo": "http://shortfilmsite.com/images/fmrainbow1.jpg",
 "category": "Bangla Radio"
 },
+  {
+"name": "Air Assamese",
+"url": "https://radioindia.net/radio/air_assamese_radio/icecast.audio",
+"logo": "https://static.mytuner.mobi/media/tvos_radios/rpkmsysrwtux.jpg",
+"category": "Bangla Radio"
+},
     {
 "name": "SPORTSFLASHES BANGLA",
 "url": "https://radioindia.net/radio/bangla-sports/icecast.audio",
