@@ -4,6 +4,12 @@
 "logo": "http://shortfilmsite.com/images/fmrainbow1.jpg",
 "category": "Bangla Radio"
 },
+    {
+"name": "SPORTSFLASHES BANGLA",
+"url": "https://radioindia.net/radio/bangla-sports/icecast.audio",
+"logo": "https://cdn.webrad.io/images/logos/onlineradios-in/sport-flashes-bangla.png",
+"category": "Bangla Radio"
+},
   {
 "name": "BongOnet Disco",
 "url": "https://stream.bongonet.net/proxy/discobanikolkata?mp=/stream",
