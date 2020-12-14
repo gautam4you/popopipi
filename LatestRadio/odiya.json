@@ -1,0 +1,74 @@
+[
+{
+"logo": "https://static.mytuner.mobi/media/tvos_radios/jpam7f8fxqhn.jpg",
+"name": "Air Odia",
+"url": "https://radioindia.net/radio/air_odia_radio/icecast.audio",
+"category": "Tv - Audio"
+},
+{
+"logo": "https://static.mytuner.mobi/media/tvos_radios/TbDetPbqW5.png",
+"name": "Odia radio",
+"url": "https://radio.mycast.in/radio/8000/radio.mp3",
+"category": "Tv - Audio"
+},
+{
+"logo": "https://static.mytuner.mobi/media/tvos_radios/jm6lapqzdfzn.png",
+"name": "Sarthak FM",
+"url": "https://sarthakfm.out.airtime.pro/sarthakfm_a",
+"category": "Tv - Audio"
+},
+{
+"logo": "https://onlineradiofm.in/assets/image/radio/180/air-mahanadi-sambalpur.jpg",
+"name": "AIR Mahanadi",
+"url": "https://radioindia.net/radio/air_mahanadi/icecast.audio",
+"category": "Tv - Audio"
+},
+{
+"logo": "https://onlineradiofm.in/assets/image/radio/180/air-jeypore.jpg",
+"name": "AIR Jeypore",
+"url": "https://radioindia.net/radio/air_jeypore/icecast.audio",
+"category": "Tv - Audio"
+},
+{
+"logo": "https://onlineradiofm.in/assets/image/radio/180/air-balangir.jpg",
+"name": "AIR Balangir",
+"url": "https://radioindia.net/radio/air_balangir/icecast.audio",
+"category": "Tv - Audio"
+},
+{
+"logo": "https://cdn.webrad.io/images/logos/onlineradios-in/bhubaneswar.png",
+"name": "Radio Bhubaneswar",
+"url": "https://radioindia.net/radio/bhubants/icecast.audio",
+"category": "Tv - Audio"
+},
+{
+"logo": "https://onlineradiofm.in/assets/image/radio/180/air-bhawanipatna.jpg",
+"name": "AIR Bhawanipatna",
+"url": "https://radioindia.net/radio/air_bhavanipatna/icecast.audio",
+"category": "Tv - Audio"
+},
+{
+"logo": "https://onlineradiofm.in/assets/image/radio/180/Berhampur.jpg",
+"name": "AIR Berhampur",
+"url": "https://radioindia.net/radio/air_bercampur/icecast.audio",
+"category": "Tv - Audio"
+},
+{
+"logo": "https://onlineradiofm.in/assets/image/radio/180/airbaripada.jpg",
+"name": "AIR Baripada",
+"url": "https://radioindia.net/radio/air_baripada/icecast.audio",
+"category": "Tv - Audio"
+},
+{
+"logo": "https://onlineradiofm.in/assets/image/radio/180/air-puri-fm.jpg",
+"name": "AIR Puri FM",
+"url": "https://radioindia.net/radio/air_puri_fm_radio/icecast.audio",
+"category": "Tv - Audio"
+},
+{
+"logo": "https://cdn-radiotime-logos.tunein.com/s68502q.png",
+"name": "Radio Choklate",
+"url": "http://stream.zenolive.com/u9744afb8gruv",
+"category": "Tv - Audio"
+}
+]
