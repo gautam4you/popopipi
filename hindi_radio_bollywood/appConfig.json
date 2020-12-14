@@ -37,6 +37,13 @@
 			"extraLink": "",
 			"title": "Jai Ganga Maiya",
 			"moreButton": true
+		},
+			   {
+			"videosListId": "harishchandra.json",
+			"type": "DM",
+			"extraLink": "",
+			"title": "Raja Harishchandra Katha",
+			"moreButton": true
 		}
 	],
 	"ExtraHomeVideosList": [{
