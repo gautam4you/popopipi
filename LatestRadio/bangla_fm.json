@@ -3,6 +3,11 @@
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio058/playlist.m3u8",
 "logo": "http://shortfilmsite.com/images/fmrainbow1.jpg",
 "category": "Bangla Radio"
+},{
+"name": "Sabras Radio",
+"url": "https://radioindia.net/radio/sabrasradio/icecast.audio",
+"logo": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/gDNcx62Jaq.png",
+"category": "Bangla Radio"
 },
   {
 "name": "Air Assamese",
