@@ -85,19 +85,27 @@
 		}    
 	],
 	"ExtraHomeVideosList": [{
-			"videosListId": "PLFgquLnL59alCl_2TQvOiD5Vgm1hCaGSI",
-			"type": "YP",
+			"videosListId": "jaishreekrishna-dailymotion02.json",
+			"type": "DM",
 			"extraLink": "",
-                         "isLive": true, 
-			"title": "Recents6",
+                        "isLive": true,
+			"title": "Episode 51 to 100",
 			"moreButton": true
 		},
-		{
-			"videosListId": "PLv3TTBr1W_9tppikBxAE_G6qjWdBljBHJ",
+	       {
+			"videosListId": "sponcered.json",
+			"type": "SP",
+			"extraLink": "",
+                        "isLive": true,
+			"title": "Ads. Suggested for you",
+			"moreButton": false
+		} ,
+				{
+			"videosListId": "jaishree_stage.json",
 			"type": "YP",
 			"extraLink": "",
                         "isLive": true,
-			"title": "Recents7",
+			"title": "Stage Videos",
 			"moreButton": true
 		}
 	]
