@@ -74,7 +74,16 @@
 			"moreButton": true
 		}
 	],
-	"ExtraHomeVideosList": [{
+	"ExtraHomeVideosList": [
+			{
+			"videosListId": "sponcered.json",
+			"type": "ADS-BANNER",
+			"extraLink": "",
+                        "isLive": true,
+			"title": "Ads. Suggested for you",
+			"moreButton": false
+		},
+		{
 			"videosListId": "bhojpuri_banner.json",
 			"type": "YP",
 			"extraLink": "",
@@ -85,14 +94,6 @@
 	       {
 			"videosListId": "sponcered.json",
 			"type": "SP",
-			"extraLink": "",
-                        "isLive": true,
-			"title": "Ads. Suggested for you",
-			"moreButton": false
-		} ,
-			{
-			"videosListId": "sponcered.json",
-			"type": "ADS-BANNER",
 			"extraLink": "",
                         "isLive": true,
 			"title": "Ads. Suggested for you",
