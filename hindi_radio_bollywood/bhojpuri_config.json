@@ -75,6 +75,15 @@
 		}
 	],
 	"ExtraHomeVideosList": [
+	{
+			"videosListId": "app-ad.json",
+			"imgUrl": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/notification_latest_radio.png",
+			"type": "APP-AD",
+			"extraLink": "https://play.google.com/store/apps/details?id=com.app.hindiradionews",
+                        "isLive": true,
+			"title": "",
+			"moreButton": true
+		},
 			{
 			"videosListId": "sponcered.json",
 			"type": "ADS-BANNER",
@@ -82,6 +91,14 @@
                         "isLive": true,
 			"title": "Ads. Suggested for you",
 			"moreButton": false
+		},
+{
+			"videosListId": "bhojpuri_banner.json",
+			"type": "YP",
+			"extraLink": "",
+                        "isLive": true,
+			"title": "Episode 51 to 100",
+			"moreButton": true
 		},
 		{
 			"videosListId": "sponcered.json",
@@ -91,14 +108,7 @@
 			"title": "Ads. Suggested for you",
 			"moreButton": false
 		},
-		{
-			"videosListId": "bhojpuri_banner.json",
-			"type": "YP",
-			"extraLink": "",
-                        "isLive": true,
-			"title": "Episode 51 to 100",
-			"moreButton": true
-		},
+		
 	       {
 			"videosListId": "sponcered.json",
 			"type": "SP",
