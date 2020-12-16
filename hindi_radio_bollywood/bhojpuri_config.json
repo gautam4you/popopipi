@@ -84,6 +84,14 @@
 			"moreButton": false
 		},
 		{
+			"videosListId": "sponcered.json",
+			"type": "ADS-NATIVE",
+			"extraLink": "",
+                        "isLive": true,
+			"title": "Ads. Suggested for you",
+			"moreButton": false
+		},
+		{
 			"videosListId": "bhojpuri_banner.json",
 			"type": "YP",
 			"extraLink": "",
