@@ -1,0 +1,123 @@
+{
+	"active": true,
+	"ads": {
+		"active": true,
+		"bannerAdsUnite": "794353377787880_794354884454396",
+		"fullAdsUnite": "794353377787880_794355634454321",
+		"rewardVideosAdsUnite": "794353377787880_794356014454283",
+		"adsAppId": "794353377787880_794409734448911"
+	},
+	"ytKey": "AIzaSyB_YoT1sMzMbknZDFYXammOqi8LAu7tPpk",
+	"GridSize": 2,
+	"HomeVideosList": [{
+			"videosListId": "bhojpuri_banner.json",
+			"type": "YP",
+			"extraLink": "",
+		 "isLive": true,
+			"title": "Breaking",
+			"moreButton": true
+		},
+		{
+			"videosListId": "bhojpuri_hit_songs.json",
+			"type": "YP",
+			 "isLive": true,
+			"extraLink": "",
+			"title": "Bhojpuri Hit Songs",
+			"moreButton": true
+		},
+               {
+			"videosListId": "sponcered.json",
+			"type": "ADS-NATIVE",
+			"extraLink": "",
+                        "isLive": true,
+			"title": "Ads. Suggested for you",
+			"moreButton": false
+		},
+			   {
+			"videosListId": "bhojpuri_hot.json",
+			"type": "YP",
+			"extraLink": "",
+				    "isLive": true,
+			"title": "Bhojpuri Hot Songs",
+			"moreButton": true
+		},
+			   {
+			"videosListId": "bhojpuri_songs1.json",
+			"type": "YP",
+			"extraLink": "",
+				    "isLive": true,
+			"title": "Bhojpuri Masti Songs",
+			"moreButton": true
+		},
+			{
+			"videosListId": "bhojpuri_movie.json",
+			"type": "YP",
+			"extraLink": "",
+				 "isLive": true,
+			"title": "Bhpjpuri Movies",
+			"moreButton": true
+		},
+			    {
+			"videosListId": "sponcered.json",
+			"type": "SP",
+			"extraLink": "",
+				     "isLive": true,
+			"title": "Ads. Suggested for you",
+			"moreButton": false
+		},
+			{
+			"videosListId": "bhojpuri_doubed.json",
+			"type": "YP",
+			"extraLink": "",
+				 "isLive": true,
+			"title": "Bhojpuri Dubbed Movies",
+			"moreButton": true
+		},
+			{
+			"videosListId": "bhojpuri_horror.json",
+			"type": "YP",
+			"extraLink": "",
+				 "isLive": true,
+			"title": "Horror movies",
+			"moreButton": true
+		},
+		
+		 
+			{
+			"videosListId": "sponcered.json",
+			"type": "ADS-REC-BANNER",
+			"extraLink": "",
+                        "isLive": true,
+			"title": "Ads. Suggested for you",
+			"moreButton": false
+		}
+	],
+	"ExtraHomeVideosList": [
+	     {
+			"videosListId": "app-ad.json",
+			"imgUrl": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/notification_latest_radio.png",
+			"type": "APP-AD",
+			"extraLink": "https://play.google.com/store/apps/details?id=com.app.hindiradionews",
+                        "isLive": true,
+			"title": "",
+			"moreButton": true
+		},
+			{
+			"videosListId": "sponcered.json",
+			"type": "ADS-BANNER",
+			"extraLink": "",
+                        "isLive": true,
+			"title": "Ads. Suggested for you",
+			"moreButton": false
+		},
+               {
+			"videosListId": "bhojpuri_banner.json",
+			"type": "YP",
+			"extraLink": "",
+                        "isLive": false,
+			"title": "Episode 51 to 100",
+			"moreButton": true
+		} 
+		
+	]
+}
