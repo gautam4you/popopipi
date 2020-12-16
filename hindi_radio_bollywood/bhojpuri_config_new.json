@@ -29,7 +29,7 @@
 			"videosListId": "sponcered.json",
 			"type": "ADS-NATIVE",
 			"extraLink": "",
-                        "isLive": false,
+                        "isLive": true,
 			"title": "Ads. Suggested for you",
 			"moreButton": false
 		},
