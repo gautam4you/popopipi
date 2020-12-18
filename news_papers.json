@@ -1,11 +1,19 @@
 [
 	{
-		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/go.png",
+		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/go_english.png",
+		"link": "https://news.google.com/"
+},
+	{
+		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/go_hindi.png",
 		"link": "https://news.google.com/topstories?hl=hi&gl=IN&ceid=IN:hi"
 },
 	{
-		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/air.jpg",
+		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/air_english.png",
 		"link": "http://newsonair.com/"
+},
+	{
+		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/air_hindi.png",
+		"link": "http://newsonair.com/hindi/Hindi-Default.aspx"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/aajtak.png",
