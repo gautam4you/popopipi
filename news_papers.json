@@ -1,4 +1,8 @@
 [
+	{
+		"imgLogo": "http://newsonair.com/App_Themes/Theme1/images/logo.jpg",
+		"link": "http://newsonair.com/"
+},
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/aajtak.png",
 		"link": "https://aajtak.intoday.in/"
