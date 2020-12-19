@@ -9,6 +9,37 @@
 			"url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2dhdXRhbTR5b3UvcG9wb3BpcGkvbWFzdGVyL1RhbWlsL3RhbWlsX2xpdmUuanNvbg==",
 			"id": "1"
 			
+		},
+			   {
+			"name": "South Radio",
+			"url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2dhdXRhbTR5b3UvcG9wb3BpcGkvbWFzdGVyL1RhbWlsL3NvdXRoX3JhZGlvLmpzb24=",
+			"id": "2"
+			
+		}
+			   ,
+			   {
+			"name": "Hits Collection",
+			"url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2dhdXRhbTR5b3UvcG9wb3BpcGkvbWFzdGVyL1RhbWlsL2hpdHNjb2xsZWN0aW9uLmpzb24=",
+			"id": "3"
+			
+		}  ,
+			   {
+			"name": "Online Live",
+			"url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2dhdXRhbTR5b3UvcG9wb3BpcGkvbWFzdGVyL1RhbWlsL29ubGluZV9yYWRpby5qc29u",
+			"id": "4"
+			
+		} ,
+			   {
+			"name": "AIR Tamil",
+			"url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2dhdXRhbTR5b3UvcG9wb3BpcGkvbWFzdGVyL1RhbWlsL2Fpcl90YW1pbC5qc29u",
+			"id": "5"
+			
+		},
+			   {
+			"name": "Religion Radio",
+			"url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2dhdXRhbTR5b3UvcG9wb3BpcGkvbWFzdGVyL1RhbWlsL3JlbGlnaW9uX3JhZGlvLmpzb24=",
+			"id": "6"
+			
 		}
 	]
 }
