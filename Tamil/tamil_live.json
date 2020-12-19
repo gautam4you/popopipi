@@ -94,5 +94,45 @@
 "radio_url": "http://149.56.195.94:8267/;",
 "radio_type": "url",
 "type": "radio"
+},
+  {
+"radio_id": 5482,
+"radio_title": "Puducherry Fm Rainbow",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/2019/10/Puducherry.png",
+"radio_url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio098/master.m3u8",
+"radio_type": "hd",
+"type": "radio"
+},
+{
+"radio_id": 5306,
+"radio_title": "Madurai Fm Rainbow",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/2019/07/Madurai-.png",
+"radio_url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio126/master.m3u8?cache=0",
+"radio_type": "hd",
+"type": "radio"
+},
+{
+"radio_id": 5373,
+"radio_title": "Kovai Fm Rainbow",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/2019/08/Kovai-.png",
+"radio_url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio017/master.m3u8",
+"radio_type": "hd",
+"type": "radio"
+},
+{
+"radio_id": 5362,
+"radio_title": "Trichy Fm Rainbow",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/2019/08/Trichy-.png",
+"radio_url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio040/master.m3u8?cache=0",
+"radio_type": "hd",
+"type": "radio"
+},
+{
+"radio_id": 5354,
+"radio_title": "Tirunelveli Fm Rainbow",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/2019/08/Tirunelveli-.png",
+"radio_url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio062/master.m3u8",
+"radio_type": "hd",
+"type": "radio"
 }
 ]
