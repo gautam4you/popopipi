@@ -422,5 +422,29 @@
 "radio_url": "http://live.tamilkuyilradio.com:8002/oldgoldradio",
 "radio_type": "hd",
 "type": "radio"
+},
+  {
+"radio_id": 7469,
+"radio_title": "Tamil Comedy Radio",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/2020/10/Tamil-Comedy-Radio.png",
+"radio_url": "http://apipermission.southradios.net/play/tamilcomedyradio",
+"radio_type": "hd",
+"type": "radio"
+},
+{
+"radio_id": 5836,
+"radio_title": "Goundamani Senthil Radio",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/2020/03/Goundamani-Senthil-Radio.png",
+"radio_url": "http://apipermission.southradios.net/play/goundamanisenthilradio",
+"radio_type": "hd",
+"type": "radio"
+},
+{
+"radio_id": 6157,
+"radio_title": "Vadivelu Comedy Radio",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/Vadivelu-Comedy-Radio.png",
+"radio_url": "http://apipermission.southradios.net/play/vadivelucomedyradio",
+"radio_type": "hd",
+"type": "radio"
 }
 ]
