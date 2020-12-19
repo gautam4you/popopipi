@@ -1,4 +1,20 @@
 [
+  {
+"radio_id": 5485,
+"radio_title": "Air Puducherry PC",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/2019/10/Air-Puducherry-PC.png",
+"radio_url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio097/master.m3u8",
+"radio_type": "hd",
+"type": "radio"
+},
+{
+"radio_id": 4483,
+"radio_title": "Air Raagam",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/airraagam.png",
+"radio_url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio139/master.m3u8",
+"radio_type": "hd",
+"type": "radio"
+},
 {
 "radio_id": 5472,
 "radio_title": "Air Chennai B",
