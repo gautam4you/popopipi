@@ -1,0 +1,98 @@
+[
+{
+"radio_id": 2043,
+"radio_title": "Hello Fm 106.4 Chennai HD",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/2017/05/hello-chennai-1.png",
+"radio_url": "http://149.56.147.197:8217/;",
+"radio_type": "url",
+"type": "radio"
+},
+{
+"radio_id": 520,
+"radio_title": "Radio Mirchi 98.3 Chennai HD",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/2016/10/mirchi-1.png",
+"radio_url": "http://37.187.93.104:8014/;",
+"radio_type": "url",
+"type": "radio"
+},
+{
+"radio_id": 2131,
+"radio_title": "Radio City 91.1 Chennai HD",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/2017/07/chenniradiocity.png",
+"radio_url": "http://149.56.195.94:8632/;",
+"radio_type": "url",
+"type": "radio"
+},
+{
+"radio_id": 2444,
+"radio_title": "BIG FM 92.7 Chennai HD",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/2017/12/big-1.png",
+"radio_url": "http://149.56.195.94:8628/;",
+"radio_type": "url",
+"type": "radio"
+},
+{
+"radio_id": 5069,
+"radio_title": "Radio One 94.3 Chennai HD",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/radioone-1.png",
+"radio_url": "http://149.56.195.94:8630/;",
+"radio_type": "url",
+"type": "radio"
+},
+{
+"radio_id": 1498,
+"radio_title": "FM Rainbow 101.4 Chennai HD",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/2017/04/fmrainbow-chennai-1-1.png",
+"radio_url": "http://149.56.195.94:8414/;",
+"radio_type": "url",
+"type": "radio"
+},
+{
+"radio_id": 2529,
+"radio_title": "Vividh Bharti 102.3 Chennai HD",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/2018/02/vivdbharati-1.png",
+"radio_url": "http://149.56.195.94:8301/;",
+"radio_type": "url",
+"type": "radio"
+},
+{
+"radio_id": 3103,
+"radio_title": "FM Gold 100.1 Chennai",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/2018/03/fmgold-1.png",
+"radio_url": "http://149.56.195.94:8374/;",
+"radio_type": "url",
+"type": "radio"
+},
+{
+"radio_id": 5095,
+"radio_title": "Erode Hello Fm 92.7 HD",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/2019/02/hello-erode-live-2-1.png",
+"radio_url": "http://149.56.195.94:8444/;",
+"radio_type": "url",
+"type": "radio"
+},
+{
+"radio_id": 5063,
+"radio_title": "Polimer News Live",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/polimer.png",
+"radio_url": "http://149.56.195.94:8250/;",
+"radio_type": "url",
+"type": "radio"
+},
+{
+"radio_id": 5065,
+"radio_title": "Puthiyathalaimurai live News",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/puthiyathalai.png",
+"radio_url": "http://vidcdn.vidgyor.com/ptm-origin/liveabr/playlist.m3u8",
+"radio_type": "url",
+"type": "radio"
+},
+{
+"radio_id": 5067,
+"radio_title": "News 7 live news",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/news7.png",
+"radio_url": "http://149.56.195.94:8267/;",
+"radio_type": "url",
+"type": "radio"
+}
+]
