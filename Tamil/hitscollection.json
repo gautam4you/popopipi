@@ -446,5 +446,37 @@
 "radio_url": "http://apipermission.southradios.net/play/vadivelucomedyradio",
 "radio_type": "hd",
 "type": "radio"
+},
+  {
+"radio_id": 6325,
+"radio_title": "Tamil Old Movies Comedy",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/2020/08/Tamil-Old-Movies-Comedy.png",
+"radio_url": "http://stream.zenolive.com/ufnx361m1wzuv.aac",
+"radio_type": "hd",
+"type": "radio"
+},
+{
+"radio_id": 6320,
+"radio_title": "Tamil Comedy Express",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/2020/08/Tamil-Comedy-Express.png",
+"radio_url": "http://158.69.4.171:8471/stream",
+"radio_type": "hd",
+"type": "radio"
+},
+{
+"radio_id": 6328,
+"radio_title": "S Fm Tamil Comedy",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/2020/08/S-FM-TAMIL-COMEDY.png",
+"radio_url": "http://stream.zenolive.com/tmgktm50dzzuv.aac",
+"radio_type": "hd",
+"type": "radio"
+},
+{
+"radio_id": 5583,
+"radio_title": "Tamil Comedy Tamil Kuyil",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/2019/12/tamilcomedy.png",
+"radio_url": "http://live.tamilkuyilradio.com:8035/tamilcomedyradio",
+"radio_type": "hd",
+"type": "radio"
 }
 ]
