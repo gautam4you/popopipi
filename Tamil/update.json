@@ -1,0 +1,14 @@
+{
+	"active": true,
+        "versionCode":1,
+	"ytKey1": "AIzaSyCFGAhJY77Ql2oYH6QL3mkNujegPt7if78",
+        "ytKey2": "AIzaSyCFGAhJY77Ql2oYH6QL3mkNujegPt7if78",
+        "ytKey3": "AIzaSyCFGAhJY77Ql2oYH6QL3mkNujegPt7if78",
+	"CategoriesList": [{
+			"name": "Tamil Radio",
+			"url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2dhdXRhbTR5b3UvcG9wb3BpcGkvbWFzdGVyL1RhbWlsL3RhbWlsX2xpdmUuanNvbg==",
+			"id": "1"
+			
+		}
+	]
+}
