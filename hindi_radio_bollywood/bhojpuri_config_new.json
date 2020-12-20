@@ -20,7 +20,7 @@
 		{
 			"videosListId": "bhojpuri_hit_songs.json",
 			"type": "YP",
-			 "isLive": false,
+			 "isLive": true,
 			"extraLink": "",
 			"title": "Bhojpuri Hit Songs",
 			"moreButton": true
@@ -37,7 +37,7 @@
 			"videosListId": "bhojpuri_hot.json",
 			"type": "YP",
 			"extraLink": "",
-				    "isLive": false,
+				    "isLive": true,
 			"title": "Bhojpuri Hot Songs",
 			"moreButton": true
 		},
@@ -45,7 +45,7 @@
 			"videosListId": "bhojpuri_songs1.json",
 			"type": "YP",
 			"extraLink": "",
-				    "isLive": false,
+				    "isLive": true,
 			"title": "Bhojpuri Masti Songs",
 			"moreButton": true
 		},
@@ -53,7 +53,7 @@
 			"videosListId": "bhojpuri_movie.json",
 			"type": "YP",
 			"extraLink": "",
-				 "isLive": false,
+				 "isLive": true,
 			"title": "Bhpjpuri Movies",
 			"moreButton": true
 		},
@@ -61,7 +61,7 @@
 			"videosListId": "sponcered.json",
 			"type": "SP",
 			"extraLink": "",
-				     "isLive": false,
+				     "isLive": true,
 			"title": "Ads. Suggested for you",
 			"moreButton": false
 		},
@@ -69,7 +69,7 @@
 			"videosListId": "bhojpuri_doubed.json",
 			"type": "YP",
 			"extraLink": "",
-				 "isLive": false,
+				 "isLive": true,
 			"title": "Bhojpuri Dubbed Movies",
 			"moreButton": true
 		},
@@ -77,7 +77,7 @@
 			"videosListId": "bhojpuri_horror.json",
 			"type": "YP",
 			"extraLink": "",
-				 "isLive": false,
+				 "isLive": true,
 			"title": "Horror movies",
 			"moreButton": true
 		},
@@ -87,7 +87,7 @@
 			"videosListId": "sponcered.json",
 			"type": "ADS-REC-BANNER",
 			"extraLink": "",
-                        "isLive": false,
+                        "isLive": true,
 			"title": "Ads. Suggested for you",
 			"moreButton": false
 		}
@@ -98,7 +98,7 @@
 			"imgUrl": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/notification_latest_radio.png",
 			"type": "APP-AD",
 			"extraLink": "https://play.google.com/store/apps/details?id=com.app.hindiradionews",
-                        "isLive": false,
+                        "isLive": true,
 			"title": "",
 			"moreButton": true
 		},
@@ -106,7 +106,7 @@
 			"videosListId": "sponcered.json",
 			"type": "ADS-BANNER",
 			"extraLink": "",
-                        "isLive": false,
+                        "isLive": true,
 			"title": "Ads. Suggested for you",
 			"moreButton": true
 		},
