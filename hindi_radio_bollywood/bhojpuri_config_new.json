@@ -98,7 +98,7 @@
 			"imgUrl": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/notification_latest_radio.png",
 			"type": "APP-AD",
 			"extraLink": "https://play.google.com/store/apps/details?id=com.app.hindiradionews",
-                        "isLive": true,
+                        "isLive": false,
 			"title": "",
 			"moreButton": true
 		},
