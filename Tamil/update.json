@@ -46,6 +46,12 @@
 			"url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2dhdXRhbTR5b3UvcG9wb3BpcGkvbWFzdGVyL1RhbWlsL3JlbGlnaW9uX3JhZGlvLmpzb24=",
 			"id": "6"
 			
+		},
+			   {
+			"name": "Bollywood Radio",
+			"url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2dhdXRhbTR5b3UvcG9wb3BpcGkvbWFzdGVyL3JhZGlvX3N0YXRpb25zX2FydGlzdC5qc29u",
+			"id": "7"
+			
 		}
 	]
 }
