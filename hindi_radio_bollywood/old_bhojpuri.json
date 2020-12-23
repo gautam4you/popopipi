@@ -1,0 +1,1021 @@
+{
+"kind": "youtube#playlistItemListResponse",
+"etag": "7ys9eUl8GhYFM6CG5bom4Y8MtEQ",
+"items": [
+{
+"kind": "youtube#playlistItem",
+"etag": "Cvx0W0msqBaVeVwogoyskLW9xf8",
+"id": "UExMWjFJX3VWSGtjTHNERG1VcGV2cnJjZnhNQUE1MmxpVi4yODlGNEE0NkRGMEEzMEQy",
+"snippet": {
+"publishedAt": "2018-03-26T05:24:12Z",
+"channelId": "UC-QCNY6LjJuYEOZBv3dQ0FQ",
+"title": "Kashi Hile Patna Hile, Manna Dey, Dangal - Bhojpuri Romantic Song",
+"description": "Subscribe to Ultra Regional - http://bit.ly/UltraRegional\n\nRomantic song from superhit bhojpuri movie Dangal starring Sujit Kumar, Prema Narayana, Ramsinha, Iftekhar, Urmila Bhatt, Hari Shukla, Shubha Khote\nMusic D: Nadeem - Shravan\nProducer: Bachubhai Shah\nDirector: Rati Kumar",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/6qYTMU8jHS4/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/6qYTMU8jHS4/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/6qYTMU8jHS4/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/6qYTMU8jHS4/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/6qYTMU8jHS4/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "rajesh rawani",
+"playlistId": "PLLZ1I_uVHkcLsDDmUpevrrcfxMAA52liV",
+"position": 0,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "6qYTMU8jHS4"
+}
+},
+"contentDetails": {
+"videoId": "6qYTMU8jHS4",
+"videoPublishedAt": "2014-03-08T10:58:36Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "djJza_9s8Z3veVLyKIL4uCtnK3M",
+"id": "UExMWjFJX3VWSGtjTHNERG1VcGV2cnJjZnhNQUE1MmxpVi4wMTcyMDhGQUE4NTIzM0Y5",
+"snippet": {
+"publishedAt": "2018-03-26T05:25:33Z",
+"channelId": "UC-QCNY6LjJuYEOZBv3dQ0FQ",
+"title": "Kaun Disa Mein Leke Chala Re Batohiya - Nadiya Ke Paar - Hemlata, Jaspal Singh - Ravindra Jain Songs",
+"description": "Song: Kaun Disa Mein Leke Chala Re Batohiya\nMovie: Nadiya Ke Paar (1982)\nSingers: Hemlata, Jaspal Singh\nMusic: Ravindra Jain\nLyrics: Ravindra Jain\nCast: Sachin, Sadhana Singh\nDirector: Govind Moonis\n\nSubscribe to Bollywood Classics http://goo.gl/EWK8o\n\nSubscribe to Bollywood Classics for more Superhit Songs : http://bit.ly/SubscribeToBollywoodClassics",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/D61BvxAOxm0/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/D61BvxAOxm0/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/D61BvxAOxm0/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/D61BvxAOxm0/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/D61BvxAOxm0/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "rajesh rawani",
+"playlistId": "PLLZ1I_uVHkcLsDDmUpevrrcfxMAA52liV",
+"position": 1,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "D61BvxAOxm0"
+}
+},
+"contentDetails": {
+"videoId": "D61BvxAOxm0",
+"videoPublishedAt": "2013-09-19T14:11:21Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "coXnuctK8etuMpHWFzyTr_3xSaM",
+"id": "UExMWjFJX3VWSGtjTHNERG1VcGV2cnJjZnhNQUE1MmxpVi41MjE1MkI0OTQ2QzJGNzNG",
+"snippet": {
+"publishedAt": "2018-03-26T05:25:44Z",
+"channelId": "UC-QCNY6LjJuYEOZBv3dQ0FQ",
+"title": "Dhan Dhan Bhag Lalanwa",
+"description": "\"Dhan Dhan Bhag Lalanwa\"  is a bhojpuri song from the movie \"Sajanwa Bairi Bhaile Hamar\".\n\n\nMovie/Album: Sajanwa Bairi Bhaile Hamar\nFeaturing: Deepika Chikhalia And Manoj Verma\nSingers: Alka Yagnik And Udit Narayan\nMusic: Chitrgupt\nLyrics: Sameer\nCourtesy: Venus Music, Shree International\nYear: 1987\n\n\nCopyright infringement not intended.",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/ytpx5rAij7s/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/ytpx5rAij7s/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/ytpx5rAij7s/hqdefault.jpg",
+"width": 480,
+"height": 360
+}
+},
+"channelTitle": "rajesh rawani",
+"playlistId": "PLLZ1I_uVHkcLsDDmUpevrrcfxMAA52liV",
+"position": 2,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "ytpx5rAij7s"
+}
+},
+"contentDetails": {
+"videoId": "ytpx5rAij7s",
+"videoPublishedAt": "2012-10-31T12:18:08Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "qLLOpekKZFcdL4hmB7p_Km7qHuE",
+"id": "UExMWjFJX3VWSGtjTHNERG1VcGV2cnJjZnhNQUE1MmxpVi4wOTA3OTZBNzVEMTUzOTMy",
+"snippet": {
+"publishedAt": "2018-03-26T05:27:26Z",
+"channelId": "UC-QCNY6LjJuYEOZBv3dQ0FQ",
+"title": "gorki patarki re",
+"description": "balam pardesia",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/qiE3Q_UHxB8/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/qiE3Q_UHxB8/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/qiE3Q_UHxB8/hqdefault.jpg",
+"width": 480,
+"height": 360
+}
+},
+"channelTitle": "rajesh rawani",
+"playlistId": "PLLZ1I_uVHkcLsDDmUpevrrcfxMAA52liV",
+"position": 3,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "qiE3Q_UHxB8"
+}
+},
+"contentDetails": {
+"videoId": "qiE3Q_UHxB8",
+"videoPublishedAt": "2008-11-09T23:56:31Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "9CPIuwkuXioVqLVVM_2PZvkEKv8",
+"id": "UExMWjFJX3VWSGtjTHNERG1VcGV2cnJjZnhNQUE1MmxpVi4xMkVGQjNCMUM1N0RFNEUx",
+"snippet": {
+"publishedAt": "2018-03-26T05:28:58Z",
+"channelId": "UC-QCNY6LjJuYEOZBv3dQ0FQ",
+"title": "Hame Chod Pardes - Romantic Song - Piya Rakheeha Senurwa Ke Laaj - Kunal, Meera Madhuri",
+"description": "Hame Chod Pardes - Romantic Song - Piya Rakheeha Senurwa Ke Laaj - Kunal, Meera Madhuri. Check out for this bubbly and romantic song from the movie 'Piya Rakheeha Senurwa Ke Laaj'. Starring : Kunal, Meera Madhuri, Bandini Mishra, Jayshree T. Music : Usha Khanna. Director : K Vinod. \n\nClick http://www.youtube.com/subscription_center?add_user=rajshri to subscribe. \n\nClick http://www.youtube.com/playlist?list=PL75E87F8CE8331CEA&feature=view_all to watch more of Romantic Songs. \n\nRegular Facebook Updates http://www.facebook.com/RajshriDotCom. \n\nTwitter Updates https://twitter.com/#!/RajshriDotCom. Subscribe to Rajshri - https://bit.ly/2NFOiwm\n\nSubscribe To Our Channel : http://bit.ly/SubscribeToRajshri\n\nFollow us on G+ http://plus.google.com/+rajshri\n\nLike us on Facebook - https://www.facebook.com/rajshri\n\nFollow us on Twitter - https://twitter.com/Rajshri\n\nFollow us on Pinterest - http://www.pinterest.com/rajshrivideos\n\nVisit Rajshri's Website - http://www.rajshri.com",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/JCA8iIVvxX0/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/JCA8iIVvxX0/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/JCA8iIVvxX0/hqdefault.jpg",
+"width": 480,
+"height": 360
+}
+},
+"channelTitle": "rajesh rawani",
+"playlistId": "PLLZ1I_uVHkcLsDDmUpevrrcfxMAA52liV",
+"position": 4,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "JCA8iIVvxX0"
+}
+},
+"contentDetails": {
+"videoId": "JCA8iIVvxX0",
+"videoPublishedAt": "2012-04-09T08:22:52Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "2i6Gp4I4EDD75qqPZetSmFL4xas",
+"id": "UExMWjFJX3VWSGtjTHNERG1VcGV2cnJjZnhNQUE1MmxpVi41MzJCQjBCNDIyRkJDN0VD",
+"snippet": {
+"publishedAt": "2018-03-26T05:29:37Z",
+"channelId": "UC-QCNY6LjJuYEOZBv3dQ0FQ",
+"title": "Kahanva Gail Ledkaeeyan Ho [Full Song] Bhaiya Dooj",
+"description": "Song : Kahanva Gail Ledkaeeyan Ho\nAlbum : Bhaiya Dooj\nArtist : Sujit Kumar, Padma Khanna, Rakesh Pandey, Sri Gopal, Gauri Khurana\nSinger : Alka Yagnik\nMusic Director : Chitra Gupta\nLyricist : Laxman Shahabadi\nMusic Label : T-Series",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/TS0zAg1Ii_c/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/TS0zAg1Ii_c/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/TS0zAg1Ii_c/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/TS0zAg1Ii_c/sddefault.jpg",
+"width": 640,
+"height": 480
+}
+},
+"channelTitle": "rajesh rawani",
+"playlistId": "PLLZ1I_uVHkcLsDDmUpevrrcfxMAA52liV",
+"position": 5,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "TS0zAg1Ii_c"
+}
+},
+"contentDetails": {
+"videoId": "TS0zAg1Ii_c",
+"videoPublishedAt": "2011-05-24T19:43:49Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "Io7YNwrAx-wbtAsFjI8LviHpWRM",
+"id": "UExMWjFJX3VWSGtjTHNERG1VcGV2cnJjZnhNQUE1MmxpVi5DQUNERDQ2NkIzRUQxNTY1",
+"snippet": {
+"publishedAt": "2018-03-26T05:30:40Z",
+"channelId": "UC-QCNY6LjJuYEOZBv3dQ0FQ",
+"title": "Yaad Rakhiha Hamri Piritiya [Full Song] Bhaiya Dooj",
+"description": "FOR LATEST UPDATES:\n----------------------------------------\nSUBSCRIBE US Here: http://bit.ly/SJIj4g\n\n\"If you like the Video, Don't forget to Share and leave your comments\"\n\nVisit Our Channel For More Videos: http://www.youtube.com/Tseriesregional",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/kt6KIFzGiSY/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/kt6KIFzGiSY/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/kt6KIFzGiSY/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/kt6KIFzGiSY/sddefault.jpg",
+"width": 640,
+"height": 480
+}
+},
+"channelTitle": "rajesh rawani",
+"playlistId": "PLLZ1I_uVHkcLsDDmUpevrrcfxMAA52liV",
+"position": 6,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "kt6KIFzGiSY"
+}
+},
+"contentDetails": {
+"videoId": "kt6KIFzGiSY",
+"videoPublishedAt": "2011-05-24T19:43:37Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "DWHDI7Yyv2ysWkkhJs3OnK-fLw4",
+"id": "UExMWjFJX3VWSGtjTHNERG1VcGV2cnJjZnhNQUE1MmxpVi45NDk1REZENzhEMzU5MDQz",
+"snippet": {
+"publishedAt": "2018-03-26T05:32:12Z",
+"channelId": "UC-QCNY6LjJuYEOZBv3dQ0FQ",
+"title": "Kaisi Kheli Jaye - Bhojpuri Song - Piya Rakheeha Senurwa Ke Laaj - Kunal, Meera Madhuri",
+"description": "Kaisi Kheli Jaye - Bhojpuri Song - Piya Rakheeha Senurwa Ke Laaj - Kunal, Meera Madhuri. Check out for this bubbly song from the movie 'Piya Rakheeha Senurwa Ke Laaj' and enjoy. Starring : Kunal, Meera Madhuri, Bandini Mishra, Jayshree T. Music : Usha Khanna. Director : K Vinod. \n\nClick http://www.youtube.com/subscription_center?add_user=rajshri to subscribe. \n\nClick http://www.youtube.com/playlist?list=PL75E87F8CE8331CEA&feature=view_all to watch more of Bhojpuri Songs. \n\nRegular Facebook Updates http://www.facebook.com/RajshriDotCom. \n\nTwitter Updates https://twitter.com/#!/RajshriDotCom. Subscribe to Rajshri - https://bit.ly/2NFOiwm\n\nSubscribe To Our Channel : http://bit.ly/SubscribeToRajshri\n\nFollow us on G+ http://plus.google.com/+rajshri\n\nLike us on Facebook - https://www.facebook.com/rajshri\n\nFollow us on Twitter - https://twitter.com/Rajshri\n\nFollow us on Pinterest - http://www.pinterest.com/rajshrivideos\n\nVisit Rajshri's Website - http://www.rajshri.com",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/vLjPENn4Ooo/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/vLjPENn4Ooo/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/vLjPENn4Ooo/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/vLjPENn4Ooo/sddefault.jpg",
+"width": 640,
+"height": 480
+}
+},
+"channelTitle": "rajesh rawani",
+"playlistId": "PLLZ1I_uVHkcLsDDmUpevrrcfxMAA52liV",
+"position": 7,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "vLjPENn4Ooo"
+}
+},
+"contentDetails": {
+"videoId": "vLjPENn4Ooo",
+"videoPublishedAt": "2012-04-09T08:45:37Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "WdpYiLDrFUY8klti3gQELUnq_eg",
+"id": "UExMWjFJX3VWSGtjTHNERG1VcGV2cnJjZnhNQUE1MmxpVi5GNjNDRDREMDQxOThCMDQ2",
+"snippet": {
+"publishedAt": "2018-03-26T05:33:22Z",
+"channelId": "UC-QCNY6LjJuYEOZBv3dQ0FQ",
+"title": "Amuaa Mahua Va Ke Jhume Daaliya [Full Song] Kekara Se Kahaan Mile Jalaa",
+"description": "Song: Amuaa Mahua Va Ke Jhume Daaliya\nAlbum: Kekara Se Kahaan Mile Jalaa\nSingers: Sharda Sinha,Ved Sethi,Mahendra Misir\nVideo Director: Deep Shresth\n\nFOR LATEST UPDATES:\n----------------------------------------\nSUBSCRIBE US Here: http://bit.ly/SJIj4g\n\n\"If you like the Video, Don't forget to Share and leave your comments\"\n\nVisit Our Channel For More Videos: http://www.youtube.com/Tseriesregional",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/tI0Bv1co0Zk/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/tI0Bv1co0Zk/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/tI0Bv1co0Zk/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/tI0Bv1co0Zk/sddefault.jpg",
+"width": 640,
+"height": 480
+}
+},
+"channelTitle": "rajesh rawani",
+"playlistId": "PLLZ1I_uVHkcLsDDmUpevrrcfxMAA52liV",
+"position": 8,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "tI0Bv1co0Zk"
+}
+},
+"contentDetails": {
+"videoId": "tI0Bv1co0Zk",
+"videoPublishedAt": "2011-05-10T01:23:52Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "AV4gVD6pRmPT1AMhIgnpphRuAi4",
+"id": "UExMWjFJX3VWSGtjTHNERG1VcGV2cnJjZnhNQUE1MmxpVi40NzZCMERDMjVEN0RFRThB",
+"snippet": {
+"publishedAt": "2018-03-26T05:33:29Z",
+"channelId": "UC-QCNY6LjJuYEOZBv3dQ0FQ",
+"title": "Jug Jug Jiya Su Lalanwa Ke -  Bhojpuri Sohar Song",
+"description": "A traditional Bhojpuri song sung by Hindu women to welcome the newborn. Mother of the new-born is dressed in her best and sits with the baby on her lap. Members and relatives of the family shower their blessings on mother and her child. Gifts and cash are presented to the mother as a token of love. Everybody in the family shake their leg around the baby's cradle. Traditional songs are sung and other rituals are performed. This song was adapated in Bhojpuri hit film \"Piya Ke Gaon\". Music is by legendary Chitragupt. Actress - Meera Madhuri. \n\nEnjoy !!\n\nShop Indian women's ethnic wear at http://www.indiwear.com",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/we37FM9eRVs/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/we37FM9eRVs/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/we37FM9eRVs/hqdefault.jpg",
+"width": 480,
+"height": 360
+}
+},
+"channelTitle": "rajesh rawani",
+"playlistId": "PLLZ1I_uVHkcLsDDmUpevrrcfxMAA52liV",
+"position": 9,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "we37FM9eRVs"
+}
+},
+"contentDetails": {
+"videoId": "we37FM9eRVs",
+"videoPublishedAt": "2016-11-17T17:01:47Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "w4YP5dY99YwqLBhiF7TFF3bq_Z8",
+"id": "UExMWjFJX3VWSGtjTHNERG1VcGV2cnJjZnhNQUE1MmxpVi5EMEEwRUY5M0RDRTU3NDJC",
+"snippet": {
+"publishedAt": "2018-03-26T05:33:39Z",
+"channelId": "UC-QCNY6LjJuYEOZBv3dQ0FQ",
+"title": "Gaon Mein Apni Preet Ke - Hemlata & Jaspal Singh - Piya Milan (1985)",
+"description": "﻿\"Gaon Main Apni Preet Ke Bairi Hai Sab Log Main Diwani Kya Karoon Mujhe Laga Prem Ka Rog...Are Mein To Ban Ke Gujariya Aayi Hun Mele Main\"\r\nMovie : Piya Milan (1985)\r\nSingers : Hemlata & Jaspal Singh\r\nLip-Synced On Screen By : Sadhana Singh & Sachin\r\nMusic & Lyrics By : Ravindra Jain\r\nProducer/Director : K. P. Singh\r\n﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿I am a great fan of singer Hemlata. She is simply the best in her every songs. She gave us some unforgettable pearls in her exquisite voice. She enchanted millions, and continues to do so, with her magnificent velvety voice rich in emotion and expression. I am listening her songs since my childhood, and continues to do so.\r\nNow this was only the start of a\r\nlifelong musical journey with Hemlata's songs. Many music lovers still remain faraway from a\r\ngreat tuneful voice.\r\nSo here I uploaded the discovered/undiscovered songs from the vocal cords of Hemlata.\r\nIn her career she mostly sang for music director Ravindra Jain and Usha Khanna. She  worked as a leading playback singer for Rajshri Production's movies Geet Gata Chal, Tapasya, Chitchor, Paheli, Ankhiyon Ke Jharokhon Se, Naiyya, Sunayana, Gopal Krishna, Radha Aur Seeta, Maan Abhiman, Nadiya Ke Paar, Babul.\r\nNO COPYRIGHT INFRINGEMENT INTENDED.\r\n© The Audio/Visual stuff shown on this channel aren't mine own, I don't mean to violate the law and my agreement with youtube, but I did that only for entertaining, listening & watching purposes and used under the fair use policy & for promoting Hindi Film Music. If you like any content please buy from original sources.",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/PJMJ6V0HbJY/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/PJMJ6V0HbJY/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/PJMJ6V0HbJY/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/PJMJ6V0HbJY/sddefault.jpg",
+"width": 640,
+"height": 480
+}
+},
+"channelTitle": "rajesh rawani",
+"playlistId": "PLLZ1I_uVHkcLsDDmUpevrrcfxMAA52liV",
+"position": 10,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "PJMJ6V0HbJY"
+}
+},
+"contentDetails": {
+"videoId": "PJMJ6V0HbJY",
+"videoPublishedAt": "2012-09-10T15:39:22Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "gjvbLNlOpNBtvihmtz6FEwSunTA",
+"id": "UExMWjFJX3VWSGtjTHNERG1VcGV2cnJjZnhNQUE1MmxpVi45ODRDNTg0QjA4NkFBNkQy",
+"snippet": {
+"publishedAt": "2018-03-26T05:33:48Z",
+"channelId": "UC-QCNY6LjJuYEOZBv3dQ0FQ",
+"title": "Laal laal atowa se barse laliya",
+"description": "Movie----Laagi Nahin Chhute Raam (Bhojpuri)\r\nSinger---Lata Mangeshkar, Talat Mehmood\r\nLyrics---Majrooh Sultanpuri\r\nM/D-----Chitragupta",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/rJ4zAQPwXCg/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/rJ4zAQPwXCg/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/rJ4zAQPwXCg/hqdefault.jpg",
+"width": 480,
+"height": 360
+}
+},
+"channelTitle": "rajesh rawani",
+"playlistId": "PLLZ1I_uVHkcLsDDmUpevrrcfxMAA52liV",
+"position": 11,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "rJ4zAQPwXCg"
+}
+},
+"contentDetails": {
+"videoId": "rJ4zAQPwXCg",
+"videoPublishedAt": "2012-01-02T18:47:32Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "TOBKe0GfY2SqmEwvTPtb8lKloCg",
+"id": "UExMWjFJX3VWSGtjTHNERG1VcGV2cnJjZnhNQUE1MmxpVi4zMDg5MkQ5MEVDMEM1NTg2",
+"snippet": {
+"publishedAt": "2018-03-26T05:34:04Z",
+"channelId": "UC-QCNY6LjJuYEOZBv3dQ0FQ",
+"title": "JHUMAKA MORA GADHI DE RE SONARA.MPG",
+"description": "Sandeep yadav fev Bhojpuri Song of Bairi kagana",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/7nKgPwZd-EU/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/7nKgPwZd-EU/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/7nKgPwZd-EU/hqdefault.jpg",
+"width": 480,
+"height": 360
+}
+},
+"channelTitle": "rajesh rawani",
+"playlistId": "PLLZ1I_uVHkcLsDDmUpevrrcfxMAA52liV",
+"position": 12,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "7nKgPwZd-EU"
+}
+},
+"contentDetails": {
+"videoId": "7nKgPwZd-EU",
+"videoPublishedAt": "2010-10-07T16:15:15Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "9onAyMG-jJEGhPGGuhuPOEjcsCg",
+"id": "UExMWjFJX3VWSGtjTHNERG1VcGV2cnJjZnhNQUE1MmxpVi41Mzk2QTAxMTkzNDk4MDhF",
+"snippet": {
+"publishedAt": "2018-03-26T05:34:15Z",
+"channelId": "UC-QCNY6LjJuYEOZBv3dQ0FQ",
+"title": "Yahin Kahin Jiara Hamar (Khudgarz)",
+"description": "Yahin Kahin Jiara Hamar  Song from the Bollywood movie Khudgarz,Directed by Rakesh Roshan,Produced by Rakesh Roshan,Starring: Jeetendra,Shatrughan Sinha. Amrita Singh,Bhanu Priya,Sangeeta Naik,Kiran Kumar,Saeed Jaffri\n\nSinger : Nitin Mukesh , Sadhna Sargam\nLyrics  : Indivar\nMusic  : Rajesh Roshan\n\nEnjoy “Yahin Kahin Jiara Hamar” now on Wynk\nhttp://wynk.in/music/song/Sadhna_Sargam_khudgarz/yahin_kahin_jiara_hamar/srch_venus_657723.html\n\nVodafone Subscribers for Caller Tune Direct Dial 53716888.\n\nAirtel Subscribers to Set as Hello Tune Direct Dial 5432111064514 (Toll Free).\n\nIdea Subscribers to Set as  Dialer Tone Direct Dial 56789657723 (Toll Free).\n\nAvailable For Download on iTunes - \nhttp://geni.us/HYM\n\nListen To It On Gaana... :-\nhttp://gaana.com/album/khudgarz\n\nFor More Updates, Subscribe to;\nFor Hit & Latest Music:\nhttps://www.youtube.com/user/venus\n \nFor Blockbuster Movies\nhttps://www.youtube.com/user/VenusMovies\n \nFor Movies & Music in Regional Languages: \nhttps://www.youtube.com/user/venusregional\n \nFor Heavenly & Peaceful Devotional Music:\n https://www.youtube.com/user/venusdevotional\n \nAlso You Can:\n'LIKE' us on Facebook: \nhttps://www.facebook.com/venusworldwide\n \n'FOLLOW' us on Twitter: \nhttps://twitter.com/venusmovies\n \n'CIRCLE' us on Google+:\nhttps://plus.google.com/+VenusMovies",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/ziXz-RjI2o4/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/ziXz-RjI2o4/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/ziXz-RjI2o4/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/ziXz-RjI2o4/sddefault.jpg",
+"width": 640,
+"height": 480
+}
+},
+"channelTitle": "rajesh rawani",
+"playlistId": "PLLZ1I_uVHkcLsDDmUpevrrcfxMAA52liV",
+"position": 13,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "ziXz-RjI2o4"
+}
+},
+"contentDetails": {
+"videoId": "ziXz-RjI2o4",
+"videoPublishedAt": "2012-12-08T11:35:28Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "lsOgmlb1SmTRFQSlKtC-cX107eg",
+"id": "UExMWjFJX3VWSGtjTHNERG1VcGV2cnJjZnhNQUE1MmxpVi5EQUE1NTFDRjcwMDg0NEMz",
+"snippet": {
+"publishedAt": "2018-03-26T05:34:23Z",
+"channelId": "UC-QCNY6LjJuYEOZBv3dQ0FQ",
+"title": "Kehlo Na Jaye - Romantic Song - Patohu Bitiya - Sujit Kumar, Bandini Mishra",
+"description": "Kehlo Na Jaye - Romantic Song - Patohu Bitiya - Sujit Kumar, Bandini Mishra. Check out for this bhojpuri romantic number from the movie 'Patohu Bitiya'. Starring : Sujit Kumar, Bandini Mishra, Ulhas, Seema Vaz, Rachana. Music : Jitin Shyam. Producer : Shyam Jethwani. Director : Sudhir Mishra. \n\nClick http://www.youtube.com/subscription_center?add_user=rajshri to subscribe. \n\nClick http://www.youtube.com/playlist?list=PL75E87F8CE8331CEA&feature=view_all to watch more of Romantic Songs. \n\nRegular Facebook Updates http://www.facebook.com/RajshriDotCom. \n\nTwitter Updates https://twitter.com/#!/RajshriDotCom. Subscribe to Rajshri - https://bit.ly/2NFOiwm\n\nSubscribe To Our Channel : http://bit.ly/SubscribeToRajshri\n\nFollow us on G+ http://plus.google.com/+rajshri\n\nLike us on Facebook - https://www.facebook.com/rajshri\n\nFollow us on Twitter - https://twitter.com/Rajshri\n\nFollow us on Pinterest - http://www.pinterest.com/rajshrivideos\n\nVisit Rajshri's Website - http://www.rajshri.com",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/pCG31ttA7rc/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/pCG31ttA7rc/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/pCG31ttA7rc/hqdefault.jpg",
+"width": 480,
+"height": 360
+}
+},
+"channelTitle": "rajesh rawani",
+"playlistId": "PLLZ1I_uVHkcLsDDmUpevrrcfxMAA52liV",
+"position": 14,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "pCG31ttA7rc"
+}
+},
+"contentDetails": {
+"videoId": "pCG31ttA7rc",
+"videoPublishedAt": "2012-04-09T07:05:43Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "weziH7gb_ql8RZpRwHUllpbUtUc",
+"id": "UExMWjFJX3VWSGtjTHNERG1VcGV2cnJjZnhNQUE1MmxpVi41QTY1Q0UxMTVCODczNThE",
+"snippet": {
+"publishedAt": "2018-03-26T05:34:32Z",
+"channelId": "UC-QCNY6LjJuYEOZBv3dQ0FQ",
+"title": "Hey Darogaji Hamar - Bhojpuri Song - Patohu Bitiya - Sujit Kumar, Bandini Mishra",
+"description": "Hey Darogaji Hamar - Bhojpuri Song - Patohu Bitiya - Sujit Kumar, Bandini Mishra. Check out for this bhojpuri item number from the movie 'Patohu Bitiya'. Starring : Sujit Kumar, Bandini Mishra, Ulhas, Seema Vaz, Rachana. Music : Jitin Shyam. Producer : Shyam Jethwani. Director : Sudhir Mishra. \n\nClick http://www.youtube.com/subscription_center?add_user=rajshri to subscribe. \n\nClick http://www.youtube.com/playlist?list=PL75E87F8CE8331CEA&feature=view_all to watch more of Bhojpuri Songs. \n\nRegular Facebook Updates http://www.facebook.com/RajshriDotCom. \n\nTwitter Updates https://twitter.com/#!/RajshriDotCom. Subscribe to Rajshri - https://bit.ly/2NFOiwm\n\nSubscribe To Our Channel : http://bit.ly/SubscribeToRajshri\n\nFollow us on G+ http://plus.google.com/+rajshri\n\nLike us on Facebook - https://www.facebook.com/rajshri\n\nFollow us on Twitter - https://twitter.com/Rajshri\n\nFollow us on Pinterest - http://www.pinterest.com/rajshrivideos\n\nVisit Rajshri's Website - http://www.rajshri.com",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/D-yGGDwQOvc/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/D-yGGDwQOvc/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/D-yGGDwQOvc/hqdefault.jpg",
+"width": 480,
+"height": 360
+}
+},
+"channelTitle": "rajesh rawani",
+"playlistId": "PLLZ1I_uVHkcLsDDmUpevrrcfxMAA52liV",
+"position": 15,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "D-yGGDwQOvc"
+}
+},
+"contentDetails": {
+"videoId": "D-yGGDwQOvc",
+"videoPublishedAt": "2012-04-09T06:36:20Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "j8-gUlw-ypIqac-WjZkpGe9jEAY",
+"id": "UExMWjFJX3VWSGtjTHNERG1VcGV2cnJjZnhNQUE1MmxpVi4yMUQyQTQzMjRDNzMyQTMy",
+"snippet": {
+"publishedAt": "2018-03-26T05:35:05Z",
+"channelId": "UC-QCNY6LjJuYEOZBv3dQ0FQ",
+"title": "Hatiya Hatiya Zor Kaile - Fun Song - Piya Rakheeha Senurwa Ke Laaj - Kunal, Meera Madhuri",
+"description": "Hatiya Hatiya Zor Kaile - Fun Song - Piya Rakheeha Senurwa Ke Laaj - Kunal, Meera Madhuri. Check out for this fun filled comedy song from the movie 'Piya Rakheeha Senurwa Ke Laaj'. Starring : Kunal, Meera Madhuri, Bandini Mishra, Jayshree T. Music : Usha Khanna. Director : K Vinod. \n\nClick http://www.youtube.com/subscription_center?add_user=rajshri to subscribe. \n\nClick http://www.youtube.com/playlist?list=PL75E87F8CE8331CEA&feature=view_all to watch more of Fun Songs. \n\nRegular Facebook Updates http://www.facebook.com/RajshriDotCom. \n\nTwitter Updates https://twitter.com/#!/RajshriDotCom. Subscribe to Rajshri - https://bit.ly/2NFOiwm\n\nSubscribe To Our Channel : http://bit.ly/SubscribeToRajshri\n\nFollow us on G+ http://plus.google.com/+rajshri\n\nLike us on Facebook - https://www.facebook.com/rajshri\n\nFollow us on Twitter - https://twitter.com/Rajshri\n\nFollow us on Pinterest - http://www.pinterest.com/rajshrivideos\n\nVisit Rajshri's Website - http://www.rajshri.com",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/-cpjEbTHYjw/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/-cpjEbTHYjw/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/-cpjEbTHYjw/hqdefault.jpg",
+"width": 480,
+"height": 360
+}
+},
+"channelTitle": "rajesh rawani",
+"playlistId": "PLLZ1I_uVHkcLsDDmUpevrrcfxMAA52liV",
+"position": 16,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "-cpjEbTHYjw"
+}
+},
+"contentDetails": {
+"videoId": "-cpjEbTHYjw",
+"videoPublishedAt": "2012-04-09T08:20:13Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "0VTWo0zNK6AF3ECaMJFWqbt8g5U",
+"id": "UExMWjFJX3VWSGtjTHNERG1VcGV2cnJjZnhNQUE1MmxpVi45RTgxNDRBMzUwRjQ0MDhC",
+"snippet": {
+"publishedAt": "2018-03-26T05:35:20Z",
+"channelId": "UC-QCNY6LjJuYEOZBv3dQ0FQ",
+"title": "Sasuriya Jaeeha Bhaiya [Full Song] Bhaiya Dooj",
+"description": "Song : Sasuriya Jaeeha Bhaiya\nAlbum : Bhaiya Dooj\nArtist : Sujit Kumar, Padma Khanna, Rakesh Pandey, Sri Gopal, Gauri Khurana\nSinger : Alka Yagnik\nMusic Director : Chitra Gupta\nLyricist : Laxman Shahabadi\nMusic Label : T-Series",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/1x9zCS_mEYM/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/1x9zCS_mEYM/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/1x9zCS_mEYM/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/1x9zCS_mEYM/sddefault.jpg",
+"width": 640,
+"height": 480
+}
+},
+"channelTitle": "rajesh rawani",
+"playlistId": "PLLZ1I_uVHkcLsDDmUpevrrcfxMAA52liV",
+"position": 17,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "1x9zCS_mEYM"
+}
+},
+"contentDetails": {
+"videoId": "1x9zCS_mEYM",
+"videoPublishedAt": "2011-05-24T19:44:50Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "bwqQIs4O5QWjkQ6IWqoS9kLrvZw",
+"id": "UExMWjFJX3VWSGtjTHNERG1VcGV2cnJjZnhNQUE1MmxpVi5ENDU4Q0M4RDExNzM1Mjcy",
+"snippet": {
+"publishedAt": "2018-03-26T05:35:29Z",
+"channelId": "UC-QCNY6LjJuYEOZBv3dQ0FQ",
+"title": "Doliya Utha Ke [Full Song] Bhaiya Dooj",
+"description": "FOR LATEST UPDATES:\n----------------------------------------\nSUBSCRIBE US Here: http://bit.ly/SJIj4g\n\n\"If you like the Video, Don't forget to Share and leave your comments\"\n\nVisit Our Channel For More Videos: http://www.youtube.com/Tseriesregional",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/_LvA8Q7yc88/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/_LvA8Q7yc88/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/_LvA8Q7yc88/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/_LvA8Q7yc88/sddefault.jpg",
+"width": 640,
+"height": 480
+}
+},
+"channelTitle": "rajesh rawani",
+"playlistId": "PLLZ1I_uVHkcLsDDmUpevrrcfxMAA52liV",
+"position": 18,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "_LvA8Q7yc88"
+}
+},
+"contentDetails": {
+"videoId": "_LvA8Q7yc88",
+"videoPublishedAt": "2011-05-24T19:43:07Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "wcCPHanP13nFOHtBUS3i0-tRvOk",
+"id": "UExMWjFJX3VWSGtjTHNERG1VcGV2cnJjZnhNQUE1MmxpVi4yMDhBMkNBNjRDMjQxQTg1",
+"snippet": {
+"publishedAt": "2018-03-26T05:35:42Z",
+"channelId": "UC-QCNY6LjJuYEOZBv3dQ0FQ",
+"title": "Chala Sakhi Mil Ke -  Dulha Ganga Paar Ke - Bhojpuri Gaari Song, Wedding Song",
+"description": "Brought to you by - HamaraHost.com\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\nMarriage in India is a sacrament and is one of the most important, if not the most important, of all Indian socio-cultural institutions. It is a social obligation to the family and the community, with little idea of individual interest ...\n\nBihari weddings are rich in color, tradition, culture and the sweet smell of incense. It consists of many Pujas and religious rituals on a variety of occasions. \n\nThis song is a traditional Bihari wedding song (commonly referred to as Gaali or Gaari song) at the time of Dwar Puja (called 'Duaar Puja'  in local dialect). The Dwar Puja ceremony is performed to welcome the groom as he arrives with his baraat at the bride's door. A welcoming ritual is performed at the entrance (Dwar). The groom and his relatives are welcomed with colorful flower garland and led to the puja mandap. After he is settled, his bride make her entrance with her head covered with sari and eyes down. She is led to the mandap by her female cousins and friends. The women folks sing naughty songs (Gaari) about the groom's family.\n\nIn Bihar where ceremonies marking marriage are very colorful, women's music-making play very important role. In this region where female musical activities are otherwise highly restricted, weddings form the chief ceremonial occasions on which women make music. Bihari women seem to make the most of their few occasions to indulge legitimately in music and dance and to stretch the ground rules of their ascribed musical role by maximizing their opportunities in socially acceptable ways.\n\nThis particular song is a Gaari song - an integral part of a traditional Bihari wedding. Gaari - a taunt in the form of a song - specifically targets the bride groom's father.  The relationship between the bride's mother and the groom's father is one full of lighthearted banter. In keeping with this, the Gaari taunts the samadhi, groom's father- mostly about his looks. The song ridicules the groom's family and praises the bride's.\n\nSong : \nSwagat mein gaari sunayeen... Chala sakhee milke...\nInka ke langte nachayeen... Chala sakhee milke...\n\nFilm : Dulha Ganga Paar Ke (1986)\nSingers : Alka Yagnik\nLyrics & Music : Laxman Shahabadi\nProduced by : Rani Shree\nDirected by : Rajkumar Sharma\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n          Enjoy the song.....  JAI BIHAR !!\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/RkgxlMmp3mk/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/RkgxlMmp3mk/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/RkgxlMmp3mk/hqdefault.jpg",
+"width": 480,
+"height": 360
+}
+},
+"channelTitle": "rajesh rawani",
+"playlistId": "PLLZ1I_uVHkcLsDDmUpevrrcfxMAA52liV",
+"position": 19,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "RkgxlMmp3mk"
+}
+},
+"contentDetails": {
+"videoId": "RkgxlMmp3mk",
+"videoPublishedAt": "2009-03-07T20:28:10Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "i5MSCmadcFRVlLMhb82VRouzy38",
+"id": "UExMWjFJX3VWSGtjTHNERG1VcGV2cnJjZnhNQUE1MmxpVi5GM0Q3M0MzMzY5NTJFNTdE",
+"snippet": {
+"publishedAt": "2018-03-26T05:35:49Z",
+"channelId": "UC-QCNY6LjJuYEOZBv3dQ0FQ",
+"title": "Kehanvan Ke Piyer Mati - Mati Kod [Full Song] Hathi Hathi Shor Kaile",
+"description": "Song: Kehanvan Ke Piyer Mati - Mati Kod\nAlbum: Hathi Hathi Shor Kaile\nSingers: Anuradha Krishna Rastogi,Ranjna Mishra,Priyanka Mishra\n\nFOR LATEST UPDATES:\n----------------------------------------\nSUBSCRIBE US Here: http://bit.ly/SJIj4g\n\n\"If you like the Video, Don't forget to Share and leave your comments\"\n\nVisit Our Channel For More Videos: http://www.youtube.com/Tseriesregional",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/LnSH9BXOpGo/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/LnSH9BXOpGo/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/LnSH9BXOpGo/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/LnSH9BXOpGo/sddefault.jpg",
+"width": 640,
+"height": 480
+}
+},
+"channelTitle": "rajesh rawani",
+"playlistId": "PLLZ1I_uVHkcLsDDmUpevrrcfxMAA52liV",
+"position": 20,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "LnSH9BXOpGo"
+}
+},
+"contentDetails": {
+"videoId": "LnSH9BXOpGo",
+"videoPublishedAt": "2011-05-16T05:06:05Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "qg-NuqEB767dmbMeQ8KUIeOmB6o",
+"id": "UExMWjFJX3VWSGtjTHNERG1VcGV2cnJjZnhNQUE1MmxpVi4zRjM0MkVCRTg0MkYyQTM0",
+"snippet": {
+"publishedAt": "2018-03-26T05:36:12Z",
+"channelId": "UC-QCNY6LjJuYEOZBv3dQ0FQ",
+"title": "Baba Dihale Tikawa........",
+"description": "Nice song by Sharda sinha",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/IV3tOJgGhXU/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/IV3tOJgGhXU/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/IV3tOJgGhXU/hqdefault.jpg",
+"width": 480,
+"height": 360
+}
+},
+"channelTitle": "rajesh rawani",
+"playlistId": "PLLZ1I_uVHkcLsDDmUpevrrcfxMAA52liV",
+"position": 21,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "IV3tOJgGhXU"
+}
+},
+"contentDetails": {
+"videoId": "IV3tOJgGhXU",
+"videoPublishedAt": "2009-08-15T06:00:43Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "3YXeMDGNUNib-dtcqYTLtew2dC4",
+"id": "UExMWjFJX3VWSGtjTHNERG1VcGV2cnJjZnhNQUE1MmxpVi45NzUwQkI1M0UxNThBMkU0",
+"snippet": {
+"publishedAt": "2018-03-26T05:44:56Z",
+"channelId": "UC-QCNY6LjJuYEOZBv3dQ0FQ",
+"title": "Doliya Utha Ke [Full Song] Bhaiya Dooj",
+"description": "FOR LATEST UPDATES:\n----------------------------------------\nSUBSCRIBE US Here: http://bit.ly/SJIj4g\n\n\"If you like the Video, Don't forget to Share and leave your comments\"\n\nVisit Our Channel For More Videos: http://www.youtube.com/Tseriesregional",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/_LvA8Q7yc88/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/_LvA8Q7yc88/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/_LvA8Q7yc88/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/_LvA8Q7yc88/sddefault.jpg",
+"width": 640,
+"height": 480
+}
+},
+"channelTitle": "rajesh rawani",
+"playlistId": "PLLZ1I_uVHkcLsDDmUpevrrcfxMAA52liV",
+"position": 22,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "_LvA8Q7yc88"
+}
+},
+"contentDetails": {
+"videoId": "_LvA8Q7yc88",
+"videoPublishedAt": "2011-05-24T19:43:07Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "2ogi642uFHbdWXUdXTff2y2ep-4",
+"id": "UExMWjFJX3VWSGtjTHNERG1VcGV2cnJjZnhNQUE1MmxpVi5DNzE1RjZEMUZCMjA0RDBB",
+"snippet": {
+"publishedAt": "2018-03-26T05:45:25Z",
+"channelId": "UC-QCNY6LjJuYEOZBv3dQ0FQ",
+"title": "Rama Bhaiya (Sad) [Full Song] Bhaiya Dooj",
+"description": "Song : Rama Bhaiya (Sad)\nMovie : Bhaiya Dooj\nArtist : Sujit Kumar, Padma Khanna, Rakesh Pandey, Sri Gopal, Gauri Khurana\nSinger : Alka Yagnik\nMusic Director : Chitra Gupta\nLyricist : Laxman Shahabadi\nMusic Label : T-Series",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/qfW2rDne7CM/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/qfW2rDne7CM/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/qfW2rDne7CM/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/qfW2rDne7CM/sddefault.jpg",
+"width": 640,
+"height": 480
+}
+},
+"channelTitle": "rajesh rawani",
+"playlistId": "PLLZ1I_uVHkcLsDDmUpevrrcfxMAA52liV",
+"position": 23,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "qfW2rDne7CM"
+}
+},
+"contentDetails": {
+"videoId": "qfW2rDne7CM",
+"videoPublishedAt": "2011-05-24T19:47:47Z"
+}
+}
+],
+"pageInfo": {
+"totalResults": 24,
+"resultsPerPage": 50
+}
+}
