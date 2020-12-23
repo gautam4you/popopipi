@@ -18,11 +18,11 @@
 			"moreButton": true
 		},
 		{
-			"videosListId": "bhojpuri_hit_songs.json",
+			"videosListId": "jai_ganga_maiya.json",
 			"type": "YP",
-			 "isLive": false,
+			 "isLive": true,
 			"extraLink": "",
-			"title": "Bhojpuri Hit Songs",
+			"title": "Jai Ganga Maiya",
 			"moreButton": true
 		},
                {
@@ -61,7 +61,7 @@
 			"videosListId": "sponcered.json",
 			"type": "SP",
 			"extraLink": "",
-				     "isLive": false,
+				     "isLive": true,
 			"title": "Ads. Suggested for you",
 			"moreButton": false
 		},
