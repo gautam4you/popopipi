@@ -5,28 +5,6 @@
 "items": [
 {
 "kind": "youtube#playlistItem",
-"etag": "mQnmrf-F0zJazR6RihAqKZz-d84",
-"id": "UEw5cWttSGFOV1pYWUZ2aVdqd1JIODZDRGNnTGFHdXZrSy41NkI0NEY2RDEwNTU3Q0M2",
-"snippet": {
-"publishedAt": "2020-07-16T18:23:51Z",
-"channelId": "UCxcHpdMNccSc-vBJcf2TuqQ",
-"title": "Private video",
-"description": "This video is private.",
-"thumbnails": {},
-"channelTitle": "Shiv & bhakti शिव & भक्ति",
-"playlistId": "PL9qkmHaNWZXYFviWjwRH86CDcgLaGuvkK",
-"position": 0,
-"resourceId": {
-"kind": "youtube#video",
-"videoId": "iiB1gW6mp1c"
-}
-},
-"contentDetails": {
-"videoId": "iiB1gW6mp1c"
-}
-},
-{
-"kind": "youtube#playlistItem",
 "etag": "neLrvRaCZh_fUVQzC25vLUhDyHE",
 "id": "UEw5cWttSGFOV1pYWUZ2aVdqd1JIODZDRGNnTGFHdXZrSy4yODlGNEE0NkRGMEEzMEQy",
 "snippet": {
