@@ -188,6 +188,14 @@
 			"title": "Kajal Raghwani(काजल राघवानी)",
 			"moreButton": true
 		} ,
+		{
+			"videosListId": "sponcered.json",
+			"type": "ADS-BANNER",
+			"extraLink": "",
+                        "isLive": true,
+			"title": "Ads. Suggested for you",
+			"moreButton": true
+		},
 		 {
 			"videosListId": "ritesh_pandey.json",
 			"type": "YP",
@@ -204,15 +212,8 @@
                         "isLive": false,
 			"title": "",
 			"moreButton": true
-		},
-			{
-			"videosListId": "sponcered.json",
-			"type": "ADS-BANNER",
-			"extraLink": "",
-                        "isLive": true,
-			"title": "Ads. Suggested for you",
-			"moreButton": true
 		}
+			
              
 		
 	]
