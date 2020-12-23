@@ -1,0 +1,1215 @@
+{
+"kind": "youtube#playlistItemListResponse",
+"etag": "C97epEeWn9Cq3tO3_xzVEGWjfx0",
+"items": [
+{
+"kind": "youtube#playlistItem",
+"etag": "OWYfxKNIK7hNppvXIGF4ipj16m8",
+"id": "UEw5VE04QkRRcXJORFh5RnBFLWNpRzAzVkVhdHJSbktHXy41NkI0NEY2RDEwNTU3Q0M2",
+"snippet": {
+"publishedAt": "2019-01-17T09:55:00Z",
+"channelId": "UC2XOpG5RBFM32AlxhRY_reg",
+"title": "Full Song | Saiyan Dekhi Na Aise Nazar Se | Hit Song 2017 | Ravi Kishan, Anjana Singh",
+"description": "Song : Saiyan Dekhi Na Aise Nazar Se\nSinger : Kalpana, Alok Kumar\nLyrics : S.Kumar\nMusic : S.Kumar\nMOVIE : SHAHENSHAAH (Bhojpuri)\nStarcast : Ravi Kishan, Anjana Singh, Ravi Shekhar Sinha,Priyanka Pandit, Anand Mohan, Kunal Singh, Awdhesh Mishra, Rajan Modi, Seema Singh,\nBanner: Present Makerr Corporation & Deewine Movies\nProducer : Rohit K Singh - Vivek Rastogi\nDirector: Anand D Ghatraj\nMusic Director : S.Kumar\nMusic On : Worldwide Records\n\nSET YOUR CALLER TUNE\nFor Reliance: SMS CT space 8988778 to 51234\nFor Airtel: Dial 5432116039424 and follow instructions\nFor Vodafone: Dial 5378988778 and follow instructions\nFor Idea: Dial 567898988778 and follow instructions\nFor BSNL East : SMS BT space 8988778 to 56700. For West Bengal,Kolkata, Bihar, Jharkhand, Orissa, Assam & NE\nFor BSNL South: SMS BT space 8988778 to 56700. For Chennai, Tamil Naidu, Karnataka, Kerala & Andhra Pradesh\nFor TATA Indicom: SMS 8988778 to 12800\nFor TATA Docomo: Dial 5432118988778 and follow instructions\n\nhttps://www.facebook.com/WorldwideRecordsbhojpuri\nFor latest Bhojpuri Movies and Songs, don't forget to\nSubscribe to us on Youtube: http://goo.gl/wbTmz7\nFollow us on Facebook: https://goo.gl/FCiyor\nFollow us on Google: https://goo.gl/Lsnh5N",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/rgfCJUVj42M/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/rgfCJUVj42M/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/rgfCJUVj42M/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/rgfCJUVj42M/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/rgfCJUVj42M/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Suprodip Mondal",
+"playlistId": "PL9TM8BDQqrNDXyFpE-ciG03VEatrRnKG_",
+"position": 0,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "rgfCJUVj42M"
+}
+},
+"contentDetails": {
+"videoId": "rgfCJUVj42M",
+"videoPublishedAt": "2017-07-18T15:36:01Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "F8TUgfz7mB9VctgfBpcQ0E0kT1E",
+"id": "UEw5VE04QkRRcXJORFh5RnBFLWNpRzAzVkVhdHJSbktHXy4yODlGNEE0NkRGMEEzMEQy",
+"snippet": {
+"publishedAt": "2019-01-17T09:55:08Z",
+"channelId": "UC2XOpG5RBFM32AlxhRY_reg",
+"title": "Lagale Tu Ang Sajna | Bhojpuri Movie Superhit Song | Anjana Singh, Ravi Kishan | Love Aur Rajneeti",
+"description": "Song : Lagale Tu Ang Sajna\nMovie : Love Aur Rajneeti\nCast : Ravi Kishan, Anjana Singh, Brijesh Tripathi etc. \nLyrics : Addy Singh\nMusic : Addy Singh\nDirector : Harsh Anand\nProducer : Asha Devi, Sucheta Tagra\nProducer Banner : Orio Media Pvt. Ltd.\nMusic on : SRK MUSIC\n\nLove Aur Rajneeti Bhojpuri Movie\nDownload on ITUNES\nhttps://itunes.apple.com/in/album/love-aur-rajneeti-original/id1028384596",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/5coMO6bJW_c/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/5coMO6bJW_c/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/5coMO6bJW_c/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/5coMO6bJW_c/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/5coMO6bJW_c/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Suprodip Mondal",
+"playlistId": "PL9TM8BDQqrNDXyFpE-ciG03VEatrRnKG_",
+"position": 1,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "5coMO6bJW_c"
+}
+},
+"contentDetails": {
+"videoId": "5coMO6bJW_c",
+"videoPublishedAt": "2015-10-01T05:13:53Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "gH_OQEMjaVgU-zmhE2SRXTDTnf0",
+"id": "UEw5VE04QkRRcXJORFh5RnBFLWNpRzAzVkVhdHJSbktHXy4wMTcyMDhGQUE4NTIzM0Y5",
+"snippet": {
+"publishedAt": "2019-01-17T09:55:16Z",
+"channelId": "UC2XOpG5RBFM32AlxhRY_reg",
+"title": "Anjana Singh (FULL VIDEO) सुपरहिट आइटम Song - Ghunghuta Utha Ke Chhod - WANTED - Bhojpuri Songs 2019",
+"description": "#Bhojpuri_Song #Video_Song #Bhojpuri_Video Subscribe Now:- http://goo.gl/ip2lbk\n****–––––––––––––––––––––––––––––––––****–––––––––––––––––––––––––––––––––––****\n♪ Now Available on ♪ \nGaana  :  https://gaana.com/album/wanted-bhojpuri\nHungama : http://www.hungama.com/album/wanted-bhojpuri/36205120/\nSaavn :  https://www.saavn.com/s/album/bhojpuri/Wanted-2018/m3TFQEkgB8Y_\nWynk Music : https://wynk.in/music/album/Wanted-(Bhojpuri)/hu_36205120\niTunes :  https://itunes.apple.com/in/album/wanted-original-motion-picture-soundtrack/1398232911?app=itunes&ign-mpt=uo%3D4\n****–––––––––––––––––––––––––––––––––****–––––––––––––––––––––––––––––––––––****\n\nAnjana Singh (FULL VIDEO) सुपरहिट आइटम Song - Ghunghuta Utha Ke Chhod - WANTED - Bhojpuri Songs 2019\n\nDownload Wave Music official app from Google Play Store - https://goo.gl/GyvICs\n\nIf you like Bhojpuri song, Bhojpuri full film and bhojpuri movie songs, Subscribe Now:- http://goo.gl/ip2lbk\n\nVisit our website to download our songs and videos: http://www.bhojpuriwave.com\n\nLike Us On Facebook - https://www.facebook.com/wavemusicofficial/\n\nFilm :- Wanted\nSong :- Ghunghuta Utha Ke Chhod Diya\nSinger :- Alka Jha\nLyrics :- Vinay Nirmal\nMusic Director :- Chhote Baba Bashi\nCompany/ Label :- Wave -------------\nDigital Managed by – Lokdhun\n(Contact -9718776677)\n\n*****___________________________*****_________________________*****\nइस गाने को अपनी कॉलर टयून बनाये\n1. Ghunghuta Utha Ke Chhod Diya\nVodafone Subscribers Dial 53710463136\nAirtel Subscribers Dial 5432116529808\nIdea Subscribers Dial 5678910463136\nTata DoCoMo Subscribers dial 54321110463136\nBSNL (South / East) Subscribers sms BT 10463136 To 56700\nBSNL (North / West) Subscribers sms BT 7090117 To 56700\n\n2.Jawaniya Ke Aag \nVodafone Subscribers Dial 53710463156\nAirtel Subscribers Dial 54321110463115\nIdea Subscribers Dial 5678910463115\nTata DoCoMo Subscribers dial 54321110463115\nBSNL (South / East) Subscribers sms BT 10463115 To 56700\nBSNL (North / West) Subscribers sms BT 7090118 To 56700\n*****___________________________*****_________________________*****",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/VR1kOkvAijs/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/VR1kOkvAijs/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/VR1kOkvAijs/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/VR1kOkvAijs/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/VR1kOkvAijs/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Suprodip Mondal",
+"playlistId": "PL9TM8BDQqrNDXyFpE-ciG03VEatrRnKG_",
+"position": 2,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "VR1kOkvAijs"
+}
+},
+"contentDetails": {
+"videoId": "VR1kOkvAijs",
+"videoPublishedAt": "2019-01-11T11:17:41Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "6zPccfrV1D4sQdEMBTd93yBJDDM",
+"id": "UEw5VE04QkRRcXJORFh5RnBFLWNpRzAzVkVhdHJSbktHXy41MjE1MkI0OTQ2QzJGNzNG",
+"snippet": {
+"publishedAt": "2019-01-17T09:55:20Z",
+"channelId": "UC2XOpG5RBFM32AlxhRY_reg",
+"title": "Deleted video",
+"description": "This video is unavailable.",
+"thumbnails": {},
+"channelTitle": "Suprodip Mondal",
+"playlistId": "PL9TM8BDQqrNDXyFpE-ciG03VEatrRnKG_",
+"position": 3,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "eMOzghSQr50"
+}
+},
+"contentDetails": {
+"videoId": "eMOzghSQr50"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "XJOU8MIRgqxIprlmwGzIl3KwDQs",
+"id": "UEw5VE04QkRRcXJORFh5RnBFLWNpRzAzVkVhdHJSbktHXy4wOTA3OTZBNzVEMTUzOTMy",
+"snippet": {
+"publishedAt": "2019-01-17T09:55:29Z",
+"channelId": "UC2XOpG5RBFM32AlxhRY_reg",
+"title": "#Anjana Singh (2018) का #सबसे बड़ा हिट गाना - #Bas Me Naikhe Jawani - #Superhit Bhojpuri Songs New",
+"description": "#Anjana Singh (2018) का #सबसे बड़ा हिट गाना - #Bas Me Naikhe Jawani - #Gundey Hai Hum - #Superhit Bhojpuri Songs\n\n\nअगर आप Bhojpuri Video को पसंद करते हैं तो Plz चैनल को Subscribe करें\nSubscribe Now:-https://goo.gl/kbi8JU\n\nTeam Film (TF) में अपना AUDIO & VIDEO जो की साफ सुथरा और नये ट्रेक नये धून हो , रिलीज़ कराने के लिए निम्न नम्बरो पर संपर्क करे -\n\nDELHI OFFICE CONTACT :-\n..........................................\n1. राघवेंद्र प्रताप सिंह - 8448998777\n2. सुनील सिंह - 9821297834 , 9717975758\n3. अमरेंद्र कुमार - 8448998778 , 9717072065\n\nUTTER PRADESH CONTACT :-\n.................................................\n1. विमलेश शर्मा - 8738881477 \n2. पंकज कपूरी  - 8858665410 \n\nBIHAR CONTACT :-\n.................................\n1. राजकुमार यादव - 9934664096\n2. जितेंद्र यादव  - 9504984811\n\nMUMBAI OFFICE CONTACT :-\n................................................\nदिनेश कुमार पाण्डेय - 7905729861\n.......................................................\n.......................................................\n\nMovie : #Gundey Hai Hum\n\nSong : #Bas Me Naikhe Jawani\n\nSinger : #Mamta Rawat , Damodar Rao\n\nLyrics : #Azad Singh\n\nMusic : #Damodar Rao\n\nDirector : #Bali\n\nLabel : Team Film \n\n\nFor Mobile Apps Team Film : https://goo.gl/kfQ1DG\n\nTrade Enquiry : Raghvendra Pratap Singh \nMo No :- 09717072065 ,09821297834\ncopyright : Team Films\n\n[ HD] [HQ] One of the best Song of Bhojpuri\nMust see , share to others and subscribes the channel \"TeamFilmsBhojpuri\" for regular updates of best videos.this is very popular song in Bihar listener in all over world in this song.\nhttps://goo.gl/khP6N6\n\nYoutube : https://goo.gl/khP6N6\n\nTwiter : https://twitter.com/TeamBhojpuri\n\nGoogle + : https://goo.gl/ySqMdo\n\nFacebook : https://goo.gl/X2JzOY\n\nTF-1246",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/HTnW9nsn88A/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/HTnW9nsn88A/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/HTnW9nsn88A/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/HTnW9nsn88A/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/HTnW9nsn88A/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Suprodip Mondal",
+"playlistId": "PL9TM8BDQqrNDXyFpE-ciG03VEatrRnKG_",
+"position": 4,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "HTnW9nsn88A"
+}
+},
+"contentDetails": {
+"videoId": "HTnW9nsn88A",
+"videoPublishedAt": "2018-04-25T09:00:02Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "RHhOGFg4eKyi8CZnw4mWzhQWjDw",
+"id": "UEw5VE04QkRRcXJORFh5RnBFLWNpRzAzVkVhdHJSbktHXy4xMkVGQjNCMUM1N0RFNEUx",
+"snippet": {
+"publishedAt": "2019-01-17T09:55:35Z",
+"channelId": "UC2XOpG5RBFM32AlxhRY_reg",
+"title": "Deleted video",
+"description": "This video is unavailable.",
+"thumbnails": {},
+"channelTitle": "Suprodip Mondal",
+"playlistId": "PL9TM8BDQqrNDXyFpE-ciG03VEatrRnKG_",
+"position": 5,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "J27g70Ouf84"
+}
+},
+"contentDetails": {
+"videoId": "J27g70Ouf84"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "LlupLndMx0V17QDJWj0BN4dk1_k",
+"id": "UEw5VE04QkRRcXJORFh5RnBFLWNpRzAzVkVhdHJSbktHXy41MzJCQjBCNDIyRkJDN0VD",
+"snippet": {
+"publishedAt": "2019-01-17T09:55:45Z",
+"channelId": "UC2XOpG5RBFM32AlxhRY_reg",
+"title": "निरहुआ और अंजना ने मनाया सुहाग रात - 2020 - Nirahua - Anjana Singh - Bhojpuri Film Song",
+"description": "#Bhojpuri_Song #Video_Song #Bhojpuri_Video #videosong #bhojpurisongs #dineshlalyadav\n♪ Now Available on ♪ \nGaana : https://gaana.com/album/hathkadi-bhojpuri\nWynk Music : https://wynk.in/music/album/hathkadi/hu_2707643?page=0\nHungama : https://www.hungama.com/album/hathkadi/2707643/\niTunes : https://itunes.apple.com/in/album/hathkadi-original-motion-picture-soundtrack/1438824680?app=itunes&ign-mpt=uo%3D4\n____________________________________________________________________________________________________________________________________\n\nअगर आप Bhojpuri Video को पसंद करते हैं तो Plz चैनल को Subscribe करें- Subscribe Now:- http://bit.ly/1B9tT3B\n\nDownload our official app from Google Play Store - https://goo.gl/GyvICs\n\nVisit our website to download our songs and videos: http://www.bhojpuriwave.com\n\nLike Us on Facebook : www.facebook.com/WaveMusicOfficial\n\nVG - 8134\n\nSong :- Ratiya Jiyan Karaba Ka\nSinger :- Kalpana , NIrhuaa\nCompany/ Label :- Wave\n -------------\n____________________________________________________________________\nइस गाने को अपनी कॉलर टयून बनाये\nAirtel Subscribers  Dial 5432114459639\nVodafone Subscribers  Dial 5375741615\nIdea Subscribers Dial 567895741615\nTata DoCoMo Subscribers Dial  5432115741615\nReliance Subscribers SMS CT 5741615  to 51234\nBSNL (South / East) Subscribers sms BT 5741615  To 56700\nBSNL (North / West) Subscribers sms BT 2378355 To  56700\n____________________________________________________________________ -------------\n\nDigital Managed by – Lokdhun\n(Contact -9718776677)",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/FsYjE4on5Wg/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/FsYjE4on5Wg/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/FsYjE4on5Wg/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/FsYjE4on5Wg/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/FsYjE4on5Wg/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Suprodip Mondal",
+"playlistId": "PL9TM8BDQqrNDXyFpE-ciG03VEatrRnKG_",
+"position": 6,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "FsYjE4on5Wg"
+}
+},
+"contentDetails": {
+"videoId": "FsYjE4on5Wg",
+"videoPublishedAt": "2017-03-20T16:00:01Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "f6N9kRV2Z_RNjgFbFG84gSUPIzQ",
+"id": "UEw5VE04QkRRcXJORFh5RnBFLWNpRzAzVkVhdHJSbktHXy5DQUNERDQ2NkIzRUQxNTY1",
+"snippet": {
+"publishedAt": "2019-01-17T09:55:59Z",
+"channelId": "UC2XOpG5RBFM32AlxhRY_reg",
+"title": "Panchayat Bhawan Janeman Lageloo | Gunjan Singh, Anjana Singh,Priyanka Singh | HD VIDEO 2018",
+"description": "Song : Panchayat Bhawan Janeman Lageloo\nMovie : KHUDDAR\nSinger : Gunjan Singh, Priyanka Singh\nLyrics : Shyam Dehati\nMusic : Dhananjay Mishra\nBanner : Tanvi Multimedia\nStarcast: Gunjan Singh, Anjana Singh, Nisha Dubey,Sanjay Pandey, Manoj Tiger, Etc\nProducer:Deepak Shah\nDirector : Dinesh Yadav\nD.O.P: R. R. Prince\nWriter & Screenplay :Kishore Kumar Jadhav\nDialouge :Dinesh Yadav & Kishore Kumar\nEditor:Gurjent Singh\nMusic Director:Dhananjay Mishra\nLyrics : Pyare Lal Yadav (Kavi), Azad Singh,Shyam Dehati & Yusuf Sahil\nChoreographer : Praveen Shelar\nMusic On : Worldwide Records\n\nWynk Music : https://wynk.in/music/album/khuddar/pp_khuddar006?page=0\nGaana : https://gaana.com/album/khuddar-bhojpuri \n\nSET YOUR CALLER TUNE \nFor Airtel: Dial 5432116597433 and follow instructions \nFor Vodafone: Dial 53710671101 and follow instructions \nFor Idea: Dial 5678910671101 and follow instructions \nFor BSNL East : SMS BT 10671101 to 56700. \nFor West Bengal, Kolkata, Bihar, Jharkhand, Orissa, Assam & NE \nFor BSNL South: SMS BT 10671101 to 56700. \nFor Chennai, Tamil Naidu, Karnataka, Kerala & Andhra Pradesh \nFor TATA Indicom: SMS 10671101 to 12800 \nFor TATA Docomo: Dial 54321110671101 and follow instructions \n\n\nhttps://www.facebook.com/WorldwideRecordsbhojpuri\nFor latest Bhojpuri Movies and Songs, don't forget to\nSubscribe to us on Youtube: http://goo.gl/wbTmz7\nFollow us on Facebook: https://goo.gl/FCiyor\nFollow us on Google: https://goo.gl/Lsnh5N",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/L4R49gUxy3c/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/L4R49gUxy3c/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/L4R49gUxy3c/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/L4R49gUxy3c/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/L4R49gUxy3c/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Suprodip Mondal",
+"playlistId": "PL9TM8BDQqrNDXyFpE-ciG03VEatrRnKG_",
+"position": 7,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "L4R49gUxy3c"
+}
+},
+"contentDetails": {
+"videoId": "L4R49gUxy3c",
+"videoPublishedAt": "2018-09-28T12:39:05Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "5vBZaPdrybqrtk_xjTCBFufIhUM",
+"id": "UEw5VE04QkRRcXJORFh5RnBFLWNpRzAzVkVhdHJSbktHXy45NDk1REZENzhEMzU5MDQz",
+"snippet": {
+"publishedAt": "2019-01-17T09:56:03Z",
+"channelId": "UC2XOpG5RBFM32AlxhRY_reg",
+"title": "Jawani Kitna Chowki Pe Chhouki | KHUDDAR | Gunjan Singh, Anjana Singh | Priyanka Singh | VIDEO2018",
+"description": "Song : Jawani Kitna Chowki Pe Chhouki\nMovie : KHUDDAR\nSinger : Gunjan Singh, Priyanka Singh\nLyrics : Shyam Dehati\nMusic : Dhananjay Mishra\nBanner : Tanvi Multimedia\nStarcast: Gunjan Singh, Anjana Singh, Nisha Dubey,Sanjay Pandey, Manoj Tiger, Etc\nProducer:Deepak Shah\nDirector : Dinesh Yadav\nD.O.P: R. R. Prince\nWriter & Screenplay :Kishore Kumar Jadhav\nDialouge :Dinesh Yadav & Kishore Kumar\nEditor:Gurjent Singh\nMusic Director:Dhananjay Mishra\nLyrics : Pyare Lal Yadav (Kavi), Azad Singh,Shyam Dehati & Yusuf Sahil\nChoreographer : Praveen Shelar\nMusic On : Worldwide Records\n\nWynk Music : https://wynk.in/music/album/khuddar/pp_khuddar006?page=0\nGaana : https://gaana.com/album/khuddar-bhojpuri\n\n\nSET YOUR CALLER TUNE \nFor Airtel: Dial 5432116597434 and follow instructions \nFor Vodafone: Dial 53710671095 and follow instructions \nFor Idea: Dial 5678910671095 and follow instructions \nFor BSNL East : SMS BT 10671095 to 56700. \nFor West Bengal, Kolkata, Bihar, Jharkhand, Orissa, Assam & NE \nFor BSNL South: SMS BT 10671095 to 56700. \nFor Chennai, Tamil Naidu, Karnataka, Kerala & Andhra Pradesh \nFor TATA Indicom: SMS 10671095 to 12800 \nFor TATA Docomo: Dial 54321110671095 and follow instructions \n\nhttps://www.facebook.com/WorldwideRecordsbhojpuri\nFor latest Bhojpuri Movies and Songs, don't forget to\nSubscribe to us on Youtube: http://goo.gl/wbTmz7\nFollow us on Facebook: https://goo.gl/FCiyor\nFollow us on Google: https://goo.gl/Lsnh5N",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/1XVgfgMqjDw/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/1XVgfgMqjDw/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/1XVgfgMqjDw/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/1XVgfgMqjDw/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/1XVgfgMqjDw/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Suprodip Mondal",
+"playlistId": "PL9TM8BDQqrNDXyFpE-ciG03VEatrRnKG_",
+"position": 8,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "1XVgfgMqjDw"
+}
+},
+"contentDetails": {
+"videoId": "1XVgfgMqjDw",
+"videoPublishedAt": "2018-09-26T14:30:00Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "JHRGj0Bad3eiZvg59q7-y7Ffyuk",
+"id": "UEw5VE04QkRRcXJORFh5RnBFLWNpRzAzVkVhdHJSbktHXy5GNjNDRDREMDQxOThCMDQ2",
+"snippet": {
+"publishedAt": "2019-01-17T09:56:08Z",
+"channelId": "UC2XOpG5RBFM32AlxhRY_reg",
+"title": "Agreement Karala Permanent Banala |  | Gunjan Singh, Anjana Singh,Priyanka Singh | HD VIDEO 2018",
+"description": "Song : Agreement Karala Permanent Banala\nMovie : KHUDDAR\nSinger : Gunjan Singh, Priyanka Singh\nLyrics : Azad Singh\nMusic : Dhananjay Mishra\nBanner : Tanvi Multimedia\nStarcast: Gunjan Singh, Anjana Singh, Nisha Dubey,Sanjay Pandey, Manoj Tiger, Etc\nProducer:Deepak Shah\nDirector : Dinesh Yadav\nD.O.P: R. R. Prince\nWriter & Screenplay :Kishore Kumar Jadhav\nDialouge :Dinesh Yadav & Kishore Kumar\nEditor:Gurjent Singh\nMusic Director:Dhananjay Mishra\nLyrics : Pyare Lal Yadav (Kavi), Azad Singh,Shyam Dehati & Yusuf Sahil\nChoreographer : Praveen Shelar\nMusic On : Worldwide Records \n\nWynk Music : https://wynk.in/music/album/khuddar/pp_khuddar006?page=0\nGaana : https://gaana.com/album/khuddar-bhojpuri\n\nSET YOUR CALLER TUNE \nFor Airtel: Dial 5432116597487 and follow instructions \nFor Vodafone: Dial 53710671103 and follow instructions \nFor Idea: Dial 5678910671103 and follow instructions \nFor BSNL East : SMS BT10671103 to 56700. \nFor West Bengal, Kolkata, Bihar, Jharkhand, Orissa, Assam & NE \nFor BSNL South: SMS BT 10671103 to 56700. \nFor Chennai, Tamil Naidu, Karnataka, Kerala & Andhra Pradesh \nFor TATA Indicom: SMS 10671103 to 12800 \nFor TATA Docomo: Dial 54321110671103 and follow instructions \n\nhttps://www.facebook.com/WorldwideRecordsbhojpuri\nFor latest Bhojpuri Movies and Songs, don't forget to\nSubscribe to us on Youtube: http://goo.gl/wbTmz7\nFollow us on Facebook: https://goo.gl/FCiyor\nFollow us on Google: https://goo.gl/Lsnh5N",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/iW5UOlnaFe4/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/iW5UOlnaFe4/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/iW5UOlnaFe4/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/iW5UOlnaFe4/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/iW5UOlnaFe4/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Suprodip Mondal",
+"playlistId": "PL9TM8BDQqrNDXyFpE-ciG03VEatrRnKG_",
+"position": 9,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "iW5UOlnaFe4"
+}
+},
+"contentDetails": {
+"videoId": "iW5UOlnaFe4",
+"videoPublishedAt": "2018-09-30T06:15:01Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "yZ02UbKp2OSHbINkUAXfN2arglw",
+"id": "UEw5VE04QkRRcXJORFh5RnBFLWNpRzAzVkVhdHJSbktHXy40NzZCMERDMjVEN0RFRThB",
+"snippet": {
+"publishedAt": "2019-01-17T09:56:13Z",
+"channelId": "UC2XOpG5RBFM32AlxhRY_reg",
+"title": "Mardeb karejwa me baan | KHUDDAR | Gunjan Singh, Anjana Singh, Nisha Dubey | HD VIDEO 2018",
+"description": "Song : Mardeb karejwa me baan\nMovie : KHUDDAR\nSinger : Sandhya Sargam, Neetu Shree\nLyrics : Pyaarelal Yadav (Kavi Ji)\nMusic : Dhananjay Mishra\nBanner : Tanvi Multimedia\nStarcast: Gunjan Singh, Anjana Singh, Nisha Dubey,Sanjay Pandey, Manoj Tiger, Etc\nProducer:Deepak Shah\nDirector : Dinesh Yadav\nD.O.P: R. R. Prince\nWriter & Screenplay :Kishore Kumar Jadhav\nDialouge :Dinesh Yadav & Kishore Kumar\nEditor:Gurjent Singh\nMusic Director:Dhananjay Mishra\nLyrics : Pyare Lal Yadav (Kavi), Azad Singh,Shyam Dehati & Yusuf Sahil\nChoreographer : Praveen Shelar\nMusic On : Worldwide Records\n\nWynk Music : https://wynk.in/music/album/khuddar/pp_khuddar006?page=0\nGaana : https://gaana.com/album/khuddar-bhojpuri\n\n\nSET YOUR CALLER TUNE \nFor Airtel: Dial 5432116597512 and follow instructions \nFor Vodafone: Dial 53710671097 and follow instructions \nFor Idea: Dial 5678910671097 and follow instructions \nFor BSNL East : SMS BT 10671097 to 56700. \nFor West Bengal, Kolkata, Bihar, Jharkhand, Orissa, Assam & NE \nFor BSNL South: SMS BT 10671097 to 56700. \nFor Chennai, Tamil Naidu, Karnataka, Kerala & Andhra Pradesh \nFor TATA Indicom: SMS 10671097 to 12800 \nFor TATA Docomo: Dial 54321110671097 and follow instructions \n\nhttps://www.facebook.com/WorldwideRecordsbhojpuri\nFor latest Bhojpuri Movies and Songs, don't forget to\nSubscribe to us on Youtube: http://goo.gl/wbTmz7\nFollow us on Facebook: https://goo.gl/FCiyor\nFollow us on Google: https://goo.gl/Lsnh5N",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/DXWHgAYYcNk/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/DXWHgAYYcNk/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/DXWHgAYYcNk/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/DXWHgAYYcNk/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/DXWHgAYYcNk/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Suprodip Mondal",
+"playlistId": "PL9TM8BDQqrNDXyFpE-ciG03VEatrRnKG_",
+"position": 10,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "DXWHgAYYcNk"
+}
+},
+"contentDetails": {
+"videoId": "DXWHgAYYcNk",
+"videoPublishedAt": "2018-10-03T12:37:03Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "bmTtmOTz0X8oMb3Okrrc488Xiyk",
+"id": "UEw5VE04QkRRcXJORFh5RnBFLWNpRzAzVkVhdHJSbktHXy5EMEEwRUY5M0RDRTU3NDJC",
+"snippet": {
+"publishedAt": "2019-01-17T09:56:18Z",
+"channelId": "UC2XOpG5RBFM32AlxhRY_reg",
+"title": "#VIDEO SONG - Dehiya Samij Roje Phare - Bhojpuri Hit Video Song 2018 - Superhit Film (Naagraaj)",
+"description": "Dehiya Samij Roje Phare (देहिया समीज़ रोजे फारे) - #VIDEO SONG - #Bhojpuri Hit Song 2018 - Superhit Film (Naagraaj) New HD Song Yash Kumarr, Anjana Singh, Payas Pandit\nFilm - \"Naagraaj\" नागराज\nSong - Dehiya Samij Roje Phare देहिया समीज़ रोजे फारे\nSinger - Yash Kumarr, Indu Sonali\nLyrics - Shyam Dehati\nProducer -  Deepak Shah \nDirector - Dinesh Yadav \nStaring - Yash Kumarr, Anjana Singh, Payas Pandit \nMusic Director - Dhananjay Mishra  \nMusic on - Enterr10 Music Bhojpuri\n\nसावन के पावन अवसर पर सुपरस्टार यश मिश्रा, अंजना सिंह अवुर पायस पंडित के ब्लॉकबस्टर फिल्म नागराज 3 अगस्त से बिहार अवुर झारखंड के सिनेमाघरों में प्रदर्शित देखीं फिल्म “नागराज” के सगरों सुपरहिट गाना youtube चैनल Enterr10 music bhojpuri पर like, share,comment अवुरी subscribe जरूर करीं\n\nIf you like Bhojpuri song, Bhojpuri full film and bhojpuri movie songs, Subscribe Now :- https://www.youtube.com/channel/UCR_-PUF53tA5-Iyp4Ncfjcg/videos",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/dCGHN54uAIQ/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/dCGHN54uAIQ/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/dCGHN54uAIQ/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/dCGHN54uAIQ/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/dCGHN54uAIQ/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Suprodip Mondal",
+"playlistId": "PL9TM8BDQqrNDXyFpE-ciG03VEatrRnKG_",
+"position": 11,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "dCGHN54uAIQ"
+}
+},
+"contentDetails": {
+"videoId": "dCGHN54uAIQ",
+"videoPublishedAt": "2018-08-03T13:58:04Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "2a0j7rmjVIGnD_s-1axGyAdxeY4",
+"id": "UEw5VE04QkRRcXJORFh5RnBFLWNpRzAzVkVhdHJSbktHXy45ODRDNTg0QjA4NkFBNkQy",
+"snippet": {
+"publishedAt": "2019-01-17T09:56:24Z",
+"channelId": "UC2XOpG5RBFM32AlxhRY_reg",
+"title": "आज हुई चुम्म चुमन्तु Aaj Hui Chumam Chumantu | Sanki Daroga | Ravi Kishan, Anjana Singh | Shyam D",
+"description": "Presenting the full video of Aaj Hui Chumam Chumantu sung by Alka Jha & Vikas Singh.\n\nTo stream & download full song:\nSaavn: https://bit.ly/2Qse6cZ\nWynk Music: https://bit.ly/2QuBjez\nGoogle Play Music: http://bit.ly/2xg1InL\nAmazon Prime Music: https://amzn.to/2NI7R6o\n\nMovie: Sanki Daroga\nSingers: Alka Jha & Vikas Singh\nMusic & Lyrics: Shyam Dehati\nArranger/Programmer: Shishir Pandey \n\nCast: Ravi Kishan & Anjana Singh \nProduction House: Ravi Kishan Production \nProducer: Ravi Kishan \nDirector: Saif Kidwai\n\nMusic on Zee Music Company\n\nSet Aaj Hui Chumam Chumantu as your caller tune - SMS SNKDR1 To 57575\nAirtel Subscribers Dial 5432116569370\nVodafone Subscribers Dial 53710606374\nIdea Subscribers Dial 5678910606374\nBSNL (South / East) Subscribers SMS BT 10606374 to 56700\nBSNL (North / West) Subscribers SMS BT 7148105 to 56700\n\n#sankidarogasongs #newbhojpurisongs #ravikishansongs",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/yjWhh7zvWWo/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/yjWhh7zvWWo/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/yjWhh7zvWWo/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/yjWhh7zvWWo/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/yjWhh7zvWWo/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Suprodip Mondal",
+"playlistId": "PL9TM8BDQqrNDXyFpE-ciG03VEatrRnKG_",
+"position": 12,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "yjWhh7zvWWo"
+}
+},
+"contentDetails": {
+"videoId": "yjWhh7zvWWo",
+"videoPublishedAt": "2018-08-13T09:37:29Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "rrL3n3PeC3dBvu-WfrjVbWxlxiI",
+"id": "UEw5VE04QkRRcXJORFh5RnBFLWNpRzAzVkVhdHJSbktHXy4zMDg5MkQ5MEVDMEM1NTg2",
+"snippet": {
+"publishedAt": "2019-01-17T09:56:33Z",
+"channelId": "UC2XOpG5RBFM32AlxhRY_reg",
+"title": "जवानी के टिफिन Jawani Ke Tiffin | Sanki Daroga | Ravi Kishan & Anjana Singh | Shyam Dehati",
+"description": "Presenting the full video of Jawani Ke Tiffin sung by Alka Jha & Abhishek (Golu).\n\nTo stream & download full song:\nGaana: https://bit.ly/2xoLoB8\nSaavn: https://bit.ly/2peU4q1\nWynk Music: https://bit.ly/2OpKjjv\nJioMusic: https://bit.ly/2D1d45a\nAmazon Prime Music: https://amzn.to/2QA8zRJ\n\nMovie: Sanki Daroga\nSingers: Alka Jha & Abhishek (Golu)\nMusic: Shyam Dehati\nLyrics: Azad Singh\n\nCast: Ravi Kishan & Anjana Singh \nProduction House: Ravi Kishan Production \nProducer: Ravi Kishan \nDirector: Saif Kidwai\n\nMusic on Zee Music Company\n\nSet Jawani Ke Tiffin as your caller tune - SMS SNKDR3 To 57575\nAirtel Subscribers Dial 5432116581094\nVodafone Subscribers Dial 53710636859\nIdea Subscribers Dial 5678910636859\nBSNL (South / East) Subscribers SMS BT 10636859 to 56700\nBSNL (North / West) Subscribers SMS BT 7156207 to 56700\n\n#SankiDarogaSongs #NewBhojpuriSongs #RaviKishanSongs",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/Fg0vuFHXqds/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/Fg0vuFHXqds/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/Fg0vuFHXqds/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/Fg0vuFHXqds/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/Fg0vuFHXqds/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Suprodip Mondal",
+"playlistId": "PL9TM8BDQqrNDXyFpE-ciG03VEatrRnKG_",
+"position": 13,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "Fg0vuFHXqds"
+}
+},
+"contentDetails": {
+"videoId": "Fg0vuFHXqds",
+"videoPublishedAt": "2018-09-17T08:30:00Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "ru0fjnLOgePZB2bvPCawAQdmrKs",
+"id": "UEw5VE04QkRRcXJORFh5RnBFLWNpRzAzVkVhdHJSbktHXy41Mzk2QTAxMTkzNDk4MDhF",
+"snippet": {
+"publishedAt": "2019-01-17T09:56:39Z",
+"channelId": "UC2XOpG5RBFM32AlxhRY_reg",
+"title": "HD VIDEO - करs ना हमके बदनाम हो - GUNDEY Hai Hum - Mamta Rawat - Superhit Bhojpuri Movie Song 2017",
+"description": "HD VIDEO - करs ना हमके बदनाम हो - GUNDEY Hai Hum - Mamta Rawat - Superhit Bhojpuri Movie Song 2017\n\nMovie : Gundey Hai Hum\n\nSong : Apana Naam Se Humke Raja\n\nSinger : Mamta Rawat , Manoj Mishra\n\nLyrics : Azad Singh\n\nMusic : Damodar Rao\n\nLabel : Team Film \n\nFor Mobile Apps Team Film :  https://play.google.com/store/apps/details?id=com.teamfilm\n\nTrade Enquiry : Raghwendra Pratap Singh \nMo No :-09811946306 , 09717072065 ,09821297834\ncopyright : Team Films\n\n[ HD] [HQ] One of the best Song of Bhojpuri\nMust  see , share to others and subscribes the channel \"TeamFilmsBhojpuri\"  for  regular  updates of best videos.this is very popular song in Bihar listener in all over world in this song.\nhttps://www.youtube.com/user/TeamFilmsBhojpuri\n\nअगर आप Bhojpuri Video को पसंद करते हैं तो Plz चैनल को Subscribe करें\nSubscribe Now:-\nhttp://www.youtube.com/subscription_center?add_user=TeamFilmsBhojpuri\n\nYoutube  : https://goo.gl/khP6N6\n\nTwiter  : https://goo.gl/42OCu2\n\nGoogle + : https://goo.gl/ySqMdo\n\nFacebook : https://goo.gl/X2JzOY\n\nTF-1246",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/uxvQDBTgndc/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/uxvQDBTgndc/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/uxvQDBTgndc/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/uxvQDBTgndc/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/uxvQDBTgndc/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Suprodip Mondal",
+"playlistId": "PL9TM8BDQqrNDXyFpE-ciG03VEatrRnKG_",
+"position": 14,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "uxvQDBTgndc"
+}
+},
+"contentDetails": {
+"videoId": "uxvQDBTgndc",
+"videoPublishedAt": "2017-12-21T06:20:25Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "HfNgTl5M1LVpKElVVtvw2ry7L_k",
+"id": "UEw5VE04QkRRcXJORFh5RnBFLWNpRzAzVkVhdHJSbktHXy5EQUE1NTFDRjcwMDg0NEMz",
+"snippet": {
+"publishedAt": "2019-01-17T09:56:52Z",
+"channelId": "UC2XOpG5RBFM32AlxhRY_reg",
+"title": "Maja Lutelu Kuware Mein - Pradeep Pandey \"Chintu\", Rani Chattarjee, Anjana - Bhojpuri Songs",
+"description": "#Bhojpuri_Song #Video_Song #Bhojpuri_Video 2018 का सबसे नया मस्त गाना - Maja Lutelu Khube Kuware Mein - Chintu, Rani Chattarjee, Anjana Singh\n\nSubscribe Now:- http://goo.gl/ip2lbk\n__________________________________________________________________________________________________________________________________\n♪ Now Available on ♪ \nGaana :  https://gaana.com/album/rangeela-bhojpuri\nHungama : http://www.hungama.com/album/rangeela-2017/26354657/\nSaavn : https://www.jiosaavn.com/album/rangeela/cORlk2jEGNc_\nWynk Music : https://wynk.in/music/album/rangeela-2017/hu_26354657?page=0\niTunes : https://itunes.apple.com/in/album/rangeela-original-motion-picture-soundtrack/1318651154?app=itunes&ign-mpt=uo%3D4\n__________________________________________________________________________________________________________________________________\n\n\nDownload Wave Music official app from Google Play Store - https://goo.gl/GyvICs\n\nIf you like Bhojpuri song, Bhojpuri full film and bhojpuri movie songs, Subscribe Now:- http://goo.gl/ip2lbk\n\nVisit our website to download our songs and videos: http://www.bhojpuriwave.com\n\nLike Us On Facebook - https://www.facebook.com/wavemusicofficial/\n\nMovie :- Rangeela\nSong :- Maja Lutelu Khube Kuware Mein\nSinger :- Indu Sonali, Mamta Raut, Manish Guru\nLyrics :- Shyam Dehati\nMusic Director :- Rajkumar R.Pandey\nMovie Director :- Ravi Sinha\nCompany/ Label :- Wave\n\nइस गाने को अपनी कॉलर टयून बनाये\nAirtel Subscribers  Dial 5432116228736\nVodafone Subscribers  Dial 5379473871\nIdea Subscribers Dial 567899473871\nTata DoCoMo Subscribers Dial  5432119473871 \nReliance Subscribers SMS CT 9473871  to 51234\nBSNL (South / East) Subscribers sms BT 9473871  To 56700\nBSNL (North / West) Subscribers sms BT 6639108 To  56700 -------------\nDigital Managed by – Lokdhun\n(Contact -9718776677)",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/GxYnTKzSm7I/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/GxYnTKzSm7I/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/GxYnTKzSm7I/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/GxYnTKzSm7I/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/GxYnTKzSm7I/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Suprodip Mondal",
+"playlistId": "PL9TM8BDQqrNDXyFpE-ciG03VEatrRnKG_",
+"position": 15,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "GxYnTKzSm7I"
+}
+},
+"contentDetails": {
+"videoId": "GxYnTKzSm7I",
+"videoPublishedAt": "2018-03-24T03:30:01Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "I3aRnZN_2CpGqc9OFQweD7rTGQE",
+"id": "UEw5VE04QkRRcXJORFh5RnBFLWNpRzAzVkVhdHJSbktHXy41QTY1Q0UxMTVCODczNThE",
+"snippet": {
+"publishedAt": "2019-01-17T09:56:55Z",
+"channelId": "UC2XOpG5RBFM32AlxhRY_reg",
+"title": "जुग जुग जिया ए राजा || Saurabh Samrat & Kalpana || Hits Jigar Movie Full Video Song 2017 - Team Film",
+"description": "जुग जुग जिया ए राजा || Saurabh Samrat & Kalpana || Hits Jigar Movie Full Video Song 2017 - Team Film\n\nMovie : Jigar\nSong : Jug Jug Jiya A Raja\nSinger : Saurabh Samrat & Kalpana\nLyrics : Manoj Matlabi\nMusic Director : Avinash Jha Ghunghroo\nPublisher - GANESH CHANDRA SURYA TEAM FILM PRIVATE LIMITED\nRecordist : Rakesh Sharma Mumbai\n\nDirect Dial Airtel - 5432116257953\nBSNL South East Send To 56700 - BT 9567059\nDirect Dial Idea - 567899567059\nRelience Send To 51234 - CT 9567059\nDirect Dial Vodafone - 5379567059\nMusic Label - Team Films\nLangauge - Bhojpuri\n\nFor Hungama :http://www.hungama.com/album/jigar/27100666/\n\nFor  Raaga :http://www.raaga.com/bhojpuri/album/Jigar-songs-BJ001269\n\nFor Gaana : http://gaana.com/album/jigar-bhojpuri\n\nFor Saavn :                     \n                     https://www.saavn.com/s/album/bhojpuri/Jigar-2017/SqRSD3S3ibk_\n\n\nFor Mobile Apps Team Film : https://goo.gl/kfQ1DG\n\nTrade Enquiry : Raghvendra Pratap Singh \nMo No :-09811946306 , 09717072065 ,09821297834\ncopyright : Team Films\n\n[ HD] [HQ] One of the best Song of Bhojpuri\nMust see , share to others and subscribes the channel \"TeamFilmsBhojpuri\" for regular updates of best videos.this is very popular song in Bihar listener in all over world in this song.\nhttps://goo.gl/khP6N6\n\nअगर आप Bhojpuri Video को पसंद करते हैं तो Plz चैनल को Subscribe करें\nSubscribe Now:-https://goo.gl/kbi8JU\n\nYoutube : https://goo.gl/khP6N6\n\nTwiter : https://twitter.com/TeamBhojpuri\n\nGoogle + : https://goo.gl/ySqMdo\n\nFacebook : https://goo.gl/X2JzOY\n\n\nBhojpuri Video , Top Bhojpuri Video Songs, HD Bhojpuri Video,",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/ZmnZ2rZij3s/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/ZmnZ2rZij3s/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/ZmnZ2rZij3s/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/ZmnZ2rZij3s/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/ZmnZ2rZij3s/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Suprodip Mondal",
+"playlistId": "PL9TM8BDQqrNDXyFpE-ciG03VEatrRnKG_",
+"position": 16,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "ZmnZ2rZij3s"
+}
+},
+"contentDetails": {
+"videoId": "ZmnZ2rZij3s",
+"videoPublishedAt": "2017-07-31T12:51:31Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "rrFWjLBqYp0g9wRu69O1ddVvnhc",
+"id": "UEw5VE04QkRRcXJORFh5RnBFLWNpRzAzVkVhdHJSbktHXy4yMUQyQTQzMjRDNzMyQTMy",
+"snippet": {
+"publishedAt": "2019-01-17T09:57:00Z",
+"channelId": "UC2XOpG5RBFM32AlxhRY_reg",
+"title": "JIGAR Movie Full Song - ओठवा चुमब नाईट में - Mohan  Rathore , Kalpana - 2017 का सबसे हिट गाना",
+"description": "JIGAR Movie Full Song - ओठवा चुमब नाईट में - Mohan  Rathore , Kalpana - 2017 का सबसे हिट गाना\n\nMovie : Jigar\n\nSong : Hothwa Chumab Night Mein\n\nSinger : Mohan  Rathore , Kalpana\n\nLyrics : Azaad Singh\n\nMusic Director : Avinash Jha Ghunghroo\n\nRecordist : Rakesh Sharma Mumbai\n\nFor Callertune :\n......................................................\nDirect Dial Airtel - 5432116257954\nBSNL South East Send To 56700 - BT 9567061\nDirect Dial Idea - 567899567061\nRelience Send To 51234 - CT 9567061\nDirect Dial Vodafone - 5379567061\nMusic Label - Team Films\nLangauge - Bhojpuri\n\nFor Hungama :http://www.hungama.com/album/jigar/27100666/\n\nFor  Raaga :http://www.raaga.com/bhojpuri/album/Jigar-songs-BJ001269\n\nFor Gaana : http://gaana.com/album/jigar-bhojpuri\n\nFor Saavn :                     \n                     https://www.saavn.com/s/album/bhojpuri/Jigar-2017/SqRSD3S3ibk_\n\nFor Mobile Apps Team Film :  https://play.google.com/store/apps/details?id=com.teamfilm\n\nTrade Enquiry : Raghwendra Pratap Singh \nMo No :-09811946306 , 09717072065 ,09821297834\ncopyright : Team Films\n\n[ HD] [HQ] One of the best Song of Bhojpuri\nMust  see , share to others and subscribes the channel \"TeamFilmsBhojpuri\"  for  regular  updates of best videos.this is very popular song in Bihar listener in all over world in this song.\nhttps://www.youtube.com/user/TeamFilmsBhojpuri\n\nअगर आप Bhojpuri Video को पसंद करते हैं तो Plz चैनल को Subscribe करें\nSubscribe Now:-\nhttp://www.youtube.com/subscription_center?add_user=TeamFilmsBhojpuri\n\nYoutube  : https://goo.gl/khP6N6\n\nTwiter  : https://goo.gl/42OCu2\n\nGoogle + : https://goo.gl/ySqMdo\n\nFacebook : https://goo.gl/X2JzOY",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/GSIxFSeCang/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/GSIxFSeCang/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/GSIxFSeCang/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/GSIxFSeCang/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/GSIxFSeCang/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Suprodip Mondal",
+"playlistId": "PL9TM8BDQqrNDXyFpE-ciG03VEatrRnKG_",
+"position": 17,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "GSIxFSeCang"
+}
+},
+"contentDetails": {
+"videoId": "GSIxFSeCang",
+"videoPublishedAt": "2017-08-03T12:55:26Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "-fRBNU59E2Kma1_mh3GtwdqlCjs",
+"id": "UEw5VE04QkRRcXJORFh5RnBFLWNpRzAzVkVhdHJSbktHXy45RTgxNDRBMzUwRjQ0MDhC",
+"snippet": {
+"publishedAt": "2019-01-17T09:57:10Z",
+"channelId": "UC2XOpG5RBFM32AlxhRY_reg",
+"title": "Sejiya Pe Chali Suhagraat Ho | Viraj Bhatt, Anjana | Trishul Bhojpuri Video Songs | Nav Bhojpuri",
+"description": "Like | Comment | Share\nSubscribe Now:- https://goo.gl/zkse22\nListen Full Songs Now On :\nDownload Hello Tunes/Caller Tunes: \n\nAirtel Users: डायल करें 5432116044558 और निर्देशों का पालन करें\nVodafone Users: डायल करें 5379008896 और निर्देशों का पालन करें\nIdea Users: डायल करें 567899008896 और निर्देशों का पालन करें\nAircel Users: SMS करें DT 6511171 और भेजे 53000 पर\nBSNL(N & W) Users: SMS करें BT 6511171 और भेजे 56700 पर\n\nFilm Name – त्रिशूल Trishul\nSong -  Sejiya Pe Chali Suhagraat Ho\nSingers – Rupesh Mishra,Mamta Raut\nCast : Anjana Singh, Viraj Bhatt\nLyrics - Pintu Giri\nMusic Director – Damodar Raao\nBanner – R G Productions\nProducer : Rakesh Gupta\nWriter & Director – Baljit Singh\nCompany/Label – Nav Bhojpuri\n\nGAANA : http://gaana.com/album/trishul-bhojpuri\nSAAVAN : http://www.saavn.com/p/album/hindi/Trishul-2016/TJlOWm1HVI0_\niTunes: https://itunes.apple.com/in/album/id1188189638\nWYNK : http://wynk.in/u/102UXwSvNkVM68\n\nIf you like Bhojpuri song, Bhojpuri full film and bhojpuri movie songs, subscribe our channel. \n\nLike | Comment | Share\n\nSubscribe Now:- https://goo.gl/zkse22",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/zXqP2kqWM3A/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/zXqP2kqWM3A/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/zXqP2kqWM3A/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/zXqP2kqWM3A/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/zXqP2kqWM3A/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Suprodip Mondal",
+"playlistId": "PL9TM8BDQqrNDXyFpE-ciG03VEatrRnKG_",
+"position": 18,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "zXqP2kqWM3A"
+}
+},
+"contentDetails": {
+"videoId": "zXqP2kqWM3A",
+"videoPublishedAt": "2017-02-13T12:00:07Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "W_r1-As5-bffRE4SIvrirV2ni0k",
+"id": "UEw5VE04QkRRcXJORFh5RnBFLWNpRzAzVkVhdHJSbktHXy5ENDU4Q0M4RDExNzM1Mjcy",
+"snippet": {
+"publishedAt": "2019-01-17T09:57:15Z",
+"channelId": "UC2XOpG5RBFM32AlxhRY_reg",
+"title": "Sikdi Ke Locket Mein | BHOJPURI HIT FULL SONG | Viraj Bhatt, Anjana Singh",
+"description": "Song : Sikdi Ke Locket Mein\nSinger : Kalpana, Om Jha\nLyrics : Arbind Tiwari\nMusic Director : Om Jha\nMovie : Dil Hai Ki Manta Nahi (Bhojpuri)\nBanner : Balaji Entertainment 2015 \nStarcast: Rakesh Mishra, Viraj Bhatt, Anjana Singh, Tanushree Chatterjee, Sanjay Pandey, Ayaz Khan, Brijesh Tripathi.\nProducer: Vijay Kumar Pandit, Mithun Saha, Prem Shankar Patak. \nDirector: Ajay Jha \nMusic On : Worldwide Records/ Aadi Shakti Audio\nSET YOUR CALLER TUNE\nFor Reliance: SMS CT 8078243 to 51234\nFor Airtel: Dial 5432115590187 and follow instructions\nFor Vodafone: Dial 5378078243 and follow instructions\nFor Idea: Dial 567898078243 and follow instructions\nFor BSNL East : SMS BT 8078243 to 56700. For West Bengal, Kolkata, Bihar, Jharkhand, Orissa, Assam & NE\nFor BSNL South: SMS BT 8078243 to 56700. For Chennai, Tamil Naidu, Karnataka, Kerala & Andhra Pradesh \nFor TATA Indicom: SMS 8078243 to 12800\nFor TATA Docomo: Dial 5432118078243 and follow instructions\nhttps://www.facebook.com/WorldwideRecordsbhojpuri\nFor latest Bhojpuri Movies and Songs, don't forget to\nSubscribe to us on Youtube: http://goo.gl/wbTmz7\nFollow us on Facebook: https://goo.gl/FCiyor\nFollow us on Google: https://goo.gl/Lsnh5N",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/21P5Hg8p5dc/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/21P5Hg8p5dc/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/21P5Hg8p5dc/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/21P5Hg8p5dc/sddefault.jpg",
+"width": 640,
+"height": 480
+}
+},
+"channelTitle": "Suprodip Mondal",
+"playlistId": "PL9TM8BDQqrNDXyFpE-ciG03VEatrRnKG_",
+"position": 19,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "21P5Hg8p5dc"
+}
+},
+"contentDetails": {
+"videoId": "21P5Hg8p5dc",
+"videoPublishedAt": "2016-12-15T07:46:05Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "Eii5m41Q_vbLM_nqs7b9F8so-kc",
+"id": "UEw5VE04QkRRcXJORFh5RnBFLWNpRzAzVkVhdHJSbktHXy4yMDhBMkNBNjRDMjQxQTg1",
+"snippet": {
+"publishedAt": "2019-01-17T09:57:20Z",
+"channelId": "UC2XOpG5RBFM32AlxhRY_reg",
+"title": "Dil Bhejni Lifafa Mein - BHOJPURI HIT FULL SONG | Dil Hai Ki Manta Nahi",
+"description": "Song : Dil Bhejni Lifafa Mein\nSinger : Kalpana\nLyrics : Arbind Tiwari\nMusic Director : Om Jha\nMovie : Dil Hai Ki Manta Nahi (Bhojpuri)\nBanner : Balaji Entertainment 2015 \nStarcast: Rakesh Mishra, Viraj Bhatt, Anjana Singh, Tanushree Chatterjee, Sanjay Pandey, Ayaz Khan, Brijesh Tripathi.\nProducer: Vijay Kumar Pandit, Mithun Saha, Prem Shankar Patak. \nDirector: Ajay Jha \nMusic On : Worldwide Records/ Aadi Shakti Audio\n\nSET YOUR CALLER TUNE\nFor Reliance: SMS CT  8078251 to 51234\nFor Airtel: Dial 5432115590171 and follow instructions\nFor Vodafone: Dial 5378078251 and follow instructions\nFor Idea: Dial 567898078251 and follow instructions\nFor BSNL East : SMS BT  8078251 to 56700. For West Bengal, Kolkata, Bihar, Jharkhand, Orissa, Assam & NE\nFor BSNL South: SMS BT 8078251 to 56700. For Chennai, Tamil Naidu, Karnataka, Kerala & Andhra Pradesh \nFor TATA Indicom: SMS 8078251 to 12800\nFor TATA Docomo: Dial 5432118078251 and follow instructions\n\nhttps://www.facebook.com/WorldwideRecordsbhojpuri\n\nFor latest Bhojpuri Movies and Songs, don't forget to\nSubscribe to us on Youtube: http://goo.gl/wbTmz7\nFollow us on Facebook: https://goo.gl/FCiyor\nFollow us on Google: https://goo.gl/Lsnh5N",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/ClKybMflsKI/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/ClKybMflsKI/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/ClKybMflsKI/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/ClKybMflsKI/sddefault.jpg",
+"width": 640,
+"height": 480
+}
+},
+"channelTitle": "Suprodip Mondal",
+"playlistId": "PL9TM8BDQqrNDXyFpE-ciG03VEatrRnKG_",
+"position": 20,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "ClKybMflsKI"
+}
+},
+"contentDetails": {
+"videoId": "ClKybMflsKI",
+"videoPublishedAt": "2016-12-17T12:51:35Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "oKMEkNh8ZKniEa6-27X2Wd-3TNc",
+"id": "UEw5VE04QkRRcXJORFh5RnBFLWNpRzAzVkVhdHJSbktHXy5GM0Q3M0MzMzY5NTJFNTdE",
+"snippet": {
+"publishedAt": "2019-01-17T09:57:26Z",
+"channelId": "UC2XOpG5RBFM32AlxhRY_reg",
+"title": "Shehnai - Full Video Song || Khesari Lal Yadav | Dabang Aashiq | Bhojpuri Romantic Song 2016",
+"description": "Subscribe For Latest Bhojpuri Songs & Bhojpuri Songs 2016:\nhttps://goo.gl/vCnDE4\n\nLike Us On Facebook - https://goo.gl/Atq02d\nSong - Bajata Shenai\nMovie - Dabang Aashiq\nSttaring - Khesari Lal Yadav, Anjana Singh , Kajal Raghwani , Manoj Tiger , etc\nMusic - Avinash Jha (GHUNGHRU)\nDirector - Manjul Thakur\nProduced By :- Abhimanyu Mital (Shivbaksh Production)\nCopyright @BIHARIWOOD\nPowered By: DIGINOR NETWORK\n\n\n.\nIf you like: bhojpuri songs, bhojpuri movies, bhojpuri trailer, bhojpuri new songs, bhojpuri latest movies, bhojpuri new movies, bhojpuri song to subscribe kare abhi...!",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/7jp8f7CeMJw/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/7jp8f7CeMJw/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/7jp8f7CeMJw/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/7jp8f7CeMJw/sddefault.jpg",
+"width": 640,
+"height": 480
+}
+},
+"channelTitle": "Suprodip Mondal",
+"playlistId": "PL9TM8BDQqrNDXyFpE-ciG03VEatrRnKG_",
+"position": 21,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "7jp8f7CeMJw"
+}
+},
+"contentDetails": {
+"videoId": "7jp8f7CeMJw",
+"videoPublishedAt": "2016-08-30T09:46:59Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "TxqxO7idVX91CtJBIzDLHn-Zvx0",
+"id": "UEw5VE04QkRRcXJORFh5RnBFLWNpRzAzVkVhdHJSbktHXy4zRjM0MkVCRTg0MkYyQTM0",
+"snippet": {
+"publishedAt": "2019-01-17T09:58:08Z",
+"channelId": "UC2XOpG5RBFM32AlxhRY_reg",
+"title": "Meri Jawani Aag Hai - Full Song - #Anjana singh - Superhit Film (NADAAN ISHQ BA) - Bhojpuri Songs",
+"description": "# NADAAN ISHQ BA # Chirag Hu Mai # Anjana Singh # New movie song 2019\n\nPresenting the full audio of sung by.\n\nSong : Meri Jawani Aag Hai\nMovie : NADAAN ISHQ BA\nSinger : Mohan Rathore, Indu Sonali\nLyrics : Sumit Chandravanshi\nMusic : Chhote Baba\nStar Cast : Sanjay Pandey, Anjana Singh\nDirector : Santaram\nProducer : Yogesh Kumar\n\nCopyright : Yashi Films Pvt. Ltd.\nMusic on : Yashi Films\n\nEXCLUDED RIGHTS \nALL the Rights of the \"SAID FILM\" are for Perpetual, permanent and Forever Period.\n\nTrade Enquiry :\nMumbai : Anil Kumar Singh +91- 9930716879/9320908080\nPatna Bihar : Vivek Kumar +918709107034\n\nOur Official Android App :\nhttps://bit.ly/2GNj4jH\n\nOfficial Website :\nhttp://yashifilms.com/\n\n\n\n\nIf You like the video don't forget to share with others & also share your views.\nStay connected with us!!!\n► Subscribe : https://bit.ly/2FfaSHu",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/ANPqoNVF3HA/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/ANPqoNVF3HA/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/ANPqoNVF3HA/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/ANPqoNVF3HA/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/ANPqoNVF3HA/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Suprodip Mondal",
+"playlistId": "PL9TM8BDQqrNDXyFpE-ciG03VEatrRnKG_",
+"position": 22,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "ANPqoNVF3HA"
+}
+},
+"contentDetails": {
+"videoId": "ANPqoNVF3HA",
+"videoPublishedAt": "2019-01-16T12:00:03Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "kQ82-1yheWJVH96PjuWl7FKthms",
+"id": "UEw5VE04QkRRcXJORFh5RnBFLWNpRzAzVkVhdHJSbktHXy45NzUwQkI1M0UxNThBMkU0",
+"snippet": {
+"publishedAt": "2019-02-19T04:44:45Z",
+"channelId": "UC2XOpG5RBFM32AlxhRY_reg",
+"title": "Panchayat Bhawan Janeman Lageloo | Gunjan Singh, Anjana Singh,Priyanka Singh | HD FULL VIDEO 2018",
+"description": "Song : Panchayat Bhawan Janeman Lageloo\nMovie : KHUDDAR\nSinger : Gunjan Singh, Priyanka Singh\nLyrics : Shyam Dehati\nMusic : Dhananjay Mishra\nBanner : Tanvi Multimedia\nStarcast: Gunjan Singh, Anjana Singh, Nisha Dubey,Sanjay Pandey, Manoj Tiger, Etc\nProducer:Deepak Shah\nDirector : Dinesh Yadav\nD.O.P: R. R. Prince\nWriter & Screenplay :Kishore Kumar Jadhav\nDialouge :Dinesh Yadav & Kishore Kumar\nEditor:Gurjent Singh\nMusic Director:Dhananjay Mishra\nLyrics : Pyare Lal Yadav (Kavi), Azad Singh,Shyam Dehati & Yusuf Sahil\nChoreographer : Praveen Shelar\nMusic On : Worldwide Records\n\nWynk Music : https://wynk.in/music/album/khuddar/pp_khuddar006?page=0\nGaana : https://gaana.com/album/khuddar-bhojpuri\n\nSET YOUR CALLER TUNE \nFor Airtel: Dial 5432116597433 and follow instructions \nFor Vodafone: Dial 53710671101 and follow instructions \nFor Idea: Dial 5678910671101 and follow instructions \nFor BSNL East : SMS BT 10671101 to 56700. \nFor West Bengal, Kolkata, Bihar, Jharkhand, Orissa, Assam & NE \nFor BSNL South: SMS BT 10671101 to 56700. \nFor Chennai, Tamil Naidu, Karnataka, Kerala & Andhra Pradesh \nFor TATA Indicom: SMS 10671101 to 12800 \nFor TATA Docomo: Dial 54321110671101 and follow instructions \n\n\nhttps://www.facebook.com/WorldwideRecordsbhojpuri\nFor latest Bhojpuri Movies and Songs, don't forget to\nSubscribe to us on Youtube: http://goo.gl/wbTmz7\nFollow us on Facebook: https://goo.gl/FCiyor\nFollow us on Google: https://goo.gl/Lsnh5N",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/QhPCqLRmHcE/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/QhPCqLRmHcE/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/QhPCqLRmHcE/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/QhPCqLRmHcE/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/QhPCqLRmHcE/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Suprodip Mondal",
+"playlistId": "PL9TM8BDQqrNDXyFpE-ciG03VEatrRnKG_",
+"position": 23,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "QhPCqLRmHcE"
+}
+},
+"contentDetails": {
+"videoId": "QhPCqLRmHcE",
+"videoPublishedAt": "2019-02-19T00:30:02Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "gF51JZtaMvdw7fMrUZrQbJaRCLE",
+"id": "UEw5VE04QkRRcXJORFh5RnBFLWNpRzAzVkVhdHJSbktHXy5DNzE1RjZEMUZCMjA0RDBB",
+"snippet": {
+"publishedAt": "2019-02-27T08:15:37Z",
+"channelId": "UC2XOpG5RBFM32AlxhRY_reg",
+"title": "गुदगुदी होता राजा होठललिया में | Naagraaj - नागराज | Yash Kumarr, Anjana Singh | #BHOJPURI FULL SONG",
+"description": "गुदगुदी होता राजा होठललिया में | Naagraaj - नागराज | #YashKumarr, #AnjanaSingh | #BHOJPURI FULL SONG\n\nFilm - \"Naagraaj\" नागराज\nSong - गुदगुदी होता राजा होठललिया में | Gudgudi Hota Raja Hoth laliya Mai\nSinger - Ritesh Pandey, Priyanka Singh\nProducer -  Deepak Shah \nDirector - Dinesh Yadav\nLyrics - Shyam Dehati\nStaring - Yash Kumarr, Anjana Singh, Payas Pandit\nMusic Director - Dhananjay Mishra\nMusic on - Enterr10 Music Bhojpuri\n\n#bhojpuri song #entertainment #songnew2018 #newsong #bhojpurimovie #bhojpurinewsong #bhojpurifilm #NewBhojpuriSuperhitVideo \n\nShare This Video : https://youtu.be/CdRTS-zKHJ8\n\nSubscribe our channel: https://www.youtube.com/channel/UCR_-PUF53tA5-Iyp4Ncfjcg/videos\n\nLike Our Facebook Page: https://www.facebook.com/enterr10music/\n\nFollow Us on Instagram: https://www.instagram.com/enterr10_music_bhojpuri/\n\nFollow Us on Twitter: https://twitter.com/Enterr10_Music",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/CdRTS-zKHJ8/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/CdRTS-zKHJ8/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/CdRTS-zKHJ8/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/CdRTS-zKHJ8/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/CdRTS-zKHJ8/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Suprodip Mondal",
+"playlistId": "PL9TM8BDQqrNDXyFpE-ciG03VEatrRnKG_",
+"position": 24,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "CdRTS-zKHJ8"
+}
+},
+"contentDetails": {
+"videoId": "CdRTS-zKHJ8",
+"videoPublishedAt": "2019-02-23T13:30:01Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "8J0I0zZlMdH8HioRbPVPWKEPBzs",
+"id": "UEw5VE04QkRRcXJORFh5RnBFLWNpRzAzVkVhdHJSbktHXy43MTI1NDIwOTMwQjIxMzNG",
+"snippet": {
+"publishedAt": "2019-05-14T06:16:24Z",
+"channelId": "UC2XOpG5RBFM32AlxhRY_reg",
+"title": "Jawani Kitna Chowki Pe Chhouki | HD VIDEO SONG 2019",
+"description": "Subscribe :https://goo.gl/U2QMm0\n\nSong : Jawani Kitna Chowki Pe Chhouki\nMovie : KHUDDAR\nSinger : Gunjan Singh, Priyanka Singh\nLyrics : Shyam Dehati\nMusic : Dhananjay Mishra\nMusic On : Worldwide Records\n\nWynk Music : https://wynk.in/music/album/khuddar/p...\nGaana : https://gaana.com/album/khuddar-bhojpuri\n\n\nSET YOUR CALLER TUNE \nFor Airtel: Dial 5432116597434 and follow instructions \nFor Vodafone: Dial 53710671095 and follow instructions \nFor Idea: Dial 5678910671095 and follow instructions \nFor BSNL East : SMS BT 10671095 to 56700. \nFor West Bengal, Kolkata, Bihar, Jharkhand, Orissa, Assam & NE \nFor BSNL South: SMS BT 10671095 to 56700. \nFor Chennai, Tamil Naidu, Karnataka, Kerala & Andhra Pradesh \nFor TATA Indicom: SMS 10671095 to 12800 \nFor TATA Docomo: Dial 54321110671095 and follow instructions",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/4RSGADMu9Fs/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/4RSGADMu9Fs/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/4RSGADMu9Fs/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/4RSGADMu9Fs/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/4RSGADMu9Fs/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Suprodip Mondal",
+"playlistId": "PL9TM8BDQqrNDXyFpE-ciG03VEatrRnKG_",
+"position": 25,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "4RSGADMu9Fs"
+}
+},
+"contentDetails": {
+"videoId": "4RSGADMu9Fs",
+"videoPublishedAt": "2019-05-13T12:31:52Z"
+}
+}
+],
+"pageInfo": {
+"totalResults": 26,
+"resultsPerPage": 50
+}
+}
