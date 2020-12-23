@@ -29,7 +29,7 @@
 			"videosListId": "sponcered.json",
 			"type": "ADS-NATIVE",
 			"extraLink": "",
-                        "isLive": true,
+                        "isLive": false,
 			"title": "Ads. Suggested for you",
 			"moreButton": false
 		},
@@ -61,7 +61,7 @@
 			"videosListId": "sponcered.json",
 			"type": "SP",
 			"extraLink": "",
-				     "isLive": true,
+				     "isLive": false,
 			"title": "Ads. Suggested for you",
 			"moreButton": false
 		},
@@ -87,7 +87,7 @@
 			"videosListId": "sponcered.json",
 			"type": "ADS-REC-BANNER",
 			"extraLink": "",
-                        "isLive": true,
+                        "isLive": false,
 			"title": "Ads. Suggested for you",
 			"moreButton": false
 		}
@@ -113,7 +113,7 @@
 			"videosListId": "sponcered.json",
 			"type": "ADS-NATIVE",
 			"extraLink": "",
-                        "isLive": true,
+                        "isLive": false,
 			"title": "Ads. Suggested for you",
 			"moreButton": false
 		},
@@ -144,7 +144,7 @@
 			"videosListId": "sponcered.json",
 			"type": "ADS-NATIVE",
 			"extraLink": "",
-                        "isLive": true,
+                        "isLive": false,
 			"title": "Ads. Suggested for you",
 			"moreButton": false
 		},
@@ -176,7 +176,7 @@
 			"videosListId": "sponcered.json",
 			"type": "ADS-NATIVE",
 			"extraLink": "",
-                        "isLive": true,
+                        "isLive": false,
 			"title": "Ads. Suggested for you",
 			"moreButton": false
 		},
@@ -192,7 +192,7 @@
 			"videosListId": "sponcered.json",
 			"type": "ADS-BANNER",
 			"extraLink": "",
-                        "isLive": true,
+                        "isLive": false,
 			"title": "Ads. Suggested for you",
 			"moreButton": true
 		},
