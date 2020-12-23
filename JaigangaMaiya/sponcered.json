@@ -1,0 +1,77 @@
+{
+"page": 2,
+"limit": 100,
+"explicit": false,
+"has_more": true,
+"spList": [
+	{
+		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/94kb.png",
+		"playStoreUrl": "https://play.google.com/store/apps/details?id=com.app.hindiradionews",
+		"directLink": "",
+		"info":"Hindi Radio- Marathi,Telugu,Tamil & Malyalam Radio"
+
+},
+	{
+		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/jaishree.png",
+		"playStoreUrl": "https://play.google.com/store/apps/details?id=com.app.krishna&hl=en_IN",
+		"directLink": "",
+		"info":"Jai Shree Krishna"
+
+},
+{
+		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/sponcerd/allah.png",
+		"playStoreUrl": "https://play.google.com/store/apps/details?id=com.app.aliflaila",
+		"directLink": "",
+		"info":"Alif Laila"
+
+},
+{
+		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/sponcerd/bangla.png",
+		"playStoreUrl": "https://play.google.com/store/apps/details?id=com.app.bangladeshradio&hl=en",
+		"directLink": "",
+		"info":"Bangladeshi FM Radio"
+
+},	{
+		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/sponcerd/hindi.png",
+		"playStoreUrl": "https://play.google.com/store/apps/details?id=com.app.artistradio&hl=en",
+		"directLink": "",
+		"info":"Fm Radio Hindi"
+
+},
+{
+		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/sponcerd/bhojpuri.png",
+		"playStoreUrl": "https://play.google.com/store/apps/details?id=com.app.bhojpurimixvideo&hl=en",
+		"directLink": "",
+		"info":"Bhojpuri Mixed video songs & Movies"
+
+},
+{
+		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/sponcerd/marathi.png",
+		"playStoreUrl": "https://play.google.com/store/apps/details?id=com.app.marathiradio&hl=en",
+		"directLink": "",
+		"info":"Marathi Radio Stations"
+
+},
+{
+		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/sponcerd/nepali.png",
+		"playStoreUrl": "https://play.google.com/store/apps/details?id=com.app.nepaliradio&hl=en",
+		"directLink": "",
+		"info":"Nepali Radio - All FM Stations"
+
+},
+{
+		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/sponcerd/satyanarayana.png",
+		"playStoreUrl": "https://play.google.com/store/apps/details?id=com.app.satyanarayanakatha&hl=en",
+		"directLink": "",
+		"info":"Satyanarayan Katha"
+
+},
+{
+		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/sponcerd/vk.png",
+		"playStoreUrl": "https://play.google.com/store/apps/details?id=com.app.vikrambetaal&hl=en",
+		"directLink": "",
+		"info":"Vikram Aur Betaal "
+
+}
+]
+}
