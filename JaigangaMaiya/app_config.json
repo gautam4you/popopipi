@@ -42,6 +42,14 @@
 			"moreButton": true
 		},
 			   {
+			"videosListId": "sponcered.json",
+			"type": "ADS-BANNER",
+			"extraLink": "",
+                        "isLive": true,
+			"title": "Ads. Suggested for you",
+			"moreButton": true
+		},
+			   {
 			"videosListId": "shivpuran.json",
 			"type": "DM",
 			"extraLink": "",
