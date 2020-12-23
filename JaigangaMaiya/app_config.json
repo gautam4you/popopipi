@@ -19,7 +19,7 @@
 		},
 		{
 			"videosListId": "jai_ganga_maiya.json",
-			"type": "YP",
+			"type": "DM",
 			 "isLive": true,
 			"extraLink": "",
 			"title": "Jai Ganga Maiya",
@@ -29,7 +29,7 @@
 			"videosListId": "sponcered.json",
 			"type": "ADS-NATIVE",
 			"extraLink": "",
-                        "isLive": false,
+                        "isLive": true,
 			"title": "Ads. Suggested for you",
 			"moreButton": false
 		},
