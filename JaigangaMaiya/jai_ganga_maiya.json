@@ -1,608 +1,2067 @@
 {
-"page": 2,
-"limit": 100,
-"explicit": false,
-"has_more": true,
-"list": [
-{
-"id": "x7b9bo7",
-"title": "JAI_GANGA_MAIYA_RAMANAND_SAGAR_EPISODE- 01",
-"channel": "tv",
-"owner": "x2ad91o"
-},
-{
-"id": "x7bcuwm",
-"title": "JAI GANGA MAIYA RAMANAND SAGAR EPISODE-02",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7benaa",
-"title": "JAI GANGA MAIYA RAMANAND SAGAR EPISODE-03",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7bgx9b",
-"title": "JAI_GANGA_MAIYA_RAMANAND_SAGAR_EPISODE-04",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7bjseh",
-"title": "JAI_GANGA_MAIYA_RAMANAND_SAGAR_EPISODE-05",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7bl9ig",
-"title": "JAI_GANGA_MAIYA_RAMANAND_SAGAR_EPISODE-06",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7bmlnc",
-"title": "JAI_GANGA_MAIYA_RAMANAND_SAGAR_EPISODE-07",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7bpx7d",
-"title": "JAI_GANGA_MAIYA_RAMANAND_SAGAR_EPISODE-08",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7bpyin",
-"title": "JAI_GANGA_MAIYA_RAMANAND_SAGAR_EPISODE-09",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7buhkj",
-"title": "JAI_GANGA_MAIYA_RAMANAND_SAGAR_EPISODE-10",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7buqwz",
-"title": "JAI_GANGA_MAIYA_RAMANAND_SAGAR_EPISODE-11",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7bxltv",
-"title": "JAI_GANGA_MAIYA_RAMANAND_SAGAR_EPISODE-12",
-"channel": "creation",
-"owner": "x2ad91o"
-},
-{
-"id": "x7c1qij",
-"title": "JAI_GANGA_MAIYA_RAMANAND_SAGAR_EPISODE - 14",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7bzkpb",
-"title": "JAI_GANGA_MAIYA_RAMANAND_SAGAR_EPISODE-13",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7c4fge",
-"title": "JAI_GANGA_MAIYA_RAMANAND_SAGAR_EPISODE-15",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7c9gi3",
-"title": "JAI GANGA MAIYA RAMANAND SAGAR EPISODE-16",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7ccmrv",
-"title": "JAI GANGA MAIYA RAMANAND SAGAR EPISODE-17",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7cerq8",
-"title": "JAI GANGA MAIYA RAMANAND SAGAR EPISODE-18",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7chdi8",
-"title": "JAI GANGA MAIYA RAMANAND SAGAR EPISODE-19",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7cpckb",
-"title": "JAI GANGA MAIYA RAMANAND SAGAR EPISODE-22",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7cn2d8",
-"title": "JAI GANGA MAIYA RAMANAND SAGAR EPISODE-21",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7ck3nf",
-"title": "JAI GANGA MAIYA RAMANAND SAGAR EPISODE-20",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7cpimq",
-"title": "JAI GANGA MAIYA RAMANAND SAGAR EPISODE-23",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7cugdp",
-"title": "JAI GANGA MAIYA RAMANAND SAGAR EPISODE-24",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7cy7ct",
-"title": "JAI_GANGA_MAIYA_RAMANAND_SAGAR_EPISODE 25",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7d0871",
-"title": "JAI_GANGA_MAIYA_RAMANAND_SAGAR_EPISODE - 26",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7d3tpu",
-"title": "JAI_GANGA_MAIYA_RAMANAND_SAGAR_EPISODE- 27",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7d6pdr",
-"title": "JAI_GANGA_MAIYA_RAMANAND_SAGAR_EPISODE - 28",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7d8lsj",
-"title": "JAI_GANGA_MAIYA_RAMANAND_SAGAR_EPISODE - 29",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7davoj",
-"title": "JAI_GANGA_MAIYA_RAMANAND_SAGAR_EPISODE - 30",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7debij",
-"title": "JAI_GANGA_MAIYA_RAMANAND_SAGAR_EPISODE 31",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7dkzeg",
-"title": "JAI_GANGA_MAIYA_RAMANAND_SAGAR_EPISODE - 33",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7dinp6",
-"title": "JAI_GANGA_MAIYA_RAMANAND_SAGAR_EPISODE - 32",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7dnwzd",
-"title": "JAI_GANGA_MAIYA_RAMANAND_SAGAR_EPISODE - 34",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7dqaos",
-"title": "JAI_GANGA_MAIYA_RAMANAND_SAGAR_EPISODE - 35",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7dtrwc",
-"title": "JAI_GANGA_MAIYA_RAMANAND_SAGAR_EPISODE - 36",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7dw9zs",
-"title": "JAI_GANGA_MAIYA_RAMANAND_SAGAR_EPISODE -37",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7e1hca",
-"title": "JAI_GANGA_MAIYA_RAMANAND_SAGAR_EPISODE - 38",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7e538z",
-"title": "JAI_GANGA_MAIYA_RAMANAND_SAGAR_EPISODE - 39",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7e8evc",
-"title": "JAI_GANGA_MAIYA_RAMANAND_SAGAR_EPISODE - 40",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7ecg9d",
-"title": "JAI_GANGA_MAIYA_RAMANAND_SAGAR_EPISODE - 41",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7egea2",
-"title": "JAI_GANGA_MAIYA_RAMANAND_SAGAR_EPISODE - 42",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7ejsyu",
-"title": "JAI_GANGA_MAIYA_RAMANAND_SAGAR_EPISODE - 43",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7empvq",
-"title": "JAI_GANGA_MAIYA_RAMANAND_SAGAR_EPISODE - 44",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7et9i8",
-"title": "JAI_GANGA_MAIYA_RAMANAND_SAGAR_EPISODE - 46",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7eqrs9",
-"title": "JAI_GANGA_MAIYA_RAMANAND_SAGAR_EPISODE - 45",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7ex9q1",
-"title": "JAI GANGA MAYIM RAMANAND SAGAR EPISODE - 47",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7f30w8",
-"title": "JAI GANGA MAYIM RAMANAND SAGAR EPISODE - 48",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7fe7nq",
-"title": "JAI GANGA MAYIM RAMANAND SAGAR EPISODE  - 51",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7f8tww",
-"title": "JAI GANGA MAYIM RAMANAND SAGAR EPISODE - 49",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7fbdzl",
-"title": "JAI GANGA MAYIM RAMANAND SAGAR EPISODE  - 50",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7foyzv",
-"title": "JAI GANGA MAIYA RAMANAND SAGAR EPISODE  - 53",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7fhlg1",
-"title": "JAI GANGA MAYIM RAMANAND SAGAR EPISODE - 52",
-"channel": "people",
-"owner": "x2ad91o"
-},
-{
-"id": "x7fsil3",
-"title": "JAI GANGA MAIYA RAMANAND SAGAR EPISODE - 54",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7fvx79",
-"title": "JAI GANGA MAIYA RAMANAND SAGAR EPISODE - 55",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7g9tcn",
-"title": "JAI GANGA MAIYA RAMANAND SAGAR EPISODE - 57",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7g4gtd",
-"title": "JAI GANGA MAIYA RAMANAND SAGAR EPISODE - 56",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7gekkh",
-"title": "JAI GANGA MAIYA RAMANAND SAGAR EPISODE - 58",
-"channel": "lifestyle",
-"owner": "x2ad91o"
-},
-{
-"id": "x7gmywm",
-"title": "JAI ganga maiya RAMANAND SAGAR EPISODE - 60",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7gj468",
-"title": "JAI GANGA MAIYA RAMANAND SAGAR EPISODE - 59",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7gsf21",
-"title": "JAI GANGA MAIYA RAMANAND SAGAR EPISODE - 61",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7gvt9k",
-"title": "JAI GANGA MAIYA RAMANAND SAGAR EPISODE - 62",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7h1pn9",
-"title": "JAI GANGA MAIYA RAMANAND SAGAR EPISODE - 63",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7h7ltz",
-"title": "JAI GANGA MAIYA RAMANAND SAGAR EPISODE - 64",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7hdsv7",
-"title": "JAI GANGA MAIYA RAMANAND SAGAR EPISODE - 65",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7hkf7i",
-"title": "JAI GANGA MAIYA RAMANAND SAGAR EPISODE - 66",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7hqie6",
-"title": "JAI GANGA MAIYA RAMANAND SAGAR EPISODE - 67",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7hz1vd",
-"title": "JAI GANGA MAIYA RAMANAND SAGAR EPISODE - 68",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7ia9w4",
-"title": "JAI GANGA MAIYA RAMANAND SAGAR EPISODE - 69",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7ikuep",
-"title": "JAI GANGA MAIYA RAMANAND SAGAR EPISODE - 70",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7iuvrn",
-"title": "JAI GANGA MAIYA RAMANAND SAGAR EPISODE - 71",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7j5gix",
-"title": "JAI GANGA MAIYA RAMANAND SAGAR EPISODE - 72",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7jc1yj",
-"title": "JAI GANGA MAIYA RAMANAND SAGAR EPISODE - 73",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7jrk65",
-"title": "JAI GANGA MAIYA RAMANAND SAGAR EPISODE - 74",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7k2mij",
-"title": "JAI GANGA MAIYA RAMANAND SAGAR EPISODE - 75",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7k6fm2",
-"title": "JAI GANGA MAIYA RAMANAND SAGAR EPISODE - 76",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7k9kib",
-"title": "JAI GANGA MAIYA RAMANAND SAGAR EPISODE- 77",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7kendm",
-"title": "JAI GANGA MAIYA RAMANAND SAGAR EPISODE - 78",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7kk5h4",
-"title": "JAI GANGA MAIYA RAMANAND SAGAR EPISODE - 79",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7kp1xr",
-"title": "JAI GANGA MAIYA RAMANAND SAGAR EPISODE - 80",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7kuedi",
-"title": "JAI GANGA MAIYA RAMANAND SAGAR EPISODE - 82",
-"channel": "tv",
-"owner": "x2ad91o"
-},
-{
-"id": "x7ksoj3",
-"title": "JAI GANGA MAIYA RAMANAND SAGAR EPISODE - 81",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7kwpcb",
-"title": "JAI GANGA MAIYA RAMANAND SAGAR EPISODE - 83",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7l0ael",
-"title": "JAI GANGA MAIYA RAMANAND SAGAR EPISODE - 84",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7l619b",
-"title": "JAI GANGA MAIYA RAMANAND SAGAR EPISODE - 86",
-"channel": "tv",
-"owner": "x2ad91o"
-},
-{
-"id": "x7l2iqb",
-"title": "JAI GANGA MAIYA RAMANAND SAGAR EPISODE - 85",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7l8bbw",
-"title": "JAI GANGA MAIYA RAMANAND SAGAR EPISODE - 87",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7la11l",
-"title": "JAI GANGA MAIYA RAMANAND SAGAR EPISODE - 88",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7lc8rv",
-"title": "JAI GANGA MAIYA RAMANAND SAGAR EPISODE - 89",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7leauu",
-"title": "JAI GANGA MAIYA RAMANAND SAGAR EPISODE - 90",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7lihw3",
-"title": "JAI GANGA MAIYA RAMANAND SAGAR EPISODE - 92",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7lgkxt",
-"title": "JAI GANGA MAIYA RAMANAND SAGAR EPISODE  - 91",
-"channel": "fun",
-"owner": "x2ad91o"
-},
-{
-"id": "x7lka8n",
-"title": "JAI GANGA MAIYA RAMANAND SAGAR EPISODE - 93",
-"channel": "tv",
-"owner": "x2ad91o"
-},
-{
-"id": "x7llyq8",
-"title": "JAI GANGA MAIYA RAMANAND SAGAR EPISODE - 94",
-"channel": "tv",
-"owner": "x2ad91o"
-},
-{
-"id": "x7lnbp9",
-"title": "JAI GANGA MAIYA RAMANAND SAGAR EPISODE  - 95",
-"channel": "tv",
-"owner": "x2ad91o"
-},
-{
-"id": "x7lp7nu",
-"title": "JAI GANGA MAIYA RAMANAND SAGAR EPISODE  - 96",
-"channel": "tv",
-"owner": "x2ad91o"
-},
-{
-"id": "x7mcmdm",
-"title": "JAI GANGA MAIYA RAMANAND SAGAR LEST EPISODE  - 107 THE END",
-"channel": "tv",
-"owner": "x2ad91o"
-},
-{
-"id": "x7mapx9",
-"title": "JAI GANGA MAIYA RAMANAND SAGAR EPISODE  - 106",
-"channel": "tv",
-"owner": "x2ad91o"
-},
-{
-"id": "x7m8l91",
-"title": "JAI GANGA MAIYA RAMANAND SAGAR EPISODE - 105",
-"channel": "tv",
-"owner": "x2ad91o"
-},
-{
-"id": "x7m6x7l",
-"title": "JAI GANGA MAIYA RAMANAND SAGAR EPISODE - 104",
-"channel": "tv",
-"owner": "x2ad91o"
+"kind": "youtube#playlistItemListResponse",
+"etag": "HqUVKgygH5ySwZ1i2-9CGu77cIo",
+"nextPageToken": "CDIQAA",
+"items": [
+{
+"kind": "youtube#playlistItem",
+"etag": "mQnmrf-F0zJazR6RihAqKZz-d84",
+"id": "UEw5cWttSGFOV1pYWUZ2aVdqd1JIODZDRGNnTGFHdXZrSy41NkI0NEY2RDEwNTU3Q0M2",
+"snippet": {
+"publishedAt": "2020-07-16T18:23:51Z",
+"channelId": "UCxcHpdMNccSc-vBJcf2TuqQ",
+"title": "Private video",
+"description": "This video is private.",
+"thumbnails": {},
+"channelTitle": "Shiv & bhakti शिव & भक्ति",
+"playlistId": "PL9qkmHaNWZXYFviWjwRH86CDcgLaGuvkK",
+"position": 0,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "iiB1gW6mp1c"
 }
-]
+},
+"contentDetails": {
+"videoId": "iiB1gW6mp1c"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "neLrvRaCZh_fUVQzC25vLUhDyHE",
+"id": "UEw5cWttSGFOV1pYWUZ2aVdqd1JIODZDRGNnTGFHdXZrSy4yODlGNEE0NkRGMEEzMEQy",
+"snippet": {
+"publishedAt": "2020-07-17T07:10:45Z",
+"channelId": "UCxcHpdMNccSc-vBJcf2TuqQ",
+"title": "Jai Ganga Maiya Full  Episode - 3 | RAMANAND SAGAR | Jai Ganga Maa ki Shakti",
+"description": "चैनल में आपका हार्दिक स्वागत है\n ऑल एपिसोड देखने के लिए मेरे चैनल को सब्सक्राइब कीजिए  शेयर कीजिए लाइक कीजिए आपका धन्यवाद       \n\n#JayGangaMaiya #Shivbhakti #RamanandSagar\n बेस्ट कलाकार सर्वदमन डी बनर्जी\n रीना कपूर\n\nMAINLY BASED ON\n\n श्रीमद् देवी भागवत\n पदमा महापुराण\n भगवत महापुराण\n दुर्गा सप्तशती\n  स्कंद महापुराण \n वामन पुराण\n\nMANLY BASED ON\n   मार्कंडेय महापुराण\n महाभारत\n रामायण\n नारद महापुराण\n ब्रह्मा   बेवारथ महापुराण\n \nVIDEO RECORDIST\n\n रमेश बोरीचा\n शेखर भुजबल\nART DIRECTOR\n मुकेश कलोला\n \nCINEMATOGRAPHY\n\n अविनाश  सतोष कार\n संतोष कुमार\n CIEF SOUND RECORDEAT\n \n               E .  रुद्रा\nEDITED BY\n नरेंद्र अरोड़ा\n दिलीप सुराणा\n                 LYRICS & MUSIC BY\n                          रविंद्र जैन\nRESEARCH & ADAPTATION\n राम चंद्रा  सदिकार\n अमजद शेख\nDr . B.P.    व्यास\n                      TITLE SONG  BY\n                      रवि\nCHIEF TECHNICAL ASVISOR\n         ज्योति सागर\nSCREENPLAY &  DIALOGUE\n            रामानंद सागर\nPRODUCED BY\n रामानंद सागर\n सुभाष सागर\n प्रेम सागर\n \nDIRECTED Y\n रामानंद सागर\n आनंद सागर\n मोती सागर\n\n\n\n\n\n\nDisclaimer :-  Copyright Disclaimer Under Section 107 Of The Copyright Act 1976 Allowance is made for \" fair use \" for the purpose Such as criticism Comment, News Reporting, Teaching, scholarship and research. Fair use is a use permitted by copyright status that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favour of fair use.",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/6WUj_yGH5DE/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/6WUj_yGH5DE/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/6WUj_yGH5DE/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/6WUj_yGH5DE/sddefault.jpg",
+"width": 640,
+"height": 480
+}
+},
+"channelTitle": "Shiv & bhakti शिव & भक्ति",
+"playlistId": "PL9qkmHaNWZXYFviWjwRH86CDcgLaGuvkK",
+"position": 1,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "6WUj_yGH5DE"
+}
+},
+"contentDetails": {
+"videoId": "6WUj_yGH5DE",
+"videoPublishedAt": "2020-07-11T17:22:29Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "VLVESYeFxIJHREbds7BVUq9sduw",
+"id": "UEw5cWttSGFOV1pYWUZ2aVdqd1JIODZDRGNnTGFHdXZrSy4wMTcyMDhGQUE4NTIzM0Y5",
+"snippet": {
+"publishedAt": "2020-07-17T07:10:52Z",
+"channelId": "UCxcHpdMNccSc-vBJcf2TuqQ",
+"title": "Jai Ganga Maiya Full  Episode - 4 | RAMANAND SAGAR | Jai Ganga Maa ki Shakti",
+"description": "चैनल में आपका हार्दिक स्वागत है\n ऑल एपिसोड देखने के लिए मेरे चैनल को सब्सक्राइब कीजिए  शेयर कीजिए लाइक कीजिए आपका धन्यवाद       \n\n#JayGangaMaiya #Shivbhakti #RamanandSagar\n बेस्ट कलाकार सर्वदमन डी बनर्जी\n रीना कपूर\n\nMAINLY BASED ON\n\n श्रीमद् देवी भागवत\n पदमा महापुराण\n भगवत महापुराण\n दुर्गा सप्तशती\n  स्कंद महापुराण \n वामन पुराण\n\nMANLY BASED ON\n   मार्कंडेय महापुराण\n महाभारत\n रामायण\n नारद महापुराण\n ब्रह्मा   बेवारथ महापुराण\n \nVIDEO RECORDIST\n\n रमेश बोरीचा\n शेखर भुजबल\nART DIRECTOR\n मुकेश कलोला\n \nCINEMATOGRAPHY\n\n अविनाश  सतोष कार\n संतोष कुमार\n CIEF SOUND RECORDEAT\n \n               E .  रुद्रा\nEDITED BY\n नरेंद्र अरोड़ा\n दिलीप सुराणा\n                 LYRICS & MUSIC BY\n                          रविंद्र जैन\nRESEARCH & ADAPTATION\n राम चंद्रा  सदिकार\n अमजद शेख\nDr . B.P.    व्यास\n                      TITLE SONG  BY\n                      रवि\nCHIEF TECHNICAL ASVISOR\n         ज्योति सागर\nSCREENPLAY &  DIALOGUE\n            रामानंद सागर\nPRODUCED BY\n रामानंद सागर\n सुभाष सागर\n प्रेम सागर\n \nDIRECTED Y\n रामानंद सागर\n आनंद सागर\n मोती सागर\n\n\n\n\n\n\nDisclaimer :-  Copyright Disclaimer Under Section 107 Of The Copyright Act 1976 Allowance is made for \" fair use \" for the purpose Such as criticism Comment, News Reporting, Teaching, scholarship and research. Fair use is a use permitted by copyright status that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favour of fair use.",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/ewgDlAmok4Q/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/ewgDlAmok4Q/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/ewgDlAmok4Q/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/ewgDlAmok4Q/sddefault.jpg",
+"width": 640,
+"height": 480
+}
+},
+"channelTitle": "Shiv & bhakti शिव & भक्ति",
+"playlistId": "PL9qkmHaNWZXYFviWjwRH86CDcgLaGuvkK",
+"position": 2,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "ewgDlAmok4Q"
+}
+},
+"contentDetails": {
+"videoId": "ewgDlAmok4Q",
+"videoPublishedAt": "2020-07-11T17:28:09Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "Fu7gjFIceI759GgHuKDh-QUiTWA",
+"id": "UEw5cWttSGFOV1pYWUZ2aVdqd1JIODZDRGNnTGFHdXZrSy41MjE1MkI0OTQ2QzJGNzNG",
+"snippet": {
+"publishedAt": "2020-07-17T07:11:00Z",
+"channelId": "UCxcHpdMNccSc-vBJcf2TuqQ",
+"title": "Jai Ganga Maiya Full  Episode -5  | RAMANAND SAGAR | Jai Ganga Maa ki Shakti",
+"description": "चैनल में आपका हार्दिक स्वागत है\n ऑल एपिसोड देखने के लिए मेरे चैनल को सब्सक्राइब कीजिए  शेयर कीजिए लाइक कीजिए आपका धन्यवाद       \n\n#JayGangaMaiya #Shivbhakti #RamanandSagar\n बेस्ट कलाकार सर्वदमन डी बनर्जी\n रीना कपूर\n\nMAINLY BASED ON\n\n श्रीमद् देवी भागवत\n पदमा महापुराण\n भगवत महापुराण\n दुर्गा सप्तशती\n  स्कंद महापुराण \n वामन पुराण\n\nMANLY BASED ON\n   मार्कंडेय महापुराण\n महाभारत\n रामायण\n नारद महापुराण\n ब्रह्मा   बेवारथ महापुराण\n \nVIDEO RECORDIST\n\n रमेश बोरीचा\n शेखर भुजबल\nART DIRECTOR\n मुकेश कलोला\n \nCINEMATOGRAPHY\n\n अविनाश  सतोष कार\n संतोष कुमार\n CIEF SOUND RECORDEAT\n \n               E .  रुद्रा\nEDITED BY\n नरेंद्र अरोड़ा\n दिलीप सुराणा\n                 LYRICS & MUSIC BY\n                          रविंद्र जैन\nRESEARCH & ADAPTATION\n राम चंद्रा  सदिकार\n अमजद शेख\nDr . B.P.    व्यास\n                      TITLE SONG  BY\n                      रवि\nCHIEF TECHNICAL ASVISOR\n         ज्योति सागर\nSCREENPLAY &  DIALOGUE\n            रामानंद सागर\nPRODUCED BY\n रामानंद सागर\n सुभाष सागर\n प्रेम सागर\n \nDIRECTED Y\n रामानंद सागर\n आनंद सागर\n मोती सागर\n\n\n\n\n\n\nDisclaimer :-  Copyright Disclaimer Under Section 107 Of The Copyright Act 1976 Allowance is made for \" fair use \" for the purpose Such as criticism Comment, News Reporting, Teaching, scholarship and research. Fair use is a use permitted by copyright status that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favour of fair use.",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/nR_ZwuCrMnk/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/nR_ZwuCrMnk/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/nR_ZwuCrMnk/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/nR_ZwuCrMnk/sddefault.jpg",
+"width": 640,
+"height": 480
+}
+},
+"channelTitle": "Shiv & bhakti शिव & भक्ति",
+"playlistId": "PL9qkmHaNWZXYFviWjwRH86CDcgLaGuvkK",
+"position": 3,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "nR_ZwuCrMnk"
+}
+},
+"contentDetails": {
+"videoId": "nR_ZwuCrMnk",
+"videoPublishedAt": "2020-07-11T17:29:00Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "QRE3nfFBu6SJNb3t_wPVIT_TY5U",
+"id": "UEw5cWttSGFOV1pYWUZ2aVdqd1JIODZDRGNnTGFHdXZrSy4wOTA3OTZBNzVEMTUzOTMy",
+"snippet": {
+"publishedAt": "2020-07-17T07:11:08Z",
+"channelId": "UCxcHpdMNccSc-vBJcf2TuqQ",
+"title": "Private video",
+"description": "This video is private.",
+"thumbnails": {},
+"channelTitle": "Shiv & bhakti शिव & भक्ति",
+"playlistId": "PL9qkmHaNWZXYFviWjwRH86CDcgLaGuvkK",
+"position": 4,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "BOuTbQ-jucU"
+}
+},
+"contentDetails": {
+"videoId": "BOuTbQ-jucU"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "o6vUqzWds16q-dAWIErTsRf7Uj0",
+"id": "UEw5cWttSGFOV1pYWUZ2aVdqd1JIODZDRGNnTGFHdXZrSy4xMkVGQjNCMUM1N0RFNEUx",
+"snippet": {
+"publishedAt": "2020-07-17T07:11:13Z",
+"channelId": "UCxcHpdMNccSc-vBJcf2TuqQ",
+"title": "Jai Ganga Maiya Full  Episode - 7 | RAMANAND SAGAR | Jai Ganga Maa ki Shakti",
+"description": "चैनल में आपका हार्दिक स्वागत है\n ऑल एपिसोड देखने के लिए मेरे चैनल को सब्सक्राइब कीजिए  शेयर कीजिए लाइक कीजिए आपका धन्यवाद       \n\n#JayGangaMaiya #Shivbhakti #RamanandSagar\n बेस्ट कलाकार सर्वदमन डी बनर्जी\n रीना कपूर\n\nMAINLY BASED ON\n\n श्रीमद् देवी भागवत\n पदमा महापुराण\n भगवत महापुराण\n दुर्गा सप्तशती\n  स्कंद महापुराण \n वामन पुराण\n\nMANLY BASED ON\n   मार्कंडेय महापुराण\n महाभारत\n रामायण\n नारद महापुराण\n ब्रह्मा   बेवारथ महापुराण\n \nVIDEO RECORDIST\n\n रमेश बोरीचा\n शेखर भुजबल\nART DIRECTOR\n मुकेश कलोला\n \nCINEMATOGRAPHY\n\n अविनाश  सतोष कार\n संतोष कुमार\n CIEF SOUND RECORDEAT\n \n               E .  रुद्रा\nEDITED BY\n नरेंद्र अरोड़ा\n दिलीप सुराणा\n                 LYRICS & MUSIC BY\n                          रविंद्र जैन\nRESEARCH & ADAPTATION\n राम चंद्रा  सदिकार\n अमजद शेख\nDr . B.P.    व्यास\n                      TITLE SONG  BY\n                      रवि\nCHIEF TECHNICAL ASVISOR\n         ज्योति सागर\nSCREENPLAY &  DIALOGUE\n            रामानंद सागर\nPRODUCED BY\n रामानंद सागर\n सुभाष सागर\n प्रेम सागर\n \nDIRECTED Y\n रामानंद सागर\n आनंद सागर\n मोती सागर\n\n\n\n\n\n\nDisclaimer :-  Copyright Disclaimer Under Section 107 Of The Copyright Act 1976 Allowance is made for \" fair use \" for the purpose Such as criticism Comment, News Reporting, Teaching, scholarship and research. Fair use is a use permitted by copyright status that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favour of fair use.",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/6v1wS3JlXEU/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/6v1wS3JlXEU/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/6v1wS3JlXEU/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/6v1wS3JlXEU/sddefault.jpg",
+"width": 640,
+"height": 480
+}
+},
+"channelTitle": "Shiv & bhakti शिव & भक्ति",
+"playlistId": "PL9qkmHaNWZXYFviWjwRH86CDcgLaGuvkK",
+"position": 5,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "6v1wS3JlXEU"
+}
+},
+"contentDetails": {
+"videoId": "6v1wS3JlXEU",
+"videoPublishedAt": "2020-07-14T17:06:33Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "ttswqUkOmQNb6ofFPBLtoBR5pYY",
+"id": "UEw5cWttSGFOV1pYWUZ2aVdqd1JIODZDRGNnTGFHdXZrSy41MzJCQjBCNDIyRkJDN0VD",
+"snippet": {
+"publishedAt": "2020-07-17T07:11:20Z",
+"channelId": "UCxcHpdMNccSc-vBJcf2TuqQ",
+"title": "Jai Ganga Maiya Full  Episode - 8 | RAMANAND SAGAR | Jai Ganga Maa ki Shakti",
+"description": "चैनल में आपका हार्दिक स्वागत है\n ऑल एपिसोड देखने के लिए मेरे चैनल को सब्सक्राइब कीजिए  शेयर कीजिए लाइक कीजिए आपका धन्यवाद       \n\n#JayGangaMaiya #Shivbhakti #RamanandSagar\n बेस्ट कलाकार सर्वदमन डी बनर्जी\n रीना कपूर\n\nMAINLY BASED ON\n\n श्रीमद् देवी भागवत\n पदमा महापुराण\n भगवत महापुराण\n दुर्गा सप्तशती\n  स्कंद महापुराण \n वामन पुराण\n\nMANLY BASED ON\n   मार्कंडेय महापुराण\n महाभारत\n रामायण\n नारद महापुराण\n ब्रह्मा   बेवारथ महापुराण\n \nVIDEO RECORDIST\n\n रमेश बोरीचा\n शेखर भुजबल\nART DIRECTOR\n मुकेश कलोला\n \nCINEMATOGRAPHY\n\n अविनाश  सतोष कार\n संतोष कुमार\n CIEF SOUND RECORDEAT\n \n               E .  रुद्रा\nEDITED BY\n नरेंद्र अरोड़ा\n दिलीप सुराणा\n                 LYRICS & MUSIC BY\n                          रविंद्र जैन\nRESEARCH & ADAPTATION\n राम चंद्रा  सदिकार\n अमजद शेख\nDr . B.P.    व्यास\n                      TITLE SONG  BY\n                      रवि\nCHIEF TECHNICAL ASVISOR\n         ज्योति सागर\nSCREENPLAY &  DIALOGUE\n            रामानंद सागर\nPRODUCED BY\n रामानंद सागर\n सुभाष सागर\n प्रेम सागर\n \nDIRECTED Y\n रामानंद सागर\n आनंद सागर\n मोती सागर\n\n\n\n\n\n\nDisclaimer :-  Copyright Disclaimer Under Section 107 Of The Copyright Act 1976 Allowance is made for \" fair use \" for the purpose Such as criticism Comment, News Reporting, Teaching, scholarship and research. Fair use is a use permitted by copyright status that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favour of fair use.",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/0pQGyxgRFqk/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/0pQGyxgRFqk/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/0pQGyxgRFqk/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/0pQGyxgRFqk/sddefault.jpg",
+"width": 640,
+"height": 480
+}
+},
+"channelTitle": "Shiv & bhakti शिव & भक्ति",
+"playlistId": "PL9qkmHaNWZXYFviWjwRH86CDcgLaGuvkK",
+"position": 6,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "0pQGyxgRFqk"
+}
+},
+"contentDetails": {
+"videoId": "0pQGyxgRFqk",
+"videoPublishedAt": "2020-07-15T14:04:01Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "aqYKHv66v_pPyrH05LpjA3dmgdg",
+"id": "UEw5cWttSGFOV1pYWUZ2aVdqd1JIODZDRGNnTGFHdXZrSy5DQUNERDQ2NkIzRUQxNTY1",
+"snippet": {
+"publishedAt": "2020-07-17T07:11:49Z",
+"channelId": "UCxcHpdMNccSc-vBJcf2TuqQ",
+"title": "Jai Ganga Maiya Episode - 10 RAMANAND SAGAR",
+"description": "चैनल में आपका हार्दिक स्वागत है\n ऑल एपिसोड देखने के लिए मेरे चैनल को सब्सक्राइब कीजिए  शेयर कीजिए लाइक कीजिए आपका धन्यवाद       \n\n#JayGangaMaiya #Shivbhakti #RamanandSagar\n बेस्ट कलाकार सर्वदमन डी बनर्जी\n रीना कपूर\n\nMAINLY BASED ON\n\n श्रीमद् देवी भागवत\n पदमा महापुराण\n भगवत महापुराण\n दुर्गा सप्तशती\n  स्कंद महापुराण \n वामन पुराण\n\nMANLY BASED ON\n   मार्कंडेय महापुराण\n महाभारत\n रामायण\n नारद महापुराण\n ब्रह्मा   बेवारथ महापुराण\n \nVIDEO RECORDIST\n\n रमेश बोरीचा\n शेखर भुजबल\nART DIRECTOR\n मुकेश कलोला\n \nCINEMATOGRAPHY\n\n अविनाश  सतोष कार\n संतोष कुमार\n CIEF SOUND RECORDEAT\n \n               E .  रुद्रा\nEDITED BY\n नरेंद्र अरोड़ा\n दिलीप सुराणा\n                 LYRICS & MUSIC BY\n                          रविंद्र जैन\nRESEARCH & ADAPTATION\n राम चंद्रा  सदिकार\n अमजद शेख\nDr . B.P.    व्यास\n                      TITLE SONG  BY\n                      रवि\nCHIEF TECHNICAL ASVISOR\n         ज्योति सागर\nSCREENPLAY &  DIALOGUE\n            रामानंद सागर\nPRODUCED BY\n रामानंद सागर\n सुभाष सागर\n प्रेम सागर\n \nDIRECTED Y\n रामानंद सागर\n आनंद सागर\n मोती सागर\n\n\n\n\n\n\nDisclaimer :-  Copyright Disclaimer Under Section 107 Of The Copyright Act 1976 Allowance is made for \" fair use \" for the purpose Such as criticism Comment, News Reporting, Teaching, scholarship and research. Fair use is a use permitted by copyright status that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favour of fair use.",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/oRkvKTvGi64/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/oRkvKTvGi64/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/oRkvKTvGi64/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/oRkvKTvGi64/sddefault.jpg",
+"width": 640,
+"height": 480
+}
+},
+"channelTitle": "Shiv & bhakti शिव & भक्ति",
+"playlistId": "PL9qkmHaNWZXYFviWjwRH86CDcgLaGuvkK",
+"position": 7,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "oRkvKTvGi64"
+}
+},
+"contentDetails": {
+"videoId": "oRkvKTvGi64",
+"videoPublishedAt": "2020-07-16T17:29:18Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "b24d_AZpjV-65AyAqXtDnKLtdB0",
+"id": "UEw5cWttSGFOV1pYWUZ2aVdqd1JIODZDRGNnTGFHdXZrSy45NDk1REZENzhEMzU5MDQz",
+"snippet": {
+"publishedAt": "2020-07-17T07:11:56Z",
+"channelId": "UCxcHpdMNccSc-vBJcf2TuqQ",
+"title": "Jai Ganga Maiya Episode - 11 RAMANAND SAGAR",
+"description": "चैनल में आपका हार्दिक स्वागत है\n ऑल एपिसोड देखने के लिए मेरे चैनल को सब्सक्राइब कीजिए  शेयर कीजिए लाइक कीजिए आपका धन्यवाद       \n\n#JayGangaMaiya #Shivbhakti #RamanandSagar\n बेस्ट कलाकार सर्वदमन डी बनर्जी\n रीना कपूर\n\nMAINLY BASED ON\n\n श्रीमद् देवी भागवत\n पदमा महापुराण\n भगवत महापुराण\n दुर्गा सप्तशती\n  स्कंद महापुराण \n वामन पुराण\n\nMANLY BASED ON\n   मार्कंडेय महापुराण\n महाभारत\n रामायण\n नारद महापुराण\n ब्रह्मा   बेवारथ महापुराण\n \nVIDEO RECORDIST\n\n रमेश बोरीचा\n शेखर भुजबल\nART DIRECTOR\n मुकेश कलोला\n \nCINEMATOGRAPHY\n\n अविनाश  सतोष कार\n संतोष कुमार\n CIEF SOUND RECORDEAT\n \n               E .  रुद्रा\nEDITED BY\n नरेंद्र अरोड़ा\n दिलीप सुराणा\n                 LYRICS & MUSIC BY\n                          रविंद्र जैन\nRESEARCH & ADAPTATION\n राम चंद्रा  सदिकार\n अमजद शेख\nDr . B.P.    व्यास\n                      TITLE SONG  BY\n                      रवि\nCHIEF TECHNICAL ASVISOR\n         ज्योति सागर\nSCREENPLAY &  DIALOGUE\n            रामानंद सागर\nPRODUCED BY\n रामानंद सागर\n सुभाष सागर\n प्रेम सागर\n \nDIRECTED Y\n रामानंद सागर\n आनंद सागर\n मोती सागर\n\n\n\n\n\n\nDisclaimer :-  Copyright Disclaimer Under Section 107 Of The Copyright Act 1976 Allowance is made for \" fair use \" for the purpose Such as criticism Comment, News Reporting, Teaching, scholarship and research. Fair use is a use permitted by copyright status that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favour of fair use.",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/P1f6QqzfTCo/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/P1f6QqzfTCo/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/P1f6QqzfTCo/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/P1f6QqzfTCo/sddefault.jpg",
+"width": 640,
+"height": 480
+}
+},
+"channelTitle": "Shiv & bhakti शिव & भक्ति",
+"playlistId": "PL9qkmHaNWZXYFviWjwRH86CDcgLaGuvkK",
+"position": 8,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "P1f6QqzfTCo"
+}
+},
+"contentDetails": {
+"videoId": "P1f6QqzfTCo",
+"videoPublishedAt": "2020-07-16T17:43:44Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "m8D9_gP1D47WJueSL3x2eGrf4oE",
+"id": "UEw5cWttSGFOV1pYWUZ2aVdqd1JIODZDRGNnTGFHdXZrSy5GNjNDRDREMDQxOThCMDQ2",
+"snippet": {
+"publishedAt": "2020-07-17T07:12:02Z",
+"channelId": "UCxcHpdMNccSc-vBJcf2TuqQ",
+"title": "Jai Ganga Maiya Episode - 12 RAMANAND SAGAR",
+"description": "चैनल में आपका हार्दिक स्वागत है\n ऑल एपिसोड देखने के लिए मेरे चैनल को सब्सक्राइब कीजिए  शेयर कीजिए लाइक कीजिए आपका धन्यवाद       \n\n#JayGangaMaiya #Shivbhakti #RamanandSagar\n बेस्ट कलाकार सर्वदमन डी बनर्जी\n रीना कपूर\n\nMAINLY BASED ON\n\n श्रीमद् देवी भागवत\n पदमा महापुराण\n भगवत महापुराण\n दुर्गा सप्तशती\n  स्कंद महापुराण \n वामन पुराण\n\nMANLY BASED ON\n   मार्कंडेय महापुराण\n महाभारत\n रामायण\n नारद महापुराण\n ब्रह्मा   बेवारथ महापुराण\n \nVIDEO RECORDIST\n\n रमेश बोरीचा\n शेखर भुजबल\nART DIRECTOR\n मुकेश कलोला\n \nCINEMATOGRAPHY\n\n अविनाश  सतोष कार\n संतोष कुमार\n CIEF SOUND RECORDEAT\n \n               E .  रुद्रा\nEDITED BY\n नरेंद्र अरोड़ा\n दिलीप सुराणा\n                 LYRICS & MUSIC BY\n                          रविंद्र जैन\nRESEARCH & ADAPTATION\n राम चंद्रा  सदिकार\n अमजद शेख\nDr . B.P.    व्यास\n                      TITLE SONG  BY\n                      रवि\nCHIEF TECHNICAL ASVISOR\n         ज्योति सागर\nSCREENPLAY &  DIALOGUE\n            रामानंद सागर\nPRODUCED BY\n रामानंद सागर\n सुभाष सागर\n प्रेम सागर\n \nDIRECTED Y\n रामानंद सागर\n आनंद सागर\n मोती सागर\n\n\n\n\n\n\nDisclaimer :-  Copyright Disclaimer Under Section 107 Of The Copyright Act 1976 Allowance is made for \" fair use \" for the purpose Such as criticism Comment, News Reporting, Teaching, scholarship and research. Fair use is a use permitted by copyright status that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favour of fair use.",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/9poum5XyG_0/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/9poum5XyG_0/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/9poum5XyG_0/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/9poum5XyG_0/sddefault.jpg",
+"width": 640,
+"height": 480
+}
+},
+"channelTitle": "Shiv & bhakti शिव & भक्ति",
+"playlistId": "PL9qkmHaNWZXYFviWjwRH86CDcgLaGuvkK",
+"position": 9,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "9poum5XyG_0"
+}
+},
+"contentDetails": {
+"videoId": "9poum5XyG_0",
+"videoPublishedAt": "2020-07-16T17:53:40Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "-iaTir8Rp1XJcMkwyn-B-GRvnqY",
+"id": "UEw5cWttSGFOV1pYWUZ2aVdqd1JIODZDRGNnTGFHdXZrSy40NzZCMERDMjVEN0RFRThB",
+"snippet": {
+"publishedAt": "2020-07-17T07:12:06Z",
+"channelId": "UCxcHpdMNccSc-vBJcf2TuqQ",
+"title": "Jai Ganga Maiya Episode - 13 RAMANAND SAGAR",
+"description": "चैनल में आपका हार्दिक स्वागत है\n ऑल एपिसोड देखने के लिए मेरे चैनल को सब्सक्राइब कीजिए  शेयर कीजिए लाइक कीजिए आपका धन्यवाद       \n\n#JayGangaMaiya #Shivbhakti #RamanandSagar\n बेस्ट कलाकार सर्वदमन डी बनर्जी\n रीना कपूर\n\nMAINLY BASED ON\n\n श्रीमद् देवी भागवत\n पदमा महापुराण\n भगवत महापुराण\n दुर्गा सप्तशती\n  स्कंद महापुराण \n वामन पुराण\n\nMANLY BASED ON\n   मार्कंडेय महापुराण\n महाभारत\n रामायण\n नारद महापुराण\n ब्रह्मा   बेवारथ महापुराण\n \nVIDEO RECORDIST\n\n रमेश बोरीचा\n शेखर भुजबल\nART DIRECTOR\n मुकेश कलोला\n \nCINEMATOGRAPHY\n\n अविनाश  सतोष कार\n संतोष कुमार\n CIEF SOUND RECORDEAT\n \n               E .  रुद्रा\nEDITED BY\n नरेंद्र अरोड़ा\n दिलीप सुराणा\n                 LYRICS & MUSIC BY\n                          रविंद्र जैन\nRESEARCH & ADAPTATION\n राम चंद्रा  सदिकार\n अमजद शेख\nDr . B.P.    व्यास\n                      TITLE SONG  BY\n                      रवि\nCHIEF TECHNICAL ASVISOR\n         ज्योति सागर\nSCREENPLAY &  DIALOGUE\n            रामानंद सागर\nPRODUCED BY\n रामानंद सागर\n सुभाष सागर\n प्रेम सागर\n \nDIRECTED Y\n रामानंद सागर\n आनंद सागर\n मोती सागर\n\n\n\n\n\n\nDisclaimer :-  Copyright Disclaimer Under Section 107 Of The Copyright Act 1976 Allowance is made for \" fair use \" for the purpose Such as criticism Comment, News Reporting, Teaching, scholarship and research. Fair use is a use permitted by copyright status that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favour of fair use.",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/SRzeAAIC4ts/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/SRzeAAIC4ts/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/SRzeAAIC4ts/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/SRzeAAIC4ts/sddefault.jpg",
+"width": 640,
+"height": 480
+}
+},
+"channelTitle": "Shiv & bhakti शिव & भक्ति",
+"playlistId": "PL9qkmHaNWZXYFviWjwRH86CDcgLaGuvkK",
+"position": 10,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "SRzeAAIC4ts"
+}
+},
+"contentDetails": {
+"videoId": "SRzeAAIC4ts",
+"videoPublishedAt": "2020-07-16T18:04:30Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "-MY6MKGixej9xsVPomnQssZAhSw",
+"id": "UEw5cWttSGFOV1pYWUZ2aVdqd1JIODZDRGNnTGFHdXZrSy5EMEEwRUY5M0RDRTU3NDJC",
+"snippet": {
+"publishedAt": "2020-07-17T07:12:14Z",
+"channelId": "UCxcHpdMNccSc-vBJcf2TuqQ",
+"title": "Jai Ganga Maiya Episode - 14 RAMANAND SAGAR",
+"description": "चैनल में आपका हार्दिक स्वागत है\n ऑल एपिसोड देखने के लिए मेरे चैनल को सब्सक्राइब कीजिए  शेयर कीजिए लाइक कीजिए आपका धन्यवाद       \n\n#JayGangaMaiya #Shivbhakti #RamanandSagar\n बेस्ट कलाकार सर्वदमन डी बनर्जी\n रीना कपूर\n\nMAINLY BASED ON\n\n श्रीमद् देवी भागवत\n पदमा महापुराण\n भगवत महापुराण\n दुर्गा सप्तशती\n  स्कंद महापुराण \n वामन पुराण\n\nMANLY BASED ON\n   मार्कंडेय महापुराण\n महाभारत\n रामायण\n नारद महापुराण\n ब्रह्मा   बेवारथ महापुराण\n \nVIDEO RECORDIST\n\n रमेश बोरीचा\n शेखर भुजबल\nART DIRECTOR\n मुकेश कलोला\n \nCINEMATOGRAPHY\n\n अविनाश  सतोष कार\n संतोष कुमार\n CIEF SOUND RECORDEAT\n \n               E .  रुद्रा\nEDITED BY\n नरेंद्र अरोड़ा\n दिलीप सुराणा\n                 LYRICS & MUSIC BY\n                          रविंद्र जैन\nRESEARCH & ADAPTATION\n राम चंद्रा  सदिकार\n अमजद शेख\nDr . B.P.    व्यास\n                      TITLE SONG  BY\n                      रवि\nCHIEF TECHNICAL ASVISOR\n         ज्योति सागर\nSCREENPLAY &  DIALOGUE\n            रामानंद सागर\nPRODUCED BY\n रामानंद सागर\n सुभाष सागर\n प्रेम सागर\n \nDIRECTED Y\n रामानंद सागर\n आनंद सागर\n मोती सागर\n\n\n\n\n\n\nDisclaimer :-  Copyright Disclaimer Under Section 107 Of The Copyright Act 1976 Allowance is made for \" fair use \" for the purpose Such as criticism Comment, News Reporting, Teaching, scholarship and research. Fair use is a use permitted by copyright status that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favour of fair use.",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/jA4kdIipic8/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/jA4kdIipic8/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/jA4kdIipic8/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/jA4kdIipic8/sddefault.jpg",
+"width": 640,
+"height": 480
+}
+},
+"channelTitle": "Shiv & bhakti शिव & भक्ति",
+"playlistId": "PL9qkmHaNWZXYFviWjwRH86CDcgLaGuvkK",
+"position": 11,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "jA4kdIipic8"
+}
+},
+"contentDetails": {
+"videoId": "jA4kdIipic8",
+"videoPublishedAt": "2020-07-16T18:18:15Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "AkFtwzuLC_RNt3H6ivveVGNjdvM",
+"id": "UEw5cWttSGFOV1pYWUZ2aVdqd1JIODZDRGNnTGFHdXZrSy45ODRDNTg0QjA4NkFBNkQy",
+"snippet": {
+"publishedAt": "2020-07-22T17:35:10Z",
+"channelId": "UCxcHpdMNccSc-vBJcf2TuqQ",
+"title": "Jai Ganga Maiya Episode - 15 RAMANAND SAGAR",
+"description": "चैनल में आपका हार्दिक स्वागत है\n ऑल एपिसोड देखने के लिए मेरे चैनल को सब्सक्राइब कीजिए  शेयर कीजिए लाइक कीजिए आपका धन्यवाद       \n\n#JayGangaMaiya #Shivbhakti #RamanandSagar\n बेस्ट कलाकार सर्वदमन डी बनर्जी\n रीना कपूर\n\nMAINLY BASED ON\n\n श्रीमद् देवी भागवत\n पदमा महापुराण\n भगवत महापुराण\n दुर्गा सप्तशती\n  स्कंद महापुराण \n वामन पुराण\n\nMANLY BASED ON\n   मार्कंडेय महापुराण\n महाभारत\n रामायण\n नारद महापुराण\n ब्रह्मा   बेवारथ महापुराण\n \nVIDEO RECORDIST\n\n रमेश बोरीचा\n शेखर भुजबल\nART DIRECTOR\n मुकेश कलोला\n \nCINEMATOGRAPHY\n\n अविनाश  सतोष कार\n संतोष कुमार\n CIEF SOUND RECORDEAT\n \n               E .  रुद्रा\nEDITED BY\n नरेंद्र अरोड़ा\n दिलीप सुराणा\n                 LYRICS & MUSIC BY\n                          रविंद्र जैन\nRESEARCH & ADAPTATION\n राम चंद्रा  सदिकार\n अमजद शेख\nDr . B.P.    व्यास\n                      TITLE SONG  BY\n                      रवि\nCHIEF TECHNICAL ASVISOR\n         ज्योति सागर\nSCREENPLAY &  DIALOGUE\n            रामानंद सागर\nPRODUCED BY\n रामानंद सागर\n सुभाष सागर\n प्रेम सागर\n \nDIRECTED Y\n रामानंद सागर\n आनंद सागर\n मोती सागर\n\n\n\n\n\n\nDisclaimer :-  Copyright Disclaimer Under Section 107 Of The Copyright Act 1976 Allowance is made for \" fair use \" for the purpose Such as criticism Comment, News Reporting, Teaching, scholarship and research. Fair use is a use permitted by copyright status that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favour of fair use.",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/9mBjpijZSb4/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/9mBjpijZSb4/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/9mBjpijZSb4/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/9mBjpijZSb4/sddefault.jpg",
+"width": 640,
+"height": 480
+}
+},
+"channelTitle": "Shiv & bhakti शिव & भक्ति",
+"playlistId": "PL9qkmHaNWZXYFviWjwRH86CDcgLaGuvkK",
+"position": 12,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "9mBjpijZSb4"
+}
+},
+"contentDetails": {
+"videoId": "9mBjpijZSb4",
+"videoPublishedAt": "2020-07-17T18:16:07Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "ITOL_D7x4O7x7oUtK7TvExfgaWY",
+"id": "UEw5cWttSGFOV1pYWUZ2aVdqd1JIODZDRGNnTGFHdXZrSy4zMDg5MkQ5MEVDMEM1NTg2",
+"snippet": {
+"publishedAt": "2020-07-22T17:35:16Z",
+"channelId": "UCxcHpdMNccSc-vBJcf2TuqQ",
+"title": "Jai Ganga Maiya Episode - 16 RAMANAND SAGAR",
+"description": "चैनल में आपका हार्दिक स्वागत है\n ऑल एपिसोड देखने के लिए मेरे चैनल को सब्सक्राइब कीजिए  शेयर कीजिए लाइक कीजिए आपका धन्यवाद       \n\n#JayGangaMaiya #Shivbhakti #RamanandSagar\n बेस्ट कलाकार सर्वदमन डी बनर्जी\n रीना कपूर\n\nMAINLY BASED ON\n\n श्रीमद् देवी भागवत\n पदमा महापुराण\n भगवत महापुराण\n दुर्गा सप्तशती\n  स्कंद महापुराण \n वामन पुराण\n\nMANLY BASED ON\n   मार्कंडेय महापुराण\n महाभारत\n रामायण\n नारद महापुराण\n ब्रह्मा   बेवारथ महापुराण\n \nVIDEO RECORDIST\n\n रमेश बोरीचा\n शेखर भुजबल\nART DIRECTOR\n मुकेश कलोला\n \nCINEMATOGRAPHY\n\n अविनाश  सतोष कार\n संतोष कुमार\n CIEF SOUND RECORDEAT\n \n               E .  रुद्रा\nEDITED BY\n नरेंद्र अरोड़ा\n दिलीप सुराणा\n                 LYRICS & MUSIC BY\n                          रविंद्र जैन\nRESEARCH & ADAPTATION\n राम चंद्रा  सदिकार\n अमजद शेख\nDr . B.P.    व्यास\n                      TITLE SONG  BY\n                      रवि\nCHIEF TECHNICAL ASVISOR\n         ज्योति सागर\nSCREENPLAY &  DIALOGUE\n            रामानंद सागर\nPRODUCED BY\n रामानंद सागर\n सुभाष सागर\n प्रेम सागर\n \nDIRECTED Y\n रामानंद सागर\n आनंद सागर\n मोती सागर\n\n\n\n\n\n\nDisclaimer :-  Copyright Disclaimer Under Section 107 Of The Copyright Act 1976 Allowance is made for \" fair use \" for the purpose Such as criticism Comment, News Reporting, Teaching, scholarship and research. Fair use is a use permitted by copyright status that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favour of fair use.",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/JpbAt7yYtWs/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/JpbAt7yYtWs/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/JpbAt7yYtWs/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/JpbAt7yYtWs/sddefault.jpg",
+"width": 640,
+"height": 480
+}
+},
+"channelTitle": "Shiv & bhakti शिव & भक्ति",
+"playlistId": "PL9qkmHaNWZXYFviWjwRH86CDcgLaGuvkK",
+"position": 13,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "JpbAt7yYtWs"
+}
+},
+"contentDetails": {
+"videoId": "JpbAt7yYtWs",
+"videoPublishedAt": "2020-07-17T18:17:21Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "m8boK98YszrNtYA-47pTCd-gI-Q",
+"id": "UEw5cWttSGFOV1pYWUZ2aVdqd1JIODZDRGNnTGFHdXZrSy41Mzk2QTAxMTkzNDk4MDhF",
+"snippet": {
+"publishedAt": "2020-07-22T17:35:29Z",
+"channelId": "UCxcHpdMNccSc-vBJcf2TuqQ",
+"title": "Jai Ganga Maiya Episode - 17 RAMANAND SAGAR",
+"description": "चैनल में आपका हार्दिक स्वागत है\n ऑल एपिसोड देखने के लिए मेरे चैनल को सब्सक्राइब कीजिए  शेयर कीजिए लाइक कीजिए आपका धन्यवाद       \n\n#JayGangaMaiya #Shivbhakti #RamanandSagar\n बेस्ट कलाकार सर्वदमन डी बनर्जी\n रीना कपूर\n\nMAINLY BASED ON\n\n श्रीमद् देवी भागवत\n पदमा महापुराण\n भगवत महापुराण\n दुर्गा सप्तशती\n  स्कंद महापुराण \n वामन पुराण\n\nMANLY BASED ON\n   मार्कंडेय महापुराण\n महाभारत\n रामायण\n नारद महापुराण\n ब्रह्मा   बेवारथ महापुराण\n \nVIDEO RECORDIST\n\n रमेश बोरीचा\n शेखर भुजबल\nART DIRECTOR\n मुकेश कलोला\n \nCINEMATOGRAPHY\n\n अविनाश  सतोष कार\n संतोष कुमार\n CIEF SOUND RECORDEAT\n \n               E .  रुद्रा\nEDITED BY\n नरेंद्र अरोड़ा\n दिलीप सुराणा\n                 LYRICS & MUSIC BY\n                          रविंद्र जैन\nRESEARCH & ADAPTATION\n राम चंद्रा  सदिकार\n अमजद शेख\nDr . B.P.    व्यास\n                      TITLE SONG  BY\n                      रवि\nCHIEF TECHNICAL ASVISOR\n         ज्योति सागर\nSCREENPLAY &  DIALOGUE\n            रामानंद सागर\nPRODUCED BY\n रामानंद सागर\n सुभाष सागर\n प्रेम सागर\n \nDIRECTED Y\n रामानंद सागर\n आनंद सागर\n मोती सागर\n\n\n\n\n\n\nDisclaimer :-  Copyright Disclaimer Under Section 107 Of The Copyright Act 1976 Allowance is made for \" fair use \" for the purpose Such as criticism Comment, News Reporting, Teaching, scholarship and research. Fair use is a use permitted by copyright status that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favour of fair use.",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/qT7CvHC3ZwE/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/qT7CvHC3ZwE/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/qT7CvHC3ZwE/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/qT7CvHC3ZwE/sddefault.jpg",
+"width": 640,
+"height": 480
+}
+},
+"channelTitle": "Shiv & bhakti शिव & भक्ति",
+"playlistId": "PL9qkmHaNWZXYFviWjwRH86CDcgLaGuvkK",
+"position": 14,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "qT7CvHC3ZwE"
+}
+},
+"contentDetails": {
+"videoId": "qT7CvHC3ZwE",
+"videoPublishedAt": "2020-07-20T17:55:29Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "m0m8x79Wz8HFXh-koDe5NKgZWyg",
+"id": "UEw5cWttSGFOV1pYWUZ2aVdqd1JIODZDRGNnTGFHdXZrSy5EQUE1NTFDRjcwMDg0NEMz",
+"snippet": {
+"publishedAt": "2020-07-22T17:35:43Z",
+"channelId": "UCxcHpdMNccSc-vBJcf2TuqQ",
+"title": "Jai Ganga Maiya Episode - 18 RAMANAND SAGAR",
+"description": "चैनल में आपका हार्दिक स्वागत है\n ऑल एपिसोड देखने के लिए मेरे चैनल को सब्सक्राइब कीजिए  शेयर कीजिए लाइक कीजिए आपका धन्यवाद       \n\n#JayGangaMaiya #Shivbhakti #RamanandSagar\n बेस्ट कलाकार सर्वदमन डी बनर्जी\n रीना कपूर\n\nMAINLY BASED ON\n\n श्रीमद् देवी भागवत\n पदमा महापुराण\n भगवत महापुराण\n दुर्गा सप्तशती\n  स्कंद महापुराण \n वामन पुराण\n\nMANLY BASED ON\n   मार्कंडेय महापुराण\n महाभारत\n रामायण\n नारद महापुराण\n ब्रह्मा   बेवारथ महापुराण\n \nVIDEO RECORDIST\n\n रमेश बोरीचा\n शेखर भुजबल\nART DIRECTOR\n मुकेश कलोला\n \nCINEMATOGRAPHY\n\n अविनाश  सतोष कार\n संतोष कुमार\n CIEF SOUND RECORDEAT\n \n               E .  रुद्रा\nEDITED BY\n नरेंद्र अरोड़ा\n दिलीप सुराणा\n                 LYRICS & MUSIC BY\n                          रविंद्र जैन\nRESEARCH & ADAPTATION\n राम चंद्रा  सदिकार\n अमजद शेख\nDr . B.P.    व्यास\n                      TITLE SONG  BY\n                      रवि\nCHIEF TECHNICAL ASVISOR\n         ज्योति सागर\nSCREENPLAY &  DIALOGUE\n            रामानंद सागर\nPRODUCED BY\n रामानंद सागर\n सुभाष सागर\n प्रेम सागर\n \nDIRECTED Y\n रामानंद सागर\n आनंद सागर\n मोती सागर\n\n\n\n\n\n\nDisclaimer :-  Copyright Disclaimer Under Section 107 Of The Copyright Act 1976 Allowance is made for \" fair use \" for the purpose Such as criticism Comment, News Reporting, Teaching, scholarship and research. Fair use is a use permitted by copyright status that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favour of fair use.",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/WJ0lJ-p6PrU/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/WJ0lJ-p6PrU/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/WJ0lJ-p6PrU/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/WJ0lJ-p6PrU/sddefault.jpg",
+"width": 640,
+"height": 480
+}
+},
+"channelTitle": "Shiv & bhakti शिव & भक्ति",
+"playlistId": "PL9qkmHaNWZXYFviWjwRH86CDcgLaGuvkK",
+"position": 15,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "WJ0lJ-p6PrU"
+}
+},
+"contentDetails": {
+"videoId": "WJ0lJ-p6PrU",
+"videoPublishedAt": "2020-07-20T18:06:14Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "pNt4ICP9u8SducvmLbYmcNAUzds",
+"id": "UEw5cWttSGFOV1pYWUZ2aVdqd1JIODZDRGNnTGFHdXZrSy41QTY1Q0UxMTVCODczNThE",
+"snippet": {
+"publishedAt": "2020-07-22T17:35:49Z",
+"channelId": "UCxcHpdMNccSc-vBJcf2TuqQ",
+"title": "Jai Ganga Maiya Episode - 19 RAMANAND SAGAR",
+"description": "चैनल में आपका हार्दिक स्वागत है\n ऑल एपिसोड देखने के लिए मेरे चैनल को सब्सक्राइब कीजिए  शेयर कीजिए लाइक कीजिए आपका धन्यवाद       \n\n#JayGangaMaiya #Shivbhakti #RamanandSagar\n बेस्ट कलाकार सर्वदमन डी बनर्जी\n रीना कपूर\n\nMAINLY BASED ON\n\n श्रीमद् देवी भागवत\n पदमा महापुराण\n भगवत महापुराण\n दुर्गा सप्तशती\n  स्कंद महापुराण \n वामन पुराण\n\nMANLY BASED ON\n   मार्कंडेय महापुराण\n महाभारत\n रामायण\n नारद महापुराण\n ब्रह्मा   बेवारथ महापुराण\n \nVIDEO RECORDIST\n\n रमेश बोरीचा\n शेखर भुजबल\nART DIRECTOR\n मुकेश कलोला\n \nCINEMATOGRAPHY\n\n अविनाश  सतोष कार\n संतोष कुमार\n CIEF SOUND RECORDEAT\n \n               E .  रुद्रा\nEDITED BY\n नरेंद्र अरोड़ा\n दिलीप सुराणा\n                 LYRICS & MUSIC BY\n                          रविंद्र जैन\nRESEARCH & ADAPTATION\n राम चंद्रा  सदिकार\n अमजद शेख\nDr . B.P.    व्यास\n                      TITLE SONG  BY\n                      रवि\nCHIEF TECHNICAL ASVISOR\n         ज्योति सागर\nSCREENPLAY &  DIALOGUE\n            रामानंद सागर\nPRODUCED BY\n रामानंद सागर\n सुभाष सागर\n प्रेम सागर\n \nDIRECTED Y\n रामानंद सागर\n आनंद सागर\n मोती सागर\n\n\n\n\n\n\nDisclaimer :-  Copyright Disclaimer Under Section 107 Of The Copyright Act 1976 Allowance is made for \" fair use \" for the purpose Such as criticism Comment, News Reporting, Teaching, scholarship and research. Fair use is a use permitted by copyright status that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favour of fair use.",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/Jwhlvd33Vkk/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/Jwhlvd33Vkk/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/Jwhlvd33Vkk/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/Jwhlvd33Vkk/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/Jwhlvd33Vkk/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Shiv & bhakti शिव & भक्ति",
+"playlistId": "PL9qkmHaNWZXYFviWjwRH86CDcgLaGuvkK",
+"position": 16,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "Jwhlvd33Vkk"
+}
+},
+"contentDetails": {
+"videoId": "Jwhlvd33Vkk",
+"videoPublishedAt": "2020-07-20T18:17:32Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "eLPV3iyP7PjkfYgRFO3osptjfmY",
+"id": "UEw5cWttSGFOV1pYWUZ2aVdqd1JIODZDRGNnTGFHdXZrSy4yMUQyQTQzMjRDNzMyQTMy",
+"snippet": {
+"publishedAt": "2020-07-22T17:36:02Z",
+"channelId": "UCxcHpdMNccSc-vBJcf2TuqQ",
+"title": "Jai Ganga Maiya Episode - 21 RAMANAND SAGAR",
+"description": "चैनल में आपका हार्दिक स्वागत है\n ऑल एपिसोड देखने के लिए मेरे चैनल को सब्सक्राइब कीजिए  शेयर कीजिए लाइक कीजिए आपका धन्यवाद       \n\n#JayGangaMaiya #Shivbhakti #RamanandSagar\n बेस्ट कलाकार सर्वदमन डी बनर्जी\n रीना कपूर\n\nMAINLY BASED ON\n\n श्रीमद् देवी भागवत\n पदमा महापुराण\n भगवत महापुराण\n दुर्गा सप्तशती\n  स्कंद महापुराण \n वामन पुराण\n\nMANLY BASED ON\n   मार्कंडेय महापुराण\n महाभारत\n रामायण\n नारद महापुराण\n ब्रह्मा   बेवारथ महापुराण\n \nVIDEO RECORDIST\n\n रमेश बोरीचा\n शेखर भुजबल\nART DIRECTOR\n मुकेश कलोला\n \nCINEMATOGRAPHY\n\n अविनाश  सतोष कार\n संतोष कुमार\n CIEF SOUND RECORDEAT\n \n               E .  रुद्रा\nEDITED BY\n नरेंद्र अरोड़ा\n दिलीप सुराणा\n                 LYRICS & MUSIC BY\n                          रविंद्र जैन\nRESEARCH & ADAPTATION\n राम चंद्रा  सदिकार\n अमजद शेख\nDr . B.P.    व्यास\n                      TITLE SONG  BY\n                      रवि\nCHIEF TECHNICAL ASVISOR\n         ज्योति सागर\nSCREENPLAY &  DIALOGUE\n            रामानंद सागर\nPRODUCED BY\n रामानंद सागर\n सुभाष सागर\n प्रेम सागर\n \nDIRECTED Y\n रामानंद सागर\n आनंद सागर\n मोती सागर\n\n\n\n\n\n\nDisclaimer :-  Copyright Disclaimer Under Section 107 Of The Copyright Act 1976 Allowance is made for \" fair use \" for the purpose Such as criticism Comment, News Reporting, Teaching, scholarship and research. Fair use is a use permitted by copyright status that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favour of fair use.",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/mObfn8t8ogY/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/mObfn8t8ogY/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/mObfn8t8ogY/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/mObfn8t8ogY/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/mObfn8t8ogY/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Shiv & bhakti शिव & भक्ति",
+"playlistId": "PL9qkmHaNWZXYFviWjwRH86CDcgLaGuvkK",
+"position": 17,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "mObfn8t8ogY"
+}
+},
+"contentDetails": {
+"videoId": "mObfn8t8ogY",
+"videoPublishedAt": "2020-07-22T07:53:14Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "mHMCFddy4p4j24gW4wvdWz6UY30",
+"id": "UEw5cWttSGFOV1pYWUZ2aVdqd1JIODZDRGNnTGFHdXZrSy45RTgxNDRBMzUwRjQ0MDhC",
+"snippet": {
+"publishedAt": "2020-07-22T17:36:08Z",
+"channelId": "UCxcHpdMNccSc-vBJcf2TuqQ",
+"title": "Private video",
+"description": "This video is private.",
+"thumbnails": {},
+"channelTitle": "Shiv & bhakti शिव & भक्ति",
+"playlistId": "PL9qkmHaNWZXYFviWjwRH86CDcgLaGuvkK",
+"position": 18,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "p9npprvnPaA"
+}
+},
+"contentDetails": {
+"videoId": "p9npprvnPaA"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "ieqOq11WtFaNW_eO3l-Upfy0zu0",
+"id": "UEw5cWttSGFOV1pYWUZ2aVdqd1JIODZDRGNnTGFHdXZrSy5ENDU4Q0M4RDExNzM1Mjcy",
+"snippet": {
+"publishedAt": "2020-07-22T17:36:15Z",
+"channelId": "UCxcHpdMNccSc-vBJcf2TuqQ",
+"title": "Jai Ganga Maiya Episode - 23 RAMANAND SAGAR",
+"description": "चैनल में आपका हार्दिक स्वागत है\n ऑल एपिसोड देखने के लिए मेरे चैनल को सब्सक्राइब कीजिए  शेयर कीजिए लाइक कीजिए आपका धन्यवाद       \n\n#JayGangaMaiya #Shivbhakti #RamanandSagar\n बेस्ट कलाकार सर्वदमन डी बनर्जी\n रीना कपूर\n\nMAINLY BASED ON\n\n श्रीमद् देवी भागवत\n पदमा महापुराण\n भगवत महापुराण\n दुर्गा सप्तशती\n  स्कंद महापुराण \n वामन पुराण\n\nMANLY BASED ON\n   मार्कंडेय महापुराण\n महाभारत\n रामायण\n नारद महापुराण\n ब्रह्मा   बेवारथ महापुराण\n \nVIDEO RECORDIST\n\n रमेश बोरीचा\n शेखर भुजबल\nART DIRECTOR\n मुकेश कलोला\n \nCINEMATOGRAPHY\n\n अविनाश  सतोष कार\n संतोष कुमार\n CIEF SOUND RECORDEAT\n \n               E .  रुद्रा\nEDITED BY\n नरेंद्र अरोड़ा\n दिलीप सुराणा\n                 LYRICS & MUSIC BY\n                          रविंद्र जैन\nRESEARCH & ADAPTATION\n राम चंद्रा  सदिकार\n अमजद शेख\nDr . B.P.    व्यास\n                      TITLE SONG  BY\n                      रवि\nCHIEF TECHNICAL ASVISOR\n         ज्योति सागर\nSCREENPLAY &  DIALOGUE\n            रामानंद सागर\nPRODUCED BY\n रामानंद सागर\n सुभाष सागर\n प्रेम सागर\n \nDIRECTED Y\n रामानंद सागर\n आनंद सागर\n मोती सागर\n\n\n\n\n\n\nDisclaimer :-  Copyright Disclaimer Under Section 107 Of The Copyright Act 1976 Allowance is made for \" fair use \" for the purpose Such as criticism Comment, News Reporting, Teaching, scholarship and research. Fair use is a use permitted by copyright status that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favour of fair use.",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/B_nPhuhB9xE/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/B_nPhuhB9xE/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/B_nPhuhB9xE/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/B_nPhuhB9xE/sddefault.jpg",
+"width": 640,
+"height": 480
+}
+},
+"channelTitle": "Shiv & bhakti शिव & भक्ति",
+"playlistId": "PL9qkmHaNWZXYFviWjwRH86CDcgLaGuvkK",
+"position": 19,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "B_nPhuhB9xE"
+}
+},
+"contentDetails": {
+"videoId": "B_nPhuhB9xE",
+"videoPublishedAt": "2020-07-22T08:24:54Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "Z5tM-5zglEJVbNPXnH1ydIYNU4k",
+"id": "UEw5cWttSGFOV1pYWUZ2aVdqd1JIODZDRGNnTGFHdXZrSy4yMDhBMkNBNjRDMjQxQTg1",
+"snippet": {
+"publishedAt": "2020-07-22T17:36:26Z",
+"channelId": "UCxcHpdMNccSc-vBJcf2TuqQ",
+"title": "Private video",
+"description": "This video is private.",
+"thumbnails": {},
+"channelTitle": "Shiv & bhakti शिव & भक्ति",
+"playlistId": "PL9qkmHaNWZXYFviWjwRH86CDcgLaGuvkK",
+"position": 20,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "sjVvvRKceJ4"
+}
+},
+"contentDetails": {
+"videoId": "sjVvvRKceJ4"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "h2sWh3em1RMTmSrMuTb8RKdxTyQ",
+"id": "UEw5cWttSGFOV1pYWUZ2aVdqd1JIODZDRGNnTGFHdXZrSy5GM0Q3M0MzMzY5NTJFNTdE",
+"snippet": {
+"publishedAt": "2020-07-24T18:09:51Z",
+"channelId": "UCxcHpdMNccSc-vBJcf2TuqQ",
+"title": "Jai Ganga Maiya Episode - 26 RAMANAND SAGAR",
+"description": "चैनल में आपका हार्दिक स्वागत है\n ऑल एपिसोड देखने के लिए मेरे चैनल को सब्सक्राइब कीजिए  शेयर कीजिए लाइक कीजिए आपका धन्यवाद       \n\n#JayGangaMaiya #Shivbhakti #RamanandSagar\n बेस्ट कलाकार सर्वदमन डी बनर्जी\n रीना कपूर\n\nMAINLY BASED ON\n\n श्रीमद् देवी भागवत\n पदमा महापुराण\n भगवत महापुराण\n दुर्गा सप्तशती\n  स्कंद महापुराण \n वामन पुराण\n\nMANLY BASED ON\n   मार्कंडेय महापुराण\n महाभारत\n रामायण\n नारद महापुराण\n ब्रह्मा   बेवारथ महापुराण\n \nVIDEO RECORDIST\n\n रमेश बोरीचा\n शेखर भुजबल\nART DIRECTOR\n मुकेश कलोला\n \nCINEMATOGRAPHY\n\n अविनाश  सतोष कार\n संतोष कुमार\n CIEF SOUND RECORDEAT\n \n               E .  रुद्रा\nEDITED BY\n नरेंद्र अरोड़ा\n दिलीप सुराणा\n                 LYRICS & MUSIC BY\n                          रविंद्र जैन\nRESEARCH & ADAPTATION\n राम चंद्रा  सदिकार\n अमजद शेख\nDr . B.P.    व्यास\n                      TITLE SONG  BY\n                      रवि\nCHIEF TECHNICAL ASVISOR\n         ज्योति सागर\nSCREENPLAY &  DIALOGUE\n            रामानंद सागर\nPRODUCED BY\n रामानंद सागर\n सुभाष सागर\n प्रेम सागर\n \nDIRECTED Y\n रामानंद सागर\n आनंद सागर\n मोती सागर\n\n\n\n\n\n\nDisclaimer :-  Copyright Disclaimer Under Section 107 Of The Copyright Act 1976 Allowance is made for \" fair use \" for the purpose Such as criticism Comment, News Reporting, Teaching, scholarship and research. Fair use is a use permitted by copyright status that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favour of fair use.",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/qv027lf78eE/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/qv027lf78eE/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/qv027lf78eE/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/qv027lf78eE/sddefault.jpg",
+"width": 640,
+"height": 480
+}
+},
+"channelTitle": "Shiv & bhakti शिव & भक्ति",
+"playlistId": "PL9qkmHaNWZXYFviWjwRH86CDcgLaGuvkK",
+"position": 21,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "qv027lf78eE"
+}
+},
+"contentDetails": {
+"videoId": "qv027lf78eE",
+"videoPublishedAt": "2020-07-24T18:00:25Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "7q_v_eVcN28dOLMi6G3zLOoaMUQ",
+"id": "UEw5cWttSGFOV1pYWUZ2aVdqd1JIODZDRGNnTGFHdXZrSy4zRjM0MkVCRTg0MkYyQTM0",
+"snippet": {
+"publishedAt": "2020-07-25T18:08:27Z",
+"channelId": "UCxcHpdMNccSc-vBJcf2TuqQ",
+"title": "Jai Ganga Maiya Episode - 27 RAMANAND SAGAR",
+"description": "चैनल में आपका हार्दिक स्वागत है\n ऑल एपिसोड देखने के लिए मेरे चैनल को सब्सक्राइब कीजिए  शेयर कीजिए लाइक कीजिए आपका धन्यवाद       \n\n#JayGangaMaiya #Shivbhakti #RamanandSagar\n बेस्ट कलाकार सर्वदमन डी बनर्जी\n रीना कपूर\n\nMAINLY BASED ON\n\n श्रीमद् देवी भागवत\n पदमा महापुराण\n भगवत महापुराण\n दुर्गा सप्तशती\n  स्कंद महापुराण \n वामन पुराण\n\nMANLY BASED ON\n   मार्कंडेय महापुराण\n महाभारत\n रामायण\n नारद महापुराण\n ब्रह्मा   बेवारथ महापुराण\n \nVIDEO RECORDIST\n\n रमेश बोरीचा\n शेखर भुजबल\nART DIRECTOR\n मुकेश कलोला\n \nCINEMATOGRAPHY\n\n अविनाश  सतोष कार\n संतोष कुमार\n CIEF SOUND RECORDEAT\n \n               E .  रुद्रा\nEDITED BY\n नरेंद्र अरोड़ा\n दिलीप सुराणा\n                 LYRICS & MUSIC BY\n                          रविंद्र जैन\nRESEARCH & ADAPTATION\n राम चंद्रा  सदिकार\n अमजद शेख\nDr . B.P.    व्यास\n                      TITLE SONG  BY\n                      रवि\nCHIEF TECHNICAL ASVISOR\n         ज्योति सागर\nSCREENPLAY &  DIALOGUE\n            रामानंद सागर\nPRODUCED BY\n रामानंद सागर\n सुभाष सागर\n प्रेम सागर\n \nDIRECTED Y\n रामानंद सागर\n आनंद सागर\n मोती सागर\n\n\n\n\n\n\nDisclaimer :-  Copyright Disclaimer Under Section 107 Of The Copyright Act 1976 Allowance is made for \" fair use \" for the purpose Such as criticism Comment, News Reporting, Teaching, scholarship and research. Fair use is a use permitted by copyright status that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favour of fair use.",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/oN8pKvvSTuE/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/oN8pKvvSTuE/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/oN8pKvvSTuE/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/oN8pKvvSTuE/sddefault.jpg",
+"width": 640,
+"height": 480
+}
+},
+"channelTitle": "Shiv & bhakti शिव & भक्ति",
+"playlistId": "PL9qkmHaNWZXYFviWjwRH86CDcgLaGuvkK",
+"position": 22,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "oN8pKvvSTuE"
+}
+},
+"contentDetails": {
+"videoId": "oN8pKvvSTuE",
+"videoPublishedAt": "2020-07-25T17:16:55Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "SlluU8QzABrcf8-FI6oV8AhqpdM",
+"id": "UEw5cWttSGFOV1pYWUZ2aVdqd1JIODZDRGNnTGFHdXZrSy45NzUwQkI1M0UxNThBMkU0",
+"snippet": {
+"publishedAt": "2020-07-25T18:08:35Z",
+"channelId": "UCxcHpdMNccSc-vBJcf2TuqQ",
+"title": "Private video",
+"description": "This video is private.",
+"thumbnails": {},
+"channelTitle": "Shiv & bhakti शिव & भक्ति",
+"playlistId": "PL9qkmHaNWZXYFviWjwRH86CDcgLaGuvkK",
+"position": 23,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "SvVHovhbV50"
+}
+},
+"contentDetails": {
+"videoId": "SvVHovhbV50"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "acBaBkHwBGinMn-YpRewqctYIio",
+"id": "UEw5cWttSGFOV1pYWUZ2aVdqd1JIODZDRGNnTGFHdXZrSy5DNzE1RjZEMUZCMjA0RDBB",
+"snippet": {
+"publishedAt": "2020-07-25T18:08:46Z",
+"channelId": "UCxcHpdMNccSc-vBJcf2TuqQ",
+"title": "Jai Ganga Maiya Episode - 29 RAMANAND SAGAR",
+"description": "चैनल में आपका हार्दिक स्वागत है\n ऑल एपिसोड देखने के लिए मेरे चैनल को सब्सक्राइब कीजिए  शेयर कीजिए लाइक कीजिए आपका धन्यवाद       \n\n#JayGangaMaiya #Shivbhakti #RamanandSagar\n बेस्ट कलाकार सर्वदमन डी बनर्जी\n रीना कपूर\n\nMAINLY BASED ON\n\n श्रीमद् देवी भागवत\n पदमा महापुराण\n भगवत महापुराण\n दुर्गा सप्तशती\n  स्कंद महापुराण \n वामन पुराण\n\nMANLY BASED ON\n   मार्कंडेय महापुराण\n महाभारत\n रामायण\n नारद महापुराण\n ब्रह्मा   बेवारथ महापुराण\n \nVIDEO RECORDIST\n\n रमेश बोरीचा\n शेखर भुजबल\nART DIRECTOR\n मुकेश कलोला\n \nCINEMATOGRAPHY\n\n अविनाश  सतोष कार\n संतोष कुमार\n CIEF SOUND RECORDEAT\n \n               E .  रुद्रा\nEDITED BY\n नरेंद्र अरोड़ा\n दिलीप सुराणा\n                 LYRICS & MUSIC BY\n                          रविंद्र जैन\nRESEARCH & ADAPTATION\n राम चंद्रा  सदिकार\n अमजद शेख\nDr . B.P.    व्यास\n                      TITLE SONG  BY\n                      रवि\nCHIEF TECHNICAL ASVISOR\n         ज्योति सागर\nSCREENPLAY &  DIALOGUE\n            रामानंद सागर\nPRODUCED BY\n रामानंद सागर\n सुभाष सागर\n प्रेम सागर\n \nDIRECTED Y\n रामानंद सागर\n आनंद सागर\n मोती सागर\n\n\n\n\n\n\nDisclaimer :-  Copyright Disclaimer Under Section 107 Of The Copyright Act 1976 Allowance is made for \" fair use \" for the purpose Such as criticism Comment, News Reporting, Teaching, scholarship and research. Fair use is a use permitted by copyright status that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favour of fair use.",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/8uOX_Q9G0O8/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/8uOX_Q9G0O8/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/8uOX_Q9G0O8/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/8uOX_Q9G0O8/sddefault.jpg",
+"width": 640,
+"height": 480
+}
+},
+"channelTitle": "Shiv & bhakti शिव & भक्ति",
+"playlistId": "PL9qkmHaNWZXYFviWjwRH86CDcgLaGuvkK",
+"position": 24,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "8uOX_Q9G0O8"
+}
+},
+"contentDetails": {
+"videoId": "8uOX_Q9G0O8",
+"videoPublishedAt": "2020-07-25T17:41:04Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "IjuUoJriIsapEP1mfsZpWV5HTUs",
+"id": "UEw5cWttSGFOV1pYWUZ2aVdqd1JIODZDRGNnTGFHdXZrSy43MTI1NDIwOTMwQjIxMzNG",
+"snippet": {
+"publishedAt": "2020-07-25T18:08:57Z",
+"channelId": "UCxcHpdMNccSc-vBJcf2TuqQ",
+"title": "Jai Ganga Maiya Episode - 30 RAMANAND SAGAR",
+"description": "चैनल में आपका हार्दिक स्वागत है\n ऑल एपिसोड देखने के लिए मेरे चैनल को सब्सक्राइब कीजिए  शेयर कीजिए लाइक कीजिए आपका धन्यवाद       \n\n#JayGangaMaiya #Shivbhakti #RamanandSagar\n बेस्ट कलाकार सर्वदमन डी बनर्जी\n रीना कपूर\n\nMAINLY BASED ON\n\n श्रीमद् देवी भागवत\n पदमा महापुराण\n भगवत महापुराण\n दुर्गा सप्तशती\n  स्कंद महापुराण \n वामन पुराण\n\nMANLY BASED ON\n   मार्कंडेय महापुराण\n महाभारत\n रामायण\n नारद महापुराण\n ब्रह्मा   बेवारथ महापुराण\n \nVIDEO RECORDIST\n\n रमेश बोरीचा\n शेखर भुजबल\nART DIRECTOR\n मुकेश कलोला\n \nCINEMATOGRAPHY\n\n अविनाश  सतोष कार\n संतोष कुमार\n CIEF SOUND RECORDEAT\n \n               E .  रुद्रा\nEDITED BY\n नरेंद्र अरोड़ा\n दिलीप सुराणा\n                 LYRICS & MUSIC BY\n                          रविंद्र जैन\nRESEARCH & ADAPTATION\n राम चंद्रा  सदिकार\n अमजद शेख\nDr . B.P.    व्यास\n                      TITLE SONG  BY\n                      रवि\nCHIEF TECHNICAL ASVISOR\n         ज्योति सागर\nSCREENPLAY &  DIALOGUE\n            रामानंद सागर\nPRODUCED BY\n रामानंद सागर\n सुभाष सागर\n प्रेम सागर\n \nDIRECTED Y\n रामानंद सागर\n आनंद सागर\n मोती सागर\n\n\n\n\n\n\nDisclaimer :-  Copyright Disclaimer Under Section 107 Of The Copyright Act 1976 Allowance is made for \" fair use \" for the purpose Such as criticism Comment, News Reporting, Teaching, scholarship and research. Fair use is a use permitted by copyright status that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favour of fair use.",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/X1qbeXNjkfk/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/X1qbeXNjkfk/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/X1qbeXNjkfk/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/X1qbeXNjkfk/sddefault.jpg",
+"width": 640,
+"height": 480
+}
+},
+"channelTitle": "Shiv & bhakti शिव & भक्ति",
+"playlistId": "PL9qkmHaNWZXYFviWjwRH86CDcgLaGuvkK",
+"position": 25,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "X1qbeXNjkfk"
+}
+},
+"contentDetails": {
+"videoId": "X1qbeXNjkfk",
+"videoPublishedAt": "2020-07-25T17:51:12Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "WRjMm3H4-L6R4lO_BWBOaQ7xecg",
+"id": "UEw5cWttSGFOV1pYWUZ2aVdqd1JIODZDRGNnTGFHdXZrSy5DQ0MyQ0Y4Mzg0M0VGOEYw",
+"snippet": {
+"publishedAt": "2020-07-25T18:09:05Z",
+"channelId": "UCxcHpdMNccSc-vBJcf2TuqQ",
+"title": "Jai Ganga Maiya Episode - 31 RAMANAND SAGAR",
+"description": "चैनल में आपका हार्दिक स्वागत है\n ऑल एपिसोड देखने के लिए मेरे चैनल को सब्सक्राइब कीजिए  शेयर कीजिए लाइक कीजिए आपका धन्यवाद       \n\n#JayGangaMaiya #Shivbhakti #RamanandSagar\n बेस्ट कलाकार सर्वदमन डी बनर्जी\n रीना कपूर\n\nMAINLY BASED ON\n\n श्रीमद् देवी भागवत\n पदमा महापुराण\n भगवत महापुराण\n दुर्गा सप्तशती\n  स्कंद महापुराण \n वामन पुराण\n\nMANLY BASED ON\n   मार्कंडेय महापुराण\n महाभारत\n रामायण\n नारद महापुराण\n ब्रह्मा   बेवारथ महापुराण\n \nVIDEO RECORDIST\n\n रमेश बोरीचा\n शेखर भुजबल\nART DIRECTOR\n मुकेश कलोला\n \nCINEMATOGRAPHY\n\n अविनाश  सतोष कार\n संतोष कुमार\n CIEF SOUND RECORDEAT\n \n               E .  रुद्रा\nEDITED BY\n नरेंद्र अरोड़ा\n दिलीप सुराणा\n                 LYRICS & MUSIC BY\n                          रविंद्र जैन\nRESEARCH & ADAPTATION\n राम चंद्रा  सदिकार\n अमजद शेख\nDr . B.P.    व्यास\n                      TITLE SONG  BY\n                      रवि\nCHIEF TECHNICAL ASVISOR\n         ज्योति सागर\nSCREENPLAY &  DIALOGUE\n            रामानंद सागर\nPRODUCED BY\n रामानंद सागर\n सुभाष सागर\n प्रेम सागर\n \nDIRECTED Y\n रामानंद सागर\n आनंद सागर\n मोती सागर\n\n\n\n\n\n\nDisclaimer :-  Copyright Disclaimer Under Section 107 Of The Copyright Act 1976 Allowance is made for \" fair use \" for the purpose Such as criticism Comment, News Reporting, Teaching, scholarship and research. Fair use is a use permitted by copyright status that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favour of fair use.",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/q4SbzqczYjU/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/q4SbzqczYjU/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/q4SbzqczYjU/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/q4SbzqczYjU/sddefault.jpg",
+"width": 640,
+"height": 480
+}
+},
+"channelTitle": "Shiv & bhakti शिव & भक्ति",
+"playlistId": "PL9qkmHaNWZXYFviWjwRH86CDcgLaGuvkK",
+"position": 26,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "q4SbzqczYjU"
+}
+},
+"contentDetails": {
+"videoId": "q4SbzqczYjU",
+"videoPublishedAt": "2020-07-25T18:03:14Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "O_N3Rqg0TwpwlyF0Wjay1XEdCks",
+"id": "UEw5cWttSGFOV1pYWUZ2aVdqd1JIODZDRGNnTGFHdXZrSy4yQUE2Q0JEMTk4NTM3RTZC",
+"snippet": {
+"publishedAt": "2020-07-27T11:20:04Z",
+"channelId": "UCxcHpdMNccSc-vBJcf2TuqQ",
+"title": "Jai Ganga Maiya Episode - 20 RAMANAND SAGAR",
+"description": "चैनल में आपका हार्दिक स्वागत है\n ऑल एपिसोड देखने के लिए मेरे चैनल को सब्सक्राइब कीजिए  शेयर कीजिए लाइक कीजिए आपका धन्यवाद       \n\n#JayGangaMaiya #Shivbhakti #RamanandSagar\n बेस्ट कलाकार सर्वदमन डी बनर्जी\n रीना कपूर\n\nMAINLY BASED ON\n\n श्रीमद् देवी भागवत\n पदमा महापुराण\n भगवत महापुराण\n दुर्गा सप्तशती\n  स्कंद महापुराण \n वामन पुराण\n\nMANLY BASED ON\n   मार्कंडेय महापुराण\n महाभारत\n रामायण\n नारद महापुराण\n ब्रह्मा   बेवारथ महापुराण\n \nVIDEO RECORDIST\n\n रमेश बोरीचा\n शेखर भुजबल\nART DIRECTOR\n मुकेश कलोला\n \nCINEMATOGRAPHY\n\n अविनाश  सतोष कार\n संतोष कुमार\n CIEF SOUND RECORDEAT\n \n               E .  रुद्रा\nEDITED BY\n नरेंद्र अरोड़ा\n दिलीप सुराणा\n                 LYRICS & MUSIC BY\n                          रविंद्र जैन\nRESEARCH & ADAPTATION\n राम चंद्रा  सदिकार\n अमजद शेख\nDr . B.P.    व्यास\n                      TITLE SONG  BY\n                      रवि\nCHIEF TECHNICAL ASVISOR\n         ज्योति सागर\nSCREENPLAY &  DIALOGUE\n            रामानंद सागर\nPRODUCED BY\n रामानंद सागर\n सुभाष सागर\n प्रेम सागर\n \nDIRECTED Y\n रामानंद सागर\n आनंद सागर\n मोती सागर\n\n\n\n\n\n\nDisclaimer :-  Copyright Disclaimer Under Section 107 Of The Copyright Act 1976 Allowance is made for \" fair use \" for the purpose Such as criticism Comment, News Reporting, Teaching, scholarship and research. Fair use is a use permitted by copyright status that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favour of fair use.",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/wbFHY76JqoU/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/wbFHY76JqoU/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/wbFHY76JqoU/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/wbFHY76JqoU/sddefault.jpg",
+"width": 640,
+"height": 480
+}
+},
+"channelTitle": "Shiv & bhakti शिव & भक्ति",
+"playlistId": "PL9qkmHaNWZXYFviWjwRH86CDcgLaGuvkK",
+"position": 27,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "wbFHY76JqoU"
+}
+},
+"contentDetails": {
+"videoId": "wbFHY76JqoU",
+"videoPublishedAt": "2020-07-20T18:25:46Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "agAqntubqm3ooc9Rgg-Me5n6cWU",
+"id": "UEw5cWttSGFOV1pYWUZ2aVdqd1JIODZDRGNnTGFHdXZrSy5DMkU4NTY1QUFGQTYwMDE3",
+"snippet": {
+"publishedAt": "2020-07-28T18:00:52Z",
+"channelId": "UCxcHpdMNccSc-vBJcf2TuqQ",
+"title": "Jai Ganga Maiya Episode - 32 RAMANAND SAGAR",
+"description": "चैनल में आपका हार्दिक स्वागत है\n ऑल एपिसोड देखने के लिए मेरे चैनल को सब्सक्राइब कीजिए  शेयर कीजिए लाइक कीजिए आपका धन्यवाद       \n\n#JayGangaMaiya #Shivbhakti #RamanandSagar\n बेस्ट कलाकार सर्वदमन डी बनर्जी\n रीना कपूर\n\nMAINLY BASED ON\n\n श्रीमद् देवी भागवत\n पदमा महापुराण\n भगवत महापुराण\n दुर्गा सप्तशती\n  स्कंद महापुराण \n वामन पुराण\n\nMANLY BASED ON\n   मार्कंडेय महापुराण\n महाभारत\n रामायण\n नारद महापुराण\n ब्रह्मा   बेवारथ महापुराण\n \nVIDEO RECORDIST\n\n रमेश बोरीचा\n शेखर भुजबल\nART DIRECTOR\n मुकेश कलोला\n \nCINEMATOGRAPHY\n\n अविनाश  सतोष कार\n संतोष कुमार\n CIEF SOUND RECORDEAT\n \n               E .  रुद्रा\nEDITED BY\n नरेंद्र अरोड़ा\n दिलीप सुराणा\n                 LYRICS & MUSIC BY\n                          रविंद्र जैन\nRESEARCH & ADAPTATION\n राम चंद्रा  सदिकार\n अमजद शेख\nDr . B.P.    व्यास\n                      TITLE SONG  BY\n                      रवि\nCHIEF TECHNICAL ASVISOR\n         ज्योति सागर\nSCREENPLAY &  DIALOGUE\n            रामानंद सागर\nPRODUCED BY\n रामानंद सागर\n सुभाष सागर\n प्रेम सागर\n \nDIRECTED Y\n रामानंद सागर\n आनंद सागर\n मोती सागर\n\n\n\n\n\n\nDisclaimer :-  Copyright Disclaimer Under Section 107 Of The Copyright Act 1976 Allowance is made for \" fair use \" for the purpose Such as criticism Comment, News Reporting, Teaching, scholarship and research. Fair use is a use permitted by copyright status that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favour of fair use.",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/6TowmuMUhME/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/6TowmuMUhME/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/6TowmuMUhME/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/6TowmuMUhME/sddefault.jpg",
+"width": 640,
+"height": 480
+}
+},
+"channelTitle": "Shiv & bhakti शिव & भक्ति",
+"playlistId": "PL9qkmHaNWZXYFviWjwRH86CDcgLaGuvkK",
+"position": 28,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "6TowmuMUhME"
+}
+},
+"contentDetails": {
+"videoId": "6TowmuMUhME",
+"videoPublishedAt": "2020-07-28T18:00:50Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "ZwdW6VfDmz2Bn7vX5dR8QduiyP4",
+"id": "UEw5cWttSGFOV1pYWUZ2aVdqd1JIODZDRGNnTGFHdXZrSy44Mjc5REFBRUE2MTdFRDU0",
+"snippet": {
+"publishedAt": "2020-07-28T18:18:46Z",
+"channelId": "UCxcHpdMNccSc-vBJcf2TuqQ",
+"title": "Jai Ganga Maiya Episode - 33 RAMANAND SAGAR",
+"description": "चैनल में आपका हार्दिक स्वागत है\n ऑल एपिसोड देखने के लिए मेरे चैनल को सब्सक्राइब कीजिए  शेयर कीजिए लाइक कीजिए आपका धन्यवाद       \n\n#JayGangaMaiya #Shivbhakti #RamanandSagar\n बेस्ट कलाकार सर्वदमन डी बनर्जी\n रीना कपूर\n\nMAINLY BASED ON\n\n श्रीमद् देवी भागवत\n पदमा महापुराण\n भगवत महापुराण\n दुर्गा सप्तशती\n  स्कंद महापुराण \n वामन पुराण\n\nMANLY BASED ON\n   मार्कंडेय महापुराण\n महाभारत\n रामायण\n नारद महापुराण\n ब्रह्मा   बेवारथ महापुराण\n \nVIDEO RECORDIST\n\n रमेश बोरीचा\n शेखर भुजबल\nART DIRECTOR\n मुकेश कलोला\n \nCINEMATOGRAPHY\n\n अविनाश  सतोष कार\n संतोष कुमार\n CIEF SOUND RECORDEAT\n \n               E .  रुद्रा\nEDITED BY\n नरेंद्र अरोड़ा\n दिलीप सुराणा\n                 LYRICS & MUSIC BY\n                          रविंद्र जैन\nRESEARCH & ADAPTATION\n राम चंद्रा  सदिकार\n अमजद शेख\nDr . B.P.    व्यास\n                      TITLE SONG  BY\n                      रवि\nCHIEF TECHNICAL ASVISOR\n         ज्योति सागर\nSCREENPLAY &  DIALOGUE\n            रामानंद सागर\nPRODUCED BY\n रामानंद सागर\n सुभाष सागर\n प्रेम सागर\n \nDIRECTED Y\n रामानंद सागर\n आनंद सागर\n मोती सागर\n\n\n\n\n\n\nDisclaimer :-  Copyright Disclaimer Under Section 107 Of The Copyright Act 1976 Allowance is made for \" fair use \" for the purpose Such as criticism Comment, News Reporting, Teaching, scholarship and research. Fair use is a use permitted by copyright status that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favour of fair use.",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/O0C58uwH3jE/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/O0C58uwH3jE/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/O0C58uwH3jE/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/O0C58uwH3jE/sddefault.jpg",
+"width": 640,
+"height": 480
+}
+},
+"channelTitle": "Shiv & bhakti शिव & भक्ति",
+"playlistId": "PL9qkmHaNWZXYFviWjwRH86CDcgLaGuvkK",
+"position": 29,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "O0C58uwH3jE"
+}
+},
+"contentDetails": {
+"videoId": "O0C58uwH3jE",
+"videoPublishedAt": "2020-07-28T18:18:44Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "bolrNHhCL4S4EPs1B4LgzJZjZ1k",
+"id": "UEw5cWttSGFOV1pYWUZ2aVdqd1JIODZDRGNnTGFHdXZrSy43NDhFRTgwOTRERTU4Rjg3",
+"snippet": {
+"publishedAt": "2020-07-29T18:00:28Z",
+"channelId": "UCxcHpdMNccSc-vBJcf2TuqQ",
+"title": "Jai Ganga Maiya Episode - 34 RAMANAND SAGAR",
+"description": "चैनल में आपका हार्दिक स्वागत है\n ऑल एपिसोड देखने के लिए मेरे चैनल को सब्सक्राइब कीजिए  शेयर कीजिए लाइक कीजिए आपका धन्यवाद       \n\n#JayGangaMaiya #Shivbhakti #RamanandSagar\n बेस्ट कलाकार सर्वदमन डी बनर्जी\n रीना कपूर\n\nMAINLY BASED ON\n\n श्रीमद् देवी भागवत\n पदमा महापुराण\n भगवत महापुराण\n दुर्गा सप्तशती\n  स्कंद महापुराण \n वामन पुराण\n\nMANLY BASED ON\n   मार्कंडेय महापुराण\n महाभारत\n रामायण\n नारद महापुराण\n ब्रह्मा   बेवारथ महापुराण\n \nVIDEO RECORDIST\n\n रमेश बोरीचा\n शेखर भुजबल\nART DIRECTOR\n मुकेश कलोला\n \nCINEMATOGRAPHY\n\n अविनाश  सतोष कार\n संतोष कुमार\n CIEF SOUND RECORDEAT\n \n               E .  रुद्रा\nEDITED BY\n नरेंद्र अरोड़ा\n दिलीप सुराणा\n                 LYRICS & MUSIC BY\n                          रविंद्र जैन\nRESEARCH & ADAPTATION\n राम चंद्रा  सदिकार\n अमजद शेख\nDr . B.P.    व्यास\n                      TITLE SONG  BY\n                      रवि\nCHIEF TECHNICAL ASVISOR\n         ज्योति सागर\nSCREENPLAY &  DIALOGUE\n            रामानंद सागर\nPRODUCED BY\n रामानंद सागर\n सुभाष सागर\n प्रेम सागर\n \nDIRECTED Y\n रामानंद सागर\n आनंद सागर\n मोती सागर\n\n\n\n\n\n\nDisclaimer :-  Copyright Disclaimer Under Section 107 Of The Copyright Act 1976 Allowance is made for \" fair use \" for the purpose Such as criticism Comment, News Reporting, Teaching, scholarship and research. Fair use is a use permitted by copyright status that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favour of fair use.",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/542QBvqnpeM/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/542QBvqnpeM/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/542QBvqnpeM/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/542QBvqnpeM/sddefault.jpg",
+"width": 640,
+"height": 480
+}
+},
+"channelTitle": "Shiv & bhakti शिव & भक्ति",
+"playlistId": "PL9qkmHaNWZXYFviWjwRH86CDcgLaGuvkK",
+"position": 30,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "542QBvqnpeM"
+}
+},
+"contentDetails": {
+"videoId": "542QBvqnpeM",
+"videoPublishedAt": "2020-07-29T18:00:27Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "N2_l9Hk6kzuemBgqCRDwyAu8e3M",
+"id": "UEw5cWttSGFOV1pYWUZ2aVdqd1JIODZDRGNnTGFHdXZrSy41QUZGQTY5OTE4QTREQUU4",
+"snippet": {
+"publishedAt": "2020-07-29T18:16:52Z",
+"channelId": "UCxcHpdMNccSc-vBJcf2TuqQ",
+"title": "Jai Ganga Maiya Episode - 35 RAMANAND SAGAR",
+"description": "चैनल में आपका हार्दिक स्वागत है\n ऑल एपिसोड देखने के लिए मेरे चैनल को सब्सक्राइब कीजिए  शेयर कीजिए लाइक कीजिए आपका धन्यवाद       \n\n#JaiGangaMaiya #Shivbhakti #RamanandSagar\n बेस्ट कलाकार सर्वदमन डी बनर्जी\n रीना कपूर\n\nMAINLY BASED ON\n\n श्रीमद् देवी भागवत\n पदमा महापुराण\n भगवत महापुराण\n दुर्गा सप्तशती\n  स्कंद महापुराण \n वामन पुराण\n\nMANLY BASED ON\n   मार्कंडेय महापुराण\n महाभारत\n रामायण\n नारद महापुराण\n ब्रह्मा   बेवारथ महापुराण\n \nVIDEO RECORDIST\n\n रमेश बोरीचा\n शेखर भुजबल\nART DIRECTOR\n मुकेश कलोला\n \nCINEMATOGRAPHY\n\n अविनाश  सतोष कार\n संतोष कुमार\n CIEF SOUND RECORDEAT\n \n               E .  रुद्रा\nEDITED BY\n नरेंद्र अरोड़ा\n दिलीप सुराणा\n                 LYRICS & MUSIC BY\n                          रविंद्र जैन\nRESEARCH & ADAPTATION\n राम चंद्रा  सदिकार\n अमजद शेख\nDr . B.P.    व्यास\n                      TITLE SONG  BY\n                      रवि\nCHIEF TECHNICAL ASVISOR\n         ज्योति सागर\nSCREENPLAY &  DIALOGUE\n            रामानंद सागर\nPRODUCED BY\n रामानंद सागर\n सुभाष सागर\n प्रेम सागर\n \nDIRECTED Y\n रामानंद सागर\n आनंद सागर\n मोती सागर\n\n\n\n\n\n\nDisclaimer :-  Copyright Disclaimer Under Section 107 Of The Copyright Act 1976 Allowance is made for \" fair use \" for the purpose Such as criticism Comment, News Reporting, Teaching, scholarship and research. Fair use is a use permitted by copyright status that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favour of fair use.",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/MuPziG--WD8/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/MuPziG--WD8/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/MuPziG--WD8/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/MuPziG--WD8/sddefault.jpg",
+"width": 640,
+"height": 480
+}
+},
+"channelTitle": "Shiv & bhakti शिव & भक्ति",
+"playlistId": "PL9qkmHaNWZXYFviWjwRH86CDcgLaGuvkK",
+"position": 31,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "MuPziG--WD8"
+}
+},
+"contentDetails": {
+"videoId": "MuPziG--WD8",
+"videoPublishedAt": "2020-07-29T18:16:50Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "vq1dAMnT-ZHKFoZOE1Wgo9eFsvA",
+"id": "UEw5cWttSGFOV1pYWUZ2aVdqd1JIODZDRGNnTGFHdXZrSy4zRDBDOEZDOUM0MDY5NEEz",
+"snippet": {
+"publishedAt": "2020-07-30T17:20:47Z",
+"channelId": "UCxcHpdMNccSc-vBJcf2TuqQ",
+"title": "Jai Ganga Maiya Episode - 36 RAMANAND SAGAR",
+"description": "चैनल में आपका हार्दिक स्वागत है\n ऑल एपिसोड देखने के लिए मेरे चैनल को सब्सक्राइब कीजिए  शेयर कीजिए लाइक कीजिए आपका धन्यवाद       \n\n#JayGangaMaiya #Shivbhakti #RamanandSagar\n बेस्ट कलाकार सर्वदमन डी बनर्जी\n रीना कपूर\n\nMAINLY BASED ON\n\n श्रीमद् देवी भागवत\n पदमा महापुराण\n भगवत महापुराण\n दुर्गा सप्तशती\n  स्कंद महापुराण \n वामन पुराण\n\nMANLY BASED ON\n   मार्कंडेय महापुराण\n महाभारत\n रामायण\n नारद महापुराण\n ब्रह्मा   बेवारथ महापुराण\n \nVIDEO RECORDIST\n\n रमेश बोरीचा\n शेखर भुजबल\nART DIRECTOR\n मुकेश कलोला\n \nCINEMATOGRAPHY\n\n अविनाश  सतोष कार\n संतोष कुमार\n CIEF SOUND RECORDEAT\n \n               E .  रुद्रा\nEDITED BY\n नरेंद्र अरोड़ा\n दिलीप सुराणा\n                 LYRICS & MUSIC BY\n                          रविंद्र जैन\nRESEARCH & ADAPTATION\n राम चंद्रा  सदिकार\n अमजद शेख\nDr . B.P.    व्यास\n                      TITLE SONG  BY\n                      रवि\nCHIEF TECHNICAL ASVISOR\n         ज्योति सागर\nSCREENPLAY &  DIALOGUE\n            रामानंद सागर\nPRODUCED BY\n रामानंद सागर\n सुभाष सागर\n प्रेम सागर\n \nDIRECTED Y\n रामानंद सागर\n आनंद सागर\n मोती सागर\n\n\n\n\n\n\nDisclaimer :-  Copyright Disclaimer Under Section 107 Of The Copyright Act 1976 Allowance is made for \" fair use \" for the purpose Such as criticism Comment, News Reporting, Teaching, scholarship and research. Fair use is a use permitted by copyright status that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favour of fair use.",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/8wQh5606ys0/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/8wQh5606ys0/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/8wQh5606ys0/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/8wQh5606ys0/sddefault.jpg",
+"width": 640,
+"height": 480
+}
+},
+"channelTitle": "Shiv & bhakti शिव & भक्ति",
+"playlistId": "PL9qkmHaNWZXYFviWjwRH86CDcgLaGuvkK",
+"position": 32,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "8wQh5606ys0"
+}
+},
+"contentDetails": {
+"videoId": "8wQh5606ys0",
+"videoPublishedAt": "2020-07-30T17:20:46Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "FBWDQeaGijyukV8l7wmeZt_fpnA",
+"id": "UEw5cWttSGFOV1pYWUZ2aVdqd1JIODZDRGNnTGFHdXZrSy5CMEQ2Mjk5NTc3NDZFRUNB",
+"snippet": {
+"publishedAt": "2020-07-30T17:39:34Z",
+"channelId": "UCxcHpdMNccSc-vBJcf2TuqQ",
+"title": "Jai Ganga Maiya Episode - 37 RAMANAND SAGAR",
+"description": "चैनल में आपका हार्दिक स्वागत है\n ऑल एपिसोड देखने के लिए मेरे चैनल को सब्सक्राइब कीजिए  शेयर कीजिए लाइक कीजिए आपका धन्यवाद       \n\n#JayGangaMaiya #Shivbhakti #RamanandSagar\n बेस्ट कलाकार सर्वदमन डी बनर्जी\n रीना कपूर\n\nMAINLY BASED ON\n\n श्रीमद् देवी भागवत\n पदमा महापुराण\n भगवत महापुराण\n दुर्गा सप्तशती\n  स्कंद महापुराण \n वामन पुराण\n\nMANLY BASED ON\n   मार्कंडेय महापुराण\n महाभारत\n रामायण\n नारद महापुराण\n ब्रह्मा   बेवारथ महापुराण\n \nVIDEO RECORDIST\n\n रमेश बोरीचा\n शेखर भुजबल\nART DIRECTOR\n मुकेश कलोला\n \nCINEMATOGRAPHY\n\n अविनाश  सतोष कार\n संतोष कुमार\n CIEF SOUND RECORDEAT\n \n               E .  रुद्रा\nEDITED BY\n नरेंद्र अरोड़ा\n दिलीप सुराणा\n                 LYRICS & MUSIC BY\n                          रविंद्र जैन\nRESEARCH & ADAPTATION\n राम चंद्रा  सदिकार\n अमजद शेख\nDr . B.P.    व्यास\n                      TITLE SONG  BY\n                      रवि\nCHIEF TECHNICAL ASVISOR\n         ज्योति सागर\nSCREENPLAY &  DIALOGUE\n            रामानंद सागर\nPRODUCED BY\n रामानंद सागर\n सुभाष सागर\n प्रेम सागर\n \nDIRECTED Y\n रामानंद सागर\n आनंद सागर\n मोती सागर\n\n\n\n\n\n\nDisclaimer :-  Copyright Disclaimer Under Section 107 Of The Copyright Act 1976 Allowance is made for \" fair use \" for the purpose Such as criticism Comment, News Reporting, Teaching, scholarship and research. Fair use is a use permitted by copyright status that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favour of fair use.",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/gGUab00vH_Y/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/gGUab00vH_Y/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/gGUab00vH_Y/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/gGUab00vH_Y/sddefault.jpg",
+"width": 640,
+"height": 480
+}
+},
+"channelTitle": "Shiv & bhakti शिव & भक्ति",
+"playlistId": "PL9qkmHaNWZXYFviWjwRH86CDcgLaGuvkK",
+"position": 33,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "gGUab00vH_Y"
+}
+},
+"contentDetails": {
+"videoId": "gGUab00vH_Y",
+"videoPublishedAt": "2020-07-30T17:39:32Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "zFMWXxatD6OM9TsrAt2losm28us",
+"id": "UEw5cWttSGFOV1pYWUZ2aVdqd1JIODZDRGNnTGFHdXZrSy42MTI4Njc2QjM1RjU1MjlG",
+"snippet": {
+"publishedAt": "2020-07-30T17:51:58Z",
+"channelId": "UCxcHpdMNccSc-vBJcf2TuqQ",
+"title": "Jai Ganga Maiya Episode - 38 RAMANAND SAGAR",
+"description": "चैनल में आपका हार्दिक स्वागत है\n ऑल एपिसोड देखने के लिए मेरे चैनल को सब्सक्राइब कीजिए  शेयर कीजिए लाइक कीजिए आपका धन्यवाद       \n\n#JayGangaMaiya #Shivbhakti #RamanandSagar\n बेस्ट कलाकार सर्वदमन डी बनर्जी\n रीना कपूर\n\nMAINLY BASED ON\n\n श्रीमद् देवी भागवत\n पदमा महापुराण\n भगवत महापुराण\n दुर्गा सप्तशती\n  स्कंद महापुराण \n वामन पुराण\n\nMANLY BASED ON\n   मार्कंडेय महापुराण\n महाभारत\n रामायण\n नारद महापुराण\n ब्रह्मा   बेवारथ महापुराण\n \nVIDEO RECORDIST\n\n रमेश बोरीचा\n शेखर भुजबल\nART DIRECTOR\n मुकेश कलोला\n \nCINEMATOGRAPHY\n\n अविनाश  सतोष कार\n संतोष कुमार\n CIEF SOUND RECORDEAT\n \n               E .  रुद्रा\nEDITED BY\n नरेंद्र अरोड़ा\n दिलीप सुराणा\n                 LYRICS & MUSIC BY\n                          रविंद्र जैन\nRESEARCH & ADAPTATION\n राम चंद्रा  सदिकार\n अमजद शेख\nDr . B.P.    व्यास\n                      TITLE SONG  BY\n                      रवि\nCHIEF TECHNICAL ASVISOR\n         ज्योति सागर\nSCREENPLAY &  DIALOGUE\n            रामानंद सागर\nPRODUCED BY\n रामानंद सागर\n सुभाष सागर\n प्रेम सागर\n \nDIRECTED Y\n रामानंद सागर\n आनंद सागर\n मोती सागर\n\n\n\n\n\n\nDisclaimer :-  Copyright Disclaimer Under Section 107 Of The Copyright Act 1976 Allowance is made for \" fair use \" for the purpose Such as criticism Comment, News Reporting, Teaching, scholarship and research. Fair use is a use permitted by copyright status that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favour of fair use.",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/eeeE5V8zbpI/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/eeeE5V8zbpI/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/eeeE5V8zbpI/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/eeeE5V8zbpI/sddefault.jpg",
+"width": 640,
+"height": 480
+}
+},
+"channelTitle": "Shiv & bhakti शिव & भक्ति",
+"playlistId": "PL9qkmHaNWZXYFviWjwRH86CDcgLaGuvkK",
+"position": 34,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "eeeE5V8zbpI"
+}
+},
+"contentDetails": {
+"videoId": "eeeE5V8zbpI",
+"videoPublishedAt": "2020-07-30T17:51:57Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "ThIW_HSX3S7Rv0dz62XFnxUBR-w",
+"id": "UEw5cWttSGFOV1pYWUZ2aVdqd1JIODZDRGNnTGFHdXZrSy45RjNFMDhGQ0Q2RkFCQTc1",
+"snippet": {
+"publishedAt": "2020-07-30T18:08:56Z",
+"channelId": "UCxcHpdMNccSc-vBJcf2TuqQ",
+"title": "Jai Ganga Maiya Episode - 39 RAMANAND SAGAR",
+"description": "चैनल में आपका हार्दिक स्वागत है\n ऑल एपिसोड देखने के लिए मेरे चैनल को सब्सक्राइब कीजिए  शेयर कीजिए लाइक कीजिए आपका धन्यवाद       \n\n#JayGangaMaiya #Shivbhakti #RamanandSagar\n बेस्ट कलाकार सर्वदमन डी बनर्जी\n रीना कपूर\n\nMAINLY BASED ON\n\n श्रीमद् देवी भागवत\n पदमा महापुराण\n भगवत महापुराण\n दुर्गा सप्तशती\n  स्कंद महापुराण \n वामन पुराण\n\nMANLY BASED ON\n   मार्कंडेय महापुराण\n महाभारत\n रामायण\n नारद महापुराण\n ब्रह्मा   बेवारथ महापुराण\n \nVIDEO RECORDIST\n\n रमेश बोरीचा\n शेखर भुजबल\nART DIRECTOR\n मुकेश कलोला\n \nCINEMATOGRAPHY\n\n अविनाश  सतोष कार\n संतोष कुमार\n CIEF SOUND RECORDEAT\n \n               E .  रुद्रा\nEDITED BY\n नरेंद्र अरोड़ा\n दिलीप सुराणा\n                 LYRICS & MUSIC BY\n                          रविंद्र जैन\nRESEARCH & ADAPTATION\n राम चंद्रा  सदिकार\n अमजद शेख\nDr . B.P.    व्यास\n                      TITLE SONG  BY\n                      रवि\nCHIEF TECHNICAL ASVISOR\n         ज्योति सागर\nSCREENPLAY &  DIALOGUE\n            रामानंद सागर\nPRODUCED BY\n रामानंद सागर\n सुभाष सागर\n प्रेम सागर\n \nDIRECTED Y\n रामानंद सागर\n आनंद सागर\n मोती सागर\n\n\n\n\n\n\nDisclaimer :-  Copyright Disclaimer Under Section 107 Of The Copyright Act 1976 Allowance is made for \" fair use \" for the purpose Such as criticism Comment, News Reporting, Teaching, scholarship and research. Fair use is a use permitted by copyright status that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favour of fair use.",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/I8xg7DbgwGM/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/I8xg7DbgwGM/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/I8xg7DbgwGM/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/I8xg7DbgwGM/sddefault.jpg",
+"width": 640,
+"height": 480
+}
+},
+"channelTitle": "Shiv & bhakti शिव & भक्ति",
+"playlistId": "PL9qkmHaNWZXYFviWjwRH86CDcgLaGuvkK",
+"position": 35,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "I8xg7DbgwGM"
+}
+},
+"contentDetails": {
+"videoId": "I8xg7DbgwGM",
+"videoPublishedAt": "2020-07-30T18:08:54Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "Zawp_XMUKdah55B_SD8gjaMijLA",
+"id": "UEw5cWttSGFOV1pYWUZ2aVdqd1JIODZDRGNnTGFHdXZrSy40QTA3NTU2RkM1QzlCMzYx",
+"snippet": {
+"publishedAt": "2020-07-30T18:19:55Z",
+"channelId": "UCxcHpdMNccSc-vBJcf2TuqQ",
+"title": "Jai Ganga Maiya Episode - 40 RAMANAND SAGAR",
+"description": "चैनल में आपका हार्दिक स्वागत है\n ऑल एपिसोड देखने के लिए मेरे चैनल को सब्सक्राइब कीजिए  शेयर कीजिए लाइक कीजिए आपका धन्यवाद       \n\n#JayGangaMaiya #Shivbhakti #RamanandSagar\n बेस्ट कलाकार सर्वदमन डी बनर्जी\n रीना कपूर\n\nMAINLY BASED ON\n\n श्रीमद् देवी भागवत\n पदमा महापुराण\n भगवत महापुराण\n दुर्गा सप्तशती\n  स्कंद महापुराण \n वामन पुराण\n\nMANLY BASED ON\n   मार्कंडेय महापुराण\n महाभारत\n रामायण\n नारद महापुराण\n ब्रह्मा   बेवारथ महापुराण\n \nVIDEO RECORDIST\n\n रमेश बोरीचा\n शेखर भुजबल\nART DIRECTOR\n मुकेश कलोला\n \nCINEMATOGRAPHY\n\n अविनाश  सतोष कार\n संतोष कुमार\n CIEF SOUND RECORDEAT\n \n               E .  रुद्रा\nEDITED BY\n नरेंद्र अरोड़ा\n दिलीप सुराणा\n                 LYRICS & MUSIC BY\n                          रविंद्र जैन\nRESEARCH & ADAPTATION\n राम चंद्रा  सदिकार\n अमजद शेख\nDr . B.P.    व्यास\n                      TITLE SONG  BY\n                      रवि\nCHIEF TECHNICAL ASVISOR\n         ज्योति सागर\nSCREENPLAY &  DIALOGUE\n            रामानंद सागर\nPRODUCED BY\n रामानंद सागर\n सुभाष सागर\n प्रेम सागर\n \nDIRECTED Y\n रामानंद सागर\n आनंद सागर\n मोती सागर\n\n\n\n\n\n\nDisclaimer :-  Copyright Disclaimer Under Section 107 Of The Copyright Act 1976 Allowance is made for \" fair use \" for the purpose Such as criticism Comment, News Reporting, Teaching, scholarship and research. Fair use is a use permitted by copyright status that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favour of fair use.",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/g9wANV0z0qk/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/g9wANV0z0qk/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/g9wANV0z0qk/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/g9wANV0z0qk/sddefault.jpg",
+"width": 640,
+"height": 480
+}
+},
+"channelTitle": "Shiv & bhakti शिव & भक्ति",
+"playlistId": "PL9qkmHaNWZXYFviWjwRH86CDcgLaGuvkK",
+"position": 36,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "g9wANV0z0qk"
+}
+},
+"contentDetails": {
+"videoId": "g9wANV0z0qk",
+"videoPublishedAt": "2020-07-30T18:19:54Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "ppFXFe9hNtJ4VmSTf85doTKgA3k",
+"id": "UEw5cWttSGFOV1pYWUZ2aVdqd1JIODZDRGNnTGFHdXZrSy5BRjJDODk5REM0NjkzMUIy",
+"snippet": {
+"publishedAt": "2020-08-01T16:54:28Z",
+"channelId": "UCxcHpdMNccSc-vBJcf2TuqQ",
+"title": "Jai Ganga Maiya Episode - 41 RAMANAND SAGAR",
+"description": "चैनल में आपका हार्दिक स्वागत है\n ऑल एपिसोड देखने के लिए मेरे चैनल को सब्सक्राइब कीजिए  शेयर कीजिए लाइक कीजिए आपका धन्यवाद       \n\n#JayGangaMaiya #Shivbhakti #RamanandSagar\n बेस्ट कलाकार सर्वदमन डी बनर्जी\n रीना कपूर\n\nMAINLY BASED ON\n\n श्रीमद् देवी भागवत\n पदमा महापुराण\n भगवत महापुराण\n दुर्गा सप्तशती\n  स्कंद महापुराण \n वामन पुराण\n\nMANLY BASED ON\n   मार्कंडेय महापुराण\n महाभारत\n रामायण\n नारद महापुराण\n ब्रह्मा   बेवारथ महापुराण\n \nVIDEO RECORDIST\n\n रमेश बोरीचा\n शेखर भुजबल\nART DIRECTOR\n मुकेश कलोला\n \nCINEMATOGRAPHY\n\n अविनाश  सतोष कार\n संतोष कुमार\n CIEF SOUND RECORDEAT\n \n               E .  रुद्रा\nEDITED BY\n नरेंद्र अरोड़ा\n दिलीप सुराणा\n                 LYRICS & MUSIC BY\n                          रविंद्र जैन\nRESEARCH & ADAPTATION\n राम चंद्रा  सदिकार\n अमजद शेख\nDr . B.P.    व्यास\n                      TITLE SONG  BY\n                      रवि\nCHIEF TECHNICAL ASVISOR\n         ज्योति सागर\nSCREENPLAY &  DIALOGUE\n            रामानंद सागर\nPRODUCED BY\n रामानंद सागर\n सुभाष सागर\n प्रेम सागर\n \nDIRECTED Y\n रामानंद सागर\n आनंद सागर\n मोती सागर\n\n\n\n\n\n\nDisclaimer :-  Copyright Disclaimer Under Section 107 Of The Copyright Act 1976 Allowance is made for \" fair use \" for the purpose Such as criticism Comment, News Reporting, Teaching, scholarship and research. Fair use is a use permitted by copyright status that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favour of fair use.",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/8Umlj93jSHQ/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/8Umlj93jSHQ/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/8Umlj93jSHQ/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/8Umlj93jSHQ/sddefault.jpg",
+"width": 640,
+"height": 480
+}
+},
+"channelTitle": "Shiv & bhakti शिव & भक्ति",
+"playlistId": "PL9qkmHaNWZXYFviWjwRH86CDcgLaGuvkK",
+"position": 37,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "8Umlj93jSHQ"
+}
+},
+"contentDetails": {
+"videoId": "8Umlj93jSHQ",
+"videoPublishedAt": "2020-08-01T16:54:26Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "V46vYa-NRnUB_EKIyF7XSTaV3aE",
+"id": "UEw5cWttSGFOV1pYWUZ2aVdqd1JIODZDRGNnTGFHdXZrSy4xOTEzQzhBQzU3MDNDNjcz",
+"snippet": {
+"publishedAt": "2020-08-02T17:04:15Z",
+"channelId": "UCxcHpdMNccSc-vBJcf2TuqQ",
+"title": "Jai Ganga Maiya Episode - 42 RAMANAND SAGAR",
+"description": "चैनल में आपका हार्दिक स्वागत है\n ऑल एपिसोड देखने के लिए मेरे चैनल को सब्सक्राइब कीजिए  शेयर कीजिए लाइक कीजिए आपका धन्यवाद       \n\n#JayGangaMaiya #Shivbhakti #RamanandSagar\n बेस्ट कलाकार सर्वदमन डी बनर्जी\n रीना कपूर\n\nMAINLY BASED ON\n\n श्रीमद् देवी भागवत\n पदमा महापुराण\n भगवत महापुराण\n दुर्गा सप्तशती\n  स्कंद महापुराण \n वामन पुराण\n\nMANLY BASED ON\n   मार्कंडेय महापुराण\n महाभारत\n रामायण\n नारद महापुराण\n ब्रह्मा   बेवारथ महापुराण\n \nVIDEO RECORDIST\n\n रमेश बोरीचा\n शेखर भुजबल\nART DIRECTOR\n मुकेश कलोला\n \nCINEMATOGRAPHY\n\n अविनाश  सतोष कार\n संतोष कुमार\n CIEF SOUND RECORDEAT\n \n               E .  रुद्रा\nEDITED BY\n नरेंद्र अरोड़ा\n दिलीप सुराणा\n                 LYRICS & MUSIC BY\n                          रविंद्र जैन\nRESEARCH & ADAPTATION\n राम चंद्रा  सदिकार\n अमजद शेख\nDr . B.P.    व्यास\n                      TITLE SONG  BY\n                      रवि\nCHIEF TECHNICAL ASVISOR\n         ज्योति सागर\nSCREENPLAY &  DIALOGUE\n            रामानंद सागर\nPRODUCED BY\n रामानंद सागर\n सुभाष सागर\n प्रेम सागर\n \nDIRECTED Y\n रामानंद सागर\n आनंद सागर\n मोती सागर\n\n\n\n\n\n\n\nDisclaimer :-  Copyright Disclaimer Under Section 107 Of The Copyright Act 1976 Allowance is made for \" fair use \" for the purpose Such as criticism Comment, News Reporting, Teaching, scholarship and research. Fair use is a use permitted by copyright status that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favour of fair use.",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/b1WPl0UIcUM/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/b1WPl0UIcUM/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/b1WPl0UIcUM/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/b1WPl0UIcUM/sddefault.jpg",
+"width": 640,
+"height": 480
+}
+},
+"channelTitle": "Shiv & bhakti शिव & भक्ति",
+"playlistId": "PL9qkmHaNWZXYFviWjwRH86CDcgLaGuvkK",
+"position": 38,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "b1WPl0UIcUM"
+}
+},
+"contentDetails": {
+"videoId": "b1WPl0UIcUM",
+"videoPublishedAt": "2020-08-02T17:09:11Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "10LATpG1h4lfnA_B1IZmXidGWWI",
+"id": "UEw5cWttSGFOV1pYWUZ2aVdqd1JIODZDRGNnTGFHdXZrSy5GNDg1Njc1QzZERjlFRjE5",
+"snippet": {
+"publishedAt": "2020-08-03T16:37:42Z",
+"channelId": "UCxcHpdMNccSc-vBJcf2TuqQ",
+"title": "Jai Ganga Maiya Episode - 43 RAMANAND SAGAR",
+"description": "चैनल में आपका हार्दिक स्वागत है\n ऑल एपिसोड देखने के लिए मेरे चैनल को सब्सक्राइब कीजिए  शेयर कीजिए लाइक कीजिए आपका धन्यवाद       \n\n#JaiGangaMaiya #Shivbhakti #RamanandSagar\n बेस्ट कलाकार सर्वदमन डी बनर्जी\n रीना कपूर\n\nMAINLY BASED ON\n\n श्रीमद् देवी भागवत\n पदमा महापुराण\n भगवत महापुराण\n दुर्गा सप्तशती\n  स्कंद महापुराण \n वामन पुराण\n\nMANLY BASED ON\n   मार्कंडेय महापुराण\n महाभारत\n रामायण\n नारद महापुराण\n ब्रह्मा   बेवारथ महापुराण\n \nVIDEO RECORDIST\n\n रमेश बोरीचा\n शेखर भुजबल\nART DIRECTOR\n मुकेश कलोला\n \nCINEMATOGRAPHY\n\n अविनाश  सतोष कार\n संतोष कुमार\n CIEF SOUND RECORDEAT\n \n               E .  रुद्रा\nEDITED BY\n नरेंद्र अरोड़ा\n दिलीप सुराणा\n                 LYRICS & MUSIC BY\n                          रविंद्र जैन\nRESEARCH & ADAPTATION\n राम चंद्रा  सदिकार\n अमजद शेख\nDr . B.P.    व्यास\n                      TITLE SONG  BY\n                      रवि\nCHIEF TECHNICAL ASVISOR\n         ज्योति सागर\nSCREENPLAY &  DIALOGUE\n            रामानंद सागर\nPRODUCED BY\n रामानंद सागर\n सुभाष सागर\n प्रेम सागर\n \nDIRECTED Y\n रामानंद सागर\n आनंद सागर\n मोती सागर\n\n\n\n\n\n\nDisclaimer :-  Copyright Disclaimer Under Section 107 Of The Copyright Act 1976 Allowance is made for \" fair use \" for the purpose Such as criticism Comment, News Reporting, Teaching, scholarship and research. Fair use is a use permitted by copyright status that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favour of fair use.",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/0YIIy6OogjY/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/0YIIy6OogjY/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/0YIIy6OogjY/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/0YIIy6OogjY/sddefault.jpg",
+"width": 640,
+"height": 480
+}
+},
+"channelTitle": "Shiv & bhakti शिव & भक्ति",
+"playlistId": "PL9qkmHaNWZXYFviWjwRH86CDcgLaGuvkK",
+"position": 39,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "0YIIy6OogjY"
+}
+},
+"contentDetails": {
+"videoId": "0YIIy6OogjY",
+"videoPublishedAt": "2020-08-03T16:37:41Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "jtUPvzqQ7XWxb577dM8EPsWdMX4",
+"id": "UEw5cWttSGFOV1pYWUZ2aVdqd1JIODZDRGNnTGFHdXZrSy4zQzFBN0RGNzNFREFCMjBE",
+"snippet": {
+"publishedAt": "2020-08-03T16:49:32Z",
+"channelId": "UCxcHpdMNccSc-vBJcf2TuqQ",
+"title": "Jai Ganga Maiya Episode - 44 RAMANAND SAGAR",
+"description": "चैनल में आपका हार्दिक स्वागत है\n ऑल एपिसोड देखने के लिए मेरे चैनल को सब्सक्राइब कीजिए  शेयर कीजिए लाइक कीजिए आपका धन्यवाद       \n\n#JaiGangaMaiya #Shivbhakti #RamanandSagar\n बेस्ट कलाकार सर्वदमन डी बनर्जी\n रीना कपूर\n\nMAINLY BASED ON\n\n श्रीमद् देवी भागवत\n पदमा महापुराण\n भगवत महापुराण\n दुर्गा सप्तशती\n  स्कंद महापुराण \n वामन पुराण\n\nMANLY BASED ON\n   मार्कंडेय महापुराण\n महाभारत\n रामायण\n नारद महापुराण\n ब्रह्मा   बेवारथ महापुराण\n \nVIDEO RECORDIST\n\n रमेश बोरीचा\n शेखर भुजबल\nART DIRECTOR\n मुकेश कलोला\n \nCINEMATOGRAPHY\n\n अविनाश  सतोष कार\n संतोष कुमार\n CIEF SOUND RECORDEAT\n \n               E .  रुद्रा\nEDITED BY\n नरेंद्र अरोड़ा\n दिलीप सुराणा\n                 LYRICS & MUSIC BY\n                          रविंद्र जैन\nRESEARCH & ADAPTATION\n राम चंद्रा  सदिकार\n अमजद शेख\nDr . B.P.    व्यास\n                      TITLE SONG  BY\n                      रवि\nCHIEF TECHNICAL ASVISOR\n         ज्योति सागर\nSCREENPLAY &  DIALOGUE\n            रामानंद सागर\nPRODUCED BY\n रामानंद सागर\n सुभाष सागर\n प्रेम सागर\n \nDIRECTED Y\n रामानंद सागर\n आनंद सागर\n मोती सागर\n\n\n\n\n\n\nDisclaimer :-  Copyright Disclaimer Under Section 107 Of The Copyright Act 1976 Allowance is made for \" fair use \" for the purpose Such as criticism Comment, News Reporting, Teaching, scholarship and research. Fair use is a use permitted by copyright status that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favour of fair use.",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/nE7sFdWpiSY/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/nE7sFdWpiSY/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/nE7sFdWpiSY/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/nE7sFdWpiSY/sddefault.jpg",
+"width": 640,
+"height": 480
+}
+},
+"channelTitle": "Shiv & bhakti शिव & भक्ति",
+"playlistId": "PL9qkmHaNWZXYFviWjwRH86CDcgLaGuvkK",
+"position": 40,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "nE7sFdWpiSY"
+}
+},
+"contentDetails": {
+"videoId": "nE7sFdWpiSY",
+"videoPublishedAt": "2020-08-03T16:49:30Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "uqVvKsW38pNvVcZJZ7CJ5sHz1tY",
+"id": "UEw5cWttSGFOV1pYWUZ2aVdqd1JIODZDRGNnTGFHdXZrSy45NkVENTkxRDdCQUFBMDY4",
+"snippet": {
+"publishedAt": "2020-08-04T04:09:20Z",
+"channelId": "UCxcHpdMNccSc-vBJcf2TuqQ",
+"title": "Jai Ganga Maiya Episode - 45 RAMANAND SAGAR",
+"description": "चैनल में आपका हार्दिक स्वागत है\n ऑल एपिसोड देखने के लिए मेरे चैनल को सब्सक्राइब कीजिए  शेयर कीजिए लाइक कीजिए आपका धन्यवाद       \n\n#JaiGangaMaiya #Shivbhakti #RamanandSagar\n बेस्ट कलाकार सर्वदमन डी बनर्जी\n रीना कपूर\n\nMAINLY BASED ON\n\n श्रीमद् देवी भागवत\n पदमा महापुराण\n भगवत महापुराण\n दुर्गा सप्तशती\n  स्कंद महापुराण \n वामन पुराण\n\nMANLY BASED ON\n   मार्कंडेय महापुराण\n महाभारत\n रामायण\n नारद महापुराण\n ब्रह्मा   बेवारथ महापुराण\n \nVIDEO RECORDIST\n\n रमेश बोरीचा\n शेखर भुजबल\nART DIRECTOR\n मुकेश कलोला\n \nCINEMATOGRAPHY\n\n अविनाश  सतोष कार\n संतोष कुमार\n CIEF SOUND RECORDEAT\n \n               E .  रुद्रा\nEDITED BY\n नरेंद्र अरोड़ा\n दिलीप सुराणा\n                 LYRICS & MUSIC BY\n                          रविंद्र जैन\nRESEARCH & ADAPTATION\n राम चंद्रा  सदिकार\n अमजद शेख\nDr . B.P.    व्यास\n                      TITLE SONG  BY\n                      रवि\nCHIEF TECHNICAL ASVISOR\n         ज्योति सागर\nSCREENPLAY &  DIALOGUE\n            रामानंद सागर\nPRODUCED BY\n रामानंद सागर\n सुभाष सागर\n प्रेम सागर\n \nDIRECTED Y\n रामानंद सागर\n आनंद सागर\n मोती सागर\n\n\n\n\n\n\nDisclaimer :-  Copyright Disclaimer Under Section 107 Of The Copyright Act 1976 Allowance is made for \" fair use \" for the purpose Such as criticism Comment, News Reporting, Teaching, scholarship and research. Fair use is a use permitted by copyright status that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favour of fair use.",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/VwLAseEDEyQ/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/VwLAseEDEyQ/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/VwLAseEDEyQ/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/VwLAseEDEyQ/sddefault.jpg",
+"width": 640,
+"height": 480
+}
+},
+"channelTitle": "Shiv & bhakti शिव & भक्ति",
+"playlistId": "PL9qkmHaNWZXYFviWjwRH86CDcgLaGuvkK",
+"position": 41,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "VwLAseEDEyQ"
+}
+},
+"contentDetails": {
+"videoId": "VwLAseEDEyQ",
+"videoPublishedAt": "2020-08-04T04:09:19Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "AVjLX7wBQ2LULDaFv-EWv2q5UUg",
+"id": "UEw5cWttSGFOV1pYWUZ2aVdqd1JIODZDRGNnTGFHdXZrSy5DNkMwRUI2MkI4QkI4NDFG",
+"snippet": {
+"publishedAt": "2020-08-04T04:51:11Z",
+"channelId": "UCxcHpdMNccSc-vBJcf2TuqQ",
+"title": "Jai Ganga Maiya Episode - 46 RAMANAND SAGAR",
+"description": "चैनल में आपका हार्दिक स्वागत है\n ऑल एपिसोड देखने के लिए मेरे चैनल को सब्सक्राइब कीजिए  शेयर कीजिए लाइक कीजिए आपका धन्यवाद       \n\n#JaiGangaMaiya #Shivbhakti #RamanandSagar\n बेस्ट कलाकार सर्वदमन डी बनर्जी\n रीना कपूर\n\nMAINLY BASED ON\n\n श्रीमद् देवी भागवत\n पदमा महापुराण\n भगवत महापुराण\n दुर्गा सप्तशती\n  स्कंद महापुराण \n वामन पुराण\n\nMANLY BASED ON\n   मार्कंडेय महापुराण\n महाभारत\n रामायण\n नारद महापुराण\n ब्रह्मा   बेवारथ महापुराण\n \nVIDEO RECORDIST\n\n रमेश बोरीचा\n शेखर भुजबल\nART DIRECTOR\n मुकेश कलोला\n \nCINEMATOGRAPHY\n\n अविनाश  सतोष कार\n संतोष कुमार\n CIEF SOUND RECORDEAT\n \n               E .  रुद्रा\nEDITED BY\n नरेंद्र अरोड़ा\n दिलीप सुराणा\n                 LYRICS & MUSIC BY\n                          रविंद्र जैन\nRESEARCH & ADAPTATION\n राम चंद्रा  सदिकार\n अमजद शेख\nDr . B.P.    व्यास\n                      TITLE SONG  BY\n                      रवि\nCHIEF TECHNICAL ASVISOR\n         ज्योति सागर\nSCREENPLAY &  DIALOGUE\n            रामानंद सागर\nPRODUCED BY\n रामानंद सागर\n सुभाष सागर\n प्रेम सागर\n \nDIRECTED Y\n रामानंद सागर\n आनंद सागर\n मोती सागर\n\n\n\n\n\n\nDisclaimer :-  Copyright Disclaimer Under Section 107 Of The Copyright Act 1976 Allowance is made for \" fair use \" for the purpose Such as criticism Comment, News Reporting, Teaching, scholarship and research. Fair use is a use permitted by copyright status that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favour of fair use.",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/3TucfZ3PVlQ/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/3TucfZ3PVlQ/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/3TucfZ3PVlQ/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/3TucfZ3PVlQ/sddefault.jpg",
+"width": 640,
+"height": 480
+}
+},
+"channelTitle": "Shiv & bhakti शिव & भक्ति",
+"playlistId": "PL9qkmHaNWZXYFviWjwRH86CDcgLaGuvkK",
+"position": 42,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "3TucfZ3PVlQ"
+}
+},
+"contentDetails": {
+"videoId": "3TucfZ3PVlQ",
+"videoPublishedAt": "2020-08-04T04:51:09Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "p8d78mYTW3ignXsPNW1CvB965uI",
+"id": "UEw5cWttSGFOV1pYWUZ2aVdqd1JIODZDRGNnTGFHdXZrSy5DRUQwODMxQzUyRTlGRkY3",
+"snippet": {
+"publishedAt": "2020-08-04T05:02:26Z",
+"channelId": "UCxcHpdMNccSc-vBJcf2TuqQ",
+"title": "Jai Ganga Maiya Episode - 47 RAMANAND SAGAR",
+"description": "चैनल में आपका हार्दिक स्वागत है\n ऑल एपिसोड देखने के लिए मेरे चैनल को सब्सक्राइब कीजिए  शेयर कीजिए लाइक कीजिए आपका धन्यवाद       \n\n#JaiGangaMaiya #Shivbhakti #RamanandSagar\n बेस्ट कलाकार सर्वदमन डी बनर्जी\n रीना कपूर\n\nMAINLY BASED ON\n\n श्रीमद् देवी भागवत\n पदमा महापुराण\n भगवत महापुराण\n दुर्गा सप्तशती\n  स्कंद महापुराण \n वामन पुराण\n\nMANLY BASED ON\n   मार्कंडेय महापुराण\n महाभारत\n रामायण\n नारद महापुराण\n ब्रह्मा   बेवारथ महापुराण\n \nVIDEO RECORDIST\n\n रमेश बोरीचा\n शेखर भुजबल\nART DIRECTOR\n मुकेश कलोला\n \nCINEMATOGRAPHY\n\n अविनाश  सतोष कार\n संतोष कुमार\n CIEF SOUND RECORDEAT\n \n               E .  रुद्रा\nEDITED BY\n नरेंद्र अरोड़ा\n दिलीप सुराणा\n                 LYRICS & MUSIC BY\n                          रविंद्र जैन\nRESEARCH & ADAPTATION\n राम चंद्रा  सदिकार\n अमजद शेख\nDr . B.P.    व्यास\n                      TITLE SONG  BY\n                      रवि\nCHIEF TECHNICAL ASVISOR\n         ज्योति सागर\nSCREENPLAY &  DIALOGUE\n            रामानंद सागर\nPRODUCED BY\n रामानंद सागर\n सुभाष सागर\n प्रेम सागर\n \nDIRECTED Y\n रामानंद सागर\n आनंद सागर\n मोती सागर\n\n\n\n\n\n\nDisclaimer :-  Copyright Disclaimer Under Section 107 Of The Copyright Act 1976 Allowance is made for \" fair use \" for the purpose Such as criticism Comment, News Reporting, Teaching, scholarship and research. Fair use is a use permitted by copyright status that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favour of fair use.",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/r38mKrBvA1s/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/r38mKrBvA1s/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/r38mKrBvA1s/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/r38mKrBvA1s/sddefault.jpg",
+"width": 640,
+"height": 480
+}
+},
+"channelTitle": "Shiv & bhakti शिव & भक्ति",
+"playlistId": "PL9qkmHaNWZXYFviWjwRH86CDcgLaGuvkK",
+"position": 43,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "r38mKrBvA1s"
+}
+},
+"contentDetails": {
+"videoId": "r38mKrBvA1s",
+"videoPublishedAt": "2020-08-04T05:02:24Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "umA3NBGJ-EoKPjrEwnuwv-gqlxU",
+"id": "UEw5cWttSGFOV1pYWUZ2aVdqd1JIODZDRGNnTGFHdXZrSy41MzY4MzcwOUFFRUU3QzEx",
+"snippet": {
+"publishedAt": "2020-08-04T16:26:14Z",
+"channelId": "UCxcHpdMNccSc-vBJcf2TuqQ",
+"title": "Private video",
+"description": "This video is private.",
+"thumbnails": {},
+"channelTitle": "Shiv & bhakti शिव & भक्ति",
+"playlistId": "PL9qkmHaNWZXYFviWjwRH86CDcgLaGuvkK",
+"position": 44,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "H7cSoUB3xq4"
+}
+},
+"contentDetails": {
+"videoId": "H7cSoUB3xq4"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "eL-L1Ky_dht5KesEv4mlpI-m3Zs",
+"id": "UEw5cWttSGFOV1pYWUZ2aVdqd1JIODZDRGNnTGFHdXZrSy4yQjZFRkExQjFGODk3RUFD",
+"snippet": {
+"publishedAt": "2020-08-04T16:40:15Z",
+"channelId": "UCxcHpdMNccSc-vBJcf2TuqQ",
+"title": "Jai Ganga Maiya Episode - 49 RAMANAND SAGAR",
+"description": "चैनल में आपका हार्दिक स्वागत है\n ऑल एपिसोड देखने के लिए मेरे चैनल को सब्सक्राइब कीजिए  शेयर कीजिए लाइक कीजिए आपका धन्यवाद       \n\n#JaiGangaMaiya #Shivbhakti #RamanandSagar\n बेस्ट कलाकार सर्वदमन डी बनर्जी\n रीना कपूर\n\nMAINLY BASED ON\n\n श्रीमद् देवी भागवत\n पदमा महापुराण\n भगवत महापुराण\n दुर्गा सप्तशती\n  स्कंद महापुराण \n वामन पुराण\n\nMANLY BASED ON\n   मार्कंडेय महापुराण\n महाभारत\n रामायण\n नारद महापुराण\n ब्रह्मा   बेवारथ महापुराण\n \nVIDEO RECORDIST\n\n रमेश बोरीचा\n शेखर भुजबल\nART DIRECTOR\n मुकेश कलोला\n \nCINEMATOGRAPHY\n\n अविनाश  सतोष कार\n संतोष कुमार\n CIEF SOUND RECORDEAT\n \n               E .  रुद्रा\nEDITED BY\n नरेंद्र अरोड़ा\n दिलीप सुराणा\n                 LYRICS & MUSIC BY\n                          रविंद्र जैन\nRESEARCH & ADAPTATION\n राम चंद्रा  सदिकार\n अमजद शेख\nDr . B.P.    व्यास\n                      TITLE SONG  BY\n                      रवि\nCHIEF TECHNICAL ASVISOR\n         ज्योति सागर\nSCREENPLAY &  DIALOGUE\n            रामानंद सागर\nPRODUCED BY\n रामानंद सागर\n सुभाष सागर\n प्रेम सागर\n \nDIRECTED Y\n रामानंद सागर\n आनंद सागर\n मोती सागर\n\n\n\n\n\n\nDisclaimer :-  Copyright Disclaimer Under Section 107 Of The Copyright Act 1976 Allowance is made for \" fair use \" for the purpose Such as criticism Comment, News Reporting, Teaching, scholarship and research. Fair use is a use permitted by copyright status that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favour of fair use.",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/Udo-mDi5Q8M/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/Udo-mDi5Q8M/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/Udo-mDi5Q8M/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/Udo-mDi5Q8M/sddefault.jpg",
+"width": 640,
+"height": 480
+}
+},
+"channelTitle": "Shiv & bhakti शिव & भक्ति",
+"playlistId": "PL9qkmHaNWZXYFviWjwRH86CDcgLaGuvkK",
+"position": 45,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "Udo-mDi5Q8M"
+}
+},
+"contentDetails": {
+"videoId": "Udo-mDi5Q8M",
+"videoPublishedAt": "2020-08-04T16:40:13Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "YtfY74yV3h3wkJ7H8VEqDWWE0q8",
+"id": "UEw5cWttSGFOV1pYWUZ2aVdqd1JIODZDRGNnTGFHdXZrSy4yQUJFNUVCMzVDNjcxRTlF",
+"snippet": {
+"publishedAt": "2020-08-04T16:53:02Z",
+"channelId": "UCxcHpdMNccSc-vBJcf2TuqQ",
+"title": "Jai Ganga Maiya Episode - 50 RAMANAND SAGAR",
+"description": "चैनल में आपका हार्दिक स्वागत है\n ऑल एपिसोड देखने के लिए मेरे चैनल को सब्सक्राइब कीजिए  शेयर कीजिए लाइक कीजिए आपका धन्यवाद       \n\n#JaiGangaMaiya #Shivbhakti #RamanandSagar\n बेस्ट कलाकार सर्वदमन डी बनर्जी\n रीना कपूर\n\nMAINLY BASED ON\n\n श्रीमद् देवी भागवत\n पदमा महापुराण\n भगवत महापुराण\n दुर्गा सप्तशती\n  स्कंद महापुराण \n वामन पुराण\n\nMANLY BASED ON\n   मार्कंडेय महापुराण\n महाभारत\n रामायण\n नारद महापुराण\n ब्रह्मा   बेवारथ महापुराण\n \nVIDEO RECORDIST\n\n रमेश बोरीचा\n शेखर भुजबल\nART DIRECTOR\n मुकेश कलोला\n \nCINEMATOGRAPHY\n\n अविनाश  सतोष कार\n संतोष कुमार\n CIEF SOUND RECORDEAT\n \n               E .  रुद्रा\nEDITED BY\n नरेंद्र अरोड़ा\n दिलीप सुराणा\n                 LYRICS & MUSIC BY\n                          रविंद्र जैन\nRESEARCH & ADAPTATION\n राम चंद्रा  सदिकार\n अमजद शेख\nDr . B.P.    व्यास\n                      TITLE SONG  BY\n                      रवि\nCHIEF TECHNICAL ASVISOR\n         ज्योति सागर\nSCREENPLAY &  DIALOGUE\n            रामानंद सागर\nPRODUCED BY\n रामानंद सागर\n सुभाष सागर\n प्रेम सागर\n \nDIRECTED Y\n रामानंद सागर\n आनंद सागर\n मोती सागर\n\n\n\n\n\n\nDisclaimer :-  Copyright Disclaimer Under Section 107 Of The Copyright Act 1976 Allowance is made for \" fair use \" for the purpose Such as criticism Comment, News Reporting, Teaching, scholarship and research. Fair use is a use permitted by copyright status that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favour of fair use.",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/G5seNtBFtzA/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/G5seNtBFtzA/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/G5seNtBFtzA/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/G5seNtBFtzA/sddefault.jpg",
+"width": 640,
+"height": 480
+}
+},
+"channelTitle": "Shiv & bhakti शिव & भक्ति",
+"playlistId": "PL9qkmHaNWZXYFviWjwRH86CDcgLaGuvkK",
+"position": 46,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "G5seNtBFtzA"
+}
+},
+"contentDetails": {
+"videoId": "G5seNtBFtzA",
+"videoPublishedAt": "2020-08-04T16:53:00Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "kowZ_G7XPib3_73l-I8SwA8qMdg",
+"id": "UEw5cWttSGFOV1pYWUZ2aVdqd1JIODZDRGNnTGFHdXZrSy40QzRDOEU0QUYwNUIxN0M1",
+"snippet": {
+"publishedAt": "2020-08-05T16:58:39Z",
+"channelId": "UCxcHpdMNccSc-vBJcf2TuqQ",
+"title": "Private video",
+"description": "This video is private.",
+"thumbnails": {},
+"channelTitle": "Shiv & bhakti शिव & भक्ति",
+"playlistId": "PL9qkmHaNWZXYFviWjwRH86CDcgLaGuvkK",
+"position": 47,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "47VgOt_Ppik"
+}
+},
+"contentDetails": {
+"videoId": "47VgOt_Ppik"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "J1_QZ_UauwC0HrmJCqM2fKYBJiI",
+"id": "UEw5cWttSGFOV1pYWUZ2aVdqd1JIODZDRGNnTGFHdXZrSy41RTNBREYwMkI5QzU3RkY2",
+"snippet": {
+"publishedAt": "2020-08-05T17:11:33Z",
+"channelId": "UCxcHpdMNccSc-vBJcf2TuqQ",
+"title": "Jai Ganga Maiya Episode - 52 RAMANAND SAGAR",
+"description": "चैनल में आपका हार्दिक स्वागत है\n ऑल एपिसोड देखने के लिए मेरे चैनल को सब्सक्राइब कीजिए  शेयर कीजिए लाइक कीजिए आपका धन्यवाद       \n\n#JaiGangaMaiya #Shivbhakti #RamanandSagar\n बेस्ट कलाकार सर्वदमन डी बनर्जी\n रीना कपूर\n\nMAINLY BASED ON\n\n श्रीमद् देवी भागवत\n पदमा महापुराण\n भगवत महापुराण\n दुर्गा सप्तशती\n  स्कंद महापुराण \n वामन पुराण\n\nMANLY BASED ON\n   मार्कंडेय महापुराण\n महाभारत\n रामायण\n नारद महापुराण\n ब्रह्मा   बेवारथ महापुराण\n \nVIDEO RECORDIST\n\n रमेश बोरीचा\n शेखर भुजबल\nART DIRECTOR\n मुकेश कलोला\n \nCINEMATOGRAPHY\n\n अविनाश  सतोष कार\n संतोष कुमार\n CIEF SOUND RECORDEAT\n \n               E .  रुद्रा\nEDITED BY\n नरेंद्र अरोड़ा\n दिलीप सुराणा\n                 LYRICS & MUSIC BY\n                          रविंद्र जैन\nRESEARCH & ADAPTATION\n राम चंद्रा  सदिकार\n अमजद शेख\nDr . B.P.    व्यास\n                      TITLE SONG  BY\n                      रवि\nCHIEF TECHNICAL ASVISOR\n         ज्योति सागर\nSCREENPLAY &  DIALOGUE\n            रामानंद सागर\nPRODUCED BY\n रामानंद सागर\n सुभाष सागर\n प्रेम सागर\n \nDIRECTED Y\n रामानंद सागर\n आनंद सागर\n मोती सागर\n\n\n\n\n\n\nDisclaimer :-  Copyright Disclaimer Under Section 107 Of The Copyright Act 1976 Allowance is made for \" fair use \" for the purpose Such as criticism Comment, News Reporting, Teaching, scholarship and research. Fair use is a use permitted by copyright status that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favour of fair use.",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/XuAKjr0XkNw/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/XuAKjr0XkNw/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/XuAKjr0XkNw/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/XuAKjr0XkNw/sddefault.jpg",
+"width": 640,
+"height": 480
+}
+},
+"channelTitle": "Shiv & bhakti शिव & भक्ति",
+"playlistId": "PL9qkmHaNWZXYFviWjwRH86CDcgLaGuvkK",
+"position": 48,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "XuAKjr0XkNw"
+}
+},
+"contentDetails": {
+"videoId": "XuAKjr0XkNw",
+"videoPublishedAt": "2020-08-05T17:11:32Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "pgbWAq0nMd-A8Wr5ADo0QeIdoZQ",
+"id": "UEw5cWttSGFOV1pYWUZ2aVdqd1JIODZDRGNnTGFHdXZrSy5ENjI1QUI0MDI5NEQzODFE",
+"snippet": {
+"publishedAt": "2020-08-05T17:25:11Z",
+"channelId": "UCxcHpdMNccSc-vBJcf2TuqQ",
+"title": "Jai Ganga Maiya Episode - 53 RAMANAND SAGAR",
+"description": "चैनल में आपका हार्दिक स्वागत है\n ऑल एपिसोड देखने के लिए मेरे चैनल को सब्सक्राइब कीजिए  शेयर कीजिए लाइक कीजिए आपका धन्यवाद       \n\n#JaiGangaMaiya #Shivbhakti #RamanandSagar\n बेस्ट कलाकार सर्वदमन डी बनर्जी\n रीना कपूर\n\nMAINLY BASED ON\n\n श्रीमद् देवी भागवत\n पदमा महापुराण\n भगवत महापुराण\n दुर्गा सप्तशती\n  स्कंद महापुराण \n वामन पुराण\n\nMANLY BASED ON\n   मार्कंडेय महापुराण\n महाभारत\n रामायण\n नारद महापुराण\n ब्रह्मा   बेवारथ महापुराण\n \nVIDEO RECORDIST\n\n रमेश बोरीचा\n शेखर भुजबल\nART DIRECTOR\n मुकेश कलोला\n \nCINEMATOGRAPHY\n\n अविनाश  सतोष कार\n संतोष कुमार\n CIEF SOUND RECORDEAT\n \n               E .  रुद्रा\nEDITED BY\n नरेंद्र अरोड़ा\n दिलीप सुराणा\n                 LYRICS & MUSIC BY\n                          रविंद्र जैन\nRESEARCH & ADAPTATION\n राम चंद्रा  सदिकार\n अमजद शेख\nDr . B.P.    व्यास\n                      TITLE SONG  BY\n                      रवि\nCHIEF TECHNICAL ASVISOR\n         ज्योति सागर\nSCREENPLAY &  DIALOGUE\n            रामानंद सागर\nPRODUCED BY\n रामानंद सागर\n सुभाष सागर\n प्रेम सागर\n \nDIRECTED Y\n रामानंद सागर\n आनंद सागर\n मोती सागर\n\n\n\n\n\n\nDisclaimer :-  Copyright Disclaimer Under Section 107 Of The Copyright Act 1976 Allowance is made for \" fair use \" for the purpose Such as criticism Comment, News Reporting, Teaching, scholarship and research. Fair use is a use permitted by copyright status that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favour of fair use.",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/zMwPDECUMYA/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/zMwPDECUMYA/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/zMwPDECUMYA/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/zMwPDECUMYA/sddefault.jpg",
+"width": 640,
+"height": 480
+}
+},
+"channelTitle": "Shiv & bhakti शिव & भक्ति",
+"playlistId": "PL9qkmHaNWZXYFviWjwRH86CDcgLaGuvkK",
+"position": 49,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "zMwPDECUMYA"
+}
+},
+"contentDetails": {
+"videoId": "zMwPDECUMYA",
+"videoPublishedAt": "2020-08-05T17:25:09Z"
+}
+}
+],
+"pageInfo": {
+"totalResults": 62,
+"resultsPerPage": 50
+}
 }
