@@ -43,7 +43,7 @@
 		},
 			   {
 			"videosListId": "sponcered.json",
-			"type": "ADS-BANNER",
+			"type": "ADS-REC-BANNER",
 			"extraLink": "",
                         "isLive": true,
 			"title": "Ads. Suggested for you",
