@@ -20,7 +20,7 @@
 		{
 			"videosListId": "bhojpuri_hit_songs.json",
 			"type": "YP",
-			 "isLive": true,
+			 "isLive": false,
 			"extraLink": "",
 			"title": "Bhojpuri Hit Songs",
 			"moreButton": true
@@ -37,7 +37,7 @@
 			"videosListId": "bhojpuri_hot.json",
 			"type": "YP",
 			"extraLink": "",
-				    "isLive": true,
+				    "isLive": false,
 			"title": "Bhojpuri Hot Songs",
 			"moreButton": true
 		},
@@ -45,7 +45,7 @@
 			"videosListId": "bhojpuri_songs1.json",
 			"type": "YP",
 			"extraLink": "",
-				    "isLive": true,
+				    "isLive": false,
 			"title": "Bhojpuri Masti Songs",
 			"moreButton": true
 		},
@@ -53,7 +53,7 @@
 			"videosListId": "bhojpuri_movie.json",
 			"type": "YP",
 			"extraLink": "",
-				 "isLive": true,
+				 "isLive": false,
 			"title": "Bhpjpuri Movies",
 			"moreButton": true
 		},
@@ -69,7 +69,7 @@
 			"videosListId": "bhojpuri_doubed.json",
 			"type": "YP",
 			"extraLink": "",
-				 "isLive": true,
+				 "isLive": false,
 			"title": "Bhojpuri Dubbed Movies",
 			"moreButton": true
 		},
@@ -77,7 +77,7 @@
 			"videosListId": "bhojpuri_horror.json",
 			"type": "YP",
 			"extraLink": "",
-				 "isLive": true,
+				 "isLive": false,
 			"title": "Horror movies",
 			"moreButton": true
 		},
@@ -97,7 +97,7 @@
 			"videosListId": "old_bhojpuri.json",
 			"type": "YP",
 			"extraLink": "",
-                        "isLive": true,
+                        "isLive": false,
 			"title": "Old Bhojpuri songs",
 			"moreButton": true
 		} ,
@@ -105,7 +105,7 @@
 			"videosListId": "amrapali.json",
 			"type": "YP",
 			"extraLink": "",
-                        "isLive": true,
+                        "isLive": false,
 			"title": "Amrapali Dubey(आम्रपाली दुबे)",
 			"moreButton": true
 		} ,
@@ -121,14 +121,14 @@
 			"videosListId": "akshara_singh.json",
 			"type": "YP",
 			"extraLink": "",
-                        "isLive": true,
+                        "isLive": false,
 			"title": "Akshara Singh(अक्षरा सिंह)",
 			"moreButton": true
 		} ,  {
 			"videosListId": "sneha_pandey.json",
 			"type": "YP",
 			"extraLink": "",
-                        "isLive": true,
+                        "isLive": false,
 			"title": "Sneha Pandey(स्नेहा पांडेय)",
 			"moreButton": true
 		} ,
@@ -136,7 +136,7 @@
 			"videosListId": "rani_chattaergy.json",
 			"type": "YP",
 			"extraLink": "",
-                        "isLive": true,
+                        "isLive": false,
 			"title": "Rani Chatterjee(रानी चटर्जी)",
 			"moreButton": true
 		} ,
@@ -152,7 +152,7 @@
 			"videosListId": "monalisa.json",
 			"type": "YP",
 			"extraLink": "",
-                        "isLive": true,
+                        "isLive": false,
 			"title": "Monalisa(मोना लीसा)",
 			"moreButton": true
 		} ,
@@ -160,7 +160,7 @@
 			"videosListId": "anjana_singh.json",
 			"type": "YP",
 			"extraLink": "",
-                        "isLive": true,
+                        "isLive": false,
 			"title": "Anjana Singh(अंजना सिंहा)",
 			"moreButton": true
 		} ,
@@ -168,7 +168,7 @@
 			"videosListId": "yamini_singh.json",
 			"type": "YP",
 			"extraLink": "",
-                        "isLive": true,
+                        "isLive": false,
 			"title": "Yamini Singh(यामिनी सिंहा)",
 			"moreButton": true
 		} ,
@@ -184,7 +184,7 @@
 			"videosListId": "kajal_raghwani.json",
 			"type": "YP",
 			"extraLink": "",
-                        "isLive": true,
+                        "isLive": false,
 			"title": "Kajal Raghwani(काजल राघवानी)",
 			"moreButton": true
 		} ,
@@ -200,7 +200,7 @@
 			"videosListId": "ritesh_pandey.json",
 			"type": "YP",
 			"extraLink": "",
-                        "isLive": true,
+                        "isLive": false,
 			"title": "Ritesh Pandey(रितेश पांडेी)",
 			"moreButton": true
 		} ,
