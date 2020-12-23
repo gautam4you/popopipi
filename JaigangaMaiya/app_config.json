@@ -34,18 +34,18 @@
 			"moreButton": false
 		},
 			   {
-			"videosListId": "bhojpuri_hot.json",
+			"videosListId": "harishchandra.json",
 			"type": "YP",
 			"extraLink": "",
-				    "isLive": false,
-			"title": "Bhojpuri Hot Songs",
+				    "isLive": true,
+			"title": "Raja Harishchandra",
 			"moreButton": true
 		},
 			   {
-			"videosListId": "bhojpuri_songs1.json",
-			"type": "YP",
+			"videosListId": "shivpuran.json",
+			"type": "DM",
 			"extraLink": "",
-				    "isLive": false,
+				    "isLive": true,
 			"title": "Bhojpuri Masti Songs",
 			"moreButton": true
 		},
