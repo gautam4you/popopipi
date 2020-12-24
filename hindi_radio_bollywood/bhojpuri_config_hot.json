@@ -1,0 +1,220 @@
+﻿{
+	"active": true,
+	"ads": {
+		"active": true,
+		"bannerAdsUnite": "794353377787880_7943548844543961",
+		"fullAdsUnite": "794353377787880_7943556344543211",
+		"rewardVideosAdsUnite": "794353377787880_7943560144542831",
+		"adsAppId": "794353377787880_7944097344489111"
+	},
+	"ytKey": "AIzaSyB_YoT1sMzMbknZDFYXammOqi8LAu7tPpk",
+	"GridSize": 2,
+	"HomeVideosList": [{
+			"videosListId": "bhojpuri_banner.json",
+			"type": "YP",
+			"extraLink": "",
+		 "isLive": true,
+			"title": "Breaking",
+			"moreButton": true
+		},
+		{
+			"videosListId": "bhojpuri_hit_songs.json",
+			"type": "YP",
+			 "isLive": true,
+			"extraLink": "",
+			"title": "Bhojpuri Hit Songs",
+			"moreButton": true
+		},
+               {
+			"videosListId": "sponcered.json",
+			"type": "ADS-NATIVE",
+			"extraLink": "",
+                        "isLive": true,
+			"title": "Ads. Suggested for you",
+			"moreButton": false
+		},
+			   {
+			"videosListId": "bhojpuri_hot.json",
+			"type": "YP",
+			"extraLink": "",
+				    "isLive": true,
+			"title": "Bhojpuri Hot Songs",
+			"moreButton": true
+		},
+			   {
+			"videosListId": "bhojpuri_songs1.json",
+			"type": "YP",
+			"extraLink": "",
+				    "isLive": true,
+			"title": "Bhojpuri Masti Songs",
+			"moreButton": true
+		},
+			{
+			"videosListId": "bhojpuri_movie.json",
+			"type": "YP",
+			"extraLink": "",
+				 "isLive": true,
+			"title": "Bhpjpuri Movies",
+			"moreButton": true
+		},
+			    {
+			"videosListId": "sponcered.json",
+			"type": "SP",
+			"extraLink": "",
+				     "isLive": true,
+			"title": "Ads. Suggested for you",
+			"moreButton": false
+		},
+			{
+			"videosListId": "bhojpuri_doubed.json",
+			"type": "YP",
+			"extraLink": "",
+				 "isLive": true,
+			"title": "Bhojpuri Dubbed Movies",
+			"moreButton": true
+		},
+			{
+			"videosListId": "bhojpuri_horror.json",
+			"type": "YP",
+			"extraLink": "",
+				 "isLive": true,
+			"title": "Horror movies",
+			"moreButton": true
+		},
+		
+		 
+			{
+			"videosListId": "sponcered.json",
+			"type": "ADS-REC-BANNER",
+			"extraLink": "",
+                        "isLive": true,
+			"title": "Ads. Suggested for you",
+			"moreButton": false
+		}
+	],
+	"ExtraHomeVideosList": [
+		  {
+			"videosListId": "old_bhojpuri.json",
+			"type": "YP",
+			"extraLink": "",
+                        "isLive": true,
+			"title": "Old Bhojpuri songs",
+			"moreButton": true
+		} ,
+		  {
+			"videosListId": "amrapali.json",
+			"type": "YP",
+			"extraLink": "",
+                        "isLive": true,
+			"title": "Amrapali Dubey(आम्रपाली दुबे)",
+			"moreButton": true
+		} ,
+		   {
+			"videosListId": "sponcered.json",
+			"type": "ADS-NATIVE",
+			"extraLink": "",
+                        "isLive": true,
+			"title": "Ads. Suggested for you",
+			"moreButton": false
+		},
+		  {
+			"videosListId": "akshara_singh.json",
+			"type": "YP",
+			"extraLink": "",
+                        "isLive": true,
+			"title": "Akshara Singh(अक्षरा सिंह)",
+			"moreButton": true
+		} ,  {
+			"videosListId": "sneha_pandey.json",
+			"type": "YP",
+			"extraLink": "",
+                        "isLive": true,
+			"title": "Sneha Pandey(स्नेहा पांडेय)",
+			"moreButton": true
+		} ,
+		{
+			"videosListId": "rani_chattaergy.json",
+			"type": "YP",
+			"extraLink": "",
+                        "isLive": true,
+			"title": "Rani Chatterjee(रानी चटर्जी)",
+			"moreButton": true
+		} ,
+		   {
+			"videosListId": "sponcered.json",
+			"type": "ADS-NATIVE",
+			"extraLink": "",
+                        "isLive": true,
+			"title": "Ads. Suggested for you",
+			"moreButton": false
+		},
+		{
+			"videosListId": "monalisa.json",
+			"type": "YP",
+			"extraLink": "",
+                        "isLive": true,
+			"title": "Monalisa(मोना लीसा)",
+			"moreButton": true
+		} ,
+		{
+			"videosListId": "anjana_singh.json",
+			"type": "YP",
+			"extraLink": "",
+                        "isLive": true,
+			"title": "Anjana Singh(अंजना सिंहा)",
+			"moreButton": true
+		} ,
+		{
+			"videosListId": "yamini_singh.json",
+			"type": "YP",
+			"extraLink": "",
+                        "isLive": true,
+			"title": "Yamini Singh(यामिनी सिंहा)",
+			"moreButton": true
+		} ,
+		   {
+			"videosListId": "sponcered.json",
+			"type": "ADS-NATIVE",
+			"extraLink": "",
+                        "isLive": true,
+			"title": "Ads. Suggested for you",
+			"moreButton": false
+		},
+		  {
+			"videosListId": "kajal_raghwani.json",
+			"type": "YP",
+			"extraLink": "",
+                        "isLive": true,
+			"title": "Kajal Raghwani(काजल राघवानी)",
+			"moreButton": true
+		} ,
+		{
+			"videosListId": "sponcered.json",
+			"type": "ADS-BANNER",
+			"extraLink": "",
+                        "isLive": true,
+			"title": "Ads. Suggested for you",
+			"moreButton": true
+		},
+		 {
+			"videosListId": "ritesh_pandey.json",
+			"type": "YP",
+			"extraLink": "",
+                        "isLive": true,
+			"title": "Ritesh Pandey(रितेश पांडेी)",
+			"moreButton": true
+		} ,
+	     {
+			"videosListId": "app-ad.json",
+			"imgUrl": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/notification_latest_radio.png",
+			"type": "APP-AD",
+			"extraLink": "https://play.google.com/store/apps/details?id=com.app.hindiradionews",
+                        "isLive": false,
+			"title": "",
+			"moreButton": true
+		}
+			
+             
+		
+	]
+}
