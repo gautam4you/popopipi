@@ -1,0 +1,58 @@
+{
+	"active": true,
+        "versionCode":1,
+	"ytKey1": "AIzaSyCFGAhJY77Ql2oYH6QL3mkNujegPt7if78",
+        "ytKey2": "AIzaSyCFGAhJY77Ql2oYH6QL3mkNujegPt7if78",
+        "ytKey3": "AIzaSyCFGAhJY77Ql2oYH6QL3mkNujegPt7if78",
+	"bannerAdsUnite": "ca-app-pub-6533269161423177/6473223053",
+	"fullAdsUnite": "ca-app-pub-6533269161423177/3847059716",
+	"rewardVideosAdsUnite": "ca-app-pub-6533269161423177/2533978044",
+	"adsAppId": "ca-app-pub-6533269161423177~4038631407",
+	"fbBanner": "1347594062243585_1347595122243479",
+	"fbfullAdsUnite": "1347594062243585_1347595408910117",
+	"fbNativeUnite": "1347594062243585_1347595678910090",
+	"CategoriesList": [{
+			"name": "Tamil Radio",
+			"url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2dhdXRhbTR5b3UvcG9wb3BpcGkvbWFzdGVyL1RhbWlsL3RhbWlsX2xpdmUuanNvbg==",
+			"id": "1"
+			
+		},
+			   {
+			"name": "South Radio",
+			"url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2dhdXRhbTR5b3UvcG9wb3BpcGkvbWFzdGVyL1RhbWlsL3NvdXRoX3JhZGlvLmpzb24=",
+			"id": "2"
+			
+		}
+			   ,
+			   {
+			"name": "Hits Collection",
+			"url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2dhdXRhbTR5b3UvcG9wb3BpcGkvbWFzdGVyL1RhbWlsL2hpdHNjb2xsZWN0aW9uLmpzb24=",
+			"id": "3"
+			
+		}  ,
+			   {
+			"name": "Online Live",
+			"url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2dhdXRhbTR5b3UvcG9wb3BpcGkvbWFzdGVyL1RhbWlsL29ubGluZV9yYWRpby5qc29u",
+			"id": "4"
+			
+		} ,
+			   {
+			"name": "AIR Tamil",
+			"url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2dhdXRhbTR5b3UvcG9wb3BpcGkvbWFzdGVyL1RhbWlsL2Fpcl90YW1pbC5qc29u",
+			"id": "5"
+			
+		},
+			   {
+			"name": "Religion Radio",
+			"url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2dhdXRhbTR5b3UvcG9wb3BpcGkvbWFzdGVyL1RhbWlsL3JlbGlnaW9uX3JhZGlvLmpzb24=",
+			"id": "6"
+			
+		},
+			   {
+			"name": "Bollywood Radio",
+			"url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2dhdXRhbTR5b3UvcG9wb3BpcGkvbWFzdGVyL3JhZGlvX3N0YXRpb25zX2FydGlzdC5qc29u",
+			"id": "7"
+			
+		}
+	]
+}
