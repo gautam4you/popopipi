@@ -5,6 +5,13 @@
 "has_more": true,
 "spList": [
 	{
+		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/telugu.png",
+		"playStoreUrl": "https://play.google.com/store/apps/details?id=com.app.teluguradio",
+		"directLink": "",
+		"info":"Telugu Radio"
+
+},
+	{
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/tamil512.png",
 		"playStoreUrl": "https://play.google.com/store/apps/details?id=com.app.tamilradio",
 		"directLink": "",
