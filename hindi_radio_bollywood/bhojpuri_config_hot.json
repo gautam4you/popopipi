@@ -20,7 +20,7 @@
 		{
 			"videosListId": "bhojpuri_hit_songs.json",
 			"type": "YP",
-			 "isLive": true,
+			 "isLive": false,
 			"extraLink": "",
 			"title": "Bhojpuri Hit Songs",
 			"moreButton": true
