@@ -20,14 +20,26 @@
 			   {
 			"name": "AIR Telugu",
 			"url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2dhdXRhbTR5b3UvcG9wb3BpcGkvbWFzdGVyL1RlbGd1L3RlbHVndV9haXIuanNvbg==",
-			"id": "1"
+			"id": "2"
+			
+		},
+			      {
+			"name": "Music Radio",
+			"url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2dhdXRhbTR5b3UvcG9wb3BpcGkvbWFzdGVyL1RlbGd1L211c2ljX3JhZGlvLmpzb24=",
+			"id": "3"
+			
+		},
+			    {
+			"name": "Devotional",
+			"url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2dhdXRhbTR5b3UvcG9wb3BpcGkvbWFzdGVyL1RlbGd1L2Rldm90aW9uYWxfcmFkaW8uanNvbg==",
+			"id": "4"
 			
 		},
 			 
 			   {
 			"name": "Bollywood Radio",
 			"url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2dhdXRhbTR5b3UvcG9wb3BpcGkvbWFzdGVyL3JhZGlvX3N0YXRpb25zX2FydGlzdC5qc29u",
-			"id": "7"
+			"id": "5"
 			
 		}
 	]
