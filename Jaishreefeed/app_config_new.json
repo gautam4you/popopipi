@@ -73,6 +73,31 @@
 			"title": "Episode 251 to 350",
 			"moreButton": true
 		},
+			   
+			   {
+			"videosListId": "jaishreekrishna-dailymotion05.json",
+			"type": "DM",
+			"extraLink": "",
+                        "isLive": true,
+			"title": "Episode 351 to 375",
+			"moreButton": true
+		},
+			   	   {
+			"videosListId": "jaishreekrishna-dailymotion06.json",
+			"type": "DM",
+			"extraLink": "",
+                        "isLive": true,
+			"title": "Episode 376 to 400",
+			"moreButton": true
+		},
+			      {
+			"videosListId": "jaishreekrishna-dailymotion07.json",
+			"type": "DM",
+			"extraLink": "",
+                        "isLive": true,
+			"title": "Episode 401 to 422",
+			"moreButton": true
+		},
 	
 			
 			{
