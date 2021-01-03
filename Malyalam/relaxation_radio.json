@@ -1,0 +1,914 @@
+﻿[
+{
+"name": "CALM RADIO - Disney",
+"category": "Relaxation - Music",
+"url": "http://streams.calmradio.com:19528/stream/1/",
+"logo": "https://static.radio.net/images/broadcasts/d6/57/109946/1/c175.png"
+},
+{
+"name": "Calm Radio - Solo Guitar",
+"category": "Relaxation - Music",
+"url": "http://streams.calmradio.com:2628/stream/1/",
+"logo": "https://static-media.streema.com/media/cache/7c/9c/7c9c3592eb004c7287ddad7b2acce1ec.jpg"
+},
+{
+"name": "Calm Radio - Classical Piano",
+"category": "Relaxation - Music",
+"url": "http://streams.calmradio.com:1228/stream/1/",
+"logo": "https://static-media.streema.com/media/cache/0f/61/0f612df291090b248745ec189bc2986d.jpg"
+},
+{
+"name": "Calm Radio - Sleep",
+"category": "Relaxation - Music",
+"url": "http://streams.calmradio.com:30628/stream/1/",
+"logo": "https://static-media.streema.com/media/cache/ab/66/ab66df936b3a459ed3a8d4aeb0ef6c89.jpg"
+},
+{
+"name": "CALM RADIO - Jazz Guitar",
+"category": "Relaxation - Music",
+"url": "http://streams.calmradio.com:13128/stream/1/",
+"logo": "https://static.radio.net/images/broadcasts/5e/c8/35324/c175.png"
+},
+{
+"name": "CALM RADIO - Solo Piano & Guitar",
+"category": "Relaxation - Music",
+"url": "http://streams.calmradio.com:30228/stream/1/",
+"logo": "https://static.radio.net/images/broadcasts/07/17/35201/c175.png"
+},
+{
+"name": "CALM RADIO - Mozart",
+"category": "Relaxation - Music",
+"url": "http://streams.calmradio.com:7328/stream/1/",
+"logo": "https://static.radio.net/images/broadcasts/2c/d6/35197/c175.png"
+},
+{
+"name": "CALM RADIO - Classical Guitar",
+"category": "Relaxation - Music",
+"url": "http://streams.calmradio.com:2728/stream/1/",
+"logo": "https://static.radio.net/images/broadcasts/8d/49/35199/c175.png"
+},
+{
+"name": "CALM RADIO - Jazz Piano",
+"category": "Relaxation - Music",
+"url": "http://streams.calmradio.com:30728/stream/1/",
+"logo": "https://static.radio.net/images/broadcasts/4c/1e/35327/c175.png"
+},
+{
+"name": "CALM RADIO - Flamenco",
+"category": "Relaxation - Music",
+"url": "http://streams.calmradio.com:4928/stream/1/",
+"logo": "https://static.radio.net/images/broadcasts/9b/cf/35349/c175.png"
+},
+{
+"name": "CALM RADIO - Om",
+"category": "Relaxation - Music",
+"url": "http://streams.calmradio.com:4728/stream/1/",
+"logo": "https://static.radio.net/images/broadcasts/f5/99/35218/c175.png"
+},
+{
+"name": "CALM RADIO - Bachata",
+"category": "Relaxation - Music",
+"url": "http://streams.calmradio.com:9828/stream/1/",
+"logo": "https://static.radio.net/images/broadcasts/7c/24/35345/c175.png"
+},
+{
+"name": "CALM RADIO - Symphony",
+"category": "Relaxation - Music",
+"url": "http://streams.calmradio.com:1028/stream/1/",
+"logo": "https://static.radio.net/images/broadcasts/48/ac/35231/c175.png"
+},
+{
+"name": "CALM RADIO - Musicals",
+"category": "Relaxation - Music",
+"url": "http://streams.calmradio.com:18728/stream/1/",
+"logo": "https://static.radio.net/images/broadcasts/74/87/109947/1/c175.png"
+},
+{
+"name": "CALM RADIO - Haydn",
+"category": "Relaxation - Music",
+"url": "http://streams.calmradio.com:7228/stream/1/",
+"logo": "https://static.radio.net/images/broadcasts/23/ea/35286/c175.png"
+},
+{
+"name": "CALM RADIO - Folk",
+"category": "Relaxation - Music",
+"url": "http://streams.calmradio.com:3528/stream/1/",
+"logo": "https://static.radio.net/images/broadcasts/11/6f/35206/c175.png"
+},
+{
+"name": "CALM RADIO - Aloha",
+"category": "Relaxation - Music",
+"url": "http://streams.calmradio.com:15728/stream/1/",
+"logo": "https://static.radio.net/images/broadcasts/c1/88/35332/c175.png"
+},
+{
+"name": "CALM RADIO - Lounge",
+"category": "Relaxation - Music",
+"url": "http://streams.calmradio.com:6628/stream/1/",
+"logo": "https://static.radio.net/images/broadcasts/c1/87/35212/c175.png"
+},
+{
+"name": "CALM RADIO - Flute",
+"category": "Relaxation - Music",
+"url": "http://streams.calmradio.com:4828/stream/1/",
+"logo": "https://static.radio.net/images/broadcasts/27/f4/35278/c175.png"
+},
+{
+"name": "CALM RADIO - Lullaby",
+"category": "Relaxation - Music",
+"url": "http://streams.calmradio.com:19728/stream/1/",
+"logo": "https://static.radio.net/images/broadcasts/51/ec/109936/1/c175.png"
+},
+{
+"name": "CALM RADIO - Zen",
+"category": "Relaxation - Music",
+"url": "http://streams.calmradio.com:14028/stream/1/",
+"logo": "https://static.radio.net/images/broadcasts/0f/c8/35209/c175.png"
+},
+{
+"name": "CALM RADIO - Movieola",
+"category": "Relaxation - Music",
+"url": "http://streams.calmradio.com:3128/stream/1/",
+"logo": "https://static.radio.net/images/broadcasts/98/6b/35226/c175.png"
+},
+{
+"name": "CALM RADIO - Balance",
+"category": "Relaxation - Music",
+"url": "http://streams.calmradio.com:30528/stream/1/",
+"logo": "https://static.radio.net/images/broadcasts/aa/b0/35216/c175.png"
+},
+{
+"name": "Calm Radio - Singing Bowls",
+"category": "Relaxation - Music",
+"url": "http://streams.calmradio.com/api/251/128/stream",
+"logo": "https://cdn-profiles.tunein.com/s167032/images/logoq.jpg"
+},
+{
+"name": "CALM RADIO - Cello",
+"category": "Relaxation - Music",
+"url": "http://streams.calmradio.com:4628/stream/1/",
+"logo": "https://static.radio.net/images/broadcasts/f8/43/35277/c175.png"
+},
+{
+"name": "CALM RADIO - SEXY LOUNGE",
+"url": "http://streams.calmradio.com:21728/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s290435q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "Calm Radio - Calm Country",
+"url": "http://streams.calmradio.com/api/507/128/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s221711q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "Calm Radio - Solo Piano",
+"url": "http://streams.calmradio.com/api/67/128/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s132816q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "Calm Radio - Elite Artists",
+"url": "http://streams.calmradio.com/api/23/128/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s133512q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "Calm Radio - Baryton",
+"url": "http://streams.calmradio.com/api/481/128/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s221658q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "Calm Radio - Lute",
+"url": "http://streams.calmradio.com/api/475/128/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s221657q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "Calm Radio - Healing",
+"url": "http://streams.calmradio.com/api/73/128/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s142244q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "Calm Radio - Wagner",
+"url": "http://streams.calmradio.com/api/435/128/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s192191q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "Calm Radio - Chamber Music",
+"url": "http://streams.calmradio.com/api/119/128/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s191785q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "Calm Radio - Native",
+"url": "http://streams.calmradio.com/api/79/128/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s142247q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "Calm Radio - Opera",
+"url": "http://streams.calmradio.com/api/59/128/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s133514q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "Calm Radio - Violin",
+"url": "http://streams.calmradio.com/api/107/128/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s142220q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "Calm Radio - Orient",
+"url": "http://streams.calmradio.com/api/85/128/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s142248q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "Calm Radio - South America",
+"url": "http://streams.calmradio.com/api/227/128/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s142249q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "Calm Radio - Harpsichord",
+"url": "http://streams.calmradio.com/api/471/128/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s221656q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "Calm Radio - Celtic",
+"url": "http://streams.calmradio.com/api/161/128/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s142246q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "Calm Radio - Christian",
+"url": "http://streams.calmradio.com/api/169/128/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s142210q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "Calm Radio - Blues",
+"url": "http://streams.calmradio.com/api/89/128/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s142212q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "Calm Radio - Organ",
+"url": "http://streams.calmradio.com/api/483/128/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s221661q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "Calm Radio - Vienna Philharmonic",
+"url": "http://streams.calmradio.com/api/527/128/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s221662q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "CALM RADIO - JAZZ CHRISTMAS",
+"url": "http://streams.calmradio.com/api/1128/128/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s290440q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "Calm Radio – Post-War Hits",
+"url": "http://streams.calmradio.com/api/595/128/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s254279q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "CALM RADIO - AURA",
+"url": "http://streams.calmradio.com/api/1064/128/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s290432q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "Calm Radio - Eric Harry & Friends",
+"url": "http://streams.calmradio.com/api/19/128/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s133515q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "Calm Radio - Viola Da Gamba",
+"url": "http://streams.calmradio.com/api/311/128/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s192199q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "CALM RADIO - CLASSIC ROCK - (Sampler)",
+"url": "http://ccast-z4.calmradio.com:24528/stream",
+"logo": "https://static.radio.net/images/broadcasts/26/4c/109962/1/c175.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "CALM RADIO - MELLOW POP LEGENDS",
+"url": "http://streams.calmradio.com:16228/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s290625q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "CALM RADIO - JAZZ CHRISTMAS - Sampler",
+"url": "http://streams.calmradio.com:21628",
+"logo": "http://cdn-radiotime-logos.tunein.com/s282481q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "Calm Radio",
+"url": "http://streams.calmradio.com/api/283/128/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s179296q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "CALM RADIO - 20th CENTURY COMPOSERS - (Sampler)",
+"url": "http://ccast-z6.calmradio.com:24828/stream",
+"logo": "https://static.radio.net/images/broadcasts/11/5b/109963/1/c175.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "CALM RADIO - ULTIMATE POP MIX - Sampler",
+"url": "http://streams.calmradio.com:21028",
+"logo": "http://cdn-radiotime-logos.tunein.com/s280061q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "CALM RADIO - COFFEE HOUSE - (Sampler)",
+"url": "http://ccast-z6.calmradio.com:24428/stream",
+"logo": "https://static.radio.net/images/broadcasts/e2/22/109938/1/c175.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "Calm Radio - Be Bop",
+"url": "http://streams.calmradio.com/api/357/128/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s179099q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "CALM RADIO - SHAKUHACHI",
+"url": "http://streams.calmradio.com/api/1050/128/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s290434q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "CALM RADIO - COCKTAIL JAZZ - Sampler",
+"url": "http://streams.calmradio.com:21228",
+"logo": "http://cdn-radiotime-logos.tunein.com/s282480q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "CALM RADIO - 70's 80's 90's HITS",
+"url": "http://streams.calmradio.com:20928",
+"logo": "http://cdn-radiotime-logos.tunein.com/s280060q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "Calm Radio – Rock Explosion 1965 – 69",
+"url": "http://streams.calmradio.com/api/599/128/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s254275q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "Calm Radio - Africa",
+"url": "http://streams.calmradio.com/api/231/128/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s167307q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "Calm Radio - Latin",
+"url": "http://streams.calmradio.com/api/243/128/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s167308q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "Calm Radio - Tibet",
+"url": "http://streams.calmradio.com/api/271/128/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s167310q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "Calm Radio - Reiki",
+"url": "http://streams.calmradio.com/api/375/128/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s179098q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "Calm Radio - Big Band",
+"url": "http://streams.calmradio.com/api/177/128/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s179294q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "Calm Radio -  Pyotr Tchaikovsky",
+"url": "http://streams.calmradio.com/api/189/128/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s166525q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "Calm Radio - Antonio Vivaldi",
+"url": "http://streams.calmradio.com/api/131/128/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s177679q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "Calm Radio - Bossa Nova",
+"url": "http://streams.calmradio.com/api/307/128/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s192198q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "CALM RADIO - HOLIDAY SPIRIT",
+"url": "http://streams.calmradio.com/api/1114/128/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s290437q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "CALM RADIO - DREAMTIME",
+"url": "http://streams.calmradio.com/api/1052/128/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s290433q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "CALM RADIO - MANTRA - Sampler",
+"url": "http://streams.calmradio.com:20828/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s279407q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "CALM RADIO - DISCO - Sampler",
+"url": "http://streams.calmradio.com/api/666/128/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s279389q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "Calm Radio – Soul Classics",
+"url": "http://streams.calmradio.com/api/591/128/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s254280q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "Calm Radio – Trumpet",
+"url": "http://streams.calmradio.com/api/17/128/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s254270q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "Calm Radio - Fado",
+"url": "http://streams.calmradio.com/api/7/128/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s241845q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "Calm Radio - Couperin",
+"url": "http://streams.calmradio.com/api/561/128/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s241838q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "Calm Radio - Verdi",
+"url": "http://streams.calmradio.com/api/439/128/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s221681q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "Calm Radio - Mahler",
+"url": "http://streams.calmradio.com/api/411/128/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s221674q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "Calm Radio - Ravel",
+"url": "http://streams.calmradio.com/api/401/128/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s221672q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "Calm Radio - Debussy",
+"url": "http://streams.calmradio.com/api/397/128/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s221670q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "Calm Radio - Classical Chorale",
+"url": "http://streams.calmradio.com/api/155/128/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s142215q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "CALM RADIO - ADAGIOS",
+"url": "http://streams.calmradio.com/api/1174/128/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s290441q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "CALM RADIO - MINIMALIST - Sampler",
+"url": "http://ccast-z4.calmradio.com:24628/stream",
+"logo": "https://static.radio.net/images/broadcasts/ab/40/109959/1/c175.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "CALM RADIO - DREAMTIME - Sampler",
+"url": "http://streams.calmradio.com:20428/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s279413q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "Calm Radio - Boccherini",
+"url": "http://streams.calmradio.com/api/579/128/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s254273q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "Calm Radio – Sibelius",
+"url": "http://streams.calmradio.com/api/571/128/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s254272q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "Calm Radio - Folk Today",
+"url": "http://streams.calmradio.com/api/11/128/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s254266q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "Calm Radio - Rameau",
+"url": "http://streams.calmradio.com/api/563/128/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s241839q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "Calm Radio - Country Now",
+"url": "http://streams.calmradio.com/api/523/128/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s221723q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "Calm Radio - Country Classics",
+"url": "http://streams.calmradio.com/api/511/128/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s221713q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "Calm Radio - Satie",
+"url": "http://streams.calmradio.com/api/459/128/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s221685q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "Calm Radio - Delius",
+"url": "http://streams.calmradio.com/api/427/128/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s221679q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "Calm Radio - Corelli",
+"url": "http://streams.calmradio.com/api/329/128/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s204255q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "Calm Radio - Arabic",
+"url": "http://streams.calmradio.com/api/235/128/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s191790q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "Calm Radio - Classical Mix",
+"url": "http://streams.calmradio.com/api/151/128/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s142214q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "Calm Radio - Handel",
+"url": "http://streams.calmradio.com/api/325/128/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s191789q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "Calm Radio - Franz Liszt",
+"url": "http://streams.calmradio.com/api/341/128/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s177666q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "CALM RADIO - J POP",
+"url": "http://streams.calmradio.com:21928/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s290626q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "Calm Radio - Telemann",
+"url": "http://streams.calmradio.com/api/337/128/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s177657q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "Calm Radio - India",
+"url": "http://streams.calmradio.com/api/239/128/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s167312q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "Calm Radio - Bollywood",
+"url": "http://streams.calmradio.com/api/295/128/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s167304q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "Calm Radio - Spa",
+"url": "http://streams.calmradio.com/api/31/128/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s142243q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "Calm Radio - Baroque",
+"url": "http://streams.calmradio.com/api/173/128/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s142216q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "Calm Radio - Just Jazz",
+"url": "http://streams.calmradio.com/api/47/128/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s132817q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "CALM RADIO - LATIN JAZZ",
+"url": "http://streams.calmradio.com:13228/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s290624q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "Calm Radio - Schubert",
+"url": "http://streams.calmradio.com/api/181/128/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s177672q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "Calm Radio - Sergei Rachmaninoff",
+"url": "http://streams.calmradio.com/api/345/128/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s177660q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "Радио Релакс Музыка без слов",
+"url": "http://online-radiorelax2.tavrmedia.ua/RadioRelax_Instrumental",
+"logo": "http://cdn-radiotime-logos.tunein.com/s224284q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "Relax Electronic",
+"url": "http://82.146.35.241:8000/relax64",
+"logo": "http://cdn-radiotime-logos.tunein.com/s279083q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "Аплюс Relax",
+"url": "http://shoutcast.aplus.by:9000/aplus_relax_128",
+"logo": "https://time4radio.ru/wp-content/uploads/2018/03/aplus-relax-300x300.jpg",
+"category": "Relaxation - Music"
+},
+{
+"name": "Intimidad relax",
+"url": "http://37.59.121.120:9390/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s297114q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "1000Slots to relax",
+"url": "http://hyades.shoutca.st:8714/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s0q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "RADIO PSR Relax",
+"url": "http://psr.hoerradar.de/psr-relax-mp3-mq",
+"logo": "https://cdn-profiles.tunein.com/s306590/images/logoq.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "За облаками Relax",
+"url": "http://195.88.63.114:8000/relax",
+"logo": "http://cdn-radiotime-logos.tunein.com/s199921q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "WJCT Relax Radio HD3",
+"url": "https://17023.live.streamtheworld.com/WJCTHD3.mp3",
+"logo": "https://cdn-profiles.tunein.com/s67042/images/logoq.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "Radio Dimensione Relax",
+"url": "http://tachyon.shoutca.st:8919/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s260893q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "MPR Classical Relax",
+"url": "http://50.31.167.245/relax.mp3",
+"logo": "https://oiradio.co/assets/images/stations/i/i0.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "RDS Relax",
+"url": "https://icstream.rds.radio/rdsrelax",
+"logo": "https://cdn-profiles.tunein.com/s299243/images/logoq.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "R.SH Relax",
+"url": "http://rsh.hoerradar.de/rsh-relax-mp3-mq",
+"logo": "http://cdn-radiotime-logos.tunein.com/s275739q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "Relax FM",
+"url": "http://37.0.31.66:8000/relax",
+"logo": "https://cdn-profiles.tunein.com/s226346/images/logoq.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "ABC Relax",
+"url": "http://manager2.creativradio.com:2290/;",
+"logo": "http://cdn-radiotime-logos.tunein.com/s224505q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "Vibration Zen relax",
+"url": "http://vibration.stream2net.eu:8220/;",
+"logo": "http://cdn-radiotime-logos.tunein.com/s240346q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "ON Relax",
+"url": "https://0n-relax.radionetz.de/0n-relax.mp3",
+"logo": "https://cdn-profiles.tunein.com/s307976/images/logoq.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "RMN Relax",
+"url": "http://telekom.powersender.de/rmnrelax",
+"logo": "https://cdn-radiotime-logos.tunein.com/s54694q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "voicebookradio.com - Relax",
+"url": "http://37.59.53.198:8020/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s191445q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "ANTENNE BAYERN Relax",
+"url": "http://s9-webradio.antenne.de/relax/stream/mp3",
+"logo": "https://cdn-profiles.tunein.com/s307393/images/logoq.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "Energy Relax",
+"url": "http://energyrelax.ice.infomaniak.ch/energyrelax-high.mp3",
+"logo": "http://cdn-radiotime-logos.tunein.com/s290615q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "San FM Relax",
+"url": "http://sanfm.ru:8000/relax",
+"logo": "http://cdn-radiotime-logos.tunein.com/s81798q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "Antenne Niedersachsen Relax",
+"url": "http://antennends-ais-edge-3003.fra-eco.cdn.addradio.net/antennends/relax/mp3/high",
+"logo": "http://cdn-radiotime-logos.tunein.com/s248112q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "Relaxing Radio 365",
+"url": "http://s10.voscast.com:9574/;",
+"logo": "https://cdn-profiles.tunein.com/s305342/images/logoq.jpg",
+"category": "Relaxation - Music"
+},
+{
+"name": "Chill, Relaxing, Positive",
+"url": "http://streamingv2.shoutcast.com/Chill-Relaxing-Positive-Work-Study-Relax",
+"logo": "http://cdn-radiotime-logos.tunein.com/s257854q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "Music Lake - Relaxation, Meditation, Focus, Instrumental Music",
+"url": "http://50.7.68.251:7168/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s240485q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "Ambi Nature Radio (Sleep, Relaxation & Meditation)",
+"url": "http://94.23.252.14:8067/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s266086q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "Живое Радио Релакс",
+"url": "http://air.jivoe.in/relax-hi.mp3",
+"logo": "http://top-radio.ru/assets/image/radio/180/jivoe.jpg",
+"category": "Relaxation - Music"
+},
+{
+"name": "Radio Alquima",
+"url": "http://server2.crearradio.com:8641/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s260674q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "NRG Smooth",
+"url": "http://scserv.nrgplay.com/stream/3/",
+"logo": "http://cdn-radiotime-logos.tunein.com/s189700q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "In the Mood Music",
+"url": "http://live.inthemoodmusic.com:8080/",
+"logo": "https://i1.sndcdn.com/artworks-000345690522-x3fmeg-t500x500.jpg",
+"category": "Relaxation - Music"
+},
+{
+"name": "Spectrum Chillout",
+"url": "http://51.255.235.165:5024/live",
+"logo": "https://cdn-profiles.tunein.com/s305101/images/logoq.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "Abacus Birdsong",
+"url": "http://178.33.232.106:8030/stream",
+"logo": "http://cdn-radiotime-logos.tunein.com/s271998q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "electro-music Ambience",
+"url": "http://electro-music.com:8502/;",
+"logo": "http://cdn-radiotime-logos.tunein.com/s282245q.png",
+"category": "Relaxation - Music"
+},
+{
+"name": "RADIO RELAX",
+"category": "Relaxation - Music",
+"url": "https://stream.laut.fm/radio_relax",
+"logo": "https://assets.laut.fm/d13a88120906e6ca64932f461c86050b?t=_640x640"
+},
+{
+"name": "Relax Zone",
+"category": "Relaxation - Music",
+"url": "http://relax-zone.vip-radios.fm:8045/stream-128kmp3-RelaxZone",
+"logo": "https://cdn-profiles.tunein.com/s302892/images/logoq.jpg"
+},
+{
+"name": "Radio Relax International-2",
+"category": "Relaxation - Music",
+"url": "http://online2.radiorelax.ua/RadioRelax_Int",
+"logo": "https://cdn-profiles.tunein.com/s224284/images/logoq.png"
+},
+{
+"name": "Radio Relax Ukraine",
+"category": "Relaxation - Music",
+"url": "http://online-radiorelax.tavrmedia.ua/RadioRelax",
+"logo": "https://cdn-profiles.tunein.com/s224284/images/logoq.png"
+},
+{
+"name": "Radio Relax Christmas",
+"category": "Relaxation - Music",
+"url": "http://online-radiorelax2.tavrmedia.ua/RadioRelax_Christmas",
+"logo": "https://cdn-profiles.tunein.com/s237730/images/logoq.png"
+},
+{
+"name": "Soundstorm - Relax Radio",
+"category": "Relaxation - Music",
+"url": "http://stream.soundstorm-radio.com:8000/stream1",
+"logo": "https://cdn-radiotime-logos.tunein.com/s113468q.png"
+},
+{
+"name": "Aloha Joe's Relaxation Island",
+"category": "Relaxation - Music",
+"url": "http://s2.voscast.com:7932/",
+"logo": "http://relaxation-island.com/GRAPHICS/51QHhoLjy8L._SL210_.jpg"
+},
+{
+"name": "RH Ambient & RELAX",
+"category": "Relaxation - Music",
+"url": "http://158.69.253.153:5842/stream",
+"logo": "https://cdn-profiles.tunein.com/s165934/images/logoq.jpg"
+},
+{
+"name": "The Chill",
+"category": "Relaxation - Music",
+"url": "http://comet.shoutca.st:8444/stream",
+"logo": "https://cdn-radiotime-logos.tunein.com/s277635q.png"
+},
+{
+"name": "1.FM - Destination: SPA Radio",
+"category": "Relaxation - Music",
+"url": "http://strm112.1.fm:80/spa_mobile_mp3",
+"logo": "https://cdn-radiotime-logos.tunein.com/s126408q.png"
+}
+]
