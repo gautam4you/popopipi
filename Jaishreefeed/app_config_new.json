@@ -97,6 +97,27 @@
                         "isLive": true,
 			"title": "Episode 401 to 422",
 			"moreButton": true
+		},   {
+			"videosListId": "KRISHNA_BHAKTA_SUDAMA.json",
+			"type": "DM",
+			"extraLink": "",
+                        "isLive": true,
+			"title": "Krishna Bhakt Sudama-Movie",
+			"moreButton": true
+		}, {
+			"videosListId": "Krishna_Krishna.json",
+			"type": "DM",
+			"extraLink": "",
+                        "isLive": true,
+			"title": "Krishna Krishna-Movie",
+			"moreButton": true
+		},{
+			"videosListId": "Krishna _Tere _Desh_Mein.json",
+			"type": "DM",
+			"extraLink": "",
+                        "isLive": true,
+			"title": "Krishna Tere Desh Mein-Movie",
+			"moreButton": true
 		},
 	
 			
