@@ -1,8 +1,26 @@
 [
+ {
+"name": "Cricket Sports Flashes",
+"category": "News & Sports",
+"url": "https://aurora.shoutca.st/radio/8230/radio.mp3",
+"logo": "http://shortfilmsite.com/images/radiosportsflashes.jpg"
+},
+  {
+"logo": "http://shortfilmsite.com/images/radiosportsflashes.jpg",
+"name": "Sports Flashes Hindi",
+"url": "https://azura.shoutca.st/radio/8620/radio.mp3",
+"category": "Tv - Audio"
+},
+ {
+"logo": "http://shortfilmsite.com/images/radiosportsflashes.jpg",
+"name": "Sports Flashes Hindi",
+"url": "https://azura.shoutca.st/radio/8620/radio.mp3",
+"category": "Tv - Audio"
+},
 {
-"logo": "https://meetthepress.in/wp-content/uploads/2020/01/First-India-Rajasthan-1.jpg",
-"name": "First India News TV",
-"url": "https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8",
+"logo": "http://shortfilmsite.com/images/air.jpg",
+"name": "Air English Morning",
+"url": "https://afeias.com/english-morning.mp3?ver=1594809291",
 "category": "Tv - Audio"
 },
 {
@@ -85,26 +103,8 @@
 },
 {
 "logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/news24.jpg",
-"name": "Dsports HD",
-"url": "http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8",
-"category": "Tv - Audio"
-},
-{
-"logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/news24.jpg",
-"name": "Sony Max",
-"url": "http://216.144.250.174/Sony_MaX_HD_02/playlist.m3u8",
-"category": "Tv - Audio"
-},
-{
-"logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/news24.jpg",
 "name": "News 24",
 "url": "https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8",
-"category": "Tv - Audio"
-},
-{
-"logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/abpnews.jpg",
-"name": "ABP Majha",
-"url": "https://abp-i.akamaihd.net/hls/live/765531-b/abpmajha/masterhls_1564.m3u8",
 "category": "Tv - Audio"
 },
 {
@@ -150,24 +150,6 @@
 "category": "Tv - Audio"
 },
 {
-"name": "ABP News",
-"url": "http://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_364.m3u8",
-"logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/abpnews.jpg",
-"category": "Tv - Audio"
-},
-{
-"logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/ddnational.jpg",
-"name": "DD National",
-"url": "http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8",
-"category": "Tv - Audio"
-},
-{
-"logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/ddsports.jpg",
-"name": "DD Sports",
-"url": "http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8",
-"category": "Tv - Audio"
-},
-{
 "logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/tv9.jpg",
 "name": "Tv9 Kannada",
 "url": "https://vidcdn.vidgyor.com/tv9kannada-origin/live/tv9kannada-origin/live1/chunks.m3u8",
@@ -177,12 +159,6 @@
 "logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/tv9.jpg",
 "name": "Tv9 Telugu",
 "url": "https://vidcdn.vidgyor.com/tv9telugu-origin/live/tv9telugu-origin/live1/chunks.m3u8",
-"category": "Tv - Audio"
-},
-{
-"name": "Ananda ABP",
-"logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/abp_ananada.jpg",
-"url": "https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_364.m3u8",
 "category": "Tv - Audio"
 },
 {
