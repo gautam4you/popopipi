@@ -9,6 +9,15 @@
 		"image": "https://static.mytuner.mobi/media/tvos_radios/Ekv3xnWJpp.png"
 	},
 	{
+		"name": "DJ Radio station",
+		"name_h": "TWlyY2hpIFRvb3RhIERpbA==",
+		"url": "http://djradio.riggrodigital.com:8066/stream",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood,Web",
+		"pub": "24-01-2021",
+		"image": "http://shortfilmsite.com/images/djradiostation.jpg"
+	},
+	{
 		"name": "Radio Masti",
 		"name_h": "TWlyY2hpIFRvb3RhIERpbA==",
 		"url": "http://stream.zeno.fm/rnnmpqxmdwzuv",
