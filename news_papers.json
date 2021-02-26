@@ -1,5 +1,9 @@
 [
 	{
+		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/theindianexpress.png",
+		"link": "https://indianexpress.com/"
+},
+	{
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/db.png",
 		"link": "https://www.bhaskar.com/"
 },
