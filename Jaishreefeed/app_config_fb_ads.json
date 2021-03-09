@@ -1,4 +1,4 @@
-{
+﻿{
 "active": true,
 "ads": {
 "active": true,
@@ -11,7 +11,7 @@
 "GridSize": 2,
 "HomeVideosList": [
 {
-"videosListId": "bhojpuri_banner.json",
+"videosListId": "neha_banner.json",
 "type": "YP",
 "extraLink": "",
 "isLive": true,
@@ -19,11 +19,11 @@
 "moreButton": true
 },
 {
-"videosListId": "bhojpuri_hit_songs.json",
+"videosListId": "jaishree_interview.json",
 "type": "YP",
 "isLive": true,
 "extraLink": "",
-"title": "Bhojpuri Hit Songs",
+"title": "Interview Videos",
 "moreButton": true
 },
 {
@@ -35,27 +35,27 @@
 "moreButton": false
 },
 {
-"videosListId": "bhojpuri_hot.json",
+"videosListId": "jaishree_stage.json",
 "type": "YP",
 "extraLink": "",
 "isLive": true,
-"title": "Bhojpuri Hot Songs",
+"title": "Stage Videos",
 "moreButton": true
 },
 {
-"videosListId": "bhojpuri_songs1.json",
-"type": "YP",
+"videosListId": "jaishreekrishna-dailymotion01.json",
+"type": "DM",
 "extraLink": "",
 "isLive": true,
-"title": "Bhojpuri Masti Songs",
+"title": "Episode 1 to 50",
 "moreButton": true
 },
 {
-"videosListId": "bhojpuri_movie.json",
-"type": "YP",
+"videosListId": "jaishreekrishna-dailymotion02.json",
+"type": "DM",
 "extraLink": "",
 "isLive": true,
-"title": "Bhpjpuri Movies",
+"title": "Episode 51 to 100",
 "moreButton": true
 },
 {
@@ -67,19 +67,19 @@
 "moreButton": false
 },
 {
-"videosListId": "bhojpuri_doubed.json",
-"type": "YP",
+"videosListId": "jaishreekrishna-dailymotion03.json",
+"type": "DM",
 "extraLink": "",
 "isLive": true,
-"title": "Bhojpuri Dubbed Movies",
+"title": "Episode 101 to 250",
 "moreButton": true
 },
 {
-"videosListId": "bhojpuri_horror.json",
-"type": "YP",
+"videosListId": "jaishreekrishna-dailymotion04.json",
+"type": "DM",
 "extraLink": "",
 "isLive": true,
-"title": "Horror movies",
+"title": "Episode 251 to 350",
 "moreButton": true
 },
 {
@@ -93,51 +93,19 @@
 ],
 "ExtraHomeVideosList": [
 {
-"videosListId": "old_bhojpuri.json",
-"type": "YP",
+"videosListId": "jaishreekrishna-dailymotion05.json",
+"type": "DM",
 "extraLink": "",
 "isLive": true,
-"title": "Old Bhojpuri songs",
+"title": "Episode 351 to 375",
 "moreButton": true
 },
 {
-"videosListId": "amrapali.json",
-"type": "YP",
+"videosListId": "jaishreekrishna-dailymotion06.json",
+"type": "DM",
 "extraLink": "",
 "isLive": true,
-"title": "Amrapali Dubey(आम्रपाली दुबे)",
-"moreButton": true
-},
-{
-"videosListId": "sponcered.json",
-"type": "ADS-NATIVE",
-"extraLink": "",
-"isLive": true,
-"title": "Ads. Suggested for you",
-"moreButton": false
-},
-{
-"videosListId": "akshara_singh.json",
-"type": "YP",
-"extraLink": "",
-"isLive": true,
-"title": "Akshara Singh(अक्षरा सिंह)",
-"moreButton": true
-},
-{
-"videosListId": "sneha_pandey.json",
-"type": "YP",
-"extraLink": "",
-"isLive": true,
-"title": "Sneha Pandey(स्नेहा पांडेय)",
-"moreButton": true
-},
-{
-"videosListId": "rani_chattaergy.json",
-"type": "YP",
-"extraLink": "",
-"isLive": true,
-"title": "Rani Chatterjee(रानी चटर्जी)",
+"title": "Episode 376 to 400",
 "moreButton": true
 },
 {
@@ -149,59 +117,11 @@
 "moreButton": false
 },
 {
-"videosListId": "monalisa.json",
-"type": "YP",
+"videosListId": "jaishreekrishna-dailymotion07.json",
+"type": "DM",
 "extraLink": "",
 "isLive": true,
-"title": "Monalisa(मोना लीसा)",
-"moreButton": true
-},
-{
-"videosListId": "anjana_singh.json",
-"type": "YP",
-"extraLink": "",
-"isLive": true,
-"title": "Anjana Singh(अंजना सिंहा)",
-"moreButton": true
-},
-{
-"videosListId": "yamini_singh.json",
-"type": "YP",
-"extraLink": "",
-"isLive": true,
-"title": "Yamini Singh(यामिनी सिंहा)",
-"moreButton": true
-},
-{
-"videosListId": "sponcered.json",
-"type": "ADS-NATIVE",
-"extraLink": "",
-"isLive": true,
-"title": "Ads. Suggested for you",
-"moreButton": false
-},
-{
-"videosListId": "kajal_raghwani.json",
-"type": "YP",
-"extraLink": "",
-"isLive": true,
-"title": "Kajal Raghwani(काजल राघवानी)",
-"moreButton": true
-},
-{
-"videosListId": "sponcered.json",
-"type": "ADS-BANNER",
-"extraLink": "",
-"isLive": true,
-"title": "Ads. Suggested for you",
-"moreButton": true
-},
-{
-"videosListId": "ritesh_pandey.json",
-"type": "YP",
-"extraLink": "",
-"isLive": true,
-"title": "Ritesh Pandey(रितेश पांडेी)",
+"title": "Episode 401 to 422",
 "moreButton": true
 },
 {
