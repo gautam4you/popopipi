@@ -1,168 +1,217 @@
 {
-	"active": true,
-	"ads": {
-		"active": true,
-		"bannerAdsUnite": "ca-app-pub-6533269161423177/8572363703",
-		"fullAdsUnite": "ca-app-pub-6533269161423177~4462809873",
-		"rewardVideosAdsUnite": "ca-app-pub-6533269161423177/7997648631",
-		"adsAppId": "ca-app-pub-6533269161423177~4462809873"
-	},
-	"ytKey": "AIzaSyATjnGM3cOyLdrTdFtmQLS-XO0ywJjcCnI",
-	"GridSize": 2,
-	"HomeVideosList": [{
-			"videosListId": "neha_banner.json",
-			"type": "YP",
-			"extraLink": "",
-                         "isLive": true,
-			"title": "Breaking",
-			"moreButton": true
-		},
-                {
-			"videosListId": "jaishree_interview.json",
-			"type": "YP",
-			"extraLink": "",
-                        "isLive": true,
-			"title": "Interview Videos",
-			"moreButton": true
-		},
-		{
-			"videosListId": "jaishree_stage.json",
-			"type": "YP",
-			"extraLink": "",
-                        "isLive": true,
-			"title": "Stage Videos",
-			"moreButton": true
-		},
+"active": true,
+"ads": {
+"active": true,
+"bannerAdsUnite": "794353377787880_794354884454396",
+"fullAdsUnite": "794353377787880_794355634454321",
+"rewardVideosAdsUnite": "794353377787880_794356014454283",
+"adsAppId": "794353377787880_794409734448911"
+},
+"ytKey": "AIzaSyB_YoT1sMzMbknZDFYXammOqi8LAu7tPpk",
+"GridSize": 2,
+"HomeVideosList": [
 {
-			"videosListId": "jaishreekrishna-dailymotion01.json",
-			"type": "DM",
-			"extraLink": "",
-                        "isLive": true,
-			"title": "Episode 1 to 50",
-			"moreButton": true
-		},
+"videosListId": "bhojpuri_banner.json",
+"type": "YP",
+"extraLink": "",
+"isLive": true,
+"title": "Breaking",
+"moreButton": true
+},
 {
-			"videosListId": "jaishreekrishna-dailymotion02.json",
-			"type": "DM",
-			"extraLink": "",
-                        "isLive": true,
-			"title": "Episode 51 to 100",
-			"moreButton": true
-		},
-			      {
-			"videosListId": "sponcered.json",
-			"type": "SP",
-			"extraLink": "",
-                        "isLive": true,
-			"title": "Ads. Suggested for you",
-			"moreButton": false
-		} ,
+"videosListId": "bhojpuri_hit_songs.json",
+"type": "YP",
+"isLive": true,
+"extraLink": "",
+"title": "Bhojpuri Hit Songs",
+"moreButton": true
+},
 {
-			"videosListId": "jaishreekrishna-dailymotion03.json",
-			"type": "DM",
-			"extraLink": "",
-                        "isLive": true,
-			"title": "Episode 101 to 250",
-			"moreButton": true
-		},
-			   {
-			"videosListId": "jaishreekrishna-dailymotion04.json",
-			"type": "DM",
-			"extraLink": "",
-                        "isLive": true,
-			"title": "Episode 251 to 350",
-			"moreButton": true
-		},
-			   
-			   {
-			"videosListId": "jaishreekrishna-dailymotion05.json",
-			"type": "DM",
-			"extraLink": "",
-                        "isLive": true,
-			"title": "Episode 351 to 375",
-			"moreButton": true
-		},
-			   	   {
-			"videosListId": "jaishreekrishna-dailymotion06.json",
-			"type": "DM",
-			"extraLink": "",
-                        "isLive": true,
-			"title": "Episode 376 to 400",
-			"moreButton": true
-		},
-			      {
-			"videosListId": "jaishreekrishna-dailymotion07.json",
-			"type": "DM",
-			"extraLink": "",
-                        "isLive": true,
-			"title": "Episode 401 to 422",
-			"moreButton": true
-		},   {
-			"videosListId": "KRISHNA_BHAKTA_SUDAMA.json",
-			"type": "DM",
-			"extraLink": "",
-                        "isLive": true,
-			"title": "Krishna Bhakt Sudama-Movie",
-			"moreButton": true
-		}, {
-			"videosListId": "Krishna_Krishna.json",
-			"type": "DM",
-			"extraLink": "",
-                        "isLive": true,
-			"title": "Krishna Krishna-Movie",
-			"moreButton": true
-		},{
-			"videosListId": "Krishna _Tere _Desh_Mein.json",
-			"type": "DM",
-			"extraLink": "",
-                        "isLive": true,
-			"title": "Krishna Tere Desh Mein-Movie",
-			"moreButton": true
-		},
-	
-			
-			{
-			"videosListId": "hindi_radio.json",
-			"type": "RD",
-			"extraLink": "",
-                        "isLive": true,
-			"title": "Live Radio ",
-			"moreButton": true
-		}    
-	],
-	"ExtraHomeVideosList": [{
-			"videosListId": "jaishreekrishna-dailymotion02.json",
-			"type": "DM",
-			"extraLink": "",
-                        "isLive": true,
-			"title": "Episode 51 to 100",
-			"moreButton": true
-		},
-	       {
-			"videosListId": "sponcered.json",
-			"type": "SP",
-			"extraLink": "",
-                        "isLive": true,
-			"title": "Ads. Suggested for you",
-			"moreButton": false
-		} ,
-				{
-			"videosListId": "app-ad.json",
-			"imgUrl": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/notification_latest_radio.png",
-			"type": "APP-AD",
-			"extraLink": "https://play.google.com/store/apps/details?id=com.app.hindiradionews",
-                        "isLive": true,
-			"title": "",
-			"moreButton": true
-		},
-				{
-			"videosListId": "jaishree_stage.json",
-			"type": "YP",
-			"extraLink": "",
-                        "isLive": true,
-			"title": "Stage Videos",
-			"moreButton": true
-		} 
-			
-	]
+"videosListId": "sponcered.json",
+"type": "ADS-NATIVE",
+"extraLink": "",
+"isLive": true,
+"title": "Ads. Suggested for you",
+"moreButton": false
+},
+{
+"videosListId": "bhojpuri_hot.json",
+"type": "YP",
+"extraLink": "",
+"isLive": true,
+"title": "Bhojpuri Hot Songs",
+"moreButton": true
+},
+{
+"videosListId": "bhojpuri_songs1.json",
+"type": "YP",
+"extraLink": "",
+"isLive": true,
+"title": "Bhojpuri Masti Songs",
+"moreButton": true
+},
+{
+"videosListId": "bhojpuri_movie.json",
+"type": "YP",
+"extraLink": "",
+"isLive": true,
+"title": "Bhpjpuri Movies",
+"moreButton": true
+},
+{
+"videosListId": "sponcered.json",
+"type": "SP",
+"extraLink": "",
+"isLive": true,
+"title": "Ads. Suggested for you",
+"moreButton": false
+},
+{
+"videosListId": "bhojpuri_doubed.json",
+"type": "YP",
+"extraLink": "",
+"isLive": true,
+"title": "Bhojpuri Dubbed Movies",
+"moreButton": true
+},
+{
+"videosListId": "bhojpuri_horror.json",
+"type": "YP",
+"extraLink": "",
+"isLive": true,
+"title": "Horror movies",
+"moreButton": true
+},
+{
+"videosListId": "sponcered.json",
+"type": "ADS-REC-BANNER",
+"extraLink": "",
+"isLive": true,
+"title": "Ads. Suggested for you",
+"moreButton": false
+}
+],
+"ExtraHomeVideosList": [
+{
+"videosListId": "old_bhojpuri.json",
+"type": "YP",
+"extraLink": "",
+"isLive": true,
+"title": "Old Bhojpuri songs",
+"moreButton": true
+},
+{
+"videosListId": "amrapali.json",
+"type": "YP",
+"extraLink": "",
+"isLive": true,
+"title": "Amrapali Dubey(आम्रपाली दुबे)",
+"moreButton": true
+},
+{
+"videosListId": "sponcered.json",
+"type": "ADS-NATIVE",
+"extraLink": "",
+"isLive": true,
+"title": "Ads. Suggested for you",
+"moreButton": false
+},
+{
+"videosListId": "akshara_singh.json",
+"type": "YP",
+"extraLink": "",
+"isLive": true,
+"title": "Akshara Singh(अक्षरा सिंह)",
+"moreButton": true
+},
+{
+"videosListId": "sneha_pandey.json",
+"type": "YP",
+"extraLink": "",
+"isLive": true,
+"title": "Sneha Pandey(स्नेहा पांडेय)",
+"moreButton": true
+},
+{
+"videosListId": "rani_chattaergy.json",
+"type": "YP",
+"extraLink": "",
+"isLive": true,
+"title": "Rani Chatterjee(रानी चटर्जी)",
+"moreButton": true
+},
+{
+"videosListId": "sponcered.json",
+"type": "ADS-NATIVE",
+"extraLink": "",
+"isLive": true,
+"title": "Ads. Suggested for you",
+"moreButton": false
+},
+{
+"videosListId": "monalisa.json",
+"type": "YP",
+"extraLink": "",
+"isLive": true,
+"title": "Monalisa(मोना लीसा)",
+"moreButton": true
+},
+{
+"videosListId": "anjana_singh.json",
+"type": "YP",
+"extraLink": "",
+"isLive": true,
+"title": "Anjana Singh(अंजना सिंहा)",
+"moreButton": true
+},
+{
+"videosListId": "yamini_singh.json",
+"type": "YP",
+"extraLink": "",
+"isLive": true,
+"title": "Yamini Singh(यामिनी सिंहा)",
+"moreButton": true
+},
+{
+"videosListId": "sponcered.json",
+"type": "ADS-NATIVE",
+"extraLink": "",
+"isLive": true,
+"title": "Ads. Suggested for you",
+"moreButton": false
+},
+{
+"videosListId": "kajal_raghwani.json",
+"type": "YP",
+"extraLink": "",
+"isLive": true,
+"title": "Kajal Raghwani(काजल राघवानी)",
+"moreButton": true
+},
+{
+"videosListId": "sponcered.json",
+"type": "ADS-BANNER",
+"extraLink": "",
+"isLive": true,
+"title": "Ads. Suggested for you",
+"moreButton": true
+},
+{
+"videosListId": "ritesh_pandey.json",
+"type": "YP",
+"extraLink": "",
+"isLive": true,
+"title": "Ritesh Pandey(रितेश पांडेी)",
+"moreButton": true
+},
+{
+"videosListId": "app-ad.json",
+"imgUrl": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/notification_latest_radio.png",
+"type": "APP-AD",
+"extraLink": "https://play.google.com/store/apps/details?id=com.app.hindiradionews",
+"isLive": false,
+"title": "",
+"moreButton": true
+}
+]
 }
