@@ -2,10 +2,10 @@
 "active": true,
 "ads": {
 "active": true,
-"bannerAdsUnite": "794353377787880_794354884454396",
-"fullAdsUnite": "794353377787880_794355634454321",
-"rewardVideosAdsUnite": "794353377787880_794356014454283",
-"adsAppId": "794353377787880_794409734448911"
+"bannerAdsUnite": "794353377787880_7943548844543961",
+"fullAdsUnite": "794353377787880_7943556344543211",
+"rewardVideosAdsUnite": "794353377787880_7943560144542831",
+"adsAppId": "794353377787880_7944097344489111"
 },
 "ytKey": "AIzaSyB_YoT1sMzMbknZDFYXammOqi8LAu7tPpk",
 "GridSize": 2,
@@ -48,7 +48,7 @@
 "extraLink": "",
 "isLive": true,
 "title": "Episode 1 to 50",
-"moreButton": true
+"moreButton": false
 },
 {
 "videosListId": "jaishreekrishna-dailymotion02.json",
@@ -56,7 +56,7 @@
 "extraLink": "",
 "isLive": true,
 "title": "Episode 51 to 100",
-"moreButton": true
+"moreButton": false
 },
 {
 "videosListId": "sponcered.json",
@@ -72,7 +72,7 @@
 "extraLink": "",
 "isLive": true,
 "title": "Episode 101 to 250",
-"moreButton": true
+"moreButton": false
 },
 {
 "videosListId": "jaishreekrishna-dailymotion04.json",
@@ -80,7 +80,7 @@
 "extraLink": "",
 "isLive": true,
 "title": "Episode 251 to 350",
-"moreButton": true
+"moreButton": false
 },
 {
 "videosListId": "sponcered.json",
@@ -98,7 +98,7 @@
 "extraLink": "",
 "isLive": true,
 "title": "Episode 351 to 375",
-"moreButton": true
+"moreButton": false
 },
 {
 "videosListId": "jaishreekrishna-dailymotion06.json",
@@ -106,7 +106,7 @@
 "extraLink": "",
 "isLive": true,
 "title": "Episode 376 to 400",
-"moreButton": true
+"moreButton": false
 },
 {
 "videosListId": "sponcered.json",
@@ -122,7 +122,7 @@
 "extraLink": "",
 "isLive": true,
 "title": "Episode 401 to 422",
-"moreButton": true
+"moreButton": false
 },
 {
 "videosListId": "app-ad.json",
