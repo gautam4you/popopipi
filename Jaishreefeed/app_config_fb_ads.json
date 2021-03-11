@@ -46,7 +46,7 @@
 "videosListId": "jaishreekrishna-dailymotion01.json",
 "type": "DM",
 "extraLink": "",
-"isLive": true,
+"isLive": false,
 "title": "Episode 1 to 50",
 "moreButton": false
 },
@@ -54,7 +54,7 @@
 "videosListId": "jaishreekrishna-dailymotion02.json",
 "type": "DM",
 "extraLink": "",
-"isLive": true,
+"isLive": false,
 "title": "Episode 51 to 100",
 "moreButton": false
 },
@@ -70,7 +70,7 @@
 "videosListId": "jaishreekrishna-dailymotion03.json",
 "type": "DM",
 "extraLink": "",
-"isLive": true,
+"isLive": false,
 "title": "Episode 101 to 250",
 "moreButton": false
 },
@@ -78,7 +78,7 @@
 "videosListId": "jaishreekrishna-dailymotion04.json",
 "type": "DM",
 "extraLink": "",
-"isLive": true,
+"isLive": false,
 "title": "Episode 251 to 350",
 "moreButton": false
 },
@@ -96,7 +96,7 @@
 "videosListId": "jaishreekrishna-dailymotion05.json",
 "type": "DM",
 "extraLink": "",
-"isLive": true,
+"isLive": false,
 "title": "Episode 351 to 375",
 "moreButton": false
 },
@@ -104,7 +104,7 @@
 "videosListId": "jaishreekrishna-dailymotion06.json",
 "type": "DM",
 "extraLink": "",
-"isLive": true,
+"isLive": false,
 "title": "Episode 376 to 400",
 "moreButton": false
 },
@@ -120,7 +120,7 @@
 "videosListId": "jaishreekrishna-dailymotion07.json",
 "type": "DM",
 "extraLink": "",
-"isLive": true,
+"isLive": false,
 "title": "Episode 401 to 422",
 "moreButton": false
 },
