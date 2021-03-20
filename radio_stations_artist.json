@@ -1,4 +1,22 @@
 [
+	{
+		"name": "Radio Deewana",
+		"name_h": "TWlyY2hpIFRvb3RhIERpbA==",
+		"url": "https://fps2.listen2myradio.com:2199/listen.php?ip=109.169.23.17&port=8011&type=s1",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood,Web",
+		"pub": "20-03-2021",
+		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/devaalradio.jpg"
+	},
+	{
+		"name": "Radio Tarana",
+		"name_h": "TWlyY2hpIFRvb3RhIERpbA==",
+		"url": "https://peridot.streamguys1.com:7150/Tarana.aac",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood,Web",
+		"pub": "20-03-2021",
+		"image": "https://www.stuff.co.nz/tarana/_jcr_content/section-logo/logo-image.img.png/1539036926568.png"
+	},
 	
 	{
 		"name": "BigFm92.7 Delhi",
