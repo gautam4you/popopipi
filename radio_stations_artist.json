@@ -1,5 +1,14 @@
 [
 	{
+		"name": "BIG FM Amritsar",
+		"name_h": "TWlyY2hpIFRvb3RhIERpbA==",
+		"url": "https://radioindia.net/radio/sc-bb/icecast.audio",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood,Web",
+		"pub": "20-03-2021",
+		"image": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/bigfm927.jpg"
+	},
+	{
 		"name": "Radio Deewana",
 		"name_h": "TWlyY2hpIFRvb3RhIERpbA==",
 		"url": "https://fps2.listen2myradio.com:2199/listen.php?ip=109.169.23.17&port=8011&type=s1",
