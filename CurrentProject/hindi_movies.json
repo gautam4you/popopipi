@@ -1,11 +1,459 @@
 {
 "kind": "youtube#playlistItemListResponse",
-"etag": "qDiW4uxiEovPyUo_ndc6_Z1LYXs",
-"nextPageToken": "CDIQAA",
+"etag": "d-_JonqPFZjK01DI3UA_xS0Bk2w",
 "items": [
 {
 "kind": "youtube#playlistItem",
-"etag": "gdBuaL138Tm9RcufOcivckEU0BE",
+"etag": "rNYJhjyZwZ27QWPYiaRhOYH8kWI",
+"id": "UExvcWlnUDZmSmk3T0xac3pDbk9TbjRQV2Q1Yzd3VXQ2RC45MEI3NjgzMTVFQkZGODYx",
+"snippet": {
+"publishedAt": "2021-03-21T06:08:49Z",
+"channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
+"title": "Kahaani 2: Durga Rani Singh | Vidya Balan, Arjun Rampal, Naisha Khanna | Sujoy Ghosh",
+"description": "Kahaani 2: Durga Rani Singh | Vidya Balan, Arjun Rampal, Naisha Khanna | Sujoy Ghosh\n\nDurga Rani Singh, is 'Wanted' for murder & kidnapping. Want to know her Kahaani? Watch the official trailer here.\n\nStarring Vidya Balan & Arjun Rampal, Jayantilal Gada (pen) presents “Kahaani 2”, directed by Sujoy Ghosh. Produced by Sujoy Ghosh, Kushal Kantilal Gada, Dhaval Jayantilal Gada & Aksshay Jayantilal Gada and co-produced by Reshmaa Kadakia & Suresh Nair\n\n#Kahaani2  #VidyaBalan #ArjunRampal \n\nEnjoy Super Hit Movies Collection :- \r\nJaya Jaanki Nayaka Khoonkhar - https://youtu.be/1lFk1LSsI_c \r\nPhir Hera Pheri  - https://youtu.be/1FT6VOrFMLo \r\nSHER KA SHIKAAR - https://youtu.be/FE435iFT6jw \r\nHaseena Parkar - https://youtu.be/tKqo-4qAeJA \r\n\r\nFor your favorite Bollywood Movies, Subscribe now: \r\nhttp://bit.ly/2VXistY\r\n\r\nSUBSCRIBE for the best Bollywood clips, movies and scenes all in your PEN Multiplex channel \r\nhttp://bit.ly/2QxELp3\r\n\r\nFor your favorite Gujarati Movies, Subscribe now: http://bit.ly/2VZm9Q6\r\n\r\nFor Action-Packed Movies, Click on the below link now...\r\nPen Action: http://bit.ly/2XaSS6t\r\n\r\n\r\nDownload our App for latest news & gossips: http://bit.ly/2HHJstA\r\n\r\nLog On To Our Official Website: http://penindia.in/\r\n\r\nEnjoy & stay connected with us! \r\nLike us on Facebook: https://www.facebook.com/PenMovies\r\nFollow us on Twitter: https://twitter.com/penmovies\r\nFollow us on Instagram: https://www.instagram.com/penmovies",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/KGI6L5oIusY/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/KGI6L5oIusY/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/KGI6L5oIusY/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/KGI6L5oIusY/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/KGI6L5oIusY/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "look jonson",
+"playlistId": "PLoqigP6fJi7OLZszCnOSn4PWd5c7wUt6D",
+"position": 0,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "KGI6L5oIusY"
+},
+"videoOwnerChannelTitle": "Pen Movies",
+"videoOwnerChannelId": "UC3ar28GS6o1p0m_wabfk2zw"
+},
+"contentDetails": {
+"videoId": "KGI6L5oIusY",
+"videoPublishedAt": "2020-12-27T06:29:23Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "xyD0hyZ2VskxsaZBQ04GA5F8Dpk",
+"id": "UExvcWlnUDZmSmk3T0xac3pDbk9TbjRQV2Q1Yzd3VXQ2RC5ENjg3MEUyQ0IzODMzQThB",
+"snippet": {
+"publishedAt": "2021-03-21T06:07:56Z",
+"channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
+"title": "Luka Chuppi Full 2020 | Latest Hindi Movie 2020 | Kartik Aryaan & Kriti Sanon Movies",
+"description": "Directed by\nLaxman Utekar\nProduced by\nDinesh Vijan\nWritten by\nRohan Shankar\nStarring\nKartik Aaryan\nKriti Sanon\nAparshakti Khurana\nPankaj Tripathi\nMusic by\nSongs:\nTanishk Bagchi\nWhite Noise\nAbhijit Vaghani\nScore:\nKetan Sodha\nCinematography\nMilind Jog\nEdited by\nManish Pradhan\nProduction\ncompany\nMaddock Films\nDistributed by\nAA Films\nJio Studios\nRelease date\n1 March 2019\nRunning time\n126 minutes[1]\nCountry\nIndia\nLanguage\nHindi\nBox office\nest. ₹128.86 crore",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/K49NkWBjz8g/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/K49NkWBjz8g/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/K49NkWBjz8g/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/K49NkWBjz8g/sddefault.jpg",
+"width": 640,
+"height": 480
+}
+},
+"channelTitle": "look jonson",
+"playlistId": "PLoqigP6fJi7OLZszCnOSn4PWd5c7wUt6D",
+"position": 1,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "K49NkWBjz8g"
+},
+"videoOwnerChannelTitle": "WORLD FAMOUS MOVIES",
+"videoOwnerChannelId": "UCASmRgKYYQEzUGIKCvE9wLA"
+},
+"contentDetails": {
+"videoId": "K49NkWBjz8g",
+"videoPublishedAt": "2020-04-25T06:58:02Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "dW-u7fO1UAZDa1p-uh77eTnbwqo",
+"id": "UExvcWlnUDZmSmk3T0xac3pDbk9TbjRQV2Q1Yzd3VXQ2RC41MzJFNEYxODEyNzA0QUUx",
+"snippet": {
+"publishedAt": "2021-03-21T06:07:37Z",
+"channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
+"title": "ROOH Returns 2021 New Released Full Hindi Dubbed Movie | New Horror Movie Hindi | Latest Movie 2021",
+"description": "Vicky has many loans of his father to repay. His mother tells him about a haunted mansion that they own in Devapura. Vicky takes it upon himself to sell the house, which they believe is haunted by Damayanthi's spirit.\n\nStarcast:-  Radhika Kumaraswamy, Saurav Lokesh, Sharan Ulthi, G. K. Reddy, Sadhu Kokila, Tabla Nani, Anjana\nCreative Producer:- Aneesh Dev (Wide Angle Media Pvt Ltd) Hindi Dubbed Movies 2020 Full Movie\nDirected by:- Navarasan\n\nClick to Susbscribe Us: http://goo.gl/Bscph8",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/MMiXq0Z0dLE/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/MMiXq0Z0dLE/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/MMiXq0Z0dLE/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/MMiXq0Z0dLE/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/MMiXq0Z0dLE/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "look jonson",
+"playlistId": "PLoqigP6fJi7OLZszCnOSn4PWd5c7wUt6D",
+"position": 2,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "MMiXq0Z0dLE"
+},
+"videoOwnerChannelTitle": "WAMIndiaMovies",
+"videoOwnerChannelId": "UCt7_pnSRPKU3bu2GqmgH8gQ"
+},
+"contentDetails": {
+"videoId": "MMiXq0Z0dLE",
+"videoPublishedAt": "2021-03-03T13:00:56Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "Wf7HJbbZONNiyBfKf9Q7HqkUqao",
+"id": "UExvcWlnUDZmSmk3T0xac3pDbk9TbjRQV2Q1Yzd3VXQ2RC5EODkyNDMzRkJBNkQ2NkMz",
+"snippet": {
+"publishedAt": "2021-03-21T06:07:03Z",
+"channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
+"title": "Stree Full Movie | Rajkummar Rao New Released Bollywood Horror Movie | Pankaj Tripathi New Movie",
+"description": "Stree (transl. Woman; Hindi pronunciation: [st̪ɾiː]) is a 2018 Indian Hindi-language horror comedy film whose plot is inspired by the Karnataka urban legend known as Nale Ba (English: \"Come Tomorrow\"), about a spirit who knocks on people's doors at night.[8] Helmed by Amar Kaushik in his directorial debut and produced by Dinesh Vijan & Raj & D.K., it stars Shraddha Kapoor and Rajkummar Rao in lead roles alongside Pankaj Tripathi, Abhishek Banerjee and Aparshakti Khurana.\n\n#streemovieending #streemovie2018 #streemovieintamil #shami_streemoviesongs #roohimovietrailer #roohimoviefull #roohimoviesong",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/SXjKUEC-wOM/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/SXjKUEC-wOM/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/SXjKUEC-wOM/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/SXjKUEC-wOM/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/SXjKUEC-wOM/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "look jonson",
+"playlistId": "PLoqigP6fJi7OLZszCnOSn4PWd5c7wUt6D",
+"position": 3,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "SXjKUEC-wOM"
+},
+"videoOwnerChannelTitle": "Filmy Movies",
+"videoOwnerChannelId": "UCtwMbYexQSPZYRWqqk8TWlA"
+},
+"contentDetails": {
+"videoId": "SXjKUEC-wOM",
+"videoPublishedAt": "2021-03-11T14:42:32Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "GqIGDvuR0JLs1XmnIk1HnCrKAlg",
+"id": "UExvcWlnUDZmSmk3T0xac3pDbk9TbjRQV2Q1Yzd3VXQ2RC5BRUVCN0E0MzEwQzAwNjMy",
+"snippet": {
+"publishedAt": "2021-03-21T06:06:48Z",
+"channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
+"title": "Apartment : Rent at Your Own Risk | Full Movie | Tanushree Dutta | Ronit Roy | Thriller Movie",
+"description": "Subscribe to Shemaroo - http://bit.ly/2DNFnzF\n\nAirhostess Preeti mistakenly suspects her live in boyfriend Karan of being disloyal to her, kicks him out of their apartment. She soon realizes that paying the installments for the apartment is getting difficult and ends up sharing it with Neha. She leaves Preeti impressed with her helpful nature. Neha has a different side to her which leaves Preeti in shock when she gets to know it. \n\n#Fullmovie #ThrillerMovie\n\nJoin Shemaroo Channel Membership to watch exclusive latest films - https://www.youtube.com/channel/UCF1JIbMUs6uqoZEY1Haw0GQ/join",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/vg_gzdi5BhE/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/vg_gzdi5BhE/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/vg_gzdi5BhE/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/vg_gzdi5BhE/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/vg_gzdi5BhE/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "look jonson",
+"playlistId": "PLoqigP6fJi7OLZszCnOSn4PWd5c7wUt6D",
+"position": 4,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "vg_gzdi5BhE"
+},
+"videoOwnerChannelTitle": "Shemaroo",
+"videoOwnerChannelId": "UCF1JIbMUs6uqoZEY1Haw0GQ"
+},
+"contentDetails": {
+"videoId": "vg_gzdi5BhE",
+"videoPublishedAt": "2021-01-17T11:30:07Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "4oRSAwXRUahLenuGUcRxXVbcPoM",
+"id": "UExvcWlnUDZmSmk3T0xac3pDbk9TbjRQV2Q1Yzd3VXQ2RC41NUMwNTVERDNBRDc4REM0",
+"snippet": {
+"publishedAt": "2021-03-21T06:06:35Z",
+"channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
+"title": "TRENDING MOVIE: शाहीद और करीना की खतरनाक मूवी - Shahid & Kareena Blockbuster Full Action Hindi Movie",
+"description": "SUBSCRIBE for the best Bollywood videos, movies and scenes, all in ONE channel http://www.YouTube.com/ShemarooEnt. \r\n\r\nLike, Comment and Share with your friends and family. Watch more Bollywood videos and movies starring your favourite celebrities like Amitabh Bachchan, Raj Kapoor, Dharmendra, Zeenat Aman, Vidya Balan, Govinda, Salman Khan and many more, only on http://www.YouTube.com/ShemarooEnt \r\n\r\nFacebook - https://www.facebook.com/ShemarooEnt \r\nTwitter - https://twitter.com/ShemarooEnt \r\nGoogle+ -https://plus.google.com/+shemaroo \r\nPinterest - http://pinterest.com/shemaroo\r\nSUBSCRIBE for the best Bollywood videos, movies and scenes, all in ONE channel http://www.YouTube.com/ShemarooEnt. \r\n\r\nSign up for Free and get daily updates on New Videos, exclusive Web Shows, contests & much more\r\nhttp://youtube.shemaroo.com/default.aspx\r\n\r\nSend us your feedback and suggestions at : connect@shemaroo.com",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/wK8MMiOuFhI/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/wK8MMiOuFhI/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/wK8MMiOuFhI/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/wK8MMiOuFhI/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/wK8MMiOuFhI/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "look jonson",
+"playlistId": "PLoqigP6fJi7OLZszCnOSn4PWd5c7wUt6D",
+"position": 5,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "wK8MMiOuFhI"
+},
+"videoOwnerChannelTitle": "Shemaroo Movies",
+"videoOwnerChannelId": "UCBOmfqgTZi7yDp4-3Lr_3lA"
+},
+"contentDetails": {
+"videoId": "wK8MMiOuFhI",
+"videoPublishedAt": "2021-03-13T04:30:07Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "f6HdxlokfLDq2IYNb362mVteJcc",
+"id": "UExvcWlnUDZmSmk3T0xac3pDbk9TbjRQV2Q1Yzd3VXQ2RC4wQTI4OEZFRUE0Q0Q3ODQw",
+"snippet": {
+"publishedAt": "2021-03-21T06:06:00Z",
+"channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
+"title": "Jolly LL B 2 Full Movie | Akshay Kumar Full Action Hindi Movie 2021 | Latest Hindi Action HD Movies",
+"description": "Jolly LL B 2 Full Movie | Akshay Kumar Full Action Hindi Movie 2021 | Latest Hindi Action HD Movies\n\nThe State vs. Jolly LL.B 2, known also as Jolly LL.B 2, is a 2017 Indian Hindi-language black comedy film written and directed by Subhash Kapoor and produced by Fox Star Studios, serving as a quasi sequel to the 2013 film Jolly LLB, and as the second film of the Jolly LLB franchise. Based in Lucknow, the story follows a lawyer who fights a case against a ruthless and powerful advocate to bring justice to the deceased victim of a fake encounter involving a corrupt police officer. Akshay Kumar plays the titular character, Jagdishwar Mishra, replacing the 2013 film's lead actor, Arshad Warsi, while Huma Qureshi, Annu Kapoor and Kumud Mishra, as well as Saurabh Shukla, who reprises his role from the 2013 original, star in the lead roles.\n\nJolly LL.B. 2 opened worldwide on 10 February 2017, and made on an investment of ₹450 million (US$6.3 million), earned ₹1.83 billion (US$26 million) worldwide to become a major critical and commercial success, with praise for the writing and execution by Subhash Kapoor, as well as the performances by Kumar, Shukla and Annu Kapoor, as well as Mishra.\n\nA third installment of the franchise has been planned, with Kumar, Warsi and Shukla returning.",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/Nz6kV4ExJDI/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/Nz6kV4ExJDI/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/Nz6kV4ExJDI/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/Nz6kV4ExJDI/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/Nz6kV4ExJDI/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "look jonson",
+"playlistId": "PLoqigP6fJi7OLZszCnOSn4PWd5c7wUt6D",
+"position": 6,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "Nz6kV4ExJDI"
+},
+"videoOwnerChannelTitle": "Movie Mandi",
+"videoOwnerChannelId": "UCrAWWP3SpIvRglGej3Mo2Mw"
+},
+"contentDetails": {
+"videoId": "Nz6kV4ExJDI",
+"videoPublishedAt": "2021-03-01T12:56:17Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "pUMWB2RzvAgwcEyl2UDTTMhx2yg",
+"id": "UExvcWlnUDZmSmk3T0xac3pDbk9TbjRQV2Q1Yzd3VXQ2RC4xRDJGOTc4RkUxMzUwMUFG",
+"snippet": {
+"publishedAt": "2021-03-21T06:05:50Z",
+"channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
+"title": "Paan Singh Tomar Full Movie | Nawazuddin Siddiqui & Irrfan Khan Movie | New Bollywood HD Movies 2020",
+"description": "Directed by Tigmanshu Dhulia\nProduced by Ronnie Screwvala\nWritten by Tigmanshu Dhulia\nSanjay Chauhan[1]\nStarring Irrfan\nMahi Gill\nVipin Sharma\nMusic by Abhishek Ray\nCinematography Aseem Mishra\nEdited by Aarti Bajaj\nProduction\ncompany \nUTV Spotboy\nDistributed by UTV Motion Pictures\nRelease date \nOctober 2012 (BFI London Film Festival)\n2 March 2012\nRunning time 135 minutes\nCountry India\nLanguage Hindi",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/KR8VQz7yD_Y/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/KR8VQz7yD_Y/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/KR8VQz7yD_Y/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/KR8VQz7yD_Y/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/KR8VQz7yD_Y/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "look jonson",
+"playlistId": "PLoqigP6fJi7OLZszCnOSn4PWd5c7wUt6D",
+"position": 7,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "KR8VQz7yD_Y"
+},
+"videoOwnerChannelTitle": "Galaxy Movies",
+"videoOwnerChannelId": "UCNZlg-UROPBWsxjcippihMA"
+},
+"contentDetails": {
+"videoId": "KR8VQz7yD_Y",
+"videoPublishedAt": "2020-12-31T12:30:05Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "ZobBI8L4erLm5kyX_IsF56XLs_4",
+"id": "UExvcWlnUDZmSmk3T0xac3pDbk9TbjRQV2Q1Yzd3VXQ2RC4wMDkwRkI3NzExODA2MTFG",
+"snippet": {
+"publishedAt": "2021-03-21T06:05:38Z",
+"channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
+"title": "Firangi Full Movie | Kapil Sharma | Ishita Dutta | Latest Bollywood Movie",
+"description": "Firangi HD Full Movie 1080p | Kapil Sharma Latest Bollywood Movie\nFirangi Full Movie | Kapil Sharma | Ishita Dutta \n\n\n\n#KapilSharmaShow\nMusic in this video\nLearn more\nListen ad-free with YouTube Premium\nSong\nSajna Sohne Jiha\nArtist\nJatinder Shah\nAlbum\nFirangi\nLicensed to YouTube by\nZeemusiccompany (on behalf of Zee Music Company); Zee Music Publishing, and 4 Music Rights Societies\nSong\nOye Firangi Video Firangi\nSong\nGulbadan Video Firangi\nSong\nSahiba Russ Gaeeyaa\nArtist\nJatinder Shah\nAlbum\nFirangi\nLicensed to YouTube by\nZeemusiccompany (on behalf of Zee Music Company); Zee Music Publishing, and 4 Music Rights Societies\n.\n#Firangi Movies  (transl. Foreigner) is a 2017 Indian period drama film written and directed by Rajiev Dhingra. It stars Kapil Sharma, who is also the producer, along with Ishita Dutta and Monica Gill. The film was shot primarily in Punjab and Rajasthan and had a worldwide release on 1 December 2017. The film received mixed reviews from critics. This movie carries the history of India and thus this is uploaded on YouTube for educational purposes. Any indian watching this movie can learn about their unpleasant history when british has captured their country and ruled over it. At the mean time they will understand how their brave ancestor fought against british government at that time. \nSubscribe this channel for more\ni don't won the content of this video, if you have any kind of copyright or privacy claim, you can contact me.\nI will happily remove the video from my channel.\nThank You\n#Firangi #KapilSharma #SakuraHub #Educational Video",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/u2QH1d5E5_c/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/u2QH1d5E5_c/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/u2QH1d5E5_c/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/u2QH1d5E5_c/sddefault.jpg",
+"width": 640,
+"height": 480
+}
+},
+"channelTitle": "look jonson",
+"playlistId": "PLoqigP6fJi7OLZszCnOSn4PWd5c7wUt6D",
+"position": 8,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "u2QH1d5E5_c"
+},
+"videoOwnerChannelTitle": "Cinema 4U",
+"videoOwnerChannelId": "UCzQHWScmwYq7M4NYy5z6Pqw"
+},
+"contentDetails": {
+"videoId": "u2QH1d5E5_c",
+"videoPublishedAt": "2020-04-03T03:00:36Z"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "N1FFEpK43tDZ-3DhgYefqFE_xyU",
 "id": "UExvcWlnUDZmSmk3T0xac3pDbk9TbjRQV2Q1Yzd3VXQ2RC5ERkRDQjY0N0Y0Q0VFOTdC",
 "snippet": {
 "publishedAt": "2021-02-28T05:53:22Z",
@@ -41,7 +489,7 @@
 },
 "channelTitle": "look jonson",
 "playlistId": "PLoqigP6fJi7OLZszCnOSn4PWd5c7wUt6D",
-"position": 0,
+"position": 9,
 "resourceId": {
 "kind": "youtube#video",
 "videoId": "DUlbGPSPY3o"
@@ -56,104 +504,7 @@
 },
 {
 "kind": "youtube#playlistItem",
-"etag": "PtZz9yPUTUyEigB5nAhxM4BTknU",
-"id": "UExvcWlnUDZmSmk3T0xac3pDbk9TbjRQV2Q1Yzd3VXQ2RC5BRDg1NUY1OTY2QzgzOEM0",
-"snippet": {
-"publishedAt": "2021-02-28T05:53:07Z",
-"channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
-"title": "New South Indian Movies Dubbed In Hindi 2020 Full | South Indian Movies Dubbed In Hindi Full Movie",
-"description": "New South Indian Movies Dubbed In Hindi 2020 Full | South Indian Movies Dubbed In Hindi Full Movie south indian movie| south indian movies dubbed hindi full movie 2020 new | south indian movies | south indian movies dubbed in hindi full movie | south movie 2020 | south indian movies dubbed in hindi full movie 2020 | south indian movie 2020, south indian new movies | south indian movies 2020 | new south indian movies dubbed in hindi 2020 full | new south movie 2020 | new south indian movie 2020 | new south indian movie in hindi dubbed full 2020 latest movie | action blockbuster movie | new south indian movies dubbed in hindi 2020 full | new south indian movies dubbed in hindi 2020 full love story | new south indian movies dubbed in hindi 2020 full this week | #filmytopofficial​​​ #Filmy4Top​​​| new south indian movies dubbed in hindi 2021 full | new south indian movies dubbed in hindi 2021 full love story | south indian movies dubbed in hindi full movie 2021 new | south Hindi dubbed movie | new South Indian Hindi dubbed movie south love story movie | Mahesh Babu new action movie | Mahesh Babu movie | Mahesh Babu new movie | NTR new movie new Hindi dubbed movie,gopichand new movie | hansika motwani new movie | kajal Agarwal new movie | new bollywood movies 2020 full movie in hindi hd | new hindi dubbed movies | hindi movies | dubbed movies | new hindi dubbed movie | latest movies | new full hindi movie 2020 | south indian movies dubbed in hindi full movie 2020 new | sauth indian movie in hindi dubbed full 2020 new hd | new tamil movies 2020 full movie hindi dubbed | doraemon new movie 2020 in hindi full movie | new hollywood movies 2020 full movie in hindi hd | south indian movies dubbed in hindi full | new bollywood movies 2020 | hindi dubbed movie | new full hindi movie 2020 | south indian movies dubbed in hindi full movie 2020 new | sauth indian movie in hindi dubbed full 2020 new hd | south indian movies dubbed in hindi full movie 2020 new hd | new bollywood movies 2020 full movie in hindi hd | new hindi dubbed movies, hindi movies | dubbed movies, new hindi movie | south indian movies dubbed in hindi full movie new, new south indian movies dubbed | new south indian movies dubbed, hindi dubbed movies | hindi dubbed movie 2020 new release | hindi dubbed movie 2020 new | hindi dubbed movie 2020 allu arjuN | south indian movie hindi dubbed movie 2020 | south indian movies dubbed in hindi full movie 2019 new | 2020 new hindi dubbed movies | new south indian movies dubbed in hindi 2020 full | new south indian movie hindi dubbed movie 2020 |new hindi dubbed movie 2020 south indian movies dubbed in hindi full movie new | new south indian movie in hindi dubbed | south indian movies dubbed in hindi full movie 2018 new |2019 new hindi dubbed movies | movies hindi dubbed 2020 | 2020 new hindi dubbed movies | allu arjun | south indian movies dubbed in hindi full movie 2020 new | 2020 south indian movie hindi dubbed | action movies | bollywood movies | new hindi movie 2020 | latest movie 2020 | action hindi movie | Movies | Dubbed Movie | Latest Dubbed Movies | 2020 Dubbed Movie | South Dubbed Movies 2019 |South movies in hindi dubbed | Mahesh babu movies | New south indian movies | Full hindi dubbed movie | Dubbed hindi full movie | Hindi dubbed full movie | Hindi dubbed movies 2020 | Hindi dubbed movies | New blockbuster hindi dubbed movie | 2020 south indian full hindi action movies, South indian movies 2020 | latest dubbed movies in hindi full 2020 full hindi dubbed movie | South action movies | New released hindi dubbed movie | South indian full movie | 2020 new released full hindi dubbed movie | Blockbuster hindi dubbed movie | South superstar movies,2019 dubbed hindi movies | New south dubbed movies | South dubbed movies 2020 | Action dubbed movies | Latest dubbed movies, 2020 dubbed movie | South dubbed movies | Dubbed movie | Goldmine telefilms new | new blockbuster hindi dubbed movie | Dubbed action movie | Bollywood full movies | South indian movies dubbed in hindi full movie 2019 new | Sauth movies 2020 | Sauth movies in hindi | Hindi dubbed movies 2019 full movie | Action romantic movies in hindi dubbed | Dubbed movies, Hindi movies | 2020 sauth movies in hindi | Full movies in hindi dubbed | New south movie | bharat full movie in hindi dubbed,Hindi dubbed | Sauth movie | South movies | South indian movies dubbed in hindi full movie 2020 new | New sauth movie 2020 hindi dubbed, Mahesh babu | 2021 new movie | 2021 new movie hindi | south indian full movie | south indian full movie 2020 | ---------------------Disclaimer---------------------Copright Disclaimer Under Section 107 of Copyright Act 1976, allowance is made for fair use\" for purposes such as criticisms, comment,news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips tha balance in favor of fair us",
-"thumbnails": {
-"default": {
-"url": "https://i.ytimg.com/vi/c5KVqN7_bVY/default.jpg",
-"width": 120,
-"height": 90
-},
-"medium": {
-"url": "https://i.ytimg.com/vi/c5KVqN7_bVY/mqdefault.jpg",
-"width": 320,
-"height": 180
-},
-"high": {
-"url": "https://i.ytimg.com/vi/c5KVqN7_bVY/hqdefault.jpg",
-"width": 480,
-"height": 360
-},
-"standard": {
-"url": "https://i.ytimg.com/vi/c5KVqN7_bVY/sddefault.jpg",
-"width": 640,
-"height": 480
-}
-},
-"channelTitle": "look jonson",
-"playlistId": "PLoqigP6fJi7OLZszCnOSn4PWd5c7wUt6D",
-"position": 1,
-"resourceId": {
-"kind": "youtube#video",
-"videoId": "c5KVqN7_bVY"
-},
-"videoOwnerChannelTitle": "Clooz Gaming",
-"videoOwnerChannelId": "UCvtnq59bI7ceDI68vZA9RiQ"
-},
-"contentDetails": {
-"videoId": "c5KVqN7_bVY",
-"videoPublishedAt": "2021-02-27T10:44:13Z"
-}
-},
-{
-"kind": "youtube#playlistItem",
-"etag": "ZDNt6tb1oksX7KRvGyzXfUgRK5M",
-"id": "UExvcWlnUDZmSmk3T0xac3pDbk9TbjRQV2Q1Yzd3VXQ2RC42NEZDNTU0RTRENDUzRjMz",
-"snippet": {
-"publishedAt": "2021-02-28T05:52:43Z",
-"channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
-"title": "Spy kids | hollywood movies in hindi dubbed full action hd | hollywood movie hindi dubbed full hd",
-"description": "Hello dost, \r\n. \r\nAgar aapko meri video pasand h jo ki pasand aai hi hogi to subscribe kre is channel ko taaki mai aapke liye aise hi naye naye majedaar videos laata rahu shukriya 400 subscribers hit krwane ke liye \r\n. \r\nlove u all\r\n. hollywood movie in hindi\nhollywood movie hindi 2020\nhollywood movies 2020\nhollywood movie download\nhollywood movies 2019\nhollywood movie hindi dubbed\nहॉलीवुड मूवी\nhollywood movie in hindi 2019\nhollywood movie 2020\nhollywood movie tamil\nhollywood movie download in hindi\nhollywood movie action\nhollywood movie actress\nhollywood movie app\nhollywood movie action hindi\nhollywood movie actress name\nhollywood movie actors\nhollywood movie avatar\nhollywood movie animal\na hollywood movies list\na hollywood movie hindi dubbed download\na hollywood movie tamil\na hollywood movie about the spanish-american war\na hollywood movies download\na hollywood movie tamil download\na hollywood movie hindi\nhollywood a movies watch online\nhollywood movie best\nhollywood movie best list\nhollywood movie background\nhollywood movie based on india\nhollywood movie beautiful heroine name\nhollywood movie based on true events\nhollywood movie bfg hindi dubbed\nhollywood movie based on spy\nb hollywood movies\nhollywood b movies list\nhollywood b movies download\nhollywood b movie bingo\nhollywood b movies online\nhollywood dub movies free download\nb grade hollywood movie list with posters\nbig b hollywood movie\nhollywood movie comedy\nhollywood movie cartoon\nhollywood movie channel in hindi\nhollywood movie com\nhollywood movie cartoon in hindi\nhollywood movie channel\nhollywood movie cinema\nhollywood movie hindi,\nhollywood movie hindi dubbed,\nhollywood movie tamil,\nhollywood movie hindi mein,\nhollywood movie hindi mai,\nhollywood movie new,\nhollywood movies in telugu,\nhollywood movies in hindi dubbed full action hd 2020,\nhollywood movie 2020,\nhollywood movie hindi dubbed 2020,\nhollywood movie action,\nhollywood movie action hindi,\nhollywood movie all,\nhollywood movie avatar,\nhollywood movie adventure,\nhollywood movie action scene,\nhollywood movie avengers,\nhollywood movie adventure in hindi,\na hollywood movie tamil,\na hollywood movie in hindi,\na hollywood movie in hindi dubbed full action hd,\na hollywood movie hindi dubbed,\na hollywood movie tamil dubbed,\na hollywood movies list,\na hollywood movie hindi dubbed download,\na hollywood movie about the spanish-american war,\nhollywood movie best,\nhollywood movie blade,\nhollywood movie best scene hindi,\nhollywood movie black panther,\nhollywood movie bollywood,\nhollywood movie best fight scene,\nhollywood movie blade hindi mai,\nhollywood movie blood,\nhollywood movie cartoon,\nhollywood movie comedy,\nhollywood movie cartoon hindi,\nhollywood movie chinese,\nhollywood movie comedy in hindi,\nhollywood movie channel,\nhollywood movie china,\nhollywood movie commando,\nhollywood movie c,\nc i d hollywood movies,\nhollywood movie hindi dubbed c,\nhollywood movie hindi dubbed cj7,\nhollywood movie dubbed in hindi,\nhollywood movie dubbed in tamil,\nhollywood movie dinosaur,\nhollywood movie dangerous\nhollywood movie hindi dubbed,\nhollywood movie hindi mein,\nhollywood movie hindi mai,\nhollywood movie hindi dubbed 2020,\nhollywood movie hindi 2020,\nhollywood movie hindi dubbed action movie,\nhollywood movie hindi new,\nhollywood movie hindi mai new,\nhollywood movie hindi action,\nhollywood movie hindi adventure,\nhollywood movie hindi all,\nhollywood movie hindi avengers,\nhollywood movie hindi animals,\nhollywood movie hindi action 2020,\nhollywood movie hindi army,\nhollywood movie hindi alien,\na hollywood movie hindi dubbed,\na hollywood movie hindi dubbed download,\na mermaid hollywood movie in hindi,\nhollywood movie hindi best,\nhollywood movie hindi bhoot wali,\nhollywood movie hindi blade,\nhollywood movie hindi black panther,\nhollywood movie hindi best scene,\nhollywood movie hindi bhutiya,\nhollywood movie hindi blockbuster,\nhollywood movie hindi best action,\nm i b hollywood movie hindi mai,\nm i b hollywood movie hindi,\nm i b hollywood movie hindi mein,\nhollywood movie hindi dubbed b f g,\nhollywood movie hindi cartoon,\nhollywood movie hindi comedy,\nhollywood movie hindi china,\nhollywood movie hindi clip,\nhollywood movie hindi cartoon 2020,\nhollywood movie hindi comedy 2020,\nhollywood movie hindi car,\nhollywood movie hindi channel,\nhollywood movie hindi dubbed c,\nhollywood movie hindi c,\nhollywood movie hindi dubbed cj7,\nhollywood movie hindi dubbed 2020 new,\nhollywood movie hindi dubbed horror movie,\nhollywood movie hindi dubbed hd,\nhollywood movie hindi dubbed 2019,\nhollywood movie hindi dubbed sci fi,\nhollywood movie hindi explanation,\nhollywood movie hindi explain,\nhollywood movie hindi english\nmovies telugu,\nmovies 2020,\nmovies hindi,\nmovies 2020 full movie hindi,\nmovies bollywood,\nmovies tamil,\nmovies malayalam,\nmovies 2019,\nmovies 2020 full movie,\nmovies all,\nmovies action,\nmovies allu arjun,\nmovie akshay kumar,\nmovies all hindi,\nmovies army,\nmovies action hindi,",
-"thumbnails": {
-"default": {
-"url": "https://i.ytimg.com/vi/MjslQviIp34/default.jpg",
-"width": 120,
-"height": 90
-},
-"medium": {
-"url": "https://i.ytimg.com/vi/MjslQviIp34/mqdefault.jpg",
-"width": 320,
-"height": 180
-},
-"high": {
-"url": "https://i.ytimg.com/vi/MjslQviIp34/hqdefault.jpg",
-"width": 480,
-"height": 360
-},
-"standard": {
-"url": "https://i.ytimg.com/vi/MjslQviIp34/sddefault.jpg",
-"width": 640,
-"height": 480
-},
-"maxres": {
-"url": "https://i.ytimg.com/vi/MjslQviIp34/maxresdefault.jpg",
-"width": 1280,
-"height": 720
-}
-},
-"channelTitle": "look jonson",
-"playlistId": "PLoqigP6fJi7OLZszCnOSn4PWd5c7wUt6D",
-"position": 2,
-"resourceId": {
-"kind": "youtube#video",
-"videoId": "MjslQviIp34"
-},
-"videoOwnerChannelTitle": "Stifler Johnson",
-"videoOwnerChannelId": "UCYIdeEHa1c23aSvcSMT659w"
-},
-"contentDetails": {
-"videoId": "MjslQviIp34",
-"videoPublishedAt": "2020-12-07T12:01:29Z"
-}
-},
-{
-"kind": "youtube#playlistItem",
-"etag": "hUgTQyt_hyVLzkGMb8iblDrD8o0",
+"etag": "2zL9iAIzuWkyXFBbTCgT-m436GI",
 "id": "UExvcWlnUDZmSmk3T0xac3pDbk9TbjRQV2Q1Yzd3VXQ2RC5ENEEyOTIwNkY4NzFGMkQ2",
 "snippet": {
 "publishedAt": "2021-02-28T05:52:18Z",
@@ -189,7 +540,7 @@
 },
 "channelTitle": "look jonson",
 "playlistId": "PLoqigP6fJi7OLZszCnOSn4PWd5c7wUt6D",
-"position": 3,
+"position": 10,
 "resourceId": {
 "kind": "youtube#video",
 "videoId": "eP16j52cMkI"
@@ -204,7 +555,7 @@
 },
 {
 "kind": "youtube#playlistItem",
-"etag": "6fngXvTo6wrjOXdzJj-rgXYkENM",
+"etag": "LR303QRaOwiL0zeARXAcihD02fo",
 "id": "UExvcWlnUDZmSmk3T0xac3pDbk9TbjRQV2Q1Yzd3VXQ2RC43NjE5NDdDRTdENjQ3RTkw",
 "snippet": {
 "publishedAt": "2021-02-28T05:51:33Z",
@@ -240,7 +591,7 @@
 },
 "channelTitle": "look jonson",
 "playlistId": "PLoqigP6fJi7OLZszCnOSn4PWd5c7wUt6D",
-"position": 4,
+"position": 11,
 "resourceId": {
 "kind": "youtube#video",
 "videoId": "eYJAvlbmwCg"
@@ -255,160 +606,7 @@
 },
 {
 "kind": "youtube#playlistItem",
-"etag": "0hlKaV19OgBg4Ezl6bLcADTkiEs",
-"id": "UExvcWlnUDZmSmk3T0xac3pDbk9TbjRQV2Q1Yzd3VXQ2RC4wRkVBNUY4OTkzN0JCNTA2",
-"snippet": {
-"publishedAt": "2021-01-20T07:33:32Z",
-"channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
-"title": "Aditya Roy Kapur & Shraddha Kapoor's Latest Romantic Hindi Full Movie | Naseeruddin Shah",
-"description": "Movie: Ok Jaanu\n\nDirected by: Shaad Ali\n\nDialogues and Lyrics: Gulzar\nStory and Screenplay: Mani Ratnam\n\nBased on: O Kadhal Kanmani\nby Mani Ratnam\n\nStarring: Aditya Roy Kapur\nShraddha Kapoor\nNaseeruddin Shah\nLeela Samson\nPrahlad Kakkar\n\nMusic by: A. R. Rahman\n\n© RG Entertainment India Pvt. Ltd 2020\n-----------------------------------------------------------------------------------------------------------\nStay Connected with Us!\n\nFollow us on Twitter :\nhttps://twitter.com/Royalgoldfilms\n\nFollow us on Instagram :\nhttps://www.instagram.com/royalgoldfilms",
-"thumbnails": {
-"default": {
-"url": "https://i.ytimg.com/vi/JuG0p5OW3hE/default.jpg",
-"width": 120,
-"height": 90
-},
-"medium": {
-"url": "https://i.ytimg.com/vi/JuG0p5OW3hE/mqdefault.jpg",
-"width": 320,
-"height": 180
-},
-"high": {
-"url": "https://i.ytimg.com/vi/JuG0p5OW3hE/hqdefault.jpg",
-"width": 480,
-"height": 360
-},
-"standard": {
-"url": "https://i.ytimg.com/vi/JuG0p5OW3hE/sddefault.jpg",
-"width": 640,
-"height": 480
-},
-"maxres": {
-"url": "https://i.ytimg.com/vi/JuG0p5OW3hE/maxresdefault.jpg",
-"width": 1280,
-"height": 720
-}
-},
-"channelTitle": "look jonson",
-"playlistId": "PLoqigP6fJi7OLZszCnOSn4PWd5c7wUt6D",
-"position": 5,
-"resourceId": {
-"kind": "youtube#video",
-"videoId": "JuG0p5OW3hE"
-},
-"videoOwnerChannelTitle": "RG Entertainment",
-"videoOwnerChannelId": "UCgfO009hB_847kwL6NQnn-w"
-},
-"contentDetails": {
-"videoId": "JuG0p5OW3hE",
-"videoPublishedAt": "2020-10-13T11:00:02Z"
-}
-},
-{
-"kind": "youtube#playlistItem",
-"etag": "r3re3pQ_-5qYGoKVBgq98_Hbqq8",
-"id": "UExvcWlnUDZmSmk3T0xac3pDbk9TbjRQV2Q1Yzd3VXQ2RC43RDg3MzJDMTRFMTZFOTAw",
-"snippet": {
-"publishedAt": "2021-01-20T07:32:44Z",
-"channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
-"title": "Ranbir Kapoor Latest Romantic Hindi Full Movie | Aishwarya Rai, Anushka Sharma",
-"description": "Directed by: Karan Johar\n\nStory & Screenplay: Karan Johar\nDialogues: Karan Johar\nNiranjan Iyengar\n\nStarring: Ranbir Kapoor\nAnushka Sharma\nAishwarya Rai Bachchan\nShah Rukh Khan \nLisa Haydon \nAlia Bhatt\n\nMusic by: Pritam\n\n© RG Entertainment India Pvt. Ltd 2019\r\n-----------------------------------------------------------------------------------------------------------\r\nStay Connected with US!\r\n\r\nFollow us on Twitter :\r\nhttps://twitter.com/Royalgoldfilms\r\n\r\nFollow us on Instagram :\r\nhttps://www.instagram.com/royalgoldfilms",
-"thumbnails": {
-"default": {
-"url": "https://i.ytimg.com/vi/4H4wg_XSKXI/default.jpg",
-"width": 120,
-"height": 90
-},
-"medium": {
-"url": "https://i.ytimg.com/vi/4H4wg_XSKXI/mqdefault.jpg",
-"width": 320,
-"height": 180
-},
-"high": {
-"url": "https://i.ytimg.com/vi/4H4wg_XSKXI/hqdefault.jpg",
-"width": 480,
-"height": 360
-},
-"standard": {
-"url": "https://i.ytimg.com/vi/4H4wg_XSKXI/sddefault.jpg",
-"width": 640,
-"height": 480
-},
-"maxres": {
-"url": "https://i.ytimg.com/vi/4H4wg_XSKXI/maxresdefault.jpg",
-"width": 1280,
-"height": 720
-}
-},
-"channelTitle": "look jonson",
-"playlistId": "PLoqigP6fJi7OLZszCnOSn4PWd5c7wUt6D",
-"position": 6,
-"resourceId": {
-"kind": "youtube#video",
-"videoId": "4H4wg_XSKXI"
-},
-"videoOwnerChannelTitle": "RG Entertainment",
-"videoOwnerChannelId": "UCgfO009hB_847kwL6NQnn-w"
-},
-"contentDetails": {
-"videoId": "4H4wg_XSKXI",
-"videoPublishedAt": "2020-04-23T10:30:01Z"
-}
-},
-{
-"kind": "youtube#playlistItem",
-"etag": "vCSoxk0nDR83gLP5EsScOl7vBYs",
-"id": "UExvcWlnUDZmSmk3T0xac3pDbk9TbjRQV2Q1Yzd3VXQ2RC5BNzdEQzY0REQzQTEyN0U3",
-"snippet": {
-"publishedAt": "2021-01-20T07:32:13Z",
-"channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
-"title": "Deepika Padukone & Ranveer Singh Latest Hindi Full Movie | Shahid Kapoor, Aditi Rao Hydari",
-"description": "Movie: Padmaavat\n\nDirected by: Sanjay Leela Bhansali\n\nScreenplay by: Sanjay Leela Bhansali\nPrakash Kapadia\n\nBased on: Padmavat\nby Malik Muhammad Jayasi\n\nStarring: Deepika Padukone\nShahid Kapoor\nRanveer Singh\nAditi Rao Hydari\nJim Sarbh \n\nMusic by: Sanjay Leela Bhansali\n\nCinematography: Sudeep Chatterjee\n\n© 2020 RG Entertainment India Pvt. Ltd.\n-----------------------------------------------------------------------------------------------------------\nStay Connected with Us!\n\nFollow us on Twitter :\nhttps://twitter.com/Royalgoldfilms\n\nFollow us on Instagram :\nhttps://www.instagram.com/royalgoldfilms",
-"thumbnails": {
-"default": {
-"url": "https://i.ytimg.com/vi/YklgPTDcs3g/default.jpg",
-"width": 120,
-"height": 90
-},
-"medium": {
-"url": "https://i.ytimg.com/vi/YklgPTDcs3g/mqdefault.jpg",
-"width": 320,
-"height": 180
-},
-"high": {
-"url": "https://i.ytimg.com/vi/YklgPTDcs3g/hqdefault.jpg",
-"width": 480,
-"height": 360
-},
-"standard": {
-"url": "https://i.ytimg.com/vi/YklgPTDcs3g/sddefault.jpg",
-"width": 640,
-"height": 480
-},
-"maxres": {
-"url": "https://i.ytimg.com/vi/YklgPTDcs3g/maxresdefault.jpg",
-"width": 1280,
-"height": 720
-}
-},
-"channelTitle": "look jonson",
-"playlistId": "PLoqigP6fJi7OLZszCnOSn4PWd5c7wUt6D",
-"position": 7,
-"resourceId": {
-"kind": "youtube#video",
-"videoId": "YklgPTDcs3g"
-},
-"videoOwnerChannelTitle": "RG Entertainment",
-"videoOwnerChannelId": "UCgfO009hB_847kwL6NQnn-w"
-},
-"contentDetails": {
-"videoId": "YklgPTDcs3g",
-"videoPublishedAt": "2020-11-04T09:00:15Z"
-}
-},
-{
-"kind": "youtube#playlistItem",
-"etag": "DrR2KS3vuLO-gzvMOpSsLyhPCKk",
+"etag": "WBY-f8rwHQEVQ25_sOXwF8hh9Ew",
 "id": "UExvcWlnUDZmSmk3T0xac3pDbk9TbjRQV2Q1Yzd3VXQ2RC5EODgyNjY4MzA3QzY5RTkx",
 "snippet": {
 "publishedAt": "2020-10-12T12:51:31Z",
@@ -444,7 +642,7 @@
 },
 "channelTitle": "look jonson",
 "playlistId": "PLoqigP6fJi7OLZszCnOSn4PWd5c7wUt6D",
-"position": 8,
+"position": 12,
 "resourceId": {
 "kind": "youtube#video",
 "videoId": "LKNHVDPKy7g"
@@ -459,7 +657,7 @@
 },
 {
 "kind": "youtube#playlistItem",
-"etag": "wdSrEPMdovtmWkGcRDbKGyFD9Vo",
+"etag": "tr79E5qiVmdiuFnuRcVEMi3s3_I",
 "id": "UExvcWlnUDZmSmk3T0xac3pDbk9TbjRQV2Q1Yzd3VXQ2RC4yOTZGRTNEQ0ZGNUM5RDgw",
 "snippet": {
 "publishedAt": "2020-07-26T05:49:40Z",
@@ -495,7 +693,7 @@
 },
 "channelTitle": "look jonson",
 "playlistId": "PLoqigP6fJi7OLZszCnOSn4PWd5c7wUt6D",
-"position": 9,
+"position": 13,
 "resourceId": {
 "kind": "youtube#video",
 "videoId": "ZayhnBx5Vx8"
@@ -510,53 +708,7 @@
 },
 {
 "kind": "youtube#playlistItem",
-"etag": "7gQRFDMfB1CZPhFGJPSCP0_3LhI",
-"id": "UExvcWlnUDZmSmk3T0xac3pDbk9TbjRQV2Q1Yzd3VXQ2RC40OTQ5QjlEMDgzN0FBNUIw",
-"snippet": {
-"publishedAt": "2020-07-26T05:49:15Z",
-"channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
-"title": "Kasoor 1080p Full HD Hindi Movie | New Hindi Movie 2020 | Latest Movie | New Bollywood Movie 2020",
-"description": "#hindimovie2020\n#latestbollywoodmovie\n#newactionmovie\n#newhindimovie2020\n#newbollywoodmovie\n#hindicinema\n#newupcomingmovies2020trailers\n#newupcomingmovietrailer\n\n\nnew upcoming movies 2020 official trailers,new hindi movie 2020,new hindi movie 2020 full movie bollywood,new bollywood movies 2020,new bollywood movies,new action,new action movies 2020,new action movie,superhit hindi movies,superhit hindi movie 2020,new blockbuster hindi dubbed movie,new blockbuster 2020 full hindi dubbed movie,new blockbuster movie,hindi movie 2020,hindi movie new,hindi cinema 2020,new movies 2020,new upcoming movies",
-"thumbnails": {
-"default": {
-"url": "https://i.ytimg.com/vi/xGlhYvJDPaU/default.jpg",
-"width": 120,
-"height": 90
-},
-"medium": {
-"url": "https://i.ytimg.com/vi/xGlhYvJDPaU/mqdefault.jpg",
-"width": 320,
-"height": 180
-},
-"high": {
-"url": "https://i.ytimg.com/vi/xGlhYvJDPaU/hqdefault.jpg",
-"width": 480,
-"height": 360
-},
-"standard": {
-"url": "https://i.ytimg.com/vi/xGlhYvJDPaU/sddefault.jpg",
-"width": 640,
-"height": 480
-}
-},
-"channelTitle": "look jonson",
-"playlistId": "PLoqigP6fJi7OLZszCnOSn4PWd5c7wUt6D",
-"position": 10,
-"resourceId": {
-"kind": "youtube#video",
-"videoId": "xGlhYvJDPaU"
-},
-"videoOwnerChannelTitle": "Hindi Movie",
-"videoOwnerChannelId": "UCwi4nR2YRecX0LKTfBMlGNA"
-},
-"contentDetails": {
-"videoId": "xGlhYvJDPaU",
-"videoPublishedAt": "2020-07-03T15:30:12Z"
-}
-},
-{
-"kind": "youtube#playlistItem",
-"etag": "0we3S6S1rl7j7ULDjYPaTSppAFQ",
+"etag": "9pNlrgXDA825h2h6CDewRvYh1So",
 "id": "UExvcWlnUDZmSmk3T0xac3pDbk9TbjRQV2Q1Yzd3VXQ2RC43ODA2MDVCQzY5QzZDMjUw",
 "snippet": {
 "publishedAt": "2020-07-26T05:47:23Z",
@@ -592,7 +744,7 @@
 },
 "channelTitle": "look jonson",
 "playlistId": "PLoqigP6fJi7OLZszCnOSn4PWd5c7wUt6D",
-"position": 11,
+"position": 14,
 "resourceId": {
 "kind": "youtube#video",
 "videoId": "EGkck-FWagc"
@@ -607,7 +759,7 @@
 },
 {
 "kind": "youtube#playlistItem",
-"etag": "D77JZYb7IqIa0Rrr8JexB5fGTfI",
+"etag": "qmNcQMdTvK83vRfpzF0czm8coAE",
 "id": "UExvcWlnUDZmSmk3T0xac3pDbk9TbjRQV2Q1Yzd3VXQ2RC5GNzk2RTlDQTNCQzJCQzJG",
 "snippet": {
 "publishedAt": "2020-07-26T05:47:01Z",
@@ -633,7 +785,7 @@
 },
 "channelTitle": "look jonson",
 "playlistId": "PLoqigP6fJi7OLZszCnOSn4PWd5c7wUt6D",
-"position": 12,
+"position": 15,
 "resourceId": {
 "kind": "youtube#video",
 "videoId": "VPOHcKDq9OI"
@@ -648,7 +800,7 @@
 },
 {
 "kind": "youtube#playlistItem",
-"etag": "o_c4uXoj1I-W_HQZIjhYqpmk0EI",
+"etag": "HEvKyz1_nlAfGWcifQDjU0GAGm8",
 "id": "UExvcWlnUDZmSmk3T0xac3pDbk9TbjRQV2Q1Yzd3VXQ2RC44QjNCNkRENjNFQTBEMUND",
 "snippet": {
 "publishedAt": "2020-07-26T05:46:42Z",
@@ -684,7 +836,7 @@
 },
 "channelTitle": "look jonson",
 "playlistId": "PLoqigP6fJi7OLZszCnOSn4PWd5c7wUt6D",
-"position": 13,
+"position": 16,
 "resourceId": {
 "kind": "youtube#video",
 "videoId": "ffQQVxUwGsE"
@@ -699,7 +851,7 @@
 },
 {
 "kind": "youtube#playlistItem",
-"etag": "iaEUHFGCYuehk6Bh_6tsDLhSjBY",
+"etag": "3yaX9ibsNSYalhxmCSj9_ucVCTE",
 "id": "UExvcWlnUDZmSmk3T0xac3pDbk9TbjRQV2Q1Yzd3VXQ2RC5EMUJFNzRCNDRFQjE5RjM4",
 "snippet": {
 "publishedAt": "2020-07-26T05:46:28Z",
@@ -735,7 +887,7 @@
 },
 "channelTitle": "look jonson",
 "playlistId": "PLoqigP6fJi7OLZszCnOSn4PWd5c7wUt6D",
-"position": 14,
+"position": 17,
 "resourceId": {
 "kind": "youtube#video",
 "videoId": "HxiqPXGdh4s"
@@ -750,7 +902,7 @@
 },
 {
 "kind": "youtube#playlistItem",
-"etag": "1Ver3TUl02rEEt-HUal7reC3-1c",
+"etag": "46UYpofgOkC-Il9muz8zSDzU-0I",
 "id": "UExvcWlnUDZmSmk3T0xac3pDbk9TbjRQV2Q1Yzd3VXQ2RC41ODIyMTgwQzA4NjJCQkZC",
 "snippet": {
 "publishedAt": "2020-07-26T05:45:51Z",
@@ -786,7 +938,7 @@
 },
 "channelTitle": "look jonson",
 "playlistId": "PLoqigP6fJi7OLZszCnOSn4PWd5c7wUt6D",
-"position": 15,
+"position": 18,
 "resourceId": {
 "kind": "youtube#video",
 "videoId": "EsxsAZT85s4"
@@ -801,201 +953,7 @@
 },
 {
 "kind": "youtube#playlistItem",
-"etag": "n8xTO9o-tTOpFF6s9p-9LgI_V1M",
-"id": "UExvcWlnUDZmSmk3T0xac3pDbk9TbjRQV2Q1Yzd3VXQ2RC5FRjdGNDMzN0I2RTI3MDlG",
-"snippet": {
-"publishedAt": "2020-07-26T05:45:27Z",
-"channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
-"title": "Jannat 2 Blockbuster Movie 2020 | New Hindi Movie 2020 | Latest Full hd Movie 2020 | Hindi Dubbed",
-"description": "#newhindimovies2020\n#newactionmovie\n#newhindimovie2019\n#newhindimovie2018 , \n#FullMovie \n#TigerShroff2020 , \n#newmoviedownload , #newhindimovies2020 , #newhindimovie2020 ,\n#newhindimovies ,\n#newhindimovies2019,\n#newmovie \n#bollywoodnewmovies #bollywoodnewmovie2020 #bollywoodnewmovies2020\n#newhindimovies2020 #newhindimovie2020 #newhindimoviebollywood\n\n#southmovie\n#southindiamoviedubbbedinhindi\n#southmovie2020\n#southmovieinhindi2020\n#southfilm\n#southnewmovie\n#southkimovie\n#southindianmovie\n\n\n\nEntertainment Purpose Only\nAll Content Followed Based On YouTube Community Guidelines And Policies 2020\n\n\nEntertainment Purpose Only\nAll Content Followed Based On YouTube Community Guidelines And Policies 2020\n\nEntertainment Purpose Only\nAll Content Followed Based On YouTube Community Guidelines And Policies 2020",
-"thumbnails": {
-"default": {
-"url": "https://i.ytimg.com/vi/nEQpjGOBLWw/default.jpg",
-"width": 120,
-"height": 90
-},
-"medium": {
-"url": "https://i.ytimg.com/vi/nEQpjGOBLWw/mqdefault.jpg",
-"width": 320,
-"height": 180
-},
-"high": {
-"url": "https://i.ytimg.com/vi/nEQpjGOBLWw/hqdefault.jpg",
-"width": 480,
-"height": 360
-},
-"standard": {
-"url": "https://i.ytimg.com/vi/nEQpjGOBLWw/sddefault.jpg",
-"width": 640,
-"height": 480
-},
-"maxres": {
-"url": "https://i.ytimg.com/vi/nEQpjGOBLWw/maxresdefault.jpg",
-"width": 1280,
-"height": 720
-}
-},
-"channelTitle": "look jonson",
-"playlistId": "PLoqigP6fJi7OLZszCnOSn4PWd5c7wUt6D",
-"position": 16,
-"resourceId": {
-"kind": "youtube#video",
-"videoId": "nEQpjGOBLWw"
-},
-"videoOwnerChannelTitle": "Hindi Movie",
-"videoOwnerChannelId": "UCwi4nR2YRecX0LKTfBMlGNA"
-},
-"contentDetails": {
-"videoId": "nEQpjGOBLWw",
-"videoPublishedAt": "2020-06-02T01:30:11Z"
-}
-},
-{
-"kind": "youtube#playlistItem",
-"etag": "YfUTwreQvGuZ5l0kltL7vGGMZak",
-"id": "UExvcWlnUDZmSmk3T0xac3pDbk9TbjRQV2Q1Yzd3VXQ2RC41RDUzRjJFQ0Y0MUI3NzU1",
-"snippet": {
-"publishedAt": "2020-07-26T05:45:15Z",
-"channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
-"title": "Murder 1080p Full HD Movie | Most Romantic Movie | Emraan Hashmi, Mallika Sherawat | New Hindi Movie",
-"description": "#EmraanHashmimovie\n#newhindimovies2020 hd , #newhindimovie2019\n#newhindimovie2018 , \n#FullMovie \n#TigerShroff2020 , \n#newmoviedownload , #newhindimovies2020 , #newhindimovie2020 ,\n#newhindimovies ,\n#newhindimovies2019,\n#newmovie \n#bollywoodnewmovies #bollywoodnewmovie2020 #bollywoodnewmovies2020\n#newhindimovies2020 #newhindimovie2020 #newhindimoviebollywood\n\n\nEntertainment Purpose Only\nAll Content Followed Based On YouTube Community Guidelines And Policies 2020",
-"thumbnails": {
-"default": {
-"url": "https://i.ytimg.com/vi/JEVRC3co10k/default.jpg",
-"width": 120,
-"height": 90
-},
-"medium": {
-"url": "https://i.ytimg.com/vi/JEVRC3co10k/mqdefault.jpg",
-"width": 320,
-"height": 180
-},
-"high": {
-"url": "https://i.ytimg.com/vi/JEVRC3co10k/hqdefault.jpg",
-"width": 480,
-"height": 360
-},
-"standard": {
-"url": "https://i.ytimg.com/vi/JEVRC3co10k/sddefault.jpg",
-"width": 640,
-"height": 480
-}
-},
-"channelTitle": "look jonson",
-"playlistId": "PLoqigP6fJi7OLZszCnOSn4PWd5c7wUt6D",
-"position": 17,
-"resourceId": {
-"kind": "youtube#video",
-"videoId": "JEVRC3co10k"
-},
-"videoOwnerChannelTitle": "Hindi Movie",
-"videoOwnerChannelId": "UCwi4nR2YRecX0LKTfBMlGNA"
-},
-"contentDetails": {
-"videoId": "JEVRC3co10k",
-"videoPublishedAt": "2020-06-07T05:00:59Z"
-}
-},
-{
-"kind": "youtube#playlistItem",
-"etag": "kApywcOzc11cJ95viN98d8r7B3U",
-"id": "UExvcWlnUDZmSmk3T0xac3pDbk9TbjRQV2Q1Yzd3VXQ2RC5ERENFNTk4Q0Q2MTZDMTA5",
-"snippet": {
-"publishedAt": "2020-07-26T05:45:03Z",
-"channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
-"title": "Murder 2 Full HD 1080p Hindi Movie | Emraan Hashmi, Jacqueline Fernandez | New Hindi Movie 2020",
-"description": "#hindimovie\n#newmovie2020\n#newhindimovies2020,\n#newhindimovie2019\n#newhindimovie2018 , \n#FullMovie \n#TigerShroff2020 , \n#newmoviedownload , #newhindimovies2020 , #newhindimovie2020 ,\n#newhindimovies ,\n#newhindimovies2019,\n#newmovie \n#bollywoodnewmovies #bollywoodnewmovie2020 #bollywoodnewmovies2020\n#newhindimovies2020 #newhindimovie2020 #newhindimoviebollywood\n\n\nEntertainment Purpose Only\nAll Content Followed Based On YouTube Community Guidelines And Policies 2020",
-"thumbnails": {
-"default": {
-"url": "https://i.ytimg.com/vi/2jD6-NVqwQ0/default.jpg",
-"width": 120,
-"height": 90
-},
-"medium": {
-"url": "https://i.ytimg.com/vi/2jD6-NVqwQ0/mqdefault.jpg",
-"width": 320,
-"height": 180
-},
-"high": {
-"url": "https://i.ytimg.com/vi/2jD6-NVqwQ0/hqdefault.jpg",
-"width": 480,
-"height": 360
-},
-"standard": {
-"url": "https://i.ytimg.com/vi/2jD6-NVqwQ0/sddefault.jpg",
-"width": 640,
-"height": 480
-}
-},
-"channelTitle": "look jonson",
-"playlistId": "PLoqigP6fJi7OLZszCnOSn4PWd5c7wUt6D",
-"position": 18,
-"resourceId": {
-"kind": "youtube#video",
-"videoId": "2jD6-NVqwQ0"
-},
-"videoOwnerChannelTitle": "Hindi Movie",
-"videoOwnerChannelId": "UCwi4nR2YRecX0LKTfBMlGNA"
-},
-"contentDetails": {
-"videoId": "2jD6-NVqwQ0",
-"videoPublishedAt": "2020-06-04T04:30:11Z"
-}
-},
-{
-"kind": "youtube#playlistItem",
-"etag": "BGeInwAupKuuZAqk1NCKPM2Qn5M",
-"id": "UExvcWlnUDZmSmk3T0xac3pDbk9TbjRQV2Q1Yzd3VXQ2RC4yM0EyQ0U1M0I2RkIwNTQ0",
-"snippet": {
-"publishedAt": "2020-07-26T05:44:48Z",
-"channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
-"title": "Raaz 3 ( 3D Movie 2020 ) 1080p Full Hindi Movie | Emran Hasmi | Bipasha Bashu | Latest Movie 2020",
-"description": "#newhindimovies2020, #newhindimovie2019\n#newhindimovie2018 , \n#FullMovie \n#TigerShroff2020 , \n#newmoviedownload , #newhindimovies2020 , #newhindimovie2020 ,\n#newhindimovies ,\n#newhindimovies2019,\n#newmovie \n#bollywoodnewmovies #bollywoodnewmovie2020 #bollywoodnewmovies2020\n#newhindimovies2020 #newhindimovie2020 #newhindimoviebollywood\n\n\nEntertainment Purpose Only\nAll Content Followed Based On YouTube Community Guidelines And Policies 2020",
-"thumbnails": {
-"default": {
-"url": "https://i.ytimg.com/vi/XF69it-aIf8/default.jpg",
-"width": 120,
-"height": 90
-},
-"medium": {
-"url": "https://i.ytimg.com/vi/XF69it-aIf8/mqdefault.jpg",
-"width": 320,
-"height": 180
-},
-"high": {
-"url": "https://i.ytimg.com/vi/XF69it-aIf8/hqdefault.jpg",
-"width": 480,
-"height": 360
-},
-"standard": {
-"url": "https://i.ytimg.com/vi/XF69it-aIf8/sddefault.jpg",
-"width": 640,
-"height": 480
-},
-"maxres": {
-"url": "https://i.ytimg.com/vi/XF69it-aIf8/maxresdefault.jpg",
-"width": 1280,
-"height": 720
-}
-},
-"channelTitle": "look jonson",
-"playlistId": "PLoqigP6fJi7OLZszCnOSn4PWd5c7wUt6D",
-"position": 19,
-"resourceId": {
-"kind": "youtube#video",
-"videoId": "XF69it-aIf8"
-},
-"videoOwnerChannelTitle": "Hindi Movie",
-"videoOwnerChannelId": "UCwi4nR2YRecX0LKTfBMlGNA"
-},
-"contentDetails": {
-"videoId": "XF69it-aIf8",
-"videoPublishedAt": "2020-06-12T15:30:12Z"
-}
-},
-{
-"kind": "youtube#playlistItem",
-"etag": "yu3gQGKQ44ThGwKZunoTigQQjv4",
+"etag": "haa2Kx0RwD4AxE8sDX5fKFaCuYg",
 "id": "UExvcWlnUDZmSmk3T0xac3pDbk9TbjRQV2Q1Yzd3VXQ2RC5GMDBDNkJGMzYzREUyMTYw",
 "snippet": {
 "publishedAt": "2020-07-26T05:41:33Z",
@@ -1031,7 +989,7 @@
 },
 "channelTitle": "look jonson",
 "playlistId": "PLoqigP6fJi7OLZszCnOSn4PWd5c7wUt6D",
-"position": 20,
+"position": 19,
 "resourceId": {
 "kind": "youtube#video",
 "videoId": "zloKjQXmwhE"
@@ -1046,7 +1004,7 @@
 },
 {
 "kind": "youtube#playlistItem",
-"etag": "cVSkB1ayKDeFVoZMxemySpjQm3U",
+"etag": "002LeIwPeWA5nGrCOUMbUolio68",
 "id": "UExvcWlnUDZmSmk3T0xac3pDbk9TbjRQV2Q1Yzd3VXQ2RC5CMUM0NzY5NzdEQzlGRjAx",
 "snippet": {
 "publishedAt": "2020-07-26T05:41:20Z",
@@ -1082,7 +1040,7 @@
 },
 "channelTitle": "look jonson",
 "playlistId": "PLoqigP6fJi7OLZszCnOSn4PWd5c7wUt6D",
-"position": 21,
+"position": 20,
 "resourceId": {
 "kind": "youtube#video",
 "videoId": "S6APRrVWlww"
@@ -1097,7 +1055,7 @@
 },
 {
 "kind": "youtube#playlistItem",
-"etag": "eR-xw3ZcedQ6_8Kh8PU4rmKBoQA",
+"etag": "GCi-_g0Qs9K_PSQ9zFvuVDX73v4",
 "id": "UExvcWlnUDZmSmk3T0xac3pDbk9TbjRQV2Q1Yzd3VXQ2RC44MkM2RjVEQkQ5N0I2MjVE",
 "snippet": {
 "publishedAt": "2020-07-07T06:11:52Z",
@@ -1123,7 +1081,7 @@
 },
 "channelTitle": "look jonson",
 "playlistId": "PLoqigP6fJi7OLZszCnOSn4PWd5c7wUt6D",
-"position": 22,
+"position": 21,
 "resourceId": {
 "kind": "youtube#video",
 "videoId": "lBfQ0XTf_xA"
@@ -1138,7 +1096,7 @@
 },
 {
 "kind": "youtube#playlistItem",
-"etag": "ls69SbF6jI3Vp-NUpboL_J68vBg",
+"etag": "XXgiDE32SUUmSv8Zmh5aMyA6v7g",
 "id": "UExvcWlnUDZmSmk3T0xac3pDbk9TbjRQV2Q1Yzd3VXQ2RC44QTA1QTQyRTc3M0VGQzYx",
 "snippet": {
 "publishedAt": "2020-07-07T06:11:34Z",
@@ -1169,7 +1127,7 @@
 },
 "channelTitle": "look jonson",
 "playlistId": "PLoqigP6fJi7OLZszCnOSn4PWd5c7wUt6D",
-"position": 23,
+"position": 22,
 "resourceId": {
 "kind": "youtube#video",
 "videoId": "IA1xzmIzAhA"
@@ -1184,7 +1142,7 @@
 },
 {
 "kind": "youtube#playlistItem",
-"etag": "L25Ksm1WGnxGGVUztg52H8SwYls",
+"etag": "P4f14XxtQXRxfx6d0afxRtM4H_I",
 "id": "UExvcWlnUDZmSmk3T0xac3pDbk9TbjRQV2Q1Yzd3VXQ2RC4wMDFGNzBEOTU4Q0Y1Q0RG",
 "snippet": {
 "publishedAt": "2020-07-07T06:10:28Z",
@@ -1220,7 +1178,7 @@
 },
 "channelTitle": "look jonson",
 "playlistId": "PLoqigP6fJi7OLZszCnOSn4PWd5c7wUt6D",
-"position": 24,
+"position": 23,
 "resourceId": {
 "kind": "youtube#video",
 "videoId": "Vix8fYUnpkg"
@@ -1235,7 +1193,7 @@
 },
 {
 "kind": "youtube#playlistItem",
-"etag": "FOjo0QU1LFfjxT_aZjql7YgoVhQ",
+"etag": "pbYYh4avBAT4jjhD3WCwoS632H4",
 "id": "UExvcWlnUDZmSmk3T0xac3pDbk9TbjRQV2Q1Yzd3VXQ2RC4zQTkzRjgxRTY0OEU0MkM3",
 "snippet": {
 "publishedAt": "2020-07-07T06:09:33Z",
@@ -1271,7 +1229,7 @@
 },
 "channelTitle": "look jonson",
 "playlistId": "PLoqigP6fJi7OLZszCnOSn4PWd5c7wUt6D",
-"position": 25,
+"position": 24,
 "resourceId": {
 "kind": "youtube#video",
 "videoId": "_sgWjB0BTNI"
@@ -1286,7 +1244,7 @@
 },
 {
 "kind": "youtube#playlistItem",
-"etag": "PRrYfO-G0DwJ4NIHBpAjsLzRkIM",
+"etag": "V_FSelhJfnk69PhXTygdPNyLvwg",
 "id": "UExvcWlnUDZmSmk3T0xac3pDbk9TbjRQV2Q1Yzd3VXQ2RC44QTY2MEEzNzBFQUJCMUQ2",
 "snippet": {
 "publishedAt": "2020-07-07T06:09:16Z",
@@ -1322,7 +1280,7 @@
 },
 "channelTitle": "look jonson",
 "playlistId": "PLoqigP6fJi7OLZszCnOSn4PWd5c7wUt6D",
-"position": 26,
+"position": 25,
 "resourceId": {
 "kind": "youtube#video",
 "videoId": "GJ9MH6uw_vE"
@@ -1337,7 +1295,7 @@
 },
 {
 "kind": "youtube#playlistItem",
-"etag": "cs0IDSeX6Db251Z5cgR69P0eb8g",
+"etag": "cBbCm80LRWS2ilAGorpzEzZpeyE",
 "id": "UExvcWlnUDZmSmk3T0xac3pDbk9TbjRQV2Q1Yzd3VXQ2RC4xN0Y2QjVBOEI2MzQ5OUM5",
 "snippet": {
 "publishedAt": "2020-07-07T06:04:22Z",
@@ -1368,7 +1326,7 @@
 },
 "channelTitle": "look jonson",
 "playlistId": "PLoqigP6fJi7OLZszCnOSn4PWd5c7wUt6D",
-"position": 27,
+"position": 26,
 "resourceId": {
 "kind": "youtube#video",
 "videoId": "eqbiiPZaTk8"
@@ -1383,7 +1341,7 @@
 },
 {
 "kind": "youtube#playlistItem",
-"etag": "N__KodRNjR_V9tqXdz8Xl_HeQpE",
+"etag": "NcqHdhqxecqt_WU5ygZyJXpS25Q",
 "id": "UExvcWlnUDZmSmk3T0xac3pDbk9TbjRQV2Q1Yzd3VXQ2RC42MjYzMTMyQjA0QURCN0JF",
 "snippet": {
 "publishedAt": "2020-03-18T04:04:15Z",
@@ -1419,7 +1377,7 @@
 },
 "channelTitle": "look jonson",
 "playlistId": "PLoqigP6fJi7OLZszCnOSn4PWd5c7wUt6D",
-"position": 28,
+"position": 27,
 "resourceId": {
 "kind": "youtube#video",
 "videoId": "jEDgcZ_wFjo"
@@ -1434,48 +1392,7 @@
 },
 {
 "kind": "youtube#playlistItem",
-"etag": "XZaQpLfwAzT8d0423EUKvZlJUOA",
-"id": "UExvcWlnUDZmSmk3T0xac3pDbk9TbjRQV2Q1Yzd3VXQ2RC5CNTZFOTNGQzZEODg1RUQx",
-"snippet": {
-"publishedAt": "2020-03-18T04:00:07Z",
-"channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
-"title": "BAaZaaR Best Bollywood Movie By Saif Ali Khan",
-"description": "",
-"thumbnails": {
-"default": {
-"url": "https://i.ytimg.com/vi/JvHFegn1acs/default.jpg",
-"width": 120,
-"height": 90
-},
-"medium": {
-"url": "https://i.ytimg.com/vi/JvHFegn1acs/mqdefault.jpg",
-"width": 320,
-"height": 180
-},
-"high": {
-"url": "https://i.ytimg.com/vi/JvHFegn1acs/hqdefault.jpg",
-"width": 480,
-"height": 360
-}
-},
-"channelTitle": "look jonson",
-"playlistId": "PLoqigP6fJi7OLZszCnOSn4PWd5c7wUt6D",
-"position": 29,
-"resourceId": {
-"kind": "youtube#video",
-"videoId": "JvHFegn1acs"
-},
-"videoOwnerChannelTitle": "CR7 JASSI",
-"videoOwnerChannelId": "UCKTdWCJfc0Kk0GzgU1gTdig"
-},
-"contentDetails": {
-"videoId": "JvHFegn1acs",
-"videoPublishedAt": "2019-08-11T10:01:38Z"
-}
-},
-{
-"kind": "youtube#playlistItem",
-"etag": "bMxnr-uutkk353aYL1cD4q8C7Tg",
+"etag": "pTldAeBJ1I9AL47mMONOQMQEisw",
 "id": "UExvcWlnUDZmSmk3T0xac3pDbk9TbjRQV2Q1Yzd3VXQ2RC4zMUEyMkQwOTk0NTg4MDgw",
 "snippet": {
 "publishedAt": "2019-12-15T15:45:08Z",
@@ -1511,7 +1428,7 @@
 },
 "channelTitle": "look jonson",
 "playlistId": "PLoqigP6fJi7OLZszCnOSn4PWd5c7wUt6D",
-"position": 30,
+"position": 28,
 "resourceId": {
 "kind": "youtube#video",
 "videoId": "a-zYHaCLTY0"
@@ -1526,7 +1443,7 @@
 },
 {
 "kind": "youtube#playlistItem",
-"etag": "A2jS1Tjy2ZRyNUpfl5UlQmxFQIE",
+"etag": "ugA8R09PhdMEOPSwpw15RYrzGFQ",
 "id": "UExvcWlnUDZmSmk3T0xac3pDbk9TbjRQV2Q1Yzd3VXQ2RC4wMTYxQzVBRDI1NEVDQUZE",
 "snippet": {
 "publishedAt": "2019-12-15T15:44:50Z",
@@ -1562,7 +1479,7 @@
 },
 "channelTitle": "look jonson",
 "playlistId": "PLoqigP6fJi7OLZszCnOSn4PWd5c7wUt6D",
-"position": 31,
+"position": 29,
 "resourceId": {
 "kind": "youtube#video",
 "videoId": "zAVmwt_U4c0"
@@ -1577,7 +1494,7 @@
 },
 {
 "kind": "youtube#playlistItem",
-"etag": "mTyyd8-jKSIYBlsSVB5anRtT9TI",
+"etag": "nIyg5ynyKoPhMwv11TRchkSKdI0",
 "id": "UExvcWlnUDZmSmk3T0xac3pDbk9TbjRQV2Q1Yzd3VXQ2RC5GNjAwN0Y0QTFGOTVDMEMy",
 "snippet": {
 "publishedAt": "2019-12-12T04:08:53Z",
@@ -1608,7 +1525,7 @@
 },
 "channelTitle": "look jonson",
 "playlistId": "PLoqigP6fJi7OLZszCnOSn4PWd5c7wUt6D",
-"position": 32,
+"position": 30,
 "resourceId": {
 "kind": "youtube#video",
 "videoId": "XHszn4OSfAg"
@@ -1623,7 +1540,7 @@
 },
 {
 "kind": "youtube#playlistItem",
-"etag": "VEZ07OVpTCQ64780Ra3ACRrkmLs",
+"etag": "W-NXuWIcYrXIbrCQnfoftK0gMMM",
 "id": "UExvcWlnUDZmSmk3T0xac3pDbk9TbjRQV2Q1Yzd3VXQ2RC42Qzk5MkEzQjVFQjYwRDA4",
 "snippet": {
 "publishedAt": "2019-12-12T04:06:21Z",
@@ -1654,7 +1571,7 @@
 },
 "channelTitle": "look jonson",
 "playlistId": "PLoqigP6fJi7OLZszCnOSn4PWd5c7wUt6D",
-"position": 33,
+"position": 31,
 "resourceId": {
 "kind": "youtube#video",
 "videoId": "J04wXxSvpNU"
@@ -1669,7 +1586,7 @@
 },
 {
 "kind": "youtube#playlistItem",
-"etag": "nHG5l5FYxZAvSOmYgrDDSREh1B0",
+"etag": "fdvnGxpE1aQwY-qPSDB5rdGqjjY",
 "id": "UExvcWlnUDZmSmk3T0xac3pDbk9TbjRQV2Q1Yzd3VXQ2RC4zMEQ1MEIyRTFGNzhDQzFB",
 "snippet": {
 "publishedAt": "2019-12-12T04:06:06Z",
@@ -1705,7 +1622,7 @@
 },
 "channelTitle": "look jonson",
 "playlistId": "PLoqigP6fJi7OLZszCnOSn4PWd5c7wUt6D",
-"position": 34,
+"position": 32,
 "resourceId": {
 "kind": "youtube#video",
 "videoId": "gxBERAhEU7w"
@@ -1720,104 +1637,7 @@
 },
 {
 "kind": "youtube#playlistItem",
-"etag": "OoenecUQBDI3pIlgwj-av3CemVk",
-"id": "UExvcWlnUDZmSmk3T0xac3pDbk9TbjRQV2Q1Yzd3VXQ2RC4xMzgwMzBERjQ4NjEzNUE5",
-"snippet": {
-"publishedAt": "2019-12-12T04:05:41Z",
-"channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
-"title": "hey baby-ba chang vu em full HD",
-"description": "",
-"thumbnails": {
-"default": {
-"url": "https://i.ytimg.com/vi/pjdF_fk096M/default.jpg",
-"width": 120,
-"height": 90
-},
-"medium": {
-"url": "https://i.ytimg.com/vi/pjdF_fk096M/mqdefault.jpg",
-"width": 320,
-"height": 180
-},
-"high": {
-"url": "https://i.ytimg.com/vi/pjdF_fk096M/hqdefault.jpg",
-"width": 480,
-"height": 360
-},
-"standard": {
-"url": "https://i.ytimg.com/vi/pjdF_fk096M/sddefault.jpg",
-"width": 640,
-"height": 480
-},
-"maxres": {
-"url": "https://i.ytimg.com/vi/pjdF_fk096M/maxresdefault.jpg",
-"width": 1280,
-"height": 720
-}
-},
-"channelTitle": "look jonson",
-"playlistId": "PLoqigP6fJi7OLZszCnOSn4PWd5c7wUt6D",
-"position": 35,
-"resourceId": {
-"kind": "youtube#video",
-"videoId": "pjdF_fk096M"
-},
-"videoOwnerChannelTitle": "duc tran",
-"videoOwnerChannelId": "UCHh5_Yht6Pzw89idZS48aPw"
-},
-"contentDetails": {
-"videoId": "pjdF_fk096M",
-"videoPublishedAt": "2016-10-30T12:49:32Z"
-}
-},
-{
-"kind": "youtube#playlistItem",
-"etag": "2-7XTpuWdl-Nj29CBim1flOIYUk",
-"id": "UExvcWlnUDZmSmk3T0xac3pDbk9TbjRQV2Q1Yzd3VXQ2RC44QzVGQUU2QjE2NDgxM0M4",
-"snippet": {
-"publishedAt": "2019-12-12T04:04:51Z",
-"channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
-"title": "Jolly llb 2 full movie HD | Jolly llb 2 full hindi movie | Akshay kumar | Hindi movies",
-"description": "Hamari adhuri kahani -  https://www.youtube.com/watch?v=G0ntEJXen3w\n\n\nAe dil hai mushkil -  https://www.youtube.com/watch?v=dWDcYl1HfHk\n\n\nKhairiyat Pucho❤❤-  https://www.youtube.com/watch?v=1MtEpb79gf4\n\n\nTujhe kitna chahe aur hum-  https://www.youtube.com/watch?v=BMWtYijediY\n\n\nKalank Title Song-  https://www.youtube.com/watch?v=f4mwZLhv32E\n\n\nहम कथा सुनाते राम सकल गुण धाम की-  https://www.youtube.com/watch?v=U1afj_CS0_g\n\n\nमहाभारत - Mahabharat-  https://www.youtube.com/watch?v=uyj8XRyNqG4\n\n\nAe Mere Vatan Ke Logon full Song-  https://www.youtube.com/watch?v=fTMXu3W7U2I\n\n\n\nTeri mitti short cover- https://www.youtube.com/watch?v=JYDcIWdc-c4\n\n\nAankh hai bhari bhari aur tum - https://www.youtube.com/watch?v=pKvUkNH8oJA&t=30s\n\n\nTu pyaar hai kisi aur ka - https://www.youtube.com/watch?v=p65bGFQwQu8\n\n\nMile ho tumko ❤❤-  https://www.youtube.com/watch?v=UTusO-98tP0\n\n\nMain phir bhi tumko chahunga-  https://www.youtube.com/watch?v=v1FLqdEVdIw\n\n\n\nJo tu mera hamdard hai- https://www.youtube.com/watch?v=-kji05KFyzc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n#sushantsinghrajput\n#tseries\n#bycott\n#bollywood\n#sonunigam\n\n\n\n\n\n#jollyllb2movie\n#jollyllb2fullmovie\n#jollyllb2fullhindimovie\n#akshaykumar\n#hindimovies\n#akshaykumarmovies",
-"thumbnails": {
-"default": {
-"url": "https://i.ytimg.com/vi/wLEsrC5VCNc/default.jpg",
-"width": 120,
-"height": 90
-},
-"medium": {
-"url": "https://i.ytimg.com/vi/wLEsrC5VCNc/mqdefault.jpg",
-"width": 320,
-"height": 180
-},
-"high": {
-"url": "https://i.ytimg.com/vi/wLEsrC5VCNc/hqdefault.jpg",
-"width": 480,
-"height": 360
-},
-"standard": {
-"url": "https://i.ytimg.com/vi/wLEsrC5VCNc/sddefault.jpg",
-"width": 640,
-"height": 480
-}
-},
-"channelTitle": "look jonson",
-"playlistId": "PLoqigP6fJi7OLZszCnOSn4PWd5c7wUt6D",
-"position": 36,
-"resourceId": {
-"kind": "youtube#video",
-"videoId": "wLEsrC5VCNc"
-},
-"videoOwnerChannelTitle": "Shivanshu Acharya",
-"videoOwnerChannelId": "UCBHe4K6f89k1_nrcHOhaBQA"
-},
-"contentDetails": {
-"videoId": "wLEsrC5VCNc",
-"videoPublishedAt": "2019-02-20T16:28:18Z"
-}
-},
-{
-"kind": "youtube#playlistItem",
-"etag": "H6qq_kVEtnO6y78xwK_YhzT2pOw",
+"etag": "BXn8MzH2bpV3LbeRQXKMbXFO3ss",
 "id": "UExvcWlnUDZmSmk3T0xac3pDbk9TbjRQV2Q1Yzd3VXQ2RC5ENjI1QUI0MDI5NEQzODFE",
 "snippet": {
 "publishedAt": "2019-12-12T04:04:32Z",
@@ -1848,7 +1668,7 @@
 },
 "channelTitle": "look jonson",
 "playlistId": "PLoqigP6fJi7OLZszCnOSn4PWd5c7wUt6D",
-"position": 37,
+"position": 33,
 "resourceId": {
 "kind": "youtube#video",
 "videoId": "zNd_-_YrPX0"
@@ -1863,7 +1683,7 @@
 },
 {
 "kind": "youtube#playlistItem",
-"etag": "hlF8w8vHWueMnLRAye5vF1wSWAw",
+"etag": "zAl5vUXO8aqgaHjujriUw7pUg3E",
 "id": "UExvcWlnUDZmSmk3T0xac3pDbk9TbjRQV2Q1Yzd3VXQ2RC4yQUJFNUVCMzVDNjcxRTlF",
 "snippet": {
 "publishedAt": "2019-12-12T04:00:58Z",
@@ -1899,7 +1719,7 @@
 },
 "channelTitle": "look jonson",
 "playlistId": "PLoqigP6fJi7OLZszCnOSn4PWd5c7wUt6D",
-"position": 38,
+"position": 34,
 "resourceId": {
 "kind": "youtube#video",
 "videoId": "1Z0j74ohiZg"
@@ -1914,48 +1734,7 @@
 },
 {
 "kind": "youtube#playlistItem",
-"etag": "nQHx5E_NgRqgIH3OqkZPBNS-OSM",
-"id": "UExvcWlnUDZmSmk3T0xac3pDbk9TbjRQV2Q1Yzd3VXQ2RC41MzY4MzcwOUFFRUU3QzEx",
-"snippet": {
-"publishedAt": "2019-12-12T03:59:55Z",
-"channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
-"title": "Chori chori chupke chupke hindi full movie",
-"description": "",
-"thumbnails": {
-"default": {
-"url": "https://i.ytimg.com/vi/O7emrFCxK60/default.jpg",
-"width": 120,
-"height": 90
-},
-"medium": {
-"url": "https://i.ytimg.com/vi/O7emrFCxK60/mqdefault.jpg",
-"width": 320,
-"height": 180
-},
-"high": {
-"url": "https://i.ytimg.com/vi/O7emrFCxK60/hqdefault.jpg",
-"width": 480,
-"height": 360
-}
-},
-"channelTitle": "look jonson",
-"playlistId": "PLoqigP6fJi7OLZszCnOSn4PWd5c7wUt6D",
-"position": 39,
-"resourceId": {
-"kind": "youtube#video",
-"videoId": "O7emrFCxK60"
-},
-"videoOwnerChannelTitle": "Balindra Kumar",
-"videoOwnerChannelId": "UCkZMvY32i7pM32XYJvqvD9g"
-},
-"contentDetails": {
-"videoId": "O7emrFCxK60",
-"videoPublishedAt": "2019-02-27T07:40:52Z"
-}
-},
-{
-"kind": "youtube#playlistItem",
-"etag": "oejC3uJ2VL1XKNJyXIwvfFstjiU",
+"etag": "TLHzn5PU8TN5UrA2CvUBanw4xx4",
 "id": "UExvcWlnUDZmSmk3T0xac3pDbk9TbjRQV2Q1Yzd3VXQ2RC4zRDBDOEZDOUM0MDY5NEEz",
 "snippet": {
 "publishedAt": "2019-12-09T05:18:49Z",
@@ -1991,7 +1770,7 @@
 },
 "channelTitle": "look jonson",
 "playlistId": "PLoqigP6fJi7OLZszCnOSn4PWd5c7wUt6D",
-"position": 40,
+"position": 35,
 "resourceId": {
 "kind": "youtube#video",
 "videoId": "CUrZdD-Sdsw"
@@ -2006,53 +1785,7 @@
 },
 {
 "kind": "youtube#playlistItem",
-"etag": "X5j_sL2vwyJwzrsgYA-1L6rjKFs",
-"id": "UExvcWlnUDZmSmk3T0xac3pDbk9TbjRQV2Q1Yzd3VXQ2RC41QUZGQTY5OTE4QTREQUU4",
-"snippet": {
-"publishedAt": "2019-12-09T05:18:21Z",
-"channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
-"title": "Jigar Full Movie Hindi HD 1992 Ajay Devgan",
-"description": "Jigar Full Movie Hindi In HD",
-"thumbnails": {
-"default": {
-"url": "https://i.ytimg.com/vi/HOwOKlSaaUw/default.jpg",
-"width": 120,
-"height": 90
-},
-"medium": {
-"url": "https://i.ytimg.com/vi/HOwOKlSaaUw/mqdefault.jpg",
-"width": 320,
-"height": 180
-},
-"high": {
-"url": "https://i.ytimg.com/vi/HOwOKlSaaUw/hqdefault.jpg",
-"width": 480,
-"height": 360
-},
-"standard": {
-"url": "https://i.ytimg.com/vi/HOwOKlSaaUw/sddefault.jpg",
-"width": 640,
-"height": 480
-}
-},
-"channelTitle": "look jonson",
-"playlistId": "PLoqigP6fJi7OLZszCnOSn4PWd5c7wUt6D",
-"position": 41,
-"resourceId": {
-"kind": "youtube#video",
-"videoId": "HOwOKlSaaUw"
-},
-"videoOwnerChannelTitle": "Funny Bollywood Masti",
-"videoOwnerChannelId": "UCipbs-98170VcFIAZbBHXBA"
-},
-"contentDetails": {
-"videoId": "HOwOKlSaaUw",
-"videoPublishedAt": "2019-07-27T15:08:08Z"
-}
-},
-{
-"kind": "youtube#playlistItem",
-"etag": "g77Rq6b5dC5jN15mKA6HmXPaUvw",
+"etag": "JeGtY6hVT5bM9J4D-aQSaBfZn68",
 "id": "UExvcWlnUDZmSmk3T0xac3pDbk9TbjRQV2Q1Yzd3VXQ2RC5DMkU4NTY1QUFGQTYwMDE3",
 "snippet": {
 "publishedAt": "2019-12-09T03:30:30Z",
@@ -2088,7 +1821,7 @@
 },
 "channelTitle": "look jonson",
 "playlistId": "PLoqigP6fJi7OLZszCnOSn4PWd5c7wUt6D",
-"position": 42,
+"position": 36,
 "resourceId": {
 "kind": "youtube#video",
 "videoId": "U44HKiKsB78"
@@ -2103,7 +1836,7 @@
 },
 {
 "kind": "youtube#playlistItem",
-"etag": "1j01T1R8_qRZ736xz20aqS6m45Y",
+"etag": "LlXw401TK1lDiN4jlDU4r4jKzPM",
 "id": "UExvcWlnUDZmSmk3T0xac3pDbk9TbjRQV2Q1Yzd3VXQ2RC5DQ0MyQ0Y4Mzg0M0VGOEYw",
 "snippet": {
 "publishedAt": "2019-12-09T03:30:13Z",
@@ -2139,7 +1872,7 @@
 },
 "channelTitle": "look jonson",
 "playlistId": "PLoqigP6fJi7OLZszCnOSn4PWd5c7wUt6D",
-"position": 43,
+"position": 37,
 "resourceId": {
 "kind": "youtube#video",
 "videoId": "ymN0SfrB_mo"
@@ -2154,7 +1887,7 @@
 },
 {
 "kind": "youtube#playlistItem",
-"etag": "-yBsaTAxv_SL0JNrDLiz53Ym_nA",
+"etag": "5mNmab5ML5T8s-5KwU71h_p-WKY",
 "id": "UExvcWlnUDZmSmk3T0xac3pDbk9TbjRQV2Q1Yzd3VXQ2RC4zRjM0MkVCRTg0MkYyQTM0",
 "snippet": {
 "publishedAt": "2019-12-09T03:29:39Z",
@@ -2185,7 +1918,7 @@
 },
 "channelTitle": "look jonson",
 "playlistId": "PLoqigP6fJi7OLZszCnOSn4PWd5c7wUt6D",
-"position": 44,
+"position": 38,
 "resourceId": {
 "kind": "youtube#video",
 "videoId": "hNV8dcHYXNQ"
@@ -2200,7 +1933,7 @@
 },
 {
 "kind": "youtube#playlistItem",
-"etag": "f-IkphZga_tW2u0Uel1v8v29n84",
+"etag": "ytr1GsFSWavke1h-QsMhZl85-ps",
 "id": "UExvcWlnUDZmSmk3T0xac3pDbk9TbjRQV2Q1Yzd3VXQ2RC5GM0Q3M0MzMzY5NTJFNTdE",
 "snippet": {
 "publishedAt": "2019-12-09T03:29:32Z",
@@ -2236,7 +1969,7 @@
 },
 "channelTitle": "look jonson",
 "playlistId": "PLoqigP6fJi7OLZszCnOSn4PWd5c7wUt6D",
-"position": 45,
+"position": 39,
 "resourceId": {
 "kind": "youtube#video",
 "videoId": "Egk6LejAkVA"
@@ -2251,7 +1984,7 @@
 },
 {
 "kind": "youtube#playlistItem",
-"etag": "fmYQRO0kgiAk_9DC-EUoiWFKE58",
+"etag": "5yOL11vdc5FwZ9bse8fJXieg6vE",
 "id": "UExvcWlnUDZmSmk3T0xac3pDbk9TbjRQV2Q1Yzd3VXQ2RC4yMDhBMkNBNjRDMjQxQTg1",
 "snippet": {
 "publishedAt": "2019-12-08T18:13:03Z",
@@ -2287,7 +2020,7 @@
 },
 "channelTitle": "look jonson",
 "playlistId": "PLoqigP6fJi7OLZszCnOSn4PWd5c7wUt6D",
-"position": 46,
+"position": 40,
 "resourceId": {
 "kind": "youtube#video",
 "videoId": "XHzXhn7HWMM"
@@ -2302,109 +2035,7 @@
 },
 {
 "kind": "youtube#playlistItem",
-"etag": "Tt9s2l5nGGX59fRCmHpMApgUp5E",
-"id": "UExvcWlnUDZmSmk3T0xac3pDbk9TbjRQV2Q1Yzd3VXQ2RC5ENDU4Q0M4RDExNzM1Mjcy",
-"snippet": {
-"publishedAt": "2019-12-08T18:12:49Z",
-"channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
-"title": "1921 2018 Hindi Full Movie 720p HD",
-"description": "1921 is a 2018 Indian horror film, produced and directed by Vikram Bhatt, under his banner of LoneRanger Productions. It is the fourth film in the 1920 franchise.\n\nNEW MOVIES LINK- http://za.gl/RWZ8W\n\nBEST DOWNLOAD LINK - https://q.gs/EHCUP\n\nDisclaimer : No Copyright Infringement Intended For Music Video. All Rights Reserved To The Respective Owners. I Am Used Only For Promotional/Entertainment Purposes Only. If You Wish To Remove This, So Please Contact Us.",
-"thumbnails": {
-"default": {
-"url": "https://i.ytimg.com/vi/_KRICDdaO70/default.jpg",
-"width": 120,
-"height": 90
-},
-"medium": {
-"url": "https://i.ytimg.com/vi/_KRICDdaO70/mqdefault.jpg",
-"width": 320,
-"height": 180
-},
-"high": {
-"url": "https://i.ytimg.com/vi/_KRICDdaO70/hqdefault.jpg",
-"width": 480,
-"height": 360
-},
-"standard": {
-"url": "https://i.ytimg.com/vi/_KRICDdaO70/sddefault.jpg",
-"width": 640,
-"height": 480
-},
-"maxres": {
-"url": "https://i.ytimg.com/vi/_KRICDdaO70/maxresdefault.jpg",
-"width": 1280,
-"height": 720
-}
-},
-"channelTitle": "look jonson",
-"playlistId": "PLoqigP6fJi7OLZszCnOSn4PWd5c7wUt6D",
-"position": 47,
-"resourceId": {
-"kind": "youtube#video",
-"videoId": "_KRICDdaO70"
-},
-"videoOwnerChannelTitle": "AK GLoCk",
-"videoOwnerChannelId": "UCCjEpttEcg3tGFMqOapoOXA"
-},
-"contentDetails": {
-"videoId": "_KRICDdaO70",
-"videoPublishedAt": "2018-03-11T15:31:43Z"
-}
-},
-{
-"kind": "youtube#playlistItem",
-"etag": "127gG15TrM92QC1S_ib8qVua3zA",
-"id": "UExvcWlnUDZmSmk3T0xac3pDbk9TbjRQV2Q1Yzd3VXQ2RC5EQUE1NTFDRjcwMDg0NEMz",
-"snippet": {
-"publishedAt": "2019-12-08T18:11:28Z",
-"channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
-"title": "Dayaalu (HD) New Hindi Dubbed Movie | Nagarjuna Akkineni, Naga Chaitanya, Samantha Akkineni",
-"description": "Dayaalu (HD) New Hindi Dubbed Movie | Nagarjuna Akkineni, Naga Chaitanya, Samantha Akkineni\n\nSynopsis: Radha (Naga Chaitanya) and Krishna (Samantha) are a married couple with a kid Bittu in early 1980's. They die in an accident. Bittu (Nagarjuna) grows up and happens to see reincarnation of his father and his mother as youngsters. The rest of the story is all about how Bittu tries to unite these two youngsters. And there is another twist in the tale for which you must watch the movie on the big screen!\n\nDirector:  VIKRAM KUMAR\nProducer:  AKKINENI FAMILY\nStar Cast: Akkineni Nageswara Rao, Akkineni Nagarjuna, Akkineni Naga Chaitanya, Shriya Saran, Samantha Akkineni, Akhil Akkineni\nWritten By:  VIKRAM KUMAR\nFilm Title: MANAM\nMusic By: Anup Rubens\nCinematography: P. S. Vinod\nEdited By: Prawin Pudi\nProduction Company: Annapurna Studios\nDistributed By: Reliance Entertainment\n\n#Dayaalu #Manam #NagarjunaAkkineni #NagaChaitanya #SamanthaAkkineni\n\nEnjoy Super Hit Movies Collection :- \nJaya Jaanki Nayaka Khoonkhar - https://youtu.be/1lFk1LSsI_c \nPhir Hera Pheri  - https://youtu.be/1FT6VOrFMLo \nSHER KA SHIKAAR - https://youtu.be/FE435iFT6jw \nHaseena Parkar - https://youtu.be/tKqo-4qAeJA \n\nFor your favorite Bollywood Movies, Subscribe now: \nhttp://bit.ly/2VXistY\n\nSUBSCRIBE for the best Bollywood clips, movies and scenes all in your PEN Multiplex channel \nhttp://bit.ly/2QxELp3\n\nFor your favorite Gujarati Movies, Subscribe now: http://bit.ly/2VZm9Q6\n\nFor Action-Packed Movies, Click on the below link now...\nPen Action: http://bit.ly/2XaSS6t\n\n\nDownload our App for latest news & gossips: http://bit.ly/2HHJstA\n\nLog On To Our Official Website: http://penindia.in/\n\nEnjoy & stay connected with us! \nLike us on Facebook: https://www.facebook.com/PenMovies\nFollow us on Twitter: https://twitter.com/penmovies\nFollow us on Instagram: https://www.instagram.com/penmovies\n\n\nMissing Your Favourite Love Songs? \n\nJust Call your DTM/Cable Operator to activate \"iLove\" Music TV Channel.\n\nDEN - 462 | SITI CABLE - 138/157 | HATHWAY - 302 | GTPL - 416 | INCABLE - 412 | FASTWAY - 327 | AIRTEL - 502 | TATASKY - 834",
-"thumbnails": {
-"default": {
-"url": "https://i.ytimg.com/vi/xlaStrxzW_U/default.jpg",
-"width": 120,
-"height": 90
-},
-"medium": {
-"url": "https://i.ytimg.com/vi/xlaStrxzW_U/mqdefault.jpg",
-"width": 320,
-"height": 180
-},
-"high": {
-"url": "https://i.ytimg.com/vi/xlaStrxzW_U/hqdefault.jpg",
-"width": 480,
-"height": 360
-},
-"standard": {
-"url": "https://i.ytimg.com/vi/xlaStrxzW_U/sddefault.jpg",
-"width": 640,
-"height": 480
-},
-"maxres": {
-"url": "https://i.ytimg.com/vi/xlaStrxzW_U/maxresdefault.jpg",
-"width": 1280,
-"height": 720
-}
-},
-"channelTitle": "look jonson",
-"playlistId": "PLoqigP6fJi7OLZszCnOSn4PWd5c7wUt6D",
-"position": 48,
-"resourceId": {
-"kind": "youtube#video",
-"videoId": "xlaStrxzW_U"
-},
-"videoOwnerChannelTitle": "Pen Movies",
-"videoOwnerChannelId": "UC3ar28GS6o1p0m_wabfk2zw"
-},
-"contentDetails": {
-"videoId": "xlaStrxzW_U",
-"videoPublishedAt": "2019-07-07T06:33:15Z"
-}
-},
-{
-"kind": "youtube#playlistItem",
-"etag": "bM6tJUXEZdTKA7oDwcMwaeFJGPA",
+"etag": "G9eXCLCh2UAxSeg1SjxJbw0U7qE",
 "id": "UExvcWlnUDZmSmk3T0xac3pDbk9TbjRQV2Q1Yzd3VXQ2RC41Mzk2QTAxMTkzNDk4MDhF",
 "snippet": {
 "publishedAt": "2019-12-08T18:10:34Z",
@@ -2430,7 +2061,7 @@
 },
 "channelTitle": "look jonson",
 "playlistId": "PLoqigP6fJi7OLZszCnOSn4PWd5c7wUt6D",
-"position": 49,
+"position": 41,
 "resourceId": {
 "kind": "youtube#video",
 "videoId": "NYeS7Wg9qmY"
@@ -2443,9 +2074,9 @@
 "videoPublishedAt": "2018-03-23T17:49:25Z"
 }
 },
-  {
+{
 "kind": "youtube#playlistItem",
-"etag": "1cqOankK4q9auPvF3GSnx_-UhsA",
+"etag": "Ix1ywWZ1kREJ48KfuHBTK92f-dw",
 "id": "UExvcWlnUDZmSmk3T0xac3pDbk9TbjRQV2Q1Yzd3VXQ2RC4zMDg5MkQ5MEVDMEM1NTg2",
 "snippet": {
 "publishedAt": "2019-12-08T18:10:27Z",
@@ -2476,7 +2107,7 @@
 },
 "channelTitle": "look jonson",
 "playlistId": "PLoqigP6fJi7OLZszCnOSn4PWd5c7wUt6D",
-"position": 50,
+"position": 42,
 "resourceId": {
 "kind": "youtube#video",
 "videoId": "sSb-OtEtlVo"
@@ -2491,99 +2122,7 @@
 },
 {
 "kind": "youtube#playlistItem",
-"etag": "B6cd1syIZj1yULWY3Dy4R_7bTeM",
-"id": "UExvcWlnUDZmSmk3T0xac3pDbk9TbjRQV2Q1Yzd3VXQ2RC45ODRDNTg0QjA4NkFBNkQy",
-"snippet": {
-"publishedAt": "2019-12-08T18:10:09Z",
-"channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
-"title": "3 Idiots full movie HD",
-"description": "",
-"thumbnails": {
-"default": {
-"url": "https://i.ytimg.com/vi/np7P4GsKQfI/default.jpg",
-"width": 120,
-"height": 90
-},
-"medium": {
-"url": "https://i.ytimg.com/vi/np7P4GsKQfI/mqdefault.jpg",
-"width": 320,
-"height": 180
-},
-"high": {
-"url": "https://i.ytimg.com/vi/np7P4GsKQfI/hqdefault.jpg",
-"width": 480,
-"height": 360
-}
-},
-"channelTitle": "look jonson",
-"playlistId": "PLoqigP6fJi7OLZszCnOSn4PWd5c7wUt6D",
-"position": 51,
-"resourceId": {
-"kind": "youtube#video",
-"videoId": "np7P4GsKQfI"
-},
-"videoOwnerChannelTitle": "bolywood movies",
-"videoOwnerChannelId": "UCoXoovkGMNfqIx4O4NFziHQ"
-},
-"contentDetails": {
-"videoId": "np7P4GsKQfI",
-"videoPublishedAt": "2018-10-29T19:54:24Z"
-}
-},
-{
-"kind": "youtube#playlistItem",
-"etag": "jRIbfabkaUXofb-8wMw1nBPN8kQ",
-"id": "UExvcWlnUDZmSmk3T0xac3pDbk9TbjRQV2Q1Yzd3VXQ2RC5DQUNERDQ2NkIzRUQxNTY1",
-"snippet": {
-"publishedAt": "2019-12-08T04:55:03Z",
-"channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
-"title": "Hera Pheri (2000) Full Hindi Comedy Movie | Akshay Kumar, Sunil Shetty, Paresh Rawal, Tabu",
-"description": "The movie story deals with Raju a tenant of Baburao Ganpatrao Apte aka Babu Bhaiyya and has not paid his rent for a long time. Raju does not believe in hard work and wants to earn easy money. He cons everybody, even his mother, who thinks that her son works in Calcutta. Baburao, a bespectacled long-sighted man, runs the \"Star Garage\". He has a familial debt with many money-lenders and has hard time with them. Shyam aka Ghanshyam has come to Mumbai from Gurgaon seeking a job in his late father's bank. Apparently his father died in a fire that broke out in the bank and he claims that the bank owes him the job. He badly needs the money for his friend Khadak Singh's sister's marriage. A young woman, Anuradha Panniker , is also in the running for the job, her father having died two minutes before Shyam's. Shyam meets Raju and a misunderstanding causes Shyam to think that Raju is a pickpocket. A fight ensues between the two, and Raju escapes, leaving his wallet with Shyam. After Raju leaves, Shyam discovers that he had his own wallet on him all the time. Unfortunately, this realisation comes just as Raju returns with two policemen, insisting that Shyam has robbed him.\n\nMovie:- Hera Pheri (2000)\nStarcast:- Akshay Kumar, Sunil Shetty, Paresh Rawal, Tabu\nDirected by:- Priyadarshan\nMusic by:- Anu Malik\n\n---------------------------------------------------------------------\nEnjoy and stay connected with us!!\n\nSubscribe to Goldmines Hindi:- \nhttps://goo.gl/97SvE2\n\n---------------------------------------------------------------------",
-"thumbnails": {
-"default": {
-"url": "https://i.ytimg.com/vi/TIQ5hrfermg/default.jpg",
-"width": 120,
-"height": 90
-},
-"medium": {
-"url": "https://i.ytimg.com/vi/TIQ5hrfermg/mqdefault.jpg",
-"width": 320,
-"height": 180
-},
-"high": {
-"url": "https://i.ytimg.com/vi/TIQ5hrfermg/hqdefault.jpg",
-"width": 480,
-"height": 360
-},
-"standard": {
-"url": "https://i.ytimg.com/vi/TIQ5hrfermg/sddefault.jpg",
-"width": 640,
-"height": 480
-},
-"maxres": {
-"url": "https://i.ytimg.com/vi/TIQ5hrfermg/maxresdefault.jpg",
-"width": 1280,
-"height": 720
-}
-},
-"channelTitle": "look jonson",
-"playlistId": "PLoqigP6fJi7OLZszCnOSn4PWd5c7wUt6D",
-"position": 52,
-"resourceId": {
-"kind": "youtube#video",
-"videoId": "TIQ5hrfermg"
-},
-"videoOwnerChannelTitle": "Goldmines Hindi",
-"videoOwnerChannelId": "UCOF23vGxkbhN4wl7ROrgXsA"
-},
-"contentDetails": {
-"videoId": "TIQ5hrfermg",
-"videoPublishedAt": "2017-04-23T16:30:00Z"
-}
-},
-{
-"kind": "youtube#playlistItem",
-"etag": "8vvX3OoLJr99vXAN6mvQfPlF954",
+"etag": "5A_qpUmxrblwid3-lXbCyTkS6VM",
 "id": "UExvcWlnUDZmSmk3T0xac3pDbk9TbjRQV2Q1Yzd3VXQ2RC41MzJCQjBCNDIyRkJDN0VD",
 "snippet": {
 "publishedAt": "2019-12-08T04:54:48Z",
@@ -2619,7 +2158,7 @@
 },
 "channelTitle": "look jonson",
 "playlistId": "PLoqigP6fJi7OLZszCnOSn4PWd5c7wUt6D",
-"position": 53,
+"position": 43,
 "resourceId": {
 "kind": "youtube#video",
 "videoId": "vLLyn2xyjT8"
@@ -2634,58 +2173,7 @@
 },
 {
 "kind": "youtube#playlistItem",
-"etag": "r8e1RH5f29Q2mV8TYvNeak9gwvo",
-"id": "UExvcWlnUDZmSmk3T0xac3pDbk9TbjRQV2Q1Yzd3VXQ2RC4xMkVGQjNCMUM1N0RFNEUx",
-"snippet": {
-"publishedAt": "2019-12-08T04:54:32Z",
-"channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
-"title": "Souten Ki Beti {HD} - Jeetendra - Rekha - Jaya Prada - Hindi Full Movie - (With Eng Subtitles)",
-"description": "Shyam, a complete casanova, wolves a beautiful Air Hostess, Radha and gets intimate with her. When Radha realizes she is pregnant by that time Shyam was already married to Rimini. Years later Shyam and Radha meet again while Rukmini finds out about their strong affair. What happens next, is a mystery until you watch the movie.\n\nSUBSCRIBE for the best Bollywood videos, movies and scenes, all in ONE channel http://www.YouTube.com/ShemarooEnt. \n\nLike, Comment and Share with your friends and family. Watch more Bollywood videos and movies starring your favourite celebrities like Amitabh Bachchan, Raj Kapoor, Dharmendra, Zeenat Aman, Vidya Balan, Govinda, Salman Khan and many more, only on http://www.YouTube.com/ShemarooEnt \n\nFacebook - https://www.facebook.com/ShemarooEnt \nTwitter - https://twitter.com/ShemarooEnt \nGoogle+ -https://plus.google.com/+shemaroo \nPinterest - http://pinterest.com/shemaroo\n\nSign up for Free and get daily updates on New Videos, exclusive Web Shows, contests & much more\nhttp://youtube.shemaroo.com/default.aspx\n\nSend us your feedback and suggestions at : connect@shemaroo.com",
-"thumbnails": {
-"default": {
-"url": "https://i.ytimg.com/vi/hMNA7fXEcaU/default.jpg",
-"width": 120,
-"height": 90
-},
-"medium": {
-"url": "https://i.ytimg.com/vi/hMNA7fXEcaU/mqdefault.jpg",
-"width": 320,
-"height": 180
-},
-"high": {
-"url": "https://i.ytimg.com/vi/hMNA7fXEcaU/hqdefault.jpg",
-"width": 480,
-"height": 360
-},
-"standard": {
-"url": "https://i.ytimg.com/vi/hMNA7fXEcaU/sddefault.jpg",
-"width": 640,
-"height": 480
-},
-"maxres": {
-"url": "https://i.ytimg.com/vi/hMNA7fXEcaU/maxresdefault.jpg",
-"width": 1280,
-"height": 720
-}
-},
-"channelTitle": "look jonson",
-"playlistId": "PLoqigP6fJi7OLZszCnOSn4PWd5c7wUt6D",
-"position": 54,
-"resourceId": {
-"kind": "youtube#video",
-"videoId": "hMNA7fXEcaU"
-},
-"videoOwnerChannelTitle": "Shemaroo",
-"videoOwnerChannelId": "UCF1JIbMUs6uqoZEY1Haw0GQ"
-},
-"contentDetails": {
-"videoId": "hMNA7fXEcaU",
-"videoPublishedAt": "2015-10-26T09:43:19Z"
-}
-},
-{
-"kind": "youtube#playlistItem",
-"etag": "ndjK9TRRlE7GZ76CpjWnQHwCMSE",
+"etag": "DA9CQbEquSS-_xb1C2sFBnLjebg",
 "id": "UExvcWlnUDZmSmk3T0xac3pDbk9TbjRQV2Q1Yzd3VXQ2RC4wOTA3OTZBNzVEMTUzOTMy",
 "snippet": {
 "publishedAt": "2019-12-08T04:54:24Z",
@@ -2721,7 +2209,7 @@
 },
 "channelTitle": "look jonson",
 "playlistId": "PLoqigP6fJi7OLZszCnOSn4PWd5c7wUt6D",
-"position": 55,
+"position": 44,
 "resourceId": {
 "kind": "youtube#video",
 "videoId": "nAoypPe_NPI"
@@ -2736,7 +2224,7 @@
 },
 {
 "kind": "youtube#playlistItem",
-"etag": "PM3fWH_pGxxZdYBqQrHA9b4dxYI",
+"etag": "5oW6-k-KK8lodxCJbJHANBauBkA",
 "id": "UExvcWlnUDZmSmk3T0xac3pDbk9TbjRQV2Q1Yzd3VXQ2RC4yODlGNEE0NkRGMEEzMEQy",
 "snippet": {
 "publishedAt": "2019-12-08T04:53:05Z",
@@ -2772,7 +2260,7 @@
 },
 "channelTitle": "look jonson",
 "playlistId": "PLoqigP6fJi7OLZszCnOSn4PWd5c7wUt6D",
-"position": 56,
+"position": 45,
 "resourceId": {
 "kind": "youtube#video",
 "videoId": "LMVlVI4Jak8"
@@ -2787,7 +2275,7 @@
 },
 {
 "kind": "youtube#playlistItem",
-"etag": "UYcideUufyJX7sYQkIbPLra5VBo",
+"etag": "hymkoLvOiqiWyH2T7jePAPN8424",
 "id": "UExvcWlnUDZmSmk3T0xac3pDbk9TbjRQV2Q1Yzd3VXQ2RC41NkI0NEY2RDEwNTU3Q0M2",
 "snippet": {
 "publishedAt": "2019-12-08T04:52:57Z",
@@ -2813,7 +2301,7 @@
 },
 "channelTitle": "look jonson",
 "playlistId": "PLoqigP6fJi7OLZszCnOSn4PWd5c7wUt6D",
-"position": 57,
+"position": 46,
 "resourceId": {
 "kind": "youtube#video",
 "videoId": "MTVJk0Hsusk"
@@ -2828,7 +2316,7 @@
 }
 ],
 "pageInfo": {
-"totalResults": 58,
+"totalResults": 47,
 "resultsPerPage": 50
 }
 }
