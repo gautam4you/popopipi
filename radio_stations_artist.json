@@ -1,23 +1,5 @@
 [
 	{
-		"name": "Arjit Hits",
-		"name_h": "TWlyY2hpIFRvb3RhIERpbA==",
-		"url": "https://node-14.zeno.fm/rfpf8qec94zuv",
-		"samplerate": "",
-		"cat": "Hindi,Bollywood,Web",
-		"pub": "21-03-2021",
-		"image": "https://radiosindia.com/images/arijitsingh.jpg"
-	},
-	{
-		"name": "Bollywood Hindi",
-		"name_h": "TWlyY2hpIFRvb3RhIERpbA==",
-		"url": "https://node-27.zeno.fm/rqqps6cbe3quv",
-		"samplerate": "",
-		"cat": "Hindi,Bollywood,Web",
-		"pub": "21-03-2021",
-		"image": "https://radiosindia.com/images/hitsbollywood.jpg"
-	},
-	{
 		"name": "BIG FM Amritsar",
 		"name_h": "TWlyY2hpIFRvb3RhIERpbA==",
 		"url": "https://radioindia.net/radio/sc-bb/icecast.audio",
