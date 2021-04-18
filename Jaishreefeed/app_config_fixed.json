@@ -53,7 +53,7 @@
 			"videosListId": "sponcered.json",
 			"type": "SP",
 			"extraLink": "",
-                        "isLive": false,
+                        "isLive": true,
 			"title": "Ads. Suggested for you",
 			"moreButton": false
 		} ,
