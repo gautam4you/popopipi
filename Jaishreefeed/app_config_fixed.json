@@ -134,7 +134,7 @@
 			"videosListId": "jaishreekrishna-dailymotion02.json",
 			"type": "DM",
 			"extraLink": "",
-                        "isLive": true,
+                        "isLive": false,
 			"title": "Episode 51 to 100",
 			"moreButton": true
 		},
@@ -142,7 +142,7 @@
 			"videosListId": "sponcered.json",
 			"type": "SP",
 			"extraLink": "",
-                        "isLive": true,
+                        "isLive": false,
 			"title": "Ads. Suggested for you",
 			"moreButton": false
 		} ,
@@ -151,7 +151,7 @@
 			"imgUrl": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/notification_latest_radio.png",
 			"type": "APP-AD",
 			"extraLink": "https://play.google.com/store/apps/details?id=com.app.hindiradionews",
-                        "isLive": true,
+                        "isLive": false,
 			"title": "",
 			"moreButton": true
 		},
@@ -159,7 +159,7 @@
 			"videosListId": "jaishree_stage.json",
 			"type": "YP",
 			"extraLink": "",
-                        "isLive": true,
+                        "isLive": false,
 			"title": "Stage Videos",
 			"moreButton": true
 		} 
