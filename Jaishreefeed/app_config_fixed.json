@@ -21,7 +21,7 @@
 			"videosListId": "jaishree_interview.json",
 			"type": "YP",
 			"extraLink": "",
-                        "isLive": false,
+                        "isLive": true,
 			"title": "Interview Videos",
 			"moreButton": true
 		},
@@ -29,7 +29,7 @@
 			"videosListId": "jaishree_stage.json",
 			"type": "YP",
 			"extraLink": "",
-                        "isLive": false,
+                        "isLive": true,
 			"title": "Stage Videos",
 			"moreButton": true
 		},
@@ -37,7 +37,7 @@
 			"videosListId": "jaishreekrishna-dailymotion01.json",
 			"type": "DM",
 			"extraLink": "",
-                        "isLive": false,
+                        "isLive": true,
 			"title": "Episode 1 to 50",
 			"moreButton": true
 		},
@@ -45,7 +45,7 @@
 			"videosListId": "jaishreekrishna-dailymotion02.json",
 			"type": "DM",
 			"extraLink": "",
-                        "isLive": false,
+                        "isLive": true,
 			"title": "Episode 51 to 100",
 			"moreButton": true
 		},
@@ -61,7 +61,7 @@
 			"videosListId": "jaishreekrishna-dailymotion03.json",
 			"type": "DM",
 			"extraLink": "",
-                        "isLive": false,
+                        "isLive": true,
 			"title": "Episode 101 to 250",
 			"moreButton": true
 		},
@@ -69,7 +69,7 @@
 			"videosListId": "jaishreekrishna-dailymotion04.json",
 			"type": "DM",
 			"extraLink": "",
-                        "isLive": false,
+                        "isLive": true,
 			"title": "Episode 251 to 350",
 			"moreButton": true
 		},
@@ -78,7 +78,7 @@
 			"videosListId": "jaishreekrishna-dailymotion05.json",
 			"type": "DM",
 			"extraLink": "",
-                        "isLive": false,
+                        "isLive": true,
 			"title": "Episode 351 to 375",
 			"moreButton": true
 		},
@@ -86,7 +86,7 @@
 			"videosListId": "jaishreekrishna-dailymotion06.json",
 			"type": "DM",
 			"extraLink": "",
-                        "isLive": false,
+                        "isLive": true,
 			"title": "Episode 376 to 400",
 			"moreButton": true
 		},
@@ -94,28 +94,28 @@
 			"videosListId": "jaishreekrishna-dailymotion07.json",
 			"type": "DM",
 			"extraLink": "",
-                        "isLive": false,
+                        "isLive": true,
 			"title": "Episode 401 to 422",
 			"moreButton": true
 		},   {
 			"videosListId": "KRISHNA_BHAKTA_SUDAMA.json",
 			"type": "DM",
 			"extraLink": "",
-                        "isLive": false,
+                        "isLive": true,
 			"title": "Krishna Bhakt Sudama-Movie",
 			"moreButton": true
 		}, {
 			"videosListId": "Krishna_Krishna.json",
 			"type": "DM",
 			"extraLink": "",
-                        "isLive": false,
+                        "isLive": true,
 			"title": "Krishna Krishna-Movie",
 			"moreButton": true
 		},{
 			"videosListId": "Krishna _Tere _Desh_Mein.json",
 			"type": "DM",
 			"extraLink": "",
-                        "isLive": false,
+                        "isLive": true,
 			"title": "Krishna Tere Desh Mein-Movie",
 			"moreButton": true
 		},
@@ -125,7 +125,7 @@
 			"videosListId": "hindi_radio.json",
 			"type": "RD",
 			"extraLink": "",
-                        "isLive": false,
+                        "isLive": true,
 			"title": "Live Radio ",
 			"moreButton": true
 		}    
