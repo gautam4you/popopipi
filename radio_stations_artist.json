@@ -1,5 +1,14 @@
 [
 	{
+		"name": "Mirchi Mahfil",
+		"name_h": "TWlyY2hpIFRvb3RhIERpbA==",
+		"url": "https://mirchimahfil-lh.akamaihd.net/i/MirchiMehfl_1@120798/master.m3u8",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood,Web",
+		"pub": "22-06-2021",
+		"image": "https://media.radiomirchi.com/onlinestation/audioimages/1464260561MirchiMehfilGaanaWebBanner_w1400Xh684Pixel-01.jpg"
+	},
+	{
 		"name": "Meethi Mirchi",
 		"name_h": "TWlyY2hpIFRvb3RhIERpbA==",
 		"url": "https://meethimirchihdl-lh.akamaihd.net/i/MeethiMirchiHDLive_1_1@320572/master.m3u8",
@@ -15,6 +24,15 @@
 		"samplerate": "44100",
 		"pub": "11-07-2020",
 		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/vividh.png"
+
+	},
+		{
+		"name": "Radio Raibar",
+		"name_h": "4KSP4KSv4KSwIOCkteCkv+CktiDgpK3gpL7gpLDgpKTgpYA=",
+		"url": "http://13.126.224.162/radioraibar.mp3",
+		"samplerate": "44100",
+		"pub": "22-06-2021",
+		"image": "http://raibarcommunications.org/radio-raibar/logo2.png"
 
 	},
 	{
