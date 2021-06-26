@@ -1,0 +1,326 @@
+{
+"status": 1,
+"version": {
+"updateApplication": false,
+"forceUpdate": false,
+"contact_publisher": false,
+"version": "1.4",
+"package": "com.hindinews.hindinews",
+"stopAdForStartApp": false,
+"key": "AIzaSyAHH8SY1e0ah5C6jEWi-AsFO-4wB5OupSg"
+},
+"Livedetails": [
+{
+"img": "https://jeyarajkumar.s3.ap-south-1.amazonaws.com/localchannel/Hindi+images/abp.png",
+"live": "https://m-c02-j2apps.s.loris.llnwd.net/hls/7014.ABPNews.in_480p/index.m3u8",
+"name": "ABP NEWS",
+"video": "d_6wqFYUssc"
+},
+{
+"img": "https://jeyarajkumar.s3.ap-south-1.amazonaws.com/localchannel/Hindi+images/news18_hindi.png",
+"live": "https://www.googleapis.com/youtube/v3/search?key=AIzaSyA4PWkMvx61bFp3UFgcIK51xhARQkuW6vg7200&channelId=UCPP3etACgdUWvizcES1dJ8Q&part=snippet,id&eventType=live&type=video",
+"name": "News18 India",
+"video": "GCIUMx73QlQ"
+},
+{
+"img": "https://jeyarajkumar.s3.ap-south-1.amazonaws.com/localchannel/Hindi+images/tv9_bharathvash.jpg",
+"live": "https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live1/chunks.m3u8",
+"name": "TV9 Bharatvarsh",
+"video": "ZB_cxKau8iQ"
+},
+{
+"img": "https://jeyarajkumar.s3.ap-south-1.amazonaws.com/localchannel/Hindi+images/ndtv_hindi.png",
+"live": "https://www.googleapis.com/youtube/v3/search?key=AIzaSyA4PWkMvx61bFp3UFgcIK51xhARQkuW6vg7200&channelId=UCPP3etACgdUWvizcES1dJ8Q&part=snippet,id&eventType=live&type=video",
+"name": "NDTV India",
+"video": "MN8p-Vrn6G0"
+},
+{
+"img": "https://jeyarajkumar.s3.ap-south-1.amazonaws.com/localchannel/Hindi+images/cnbc_awaaz.png",
+"live": "https://www.googleapis.com/youtube/v3/search?key=AIzaSyDQ79DVldqxiVPgqvhYOBktxS-drFAX74U72&channelId=UCQIycDaLsBpMKjOCeaKUYVg&part=snippet,id&eventType=live&type=video",
+"name": "CNBC Awaaz",
+"video": "Kxwrqig5UV4"
+},
+{
+"img": "https://jeyarajkumar.s3.ap-south-1.amazonaws.com/localchannel/Hindi+images/news_nation.png",
+"live": "https://m-c02-j2apps.s.loris.llnwd.net/hls/1062.NewsNation.in_480p/index.m3u8",
+"name": "News Nation",
+"video": "MFaXo78mIJY"
+},
+{
+"img": "https://jeyarajkumar.s3.ap-south-1.amazonaws.com/localchannel/Hindi+images/aajtak.png",
+"live": "https://aajtaklive-amd.akamaized.net/hls/live/2014416-b/aajtak/aajtaklive/aajtak_5/chunklist.m3u8",
+"name": "Aaj Tak",
+"video": "vwj-BOATlKw"
+},
+{
+"img": "https://jeyarajkumar.s3.ap-south-1.amazonaws.com/localchannel/Hindi+images/rbharath.png",
+"live": "https://republic.pc.cdn.bitgravity.com/live/bharat_hls/masterlive_360p.m3u8",
+"name": "Republic World",
+"video": "vwj-BOATlKw"
+},
+{
+"img": "https://jeyarajkumar.s3.ap-south-1.amazonaws.com/localchannel/Hindi+images/news_two_four.png",
+"live": "https://m-c29-j2apps.s.llnwi.net/hls/0344.News24.in_480p/index.m3u8",
+"name": "News24",
+"video": "vwj-BOATlKw"
+},
+{
+"img": "https://jeyarajkumar.s3.ap-south-1.amazonaws.com/localchannel/Hindi+images/dd_hindi.png",
+"live": "https://m-c048-j2apps.s.llnwi.net/hls/0182.DDNews.in_480p/index.m3u8",
+"name": "DD News",
+"video": "nSR9APwJHKo"
+},
+{
+"img": "https://qqcdnpictest.mxplay.com/pic/0442.IndiaNews.in/en/1x1/312x312/test_pic1552315699798.jpg",
+"live": "https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in_480p/index.m3u8",
+"name": "India News",
+"video": "nSR9APwJHKo"
+},
+{
+"img": "https://qqcdnpictest.mxplay.com/pic/1693.IndiaNewsUP.in/en/1x1/312x312/test_pic1558073787702.jpg",
+"live": "https://itvorigin.multitvsolution.com/hls/inup_540p/index.m3u8",
+"name": "India News UP",
+"video": "nSR9APwJHKo"
+},
+{
+"img": "https://qqcdnpictest.mxplay.com/pic/1900.IndiaNewsMP.in/en/1x1/208x208/test_pic1552392572065.jpg",
+"live": "https://m-c18-j2apps.s.llnwi.net/hls/1900.IndiaNewsMP.in_480p/index.m3u8",
+"name": "India News MP",
+"video": "nSR9APwJHKo"
+},
+{
+"img": "https://qqcdnpictest.mxplay.com/pic/1692.IndiaNewsHaryana.in/en/1x1/208x208/test_pic1535463908195.jpg",
+"live": "https://m-c18-j2apps.s.llnwi.net/hls/1900.IndiaNewsMP.in_480p/index.m3u8",
+"name": "India News Haryana",
+"video": "nSR9APwJHKo"
+},
+{
+"img": "https://qqcdnpictest.mxplay.com/pic/1712.IndiaNewsRajasthan.in/en/1x1/208x208/test_pic1552384722318.jpg",
+"live": "https://m-c29-j2apps.s.llnwi.net/hls/1712.IndiaNewsRajasthan.in_480p/index.m3u8",
+"name": "India News Rajastan",
+"video": "nSR9APwJHKo"
+},
+{
+"img": "https://static.newsx.com/wp-content/uploads/2019/09/punjab-4-150855-NiGvvUpV.png",
+"live": "https://itvorigin.multitvsolution.com/hls/punjab_540p/index.m3u8",
+"name": "India Punjab",
+"video": "nSR9APwJHKo"
+},
+{
+"img": "https://static.newsx.com/wp-content/uploads/2019/09/gujarat-1-855016-Igz7HD7N.png",
+"live": "https://itvorigin.multitvsolution.com/hls/gujarat_720p/index.m3u8",
+"name": "India Gujarat",
+"video": "nSR9APwJHKo"
+},
+{
+"img": "https://jeyarajkumar.s3.ap-south-1.amazonaws.com/localchannel/Hindi+images/india_tv.png",
+"live": "https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/live4/chunks.m3u8",
+"name": "IndiaTV",
+"video": "vwj-BOATlKw"
+},
+{
+"img": "https://qqcdnpictest.mxplay.com/pic/7090.SamacharNews.in/en/1x1/208x208/test_pic1600172897585.webp",
+"live": "https://m-c010-j2apps.s.llnwi.net/hls/7090.SamacharNews.in_480p/index.m3u8",
+"name": "Samachar Today",
+"video": "C9itxS6FTDY"
+},
+{
+"img": "https://qqcdnpictest.mxplay.com/pic/8010.TNIAwaaz.in/en/1x1/208x208/test_pic1602937210473.webp",
+"live": "https://m-c050-j2apps.s.llnwi.net/hls/8010.TNIAwaaz.in_480p/index.m3u8",
+"name": "TNI Awaaz",
+"video": "C9itxS6FTDY"
+},
+{
+"img": "https://qqcdnpictest.mxplay.com/pic/7097.PrimeNews.in/en/1x1/208x208/test_pic1601186308774.webp",
+"live": "https://m-c010-j2apps.s.llnwi.net/hls/7097.PrimeNews.in_480p/index.m3u8",
+"name": "Prime News",
+"video": "C9itxS6FTDY"
+},
+{
+"img": "https://qqcdnpictest.mxplay.com/pic/8015.ABNews.in/en/1x1/208x208/test_pic1603097667243.webp",
+"live": "https://m-c06-j2apps.s.llnwi.net/hls/8015.ABNews.in_480p/index.m3u8",
+"name": "AB News",
+"video": "C9itxS6FTDY"
+},
+{
+"img": "https://qqcdnpictest.mxplay.com/pic/8009.Plus24News.in/en/1x1/208x208/test_pic1602937153083.webp",
+"live": "https://m-c050-j2apps.s.llnwi.net/hls/8009.Plus24News.in_480p/index.m3u8",
+"name": "Pluse 24 News",
+"video": "C9itxS6FTDY"
+},
+{
+"img": "https://qqcdnpictest.mxplay.com/pic/8022.VipNews.in/en/1x1/208x208/test_pic1603694574030.webp",
+"live": "https://m-c07-j2apps.s.llnwi.net/hls/8022.VipNews.in_480p/index.m3u8",
+"name": "VIP News",
+"video": "C9itxS6FTDY"
+},
+{
+"img": "https://jeyarajkumar.s3.ap-south-1.amazonaws.com/localchannel/Hindi+images/lok_sabha_tv.png",
+"live": "https://nicls1-lh.akamaihd.net/i/lst_1@26969/index_1_av-p.m3u8?sd=10&rebase=on",
+"name": "Lok Sabha TV",
+"video": "vwj-BOATlKw"
+},
+{
+"img": "https://jeyarajkumar.s3.ap-south-1.amazonaws.com/localchannel/Hindi+images/rajya_sabha_tv.png",
+"live": "https://nicls2-lh.akamaihd.net/i/rstv_1@26970/index_1_av-p.m3u8?sd=10&rebase=on",
+"name": "Rajya Sabha TV",
+"video": "vwj-BOATlKw"
+},
+{
+"img": "https://qqcdnpictest.mxplay.com/pic/0184.Samay.in/en/1x1/208x208/test_pic1556288457224.jpg",
+"live": "https://m-c03-j2apps.s.llnwi.net/hls/0184.Samay.in_480p/index.m3u8",
+"name": "Samay National",
+"video": "vwj-BOATlKw"
+},
+{
+"img": "https://qqcdnpictest.mxplay.com/pic/0185.SamayBiharJharkhand.in/en/1x1/208x208/test_pic1543407146767.jpg",
+"live": "https://m-c02-j2apps.s.loris.llnwd.net/hls/0185.SamayBiharJharkhand.in_480p/index.m3u8",
+"name": "Samay Bihar",
+"video": "vwj-BOATlKw"
+},
+{
+"img": "https://qqcdnpictest.mxplay.com/pic/0188.SamayUPUttrakhand.in/en/1x1/208x208/test_pic1543408239777.jpg",
+"live": "https://m-c02-j2apps.s.loris.llnwd.net/hls/0188.SamayUPUttrakhand.in_480p/index.m3u8",
+"name": "Samay UP",
+"video": "vwj-BOATlKw"
+},
+{
+"img": "https://qqcdnpictest.mxplay.com/pic/0186.SamayRajasthan.in/en/1x1/208x208/test_pic1552392926901.jpg",
+"live": "https://m-c02-j2apps.s.loris.llnwd.net/hls/0186.SamayRajasthan.in_480p/index.m3u8",
+"name": "Samay Rajastan",
+"video": "vwj-BOATlKw"
+},
+{
+"img": "https://qqcdnpictest.mxplay.com/pic/0187.SamayMPChhattisgarh.in/en/1x1/208x208/test_pic1552392916376.jpg",
+"live": "https://m-c02-j2apps.s.loris.llnwd.net/hls/0187.SamayMPChhattisgarh.in_480p/index.m3u8",
+"name": "Samay MP Chhattisgarh",
+"video": "vwj-BOATlKw"
+},
+{
+"img": "https://img.onesignal.com/t/e55da8ae-17c9-4ac2-ad56-269fa62a385a.png",
+"live": "https://m-c02-j2apps.s.loris.llnwd.net/hls/5208.HindiKhabar.in_480p/index.m3u8",
+"name": "Hindi Khabar",
+"video": "vwj-BOATlKw"
+},
+{
+"img": "https://qqcdnpictest.mxplay.com/pic/1606.KashishNews.in/en/1x1/208x208/test_pic1544684711658.jpg",
+"live": "https://m-c03-j2apps.s.llnwi.net/hls/1606.KashishNews.in_480p/index.m3u8",
+"name": "Kashish News",
+"video": "vwj-BOATlKw"
+},
+{
+"img": "https://qqcdnpictest.mxplay.com/pic/1872.FirstIndiaNewsRajasthan.in/en/1x1/208x208/test_pic1544081965308.jpg",
+"live": "https://m-c03-j2apps.s.llnwi.net/hls/1872.FirstIndiaNewsRajasthan.in_480p/index.m3u8",
+"name": "First India News",
+"video": "vwj-BOATlKw"
+},
+{
+"img": "https://www.knews.in/assets/front_panel/images/logo.png",
+"live": "https://knews.livebox.co.in/youtubehls/live.m3u8",
+"name": "K News",
+"video": "vwj-BOATlKw"
+},
+{
+"img": "https://qqcdnpictest.mxplay.com/pic/7043.News1India.in/en/1x1/208x208/test_pic1588701259991.webp",
+"live": "https://m-c18-j2apps.s.llnwi.net/hls/7043.News1India.in_480p/index.m3u8",
+"name": "News 1 India",
+"video": "vwj-BOATlKw"
+},
+{
+"img": "https://qqcdnpictest.mxplay.com/pic/7060.BharatSamachar.in/en/1x1/208x208/test_pic1591601853502.webp",
+"live": "https://m-c05-j2apps.s.llnwi.net/hls/7060.BharatSamachar.in_480p/index.m3u8",
+"name": "Bharath Samachar",
+"video": "vwj-BOATlKw"
+},
+{
+"img": "https://qqcdnpictest.mxplay.com/pic/8026.LokmanchNews.in/en/1x1/208x208/test_pic1604136709994.webp",
+"live": "https://m-c050-j2apps.s.llnwi.net/hls/8026.LokmanchNews.in_480p/index.m3u8",
+"name": "Lokmanch News",
+"video": "vwj-BOATlKw"
+},
+{
+"img": "http://taazatv.com/wp-content/uploads/2020/05/cropped-Taaza-TV-Site-Identity-1.jpg",
+"live": "http://202.142.127.197/0.m3u8",
+"name": "Taaza TV",
+"video": "vwj-BOATlKw"
+},
+{
+"img": "https://www.khabrainabhitak.org/wp-content/uploads/2018/04/logo-website.jpg",
+"live": "https://vidcdn.vidgyor.com/kat-origin/liveabr/kat-origin/live1/chunks.m3u8",
+"name": "Khabrain AbhiTak",
+"video": "vwj-BOATlKw"
+},
+{
+"img": "https://qqcdnpictest.mxplay.com/pic/3240.NewsIndia24X7.in/en/1x1/208x208/test_pic1552392712851.jpg",
+"live": "https://m-c16-j2apps.s.llnwi.net/hls/3240.NewsIndia24X7.in_480p/index.m3u8",
+"name": "News Indian 24X7",
+"video": "vwj-BOATlKw"
+},
+{
+"img": "https://qqcdnpictest.mxplay.com/pic/0519.IBC24.in/en/1x1/208x208/test_pic1544081572562.jpg",
+"live": "https://m-c18-j2apps.s.llnwi.net/hls/0519.IBC24.in_480p/index.m3u8",
+"name": "IBC24",
+"video": "vwj-BOATlKw"
+},
+{
+"img": "https://static.newsx.com/wp-content/uploads/2020/04/ne-logo-274029-GKqlaoHi.png",
+"live": "https://itvorigin.multitvsolution.com/hls/newsxkannada_480p/index.m3u8",
+"name": "NE News",
+"video": "vwj-BOATlKw"
+},
+{
+"img": "https://qqcdnpictest.mxplay.com/pic/2914.DDKisan.in/en/1x1/208x208/test_pic1535463411014.jpg",
+"live": "https://m-c048-j2apps.s.llnwi.net/hls/2914.DDKisan.in_480p/index.m3u8",
+"name": "DD Kisan",
+"video": "vwj-BOATlKw"
+},
+{
+"img": "https://jeyarajkumar.s3.ap-south-1.amazonaws.com/localchannel/Hindi+images/sudarsan_tv.png",
+"live": "https://m-c010-j2apps.s.llnwi.net/hls/7091.Sudarsahn.in_480p/index.m3u8",
+"name": "Sudarshan News",
+"video": "iiPfbsqgCi8"
+},
+{
+"img": "https://jeyarajkumar.s3.ap-south-1.amazonaws.com/localchannel/Hindi+images/tez.png",
+"live": "https://tezlive-amd.akamaized.net/hls/live/2016145/tez/tezlive/tez_2/chunklist.m3u8",
+"name": "Tez",
+"video": "https://www.googleapis.com/youtube/v3/search?key=AIzaSyCOEGdGjWlJTc0Cdyqjrktcdaf5g0qFMJ8&channelId=UCQC1wGbOOIoC23fRGxt4kbg&part=snippet,id&eventType=live&type=video"
+},
+{
+"img": "https://jeyarajkumar.s3.ap-south-1.amazonaws.com/localchannel/Hindi+images/janata_tv.png",
+"live": "https://m-c18-j2apps.s.llnwi.net/hls/1604.JantaTV.in_480p/index.m3u8",
+"name": "Janata Tv",
+"video": "pcYRQopb3FI"
+},
+{
+"img": "https://jeyarajkumar.s3.ap-south-1.amazonaws.com/localchannel/Hindi+images/news_x.png",
+"live": "https://itvorigin.multitvsolution.com/hls/newsx_540p/index.m3u8",
+"name": "NewsX",
+"video": "DvEDBRRsitY"
+},
+{
+"img": "https://qqcdnpictest.mxplay.com/pic/7078.JanTV.in/en/1x1/208x208/test_pic1596355844398.webp",
+"live": "https://m-c010-j2apps.s.llnwi.net/hls/7078.JanTV.in_480p/index.m3u8",
+"name": "Jan TV",
+"video": "DvEDBRRsitY"
+},
+{
+"img": "https://jeyarajkumar.s3.ap-south-1.amazonaws.com/localchannel/Hindi+images/total_tv.png",
+"live": "https://rtmp.smartstream.video/totaltv/totaltv/chunklist_w1446483175.m3u8",
+"name": "TotalTv",
+"video": "ANUaAoX4g4c"
+},
+{
+"img": "https://jeyarajkumar.s3.ap-south-1.amazonaws.com/localchannel/Hindi+images/patrika_logo.png",
+"live": "https://www.googleapis.com/youtube/v3/search?key=AIzaSyCOEGdGjWlJTc0Cdyqjrktcdaf5g0qFMJ8d&channelId=UCQC1wGbOOIoC23fRGxt4kbg&part=snippet,id&eventType=live&type=video",
+"name": "Patrika",
+"video": "Ooyoyo_OqZs"
+},
+{
+"img": "https://jeyarajkumar.s3.ap-south-1.amazonaws.com/localchannel/Hindi+images/amar_ujala_logo.png",
+"live": "https://streamcdn.amarujala.com/live/smil:stream1.smil/chunklist_w974607380_b244100_sleng.m3u8",
+"name": "Amar Ujala",
+"video": "vwj-BOATlKw"
+}
+]
+}
