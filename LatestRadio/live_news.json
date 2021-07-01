@@ -303,6 +303,21 @@
             "total_views": 5607,
             "date_time": "2021-06-15 05:57:33",
             "category_name": "Hindi News"
+        },
+         {
+            "vid": 35,
+            "cat_id": 6,
+            "video_title": "TV9 Marathi",
+            "video_url": "https://vidcdn.vidgyor.com/tv9marathi-origin/live/tv9marathi-origin/live2/chunks.m3u8",
+            "video_id": "cda11up",
+            "video_thumbnail": "https://d282wbz2keffpz.cloudfront.net/wp-content/uploads/2018/04/TV9_MARATHI-wecompress.com_.png",
+            "video_duration": 11.02,
+            "video_description": "<h1TV9 Marathi</h1>\r\n",
+            "video_type": "Url",
+            "size": "",
+            "total_views": 5607,
+            "date_time": "2021-06-15 05:57:33",
+            "category_name": "Hindi News"
         }
     ]
 }
