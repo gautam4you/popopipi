@@ -20,19 +20,19 @@
 {
 "logo": "https://onlineradiofm.in/assets/image/radio/180/air-mahanadi-sambalpur.jpg",
 "name": "AIR Mahanadi",
-"url": "https://radioindia.net/radio/air_mahanadi/icecast.audio",
+"url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio182/playlist.m3u8",
 "category": "Tv - Audio"
 },
 {
 "logo": "https://onlineradiofm.in/assets/image/radio/180/air-jeypore.jpg",
 "name": "AIR Jeypore",
-"url": "https://radioindia.net/radio/air_jeypore/icecast.audio",
+"url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio112/playlist.m3u8",
 "category": "Tv - Audio"
 },
 {
 "logo": "https://onlineradiofm.in/assets/image/radio/180/air-balangir.jpg",
 "name": "AIR Balangir",
-"url": "https://radioindia.net/radio/air_balangir/icecast.audio",
+"url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio187/playlist.m3u8",
 "category": "Tv - Audio"
 },
 {
@@ -44,25 +44,25 @@
 {
 "logo": "https://onlineradiofm.in/assets/image/radio/180/air-bhawanipatna.jpg",
 "name": "AIR Bhawanipatna",
-"url": "https://radioindia.net/radio/air_bhavanipatna/icecast.audio",
+"url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio120/playlist.m3u8",
 "category": "Tv - Audio"
 },
 {
 "logo": "https://onlineradiofm.in/assets/image/radio/180/Berhampur.jpg",
 "name": "AIR Berhampur",
-"url": "https://radioindia.net/radio/air_bercampur/icecast.audio",
+"url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio180/playlist.m3u8",
 "category": "Tv - Audio"
 },
 {
 "logo": "https://onlineradiofm.in/assets/image/radio/180/airbaripada.jpg",
 "name": "AIR Baripada",
-"url": "https://radioindia.net/radio/air_baripada/icecast.audio",
+"url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio158/playlist.m3u8",
 "category": "Tv - Audio"
 },
 {
 "logo": "https://onlineradiofm.in/assets/image/radio/180/air-puri-fm.jpg",
 "name": "AIR Puri FM",
-"url": "https://radioindia.net/radio/air_puri_fm_radio/icecast.audio",
+"url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio100/playlist.m3u8",
 "category": "Tv - Audio"
 },
 {
