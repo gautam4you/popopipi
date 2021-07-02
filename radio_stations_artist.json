@@ -1,5 +1,41 @@
 [
 	{
+		"name": "Desi Maska",
+		"name_h": "TWlyY2hpIFRvb3RhIERpbA==",
+		"url": "http://ample.radiojar.com/q9rymqdbeyduv",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood,Web",
+		"pub": "02-07-2021",
+		"image": "http://shortfilmsite.com/images/desimaska.jpg"
+	},
+	{
+		"name": "RZ Sizzling 90s",
+		"name_h": "TWlyY2hpIFRvb3RhIERpbA==",
+		"url": "http://209.95.35.49:7425/stream",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood,Web",
+		"pub": "02-07-2021",
+		"image": "http://shortfilmsite.com/images/rz90s.jpg"
+	},
+	{
+		"name": "Radio Zindagi Unplugged",
+		"name_h": "TWlyY2hpIFRvb3RhIERpbA==",
+		"url": "http://209.95.35.49:7403/stream",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood,Web",
+		"pub": "02-07-2021",
+		"image": "http://shortfilmsite.com/images/rzunplugged.jpg"
+	},
+	{
+		"name": "Nostalagic",
+		"name_h": "TWlyY2hpIFRvb3RhIERpbA==",
+		"url": "http://40.79.71.162/radio3",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood,Web",
+		"pub": "02-07-2021",
+		"image": "http://shortfilmsite.com/images/bollywood90sa.jpg"
+	},
+	{
 		"name": "Big Melodies",
 		"name_h": "TWlyY2hpIFRvb3RhIERpbA==",
 		"url": "https://funasia.streamguys1.com/live9",
@@ -16,6 +52,15 @@
 		"cat": "Hindi,Bollywood,Web",
 		"pub": "26-06-2021",
 		"image": "http://shortfilmsite.com/images/radioraagini.jpg"
+	},
+	{
+		"name": "Radio 44",
+		"name_h": "TWlyY2hpIFRvb3RhIERpbA==",
+		"url": "http://main.smanelcast.com/radio/8030/radio.mp3",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood,Web",
+		"pub": "02-07-2021",
+		"image": "http://shortfilmsite.com/images/radio44.jpg"
 	},
 	{
 		"name": "Evergreen Hits",
