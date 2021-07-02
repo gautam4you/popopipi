@@ -943,52 +943,6 @@
 },
 {
 "kind": "youtube#playlistItem",
-"etag": "XXgiDE32SUUmSv8Zmh5aMyA6v7g",
-"id": "UExvcWlnUDZmSmk3T0xac3pDbk9TbjRQV2Q1Yzd3VXQ2RC44QTA1QTQyRTc3M0VGQzYx",
-"snippet": {
-"publishedAt": "2020-07-07T06:11:34Z",
-"channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
-"title": "Sonali Cable Full MOVIE | New Bollywood Movies | New Hindi Dubbed Movies 2019 | Sonali Cable",
-"description": "Latest Bollywood Movie 2018 | New Bollywood Movies | New Hindi Dubbed Movies 2018 | Sonali Cable\nWatch The Video To Know More.\n\nTo Watch More Videos SUBSCRIBE Bollywood Fabula Here \n►https://goo.gl/3I998G\n\n\nTo Watch Ultimate Cinderella Episodes SUBSCRIBE Here https:https://goo.gl/PrS3ty",
-"thumbnails": {
-"default": {
-"url": "https://i.ytimg.com/vi/IA1xzmIzAhA/default.jpg",
-"width": 120,
-"height": 90
-},
-"medium": {
-"url": "https://i.ytimg.com/vi/IA1xzmIzAhA/mqdefault.jpg",
-"width": 320,
-"height": 180
-},
-"high": {
-"url": "https://i.ytimg.com/vi/IA1xzmIzAhA/hqdefault.jpg",
-"width": 480,
-"height": 360
-},
-"standard": {
-"url": "https://i.ytimg.com/vi/IA1xzmIzAhA/sddefault.jpg",
-"width": 640,
-"height": 480
-}
-},
-"channelTitle": "look jonson",
-"playlistId": "PLoqigP6fJi7OLZszCnOSn4PWd5c7wUt6D",
-"position": 22,
-"resourceId": {
-"kind": "youtube#video",
-"videoId": "IA1xzmIzAhA"
-},
-"videoOwnerChannelTitle": "Entertainment Fabula",
-"videoOwnerChannelId": "UC2eHvHGPv-IqFQY5bUXxtIQ"
-},
-"contentDetails": {
-"videoId": "IA1xzmIzAhA",
-"videoPublishedAt": "2018-09-01T13:00:00Z"
-}
-},
-{
-"kind": "youtube#playlistItem",
 "etag": "P4f14XxtQXRxfx6d0afxRtM4H_I",
 "id": "UExvcWlnUDZmSmk3T0xac3pDbk9TbjRQV2Q1Yzd3VXQ2RC4wMDFGNzBEOTU4Q0Y1Q0RG",
 "snippet": {
@@ -1632,57 +1586,6 @@
 },
 {
 "kind": "youtube#playlistItem",
-"etag": "JeGtY6hVT5bM9J4D-aQSaBfZn68",
-"id": "UExvcWlnUDZmSmk3T0xac3pDbk9TbjRQV2Q1Yzd3VXQ2RC5DMkU4NTY1QUFGQTYwMDE3",
-"snippet": {
-"publishedAt": "2019-12-09T03:30:30Z",
-"channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
-"title": "Kati Patang Full Movie (HD) | Rajesh Khanna, Asha Parekh, Prem Chopra | Classic Hindi Movies",
-"description": "Watch this superhit Bollywood blockbuster Romantic family drama Hindi Movie 'Kati Patang' (1971) in HD, starring Rajesh Khanna, Asha Parekh, Prem Chopra, Bindu & others. Directed by Shakti Samanta. Music by R.D. Burman.\n#KatiPatang #RajeshKhannaMovies #AshaParekhMovies\n\nSubscribe To Our Channel : http://bit.ly/SubscribeToRajshri\n\nFollow us on G+ http://plus.google.com/+rajshri\n\nLike us on Facebook - https://www.facebook.com/rajshri\n\nFollow us on Twitter - https://twitter.com/Rajshri\n\nFollow us on Pinterest - http://www.pinterest.com/rajshrivideos\n\nVisit Rajshri's Website - http://www.rajshri.com",
-"thumbnails": {
-"default": {
-"url": "https://i.ytimg.com/vi/U44HKiKsB78/default.jpg",
-"width": 120,
-"height": 90
-},
-"medium": {
-"url": "https://i.ytimg.com/vi/U44HKiKsB78/mqdefault.jpg",
-"width": 320,
-"height": 180
-},
-"high": {
-"url": "https://i.ytimg.com/vi/U44HKiKsB78/hqdefault.jpg",
-"width": 480,
-"height": 360
-},
-"standard": {
-"url": "https://i.ytimg.com/vi/U44HKiKsB78/sddefault.jpg",
-"width": 640,
-"height": 480
-},
-"maxres": {
-"url": "https://i.ytimg.com/vi/U44HKiKsB78/maxresdefault.jpg",
-"width": 1280,
-"height": 720
-}
-},
-"channelTitle": "look jonson",
-"playlistId": "PLoqigP6fJi7OLZszCnOSn4PWd5c7wUt6D",
-"position": 36,
-"resourceId": {
-"kind": "youtube#video",
-"videoId": "U44HKiKsB78"
-},
-"videoOwnerChannelTitle": "Rajshri",
-"videoOwnerChannelId": "UCEKWXRsfUHkan-D_ljU8Asw"
-},
-"contentDetails": {
-"videoId": "U44HKiKsB78",
-"videoPublishedAt": "2019-02-07T12:30:01Z"
-}
-},
-{
-"kind": "youtube#playlistItem",
 "etag": "LlXw401TK1lDiN4jlDU4r4jKzPM",
 "id": "UExvcWlnUDZmSmk3T0xac3pDbk9TbjRQV2Q1Yzd3VXQ2RC5DQ0MyQ0Y4Mzg0M0VGOEYw",
 "snippet": {
@@ -1776,57 +1679,6 @@
 "contentDetails": {
 "videoId": "hNV8dcHYXNQ",
 "videoPublishedAt": "2018-11-15T16:50:54Z"
-}
-},
-{
-"kind": "youtube#playlistItem",
-"etag": "ytr1GsFSWavke1h-QsMhZl85-ps",
-"id": "UExvcWlnUDZmSmk3T0xac3pDbk9TbjRQV2Q1Yzd3VXQ2RC5GM0Q3M0MzMzY5NTJFNTdE",
-"snippet": {
-"publishedAt": "2019-12-09T03:29:32Z",
-"channelId": "UCFXiNYlcdsRC5B3QGnVqEMA",
-"title": "Ultimate Rajesh Khanna Hit Songs Jukebox | Best Of Bollywood Old Hindi Songs",
-"description": "Listen to all the evergreen Hindi songs of Rajesh Khanna in this super hit non-stop jukebox!\n\nSong List:\n\n00:24 - Kora Kagaz Tha\n05:37 - Mere Sapno Ki Rani\n09:52 - Gun Guna Rahe Hai Bhanvare\n13:47 - Ek Ajnabee Haseena Se\n18:04 - Pyar Deewana Hota Hai\n22:41 - Roop Tera Mastana\n26:23 - Yeh Sham Mastani\n30:31 - Duniya Mein Logon Ko\n36:05 - Kuch Toh Log Kahenge\n40:15 - Chingari Koi Bhadke\n45:36 - Yeh Kya Hua\n49:56 - Yeh Jo Mohabbat Hai\n53:34 - Jis Gali Mein Tera Ghar\n57:15 - Baghon Mein Bahar Hai \n01:00:44 - Kajra Lagake Gajra Sajake\n01:05:17 - Hum Dono Do Premi\n01:09:33 - Bheegi Bheegi Raaton Mein\n01:13:19 - Ro Na Kabhi Nahi Rona\n01:17:10 - Aate Jate Khoobsurat\n01:22:23 - Aankhon Mein Humne Aap Ke\n01:26:55 - Aaj Kuch Der Thehar\n01:27:57 - Hazar Raahein Mud Ke\n01:32:59 - Kabhi Bekasi Ne Mara\n\nAddressed as the first ever 'Super Star of Bollywood', Rajesh Khanna needs no introduction. His songs are undoubtedly yet so fresh and close to our heart just like his charming personality. You couldn't have asked for a more better compilation than this, as we bring to you his best of the best songs in the form of a non stop jukebox! Tune in, sit back and simply go with the flow of the songs. Have a Kaka's Time!\n\n\nShare on Facebook: https://goo.gl/tcw2qK\nTweet it: https://goo.gl/2WZB29\nShare on G+: https://goo.gl/fxUVo9\n\nSubscribe To Our Channel : http://bit.ly/SubscribeToRajshri\n\nFollow us on G+ http://plus.google.com/+rajshri\n\nLike us on Facebook - https://www.facebook.com/rajshri\n\nFollow us on Twitter - https://twitter.com/Rajshri\n\nFollow us on Pinterest - http://www.pinterest.com/rajshrivideos\n\nVisit Rajshri's Website - http://www.rajshri.com",
-"thumbnails": {
-"default": {
-"url": "https://i.ytimg.com/vi/Egk6LejAkVA/default.jpg",
-"width": 120,
-"height": 90
-},
-"medium": {
-"url": "https://i.ytimg.com/vi/Egk6LejAkVA/mqdefault.jpg",
-"width": 320,
-"height": 180
-},
-"high": {
-"url": "https://i.ytimg.com/vi/Egk6LejAkVA/hqdefault.jpg",
-"width": 480,
-"height": 360
-},
-"standard": {
-"url": "https://i.ytimg.com/vi/Egk6LejAkVA/sddefault.jpg",
-"width": 640,
-"height": 480
-},
-"maxres": {
-"url": "https://i.ytimg.com/vi/Egk6LejAkVA/maxresdefault.jpg",
-"width": 1280,
-"height": 720
-}
-},
-"channelTitle": "look jonson",
-"playlistId": "PLoqigP6fJi7OLZszCnOSn4PWd5c7wUt6D",
-"position": 39,
-"resourceId": {
-"kind": "youtube#video",
-"videoId": "Egk6LejAkVA"
-},
-"videoOwnerChannelTitle": "Rajshri",
-"videoOwnerChannelId": "UCEKWXRsfUHkan-D_ljU8Asw"
-},
-"contentDetails": {
-"videoId": "Egk6LejAkVA",
-"videoPublishedAt": "2015-05-06T04:00:00Z"
 }
 },
 {
