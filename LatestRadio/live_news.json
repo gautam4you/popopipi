@@ -292,10 +292,10 @@
          {
             "vid": 34,
             "cat_id": 6,
-            "video_title": "News Assam",
-            "video_url": "https://cdn.pride-east.in/smartstream-us/newslivembr/newslivembr.smil/chunklist_w121157888_b800000.m3u8",
+            "video_title": "Gulistan news",
+            "video_url": "https://m-c18-j2apps.s.llnwi.net/hls/1838.GulistanNews.in_360p/index.m3u8",
             "video_id": "cda11up",
-            "video_thumbnail": "https://www.magicalassam.com/wp-content/uploads/2016/04/magical-assam-new-logo.png",
+            "video_thumbnail": "https://pbs.twimg.com/profile_images/1015107323843502080/F4EIngaL_400x400.jpg",
             "video_duration": 11.02,
             "video_description": "<h1News Assam</h1>\r\n",
             "video_type": "Url",
