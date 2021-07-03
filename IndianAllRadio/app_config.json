@@ -19,7 +19,7 @@
     "moreButton": true
   },
 {
-"videosListId": "https://raw.githubusercontent.com/gautam4you/popopipi/master/LatestRadio/hungama.json",
+"videosListId": "hungama.json",
 "type": "LR",
 "extraLink": "",
 "isLive": true,
@@ -27,7 +27,7 @@
 "moreButton": true
 },
   {
-    "videosListId": "https://raw.githubusercontent.com/gautam4you/popopipi/master/LatestRadio/hungama.json",
+    "videosListId": "hungama.json",
     "type": "LR",
     "extraLink": "",
     "isLive": true,

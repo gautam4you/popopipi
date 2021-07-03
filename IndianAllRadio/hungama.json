@@ -1,0 +1,75 @@
+[
+{
+"name": "90s Once Again",
+"url": "https://radioindia.net/radio/hungama90/icecast.audio",
+"logo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/LatestRadio/Hungama90sOnceAgain.jpg",
+"category": "Hindi FM Radios"
+},
+{
+"name": "Evergreen Bollywood",
+"url": "https://radioindia.net/radio/hungama_evergreen_bollywood/icecast.audio",
+"logo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/LatestRadio/Evergreen-Bollywood.jpg",
+"category": "Hindi FM Radios"
+},
+{
+"name": "Bollywood Dil Se",
+"url": "https://radioindia.net/radio/hungamadilse/icecast.audio",
+"logo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/LatestRadio/bollywooddilse.jpg",
+"category": "Hindi FM Radios"
+},
+{
+"name": "Hot now Bollywood",
+"url": "https://radioindia.net/radio/hungamanow/icecast.audio",
+"logo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/LatestRadio/hot-now-bollywood.jpg",
+"category": "Hindi FM Radios"
+},
+{
+"name": "Punjabi Hits",
+"url": "https://radioindia.net/radio/hungamapunjabi/icecast.audio",
+"logo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/LatestRadio/hot-now-punjabi.jpg",
+"category": "Hindi FM Radios"
+},
+{
+"name": "Best of Ghazals",
+"url": "https://radioindia.net/radio/hungamaghazal/icecast.audio",
+"logo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/LatestRadio/Hungama-best-of-glazal.jpg",
+"category": "Hindi FM Radios"
+},
+{
+"name": "Masti International",
+"url": "https://radioindia.net/radio/hungamamasti/icecast.audio",
+"logo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/LatestRadio/Hungama-Dance-Masti-International.jpg",
+"category": "Hindi FM Radios"
+},
+{
+"name": "Hot now tamil",
+"url": "https://radioindia.net/radio/hungamatamil/icecast.audio",
+"logo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/LatestRadio/hot-now-tamil.jpg",
+"category": "Hindi FM Radios"
+},{
+"name": "Bhakti Sagar",
+"url": "http://103.16.47.70:7777/;stream.nsv",
+"logo": "https://static.mytuner.mobi/media/tvos_radios/gUnPyeckBn.jpeg",
+"category": "Hindi FM Radios"
+},{
+"name": "60S FOREVER",
+"url": "http://103.16.47.70:6222/;stream.mp3",
+"logo": "https://hindiradios.com/assets/img/radio-logos/hungama-60s-forever.jpg",
+"category": "Hindi FM Radios"
+},{
+"name": "BW Classics",
+"url": "http://103.16.47.70:7888/;stream.mp3",
+"logo": "https://hindiradios.com/assets/img/radio-logos/hungama-b-and-w-classics.jpg",
+"category": "Hindi FM Radios"
+},{
+"name": "HINDUSTANI",
+"url": "http://103.16.47.70:9999/;stream.mp3",
+"logo": "https://hindiradios.com/assets/img/radio-logos/hungama-hindustani-classical.jpg",
+"category": "Hindi FM Radios"
+},{
+"name": "INDIE POP",
+"url": "http://103.16.47.70:7111/;stream.mp3",
+"logo": "https://hindiradios.com/assets/img/radio-logos/hungama-indie-pop.jpg",
+"category": "Hindi FM Radios"
+}
+]
