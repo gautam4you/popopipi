@@ -1,4 +1,4 @@
-﻿{
+{
 "active": true,
 "ads": {
 "active": true,
@@ -38,7 +38,7 @@
     "videosListId": "http://209.95.35.49:7403/stream",
     "type": "SR",
     "extraLink": "",
-    "thumbnail": "https://onlineradiofm.in/assets/image/radio/180/kishhorekumar.png"",
+    "thumbnail": "https://onlineradiofm.in/assets/image/radio/180/kishhorekumar.png",
     "isLive": true,
     "title": "Kishor Kumar",
     "moreButton": true
