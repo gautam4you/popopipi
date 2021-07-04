@@ -19,7 +19,7 @@
     "moreButton": true
   },
 {
-"videosListId": "hungama.json",
+"videosListId": "LatestRadio/hungama.json",
 "type": "LR",
 "extraLink": "",
 "isLive": true,
@@ -27,7 +27,7 @@
 "moreButton": true
 },
   {
-    "videosListId": "hungama.json",
+    "videosListId": "LatestRadio/hungama.json",
     "type": "LR",
     "extraLink": "",
     "isLive": true,
