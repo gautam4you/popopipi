@@ -4,6 +4,21 @@
     "count_total": 19,
     "pages": 1,
     "posts": [
+           {
+            "vid": 15,
+            "cat_id": 6,
+            "video_title": "Zee news Live",
+            "video_url": "https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_2.m3u8",
+            "video_id": "cda11up",
+            "video_thumbnail": "https://i.pinimg.com/564x/3a/e5/da/3ae5da81963b7c510df452e38c3ad341.jpg",
+            "video_duration": 11.02,
+            "video_description": "Zee news Live",
+            "video_type": "Url",
+            "size": "",
+            "total_views": 1688,
+            "date_time": "2021-06-15 05:30:52",
+            "category_name": "Hindi News"
+        },
         {
             "vid": 15,
             "cat_id": 6,
