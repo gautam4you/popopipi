@@ -4,6 +4,21 @@
     "count_total": 19,
     "pages": 1,
     "posts": [
+          {
+            "vid": 15,
+            "cat_id": 6,
+            "video_title": "News Nation",
+            "video_url": "https://stream-04.sg1.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZaNl7-6sx7faSVH6xweyOSA)/dm/3/x7t0g3i/s/live-2.m3u8",
+            "video_id": "cda11up",
+            "video_thumbnail": "https://static.newsnationtv.com/nntv-web/images/logo.png",
+            "video_duration": 11.02,
+            "video_description": "News Nation",
+            "video_type": "Url",
+            "size": "",
+            "total_views": 1688,
+            "date_time": "2021-06-15 05:30:52",
+            "category_name": "Hindi News"
+        },
            {
             "vid": 15,
             "cat_id": 6,
