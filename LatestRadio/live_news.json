@@ -4,7 +4,21 @@
     "count_total": 19,
     "pages": 1,
     "posts": [
-        
+         {
+            "vid": 15,
+            "cat_id": 6,
+            "video_title": "Pluse 24 News",
+            "video_url": "https://m-c050-j2apps.s.llnwi.net/hls/8009.Plus24News.in_360p/index.m3u8",
+            "video_id": "cda11up",
+            "video_thumbnail": "https://pbs.twimg.com/profile_images/1149077025711222785/CpuFCYon_400x400.jpg",
+            "video_duration": 11.02,
+            "video_description": "ABP MARATHI",
+            "video_type": "Url",
+            "size": "",
+            "total_views": 1688,
+            "date_time": "2021-06-15 05:30:52",
+            "category_name": "Hindi News"
+        },
            {
             "vid": 15,
             "cat_id": 6,
