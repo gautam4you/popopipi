@@ -1,5 +1,15 @@
 [
 	{
+		"name": "Naya Andaz Radio",
+		"name_h": "UmFkaW8gRGhvb20gSGluZGk=",
+		"url": "http://radionayaandaz.out.airtime.pro:8000/radionayaandaz_a",
+		"samplerate": "",
+		"cat": "Hindi,bollywood",
+		"pub": "17-09-2021",
+		"image": "http://shortfilmsite.com/images/nayaandaz.jpg"
+
+	},
+	{
 		"name": "Vahon FM",
 		"name_h": "UmFkaW8gRGhvb20gSGluZGk=",
 		"url": "http://94.23.148.11:8058/;stream.mp3",
