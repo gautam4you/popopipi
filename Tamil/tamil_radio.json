@@ -1,4 +1,10 @@
 [
+  {
+"name": "KODAIRAGAM FM",
+"url": "http://161.97.135.229:8300/stream",
+"category": "Tamil FM Radios",
+"logo": "https://www.tamilradios.com/assets/img/radio-logos/kodai-ragam-fm.jpg"
+},
 {
 "name": "Tamil 89.4 FM",
 "url": "http://31.14.40.150:9000/;stream.mp3",
