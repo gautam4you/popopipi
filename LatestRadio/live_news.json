@@ -4,21 +4,6 @@
     "count_total": 19,
     "pages": 1,
     "posts": [
-           {
-            "vid": 15,
-            "cat_id": 6,
-            "video_title": "E24",
-            "video_url": "https://m-c02-j2apps.s.loris.llnwd.net/hls/0389.E24.in_360p/index.m3u8",
-            "video_id": "cda11up",
-            "video_thumbnail": "https://www.indiantelevision.com/sites/default/files/images/tv-images/2014/08/07/e24.jpg",
-            "video_duration": 11.02,
-            "video_description": "DD Kishan",
-            "video_type": "Url",
-            "size": "",
-            "total_views": 1688,
-            "date_time": "2021-06-15 05:30:52",
-            "category_name": "Hindi News"
-        },
         
            {
             "vid": 15,
