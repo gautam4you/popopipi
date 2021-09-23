@@ -1,5 +1,14 @@
 [
 	{
+		"name": "Radio Tarana",
+		"name_h": "TWlyY2hpIFRvb3RhIERpbA==",
+		"url": "https://peridot.streamguys1.com:7150/Tarana.aac",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood,Web",
+		"pub": "20-03-2021",
+		"image": "https://www.stuff.co.nz/tarana/_jcr_content/section-logo/logo-image.img.png/1539036926568.png"
+	},
+	{
 		"name": "Naya Andaz Radio",
 		"name_h": "UmFkaW8gRGhvb20gSGluZGk=",
 		"url": "http://radionayaandaz.out.airtime.pro:8000/radionayaandaz_a",
@@ -191,15 +200,6 @@
 		"cat": "Hindi,Bollywood,Web",
 		"pub": "20-03-2021",
 		"image": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/bigfm927.jpg"
-	},
-	{
-		"name": "Radio Tarana",
-		"name_h": "TWlyY2hpIFRvb3RhIERpbA==",
-		"url": "https://peridot.streamguys1.com:7150/Tarana.aac",
-		"samplerate": "",
-		"cat": "Hindi,Bollywood,Web",
-		"pub": "20-03-2021",
-		"image": "https://www.stuff.co.nz/tarana/_jcr_content/section-logo/logo-image.img.png/1539036926568.png"
 	},
 	{
 		"name": "Guyana Chunes",
