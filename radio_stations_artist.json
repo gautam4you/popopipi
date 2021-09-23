@@ -1,5 +1,50 @@
 [
 	{
+		"name": "Radio Dhishum",
+		"name_h": "TWlyY2hpIFRvb3RhIERpbA==",
+		"url": "https://radiodhishum.out.airtime.pro/Radiodhishum_a?_ga=2.173964835.1210161899.1585574472-163016895.1580221502rrrr",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood,Web",
+		"pub": "23-09-2021",
+		"image": "http://shortfilmsite.com/images/radiodhishum.jpg"
+	},
+	{
+		"name": "Radio WOW",
+		"name_h": "TWlyY2hpIFRvb3RhIERpbA==",
+		"url": "http://stream.zeno.fm/c6k6mdbst5quv",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood,Web",
+		"pub": "23-09-2021",
+		"image": "http://shortfilmsite.com/images/radiowow.jpg"
+	},
+	{
+		"name": "Desi Dance",
+		"name_h": "TWlyY2hpIFRvb3RhIERpbA==",
+		"url": "https://usa6.fastcast4u.com/proxy/vinsingh?mp=/stream",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood,Web",
+		"pub": "23-09-2021",
+		"image": "http://shortfilmsite.com/images/desidance.jpg"
+	},
+	{
+		"name": "Desi Hits 2000",
+		"name_h": "TWlyY2hpIFRvb3RhIERpbA==",
+		"url": "http://40.79.71.162/radio2",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood,Web",
+		"pub": "23-09-2021",
+		"image": "http://shortfilmsite.com/images/desihits2000a.jpg"
+	},
+	{
+		"name": "Bollywood Radio Love",
+		"name_h": "TWlyY2hpIFRvb3RhIERpbA==",
+		"url": "https://drive.uber.radio/uber/bollywoodlove/icecast.audio",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood,Web",
+		"pub": "23-09-2021",
+		"image": "http://shortfilmsite.com/images/bollywoodradio23.jpg"
+	},
+	{
 		"name": "Ullu Radio",
 		"name_h": "TWlyY2hpIFRvb3RhIERpbA==",
 		"url": "http://s2.oppusmedia.com:8060/radio.mp3",
