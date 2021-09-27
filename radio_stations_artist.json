@@ -1,5 +1,23 @@
 [
 	{
+		"name": "Radio Adda",
+		"name_h": "TWlyY2hpIFRvb3RhIERpbA==",
+		"url": "http://adda.riggrodigital.com:8160/stream",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood,Web",
+		"pub": "27-09-2021",
+		"image": "http://shortfilmsite.com/images/radioadda.jpg"
+	},
+	{
+		"name": "Himal Classics",
+		"name_h": "TWlyY2hpIFRvb3RhIERpbA==",
+		"url": "https://streaming.webhostnepal.com/8012/stream",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood,Web",
+		"pub": "27-09-2021",
+		"image": "http://shortfilmsite.com/images/himalradio.jpg"
+	},
+	{
 		"name": "Radio Dhishum",
 		"name_h": "TWlyY2hpIFRvb3RhIERpbA==",
 		"url": "https://radiodhishum.out.airtime.pro/Radiodhishum_a?_ga=2.173964835.1210161899.1585574472-163016895.1580221502rrrr",
