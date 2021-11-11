@@ -22,14 +22,14 @@
 			"type": "YP",
 			"extraLink": "",
 			"title": "Ramayana",
-			"isLive":true,
+			 "isLive":false,
 			"moreButton": true
 		},
 			{
 			"videosListId": "jaishreekrishna-dailymotion.json",
 			"type": "DM",
 			"extraLink": "",
-				"isLive":true,
+				 "isLive":false,
 			"title": "Jai Shree Krishna",
 			"moreButton": true
 		},
@@ -39,7 +39,7 @@
 			"type": "DM",
 			"extraLink": "",
 			"title": "Jai Ganga Maiya",
-				"isLive":true,
+				 "isLive":false,
 			"moreButton": true
 		},
 			      {
@@ -47,14 +47,14 @@
 			"type": "SP",
 			"extraLink": "",
 			"title": "Ads. Suggested for you",
-				      "isLive":true,
+				      "isLive":false,
 			"moreButton": false
 		} ,
 			   	{
 			"videosListId": "omnamahshivaya.json",
 			"type": "DM",
 			"extraLink": "",
-					"isLive":true,
+					 "isLive":false,
 			"title": "Om Namah Shivaya",
 			"moreButton": true
 		},{
@@ -62,13 +62,13 @@
 			"type": "DM",
 			"extraLink": "",
 			"title": "Shiv puran",
-			"isLive":true,
+			 "isLive":false,
 			"moreButton": true
 		},{
 			"videosListId": "harishchandra.json",
 			"type": "YP",
 			"extraLink": "",
-			"isLive":true,
+			 "isLive":false,
 			"title": "Raja Harishchandra Katha",
 			"moreButton": true
 		},
@@ -87,7 +87,7 @@
 			"videosListId": "PLFgquLnL59alCl_2TQvOiD5Vgm1hCaGSI",
 			"type": "YP",
 			"extraLink": "",
-		"isLive":true,
+		 "isLive":false,
 			"title": "Recents6",
 			"moreButton": true
 		},
@@ -96,7 +96,7 @@
 			"type": "YP",
 			"extraLink": "",
 			"title": "Recents7",
-			"isLive":true,
+			 "isLive":false,
 			"moreButton": true
 		}
 	]
