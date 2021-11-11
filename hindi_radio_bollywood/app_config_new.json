@@ -14,6 +14,7 @@
 			"type": "YP",
 			"extraLink": "",
 			"title": "Breaking",
+		        "isLive":true,
 			"moreButton": true
 		},
 		{
@@ -21,12 +22,14 @@
 			"type": "YP",
 			"extraLink": "",
 			"title": "Ramayana",
+			"isLive":true,
 			"moreButton": true
 		},
 			{
 			"videosListId": "jaishreekrishna-dailymotion.json",
 			"type": "DM",
 			"extraLink": "",
+				"isLive":true,
 			"title": "Jai Shree Krishna",
 			"moreButton": true
 		},
@@ -36,6 +39,7 @@
 			"type": "DM",
 			"extraLink": "",
 			"title": "Jai Ganga Maiya",
+				"isLive":true,
 			"moreButton": true
 		},
 			      {
@@ -43,12 +47,14 @@
 			"type": "SP",
 			"extraLink": "",
 			"title": "Ads. Suggested for you",
+				      "isLive":true,
 			"moreButton": false
 		} ,
 			   	{
 			"videosListId": "omnamahshivaya.json",
 			"type": "DM",
 			"extraLink": "",
+					"isLive":true,
 			"title": "Om Namah Shivaya",
 			"moreButton": true
 		},{
@@ -56,11 +62,13 @@
 			"type": "DM",
 			"extraLink": "",
 			"title": "Shiv puran",
+			"isLive":true,
 			"moreButton": true
 		},{
 			"videosListId": "harishchandra.json",
 			"type": "YP",
 			"extraLink": "",
+			"isLive":true,
 			"title": "Raja Harishchandra Katha",
 			"moreButton": true
 		},
@@ -70,6 +78,7 @@
 			"videosListId": "hindi_radio.json",
 			"type": "RD",
 			"extraLink": "",
+				"isLive":true,
 			"title": "Bhakti Radio ",
 			"moreButton": true
 		}    
@@ -78,6 +87,7 @@
 			"videosListId": "PLFgquLnL59alCl_2TQvOiD5Vgm1hCaGSI",
 			"type": "YP",
 			"extraLink": "",
+		"isLive":true,
 			"title": "Recents6",
 			"moreButton": true
 		},
@@ -86,6 +96,7 @@
 			"type": "YP",
 			"extraLink": "",
 			"title": "Recents7",
+			"isLive":true,
 			"moreButton": true
 		}
 	]
