@@ -1,5 +1,14 @@
 [
 	{
+		"name": "Alka yagni",
+		"name_h": "TWlyY2hpIFRvb3RhIERpbA==",
+		"url": "https://shemaroomusicradio.shemaroo.com/bollywoodmusic/alkayagnik_aac/playlist.m3u8",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood,Web",
+		"pub": "13-11-2021",
+		"image": "https://media2.bollywoodhungama.in/wp-content/uploads/2016/12/Alka-Yagnik2-346x260.jpg"
+	},
+	{
 		"name": "Radio Adda",
 		"name_h": "TWlyY2hpIFRvb3RhIERpbA==",
 		"url": "http://adda.riggrodigital.com:8160/stream",
@@ -249,7 +258,7 @@
 	{
 		"name": "FM Gold",
 		"name_h": "TWlyY2hpIFRvb3RhIERpbA==",
-		"url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio005/playlist.m3u8",
+		"url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio007/chunklist.m3u8",
 		"samplerate": "",
 		"cat": "Hindi,Bollywood,Web",
 		"pub": "22-06-2021",
