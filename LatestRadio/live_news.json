@@ -10,7 +10,7 @@
             "video_title": "ABP marathi",
             "video_url": "https://abp-i.akamaihd.net/hls/live/765531/abpmajha/master_314.m3u8",
             "video_id": "cda11up",
-            "video_thumbnail": "1623736616_abp news.jpg",
+            "video_thumbnail": "https://raw.githubusercontent.com/gautam4you/popopipi/master/LatestRadio/abp_marathi.png",
             "video_duration": 11.02,
             "video_description": "ABP MARATHI",
             "video_type": "Url",
