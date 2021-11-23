@@ -1,5 +1,13 @@
 [
 	{
+		"name": "Radio Retro Bollywood",
+		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCksOClh+Ckn+CljeCksOCliyDgpKzgpYngpLLgpYDgpLXgpYHgpKE=",
+		"url": "http://stream.zeno.fm/g372rxef798uv",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood,Web",
+		"image": "https://farm5.staticflickr.com/4494/23882771378_9607330705_z.jpg"
+	},
+	{
 		"name": "Alka yagni",
 		"name_h": "TWlyY2hpIFRvb3RhIERpbA==",
 		"url": "https://shemaroomusicradio.shemaroo.com/bollywoodmusic/alkayagnik_aac/playlist.m3u8",
@@ -164,25 +172,6 @@
 		"image": "http://shortfilmsite.com/images/desimaska.jpg"
 	},
 	{
-		"name": "Radio Ragini",
-		"name_h": "TWlyY2hpIFRvb3RhIERpbA==",
-		"url": "http://malta2044.startdedicated.com:8090/stream",
-		"samplerate": "",
-		"cat": "Hindi,Bollywood,Web",
-		"pub": "26-06-2021",
-		"image": "http://shortfilmsite.com/images/radioraagini.jpg"
-	},
-	{
-		"name": "Radio 44",
-		"name_h": "TWlyY2hpIFRvb3RhIERpbA==",
-		"url": "https://streaming.broadcastradio.com:10495/radio44",
-		"samplerate": "",
-		"cat": "Hindi,Bollywood,Web",
-		"pub": "02-07-2021",
-		"image": "http://shortfilmsite.com/images/radio44.jpg"
-	},
-
-	{
 		"name": "Kishor Kumar",
 		"name_h": "TWlyY2hpIFRvb3RhIERpbA==",
 		"url": "https://node-11.zeno.fm/0ghtfp8ztm0uv.aac",
@@ -199,24 +188,6 @@
 		"cat": "Hindi,Bollywood,Web",
 		"pub": "25-06-2021",
 		"image": "https://onlineradiofm.in/assets/image/radio/180/purani_jeans.jpg"
-	},
-	{
-		"name": "Mirchi Mahfil",
-		"name_h": "TWlyY2hpIFRvb3RhIERpbA==",
-		"url": "https://mirchimahfil-lh.akamaihd.net/i/MirchiMehfl_1@120798/master.m3u8",
-		"samplerate": "",
-		"cat": "Hindi,Bollywood,Web",
-		"pub": "22-06-2021",
-		"image": "https://media.radiomirchi.com/onlinestation/audioimages/1464260561MirchiMehfilGaanaWebBanner_w1400Xh684Pixel-01.jpg"
-	},
-	{
-		"name": "Meethi Mirchi",
-		"name_h": "TWlyY2hpIFRvb3RhIERpbA==",
-		"url": "https://meethimirchihdl-lh.akamaihd.net/i/MeethiMirchiHDLive_1_1@320572/master.m3u8",
-		"samplerate": "",
-		"cat": "Hindi,Bollywood,Web",
-		"pub": "16-04-2021",
-		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/LatestRadio/meetmirchi.jpg"
 	},
 		{
 		"name": "Air Vividh Bharati",
@@ -291,24 +262,6 @@
 		"image": "http://shortfilmsite.com/images/radiomastiindia.jpg"
 	},
 	{
-		"name": "Mirchi Toota Dil",
-		"name_h": "TWlyY2hpIFRvb3RhIERpbA==",
-		"url": "https://tootadil-lh.akamaihd.net/i/tootadil_1@42539/master.m3u8",
-		"samplerate": "",
-		"cat": "Hindi,Bollywood,Web",
-		"pub": "10-12-2020",
-		"image": "http://shortfilmsite.com/images/mirchitootadil.jpg"
-	},
-	{
-		"name": "Mirchi Top 20 online",
-		"name_h": "TWlyY2hpIFRvcCAyMCBvbmxpbmU=",
-		"url": "https://mt20live-lh.akamaihd.net/i/mt20live_1@346531/index_1_a-p.m3u8",
-		"samplerate": "",
-		"cat": "Hindi,Bollywood,Web",
-		"pub": "01-01-2021",
-		"image": "https://static.mytuner.mobi/media/tvos_radios/syvtsj875847.jpg"
-	},
-	{
 		"name": "Bhakti Sangeet",
 		"name_h": "4KSt4KSV4KWN4KSk4KS/IOCkuOCkguCkl+ClgOCkpA==",
 		"url": "http://stream.zeno.fm/ut3kgm1vsa0uv",
@@ -344,24 +297,7 @@
 		"pub": "08-12-2020",
 		"image": "https://radiosindia.com/images/desibollywood.jpg"
 	},
-	{
-		"name": "Masti chat",
-		"name_h": "TWFzdGkgY2hhdA==",
-		"url": "https://node-16.zeno.fm/vhfngc5fka0uv",
-		"samplerate": "",
-		"cat": "Hindi,Bollywood,Web",
-		"pub": "09-12-2020",
-		"image": "https://radiosindia.com/images/mymastichat.jpg"
-	},
-	{
-		"name": "Link radio",
-		"name_h": "TGluayByYWRpbw==",
-		"url": "https://indianlink.radioca.st/streams/128kbps",
-		"samplerate": "",
-		"cat": "Hindi,Bollywood,Web",
-		"pub": "08-12-2020",
-		"image": "https://radiosindia.com/images/indianlinkradio.jpg"
-	},
+
 	{
 		"name": "Radio shruti",
 		"name_h": "UmFkaW8gc2hydXRpIA==",
@@ -370,14 +306,6 @@
 		"cat": "Hindi,Bollywood,Web",
 		"pub": "08-12-2020",
 		"image": "https://radiosindia.com/images/radioshruti.jpg"
-	},
-	{
-		"name": "Radio Retro Bollywood",
-		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCksOClh+Ckn+CljeCksOCliyDgpKzgpYngpLLgpYDgpLXgpYHgpKE=",
-		"url": "http://192.111.151.2:5124/stream?1505228937567.mp3",
-		"samplerate": "",
-		"cat": "Hindi,Bollywood,Web",
-		"image": "https://farm5.staticflickr.com/4494/23882771378_9607330705_z.jpg"
 	},
 	{
 		"name": "Bollywood FM",
