@@ -1,4 +1,49 @@
 [
+	 {
+		"name": "Sunidhi chauhan",
+		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCksOClh+Ckn+CljeCksOCliyDgpKzgpYngpLLgpYDgpLXgpYHgpKE=",
+		"url": "https://drive.uber.radio/uber/bollywoodsunidhichauhan/icecast.audio",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood,Web",
+		"image": "https://i1.sndcdn.com/artworks-000028560363-e4h5bw-t500x500.jpg"
+	},{
+		"name": "Honey Singh",
+		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCksOClh+Ckn+CljeCksOCliyDgpKzgpYngpLLgpYDgpLXgpYHgpKE=",
+		"url": "https://drive.uber.radio/uber/bollywoodyoyohoneysingh/icecast.audio",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood,Web",
+		"image": "https://images.8tracks.com/cover/i/000/495/332/honey-singh-2436.jpg"
+	},
+	{
+		"name": "Atif aslam",
+		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCksOClh+Ckn+CljeCksOCliyDgpKzgpYngpLLgpYDgpLXgpYHgpKE=",
+		"url": "https://drive.uber.radio/uber/bollywoodatifaslam/icecast.audio",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood,Web",
+		"image": "https://www.filmibeat.com/img/popcorn/profile_photos/atif-aslam-774.jpg"
+	},{
+		"name": "Sonu nigam",
+		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCksOClh+Ckn+CljeCksOCliyDgpKzgpYngpLLgpYDgpLXgpYHgpKE=",
+		"url": "http://drive.uber.radio/uber/bollywoodsonunigam/icecast.audio",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood,Web",
+		"image": "https://cdn.citatis.com/img/a/14/21204.v8.jpg"
+	},
+	 {
+		"name": "Badshah Radio",
+		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCksOClh+Ckn+CljeCksOCliyDgpKzgpYngpLLgpYDgpLXgpYHgpKE=",
+		"url": "http://drive.uber.radio/uber/bollywoodbadshah/icecast.audio",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood,Web",
+		"image": "http://hindiradioapp.com/images/badshah.jpg"
+	},{
+		"name": "Armaan Malik",
+		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCksOClh+Ckn+CljeCksOCliyDgpKzgpYngpLLgpYDgpLXgpYHgpKE=",
+		"url": "http://drive.uber.radio/uber/bollywoodarmaanmalik/icecast.audio",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood,Web",
+		"image": "http://hindiradioapp.com/images/armaan.jpg"
+	},
 	{
 		"name": "Radio Retro Bollywood",
 		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCksOClh+Ckn+CljeCksOCliyDgpKzgpYngpLLgpYDgpLXgpYHgpKE=",
