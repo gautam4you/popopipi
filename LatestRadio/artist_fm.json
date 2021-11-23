@@ -1,4 +1,15 @@
-[{
+[
+	{
+"name": "Nusrat Fateh Ali Khan",
+"url": "http://radio.esplservers.com:8579/stream",
+"logo": "http://shortfilmsite.com/images/nusratfatehalikhan.jpg",
+"category": "Artist Radios"
+},{
+"name": "AR Rahman Radio",
+"url": "http://207.180.250.105:8030/stream",
+"logo": "http://shortfilmsite.com/images/arrahman.jpg",
+"category": "Artist Radios"
+},{
 "name": "Dj Upendra RaX",
 "category": "Artist Radios",
 "url": "http://ample-zeno-10.radiojar.com/e8456c0619duv?rj-ttl=4&rj-token=AAABZC3iS9TEv3R-2oaMSUFPPB_4jWogyo297T3ZJlP7hgKoJmHHEQ",
