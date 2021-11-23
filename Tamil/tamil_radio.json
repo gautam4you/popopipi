@@ -18,22 +18,10 @@
 "logo": "http://shortfilmsite.com/images/radiogilli.png"
 },
 {
-"name": "Shakthi FM ",
-"url": "http://live.trusl.com:1160/;",
-"category": "Tamil FM Radios",
-"logo": "http://shortfilmsite.com/images/shakthifm.jpg"
-},
-{
 "name": "Tamil FM",
 "url": "http://shaincast.caster.fm:47814/listen.mp3",
 "category": "Tamil FM Radios",
 "logo": "http://shortfilmsite.com/images/tamilfm1.jpg"
-},
-{
-"name": "Radio Mirchi",
-"url": "http://mirchitoptucker-lh.akamaihd.net/i/MirchiTopTucker_1_1@66103/master.m3u8",
-"category": "Tamil FM Radios",
-"logo": "http://shortfilmsite.com/images/radiomirchib.png"
 },
 {
 "name": "Sooriyan FM",
@@ -43,7 +31,7 @@
 },
 {
 "name": "Radio City Tamil",
-"url": "http://prclive1.listenon.in:9948/;",
+"url": "https://prclive4.listenon.in/Tamil",
 "category": "Tamil FM Radios",
 "logo": "http://shortfilmsite.com/images/radiocity.jpg"
 },
@@ -76,18 +64,6 @@
 "url": "http://stream.zeno.fm/r2gn1pgm4qruv",
 "category": "Tamil FM Radios",
 "logo": "http://shortfilmsite.com/images/bigche.png"
-},
-{
-"name": "Sooriyan FM ",
-"url": "https://eu10b.serverse.com:1936/sooriyanfm/sooriyanfm/playlist.m3u8",
-"category": "Tamil FM Radios",
-"logo": "http://shortfilmsite.com/images/sooriyanfm1a.png"
-},
-{
-"name": "Mirchi Top Takkar",
-"url": "http://mirchitoptucker-lh.akamaihd.net/i/MirchiTopTucker_1_1@66103/master.m3u8",
-"category": "Tamil FM Radios",
-"logo": "http://shortfilmsite.com/images/mirchitoptuckkar.jpg"
 },
 {
 "name": "Lankasri FM ",
