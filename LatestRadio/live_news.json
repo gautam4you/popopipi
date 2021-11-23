@@ -52,10 +52,10 @@
         {
             "vid": 15,
             "cat_id": 6,
-            "video_title": "R.BHarat",
-            "video_url": "https://republic.pc.cdn.bitgravity.com/live/bharat_hls/masterlive_360p.m3u8",
+            "video_title": "R.BanglaTV",
+            "video_url": "https://rbangla.pc.cdn.bitgravity.com/live/rbanglatv/chunklist_2.m3u8",
             "video_id": "cda11up",
-            "video_thumbnail": "https://raw.githubusercontent.com/gautam4you/popopipi/master/LatestRadio/R.BHarat.png",
+            "video_thumbnail": "https://raw.githubusercontent.com/gautam4you/popopipi/master/LatestRadio/rbangla.png",
             "video_duration": 11.02,
             "video_description": "<h1>LIVE News | Rajasthan Congress Tussle: Sachin Pilot To Hold Key Meetings | Republic Bharat LIVE</h1>\r\n",
             "video_type": "Url",
