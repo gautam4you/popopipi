@@ -1,115 +1,157 @@
-[
-	 {
-"name": "Alka yagni",
-"url": "https://shemaroomusicradio.shemaroo.com/bollywoodmusic/alkayagnik_aac/playlist.m3u8",
-"category": "Artist Radios",
-"logo": "https://media2.bollywoodhungama.in/wp-content/uploads/2016/12/Alka-Yagnik2-346x260.jpg"
-},
-  {
-"name": "Shreya Ghosal",
-"url": "http://stream.zeno.fm/1u0m05avmd0uv",
-"category": "Artist Radios",
-"logo": "http://shortfilmsite.com/images/shreyaghosal.jpg"
-},
-  {
-"name": "SRK Radio",
-"url": "http://stream.zenolive.com/a69txeenvzzuv",
-"category": "Artist Radios",
-"logo": "http://shortfilmsite.com/images/radiosrk.jpg"
-},
-  {
-"name": "Arjit Singh Radio",
-"url": "http://stream.zenolive.com/rfpf8qec94zuv",
-"category": "Artist Radios",
-"logo": "http://shortfilmsite.com/images/arjitsinghradio.jpg"
-},
-  {
-"name": "Neha Kakkar",
-"url": "http://stream.zenolive.com/bh3dndmsxd0uv",
-"category": "Artist Radios",
-"logo": "http://shortfilmsite.com/images/nehakakkar.jpg"
-},
-  {
-"name": "Mukesh Radio",
-"url": "http://stream.zeno.fm/btfpgcd3kg8uv",
-"category": "Artist Radios",
-"logo": "http://shortfilmsite.com/images/mukeshradio.jpg"
-},
-  {
-		"name": "Kishor Kumar",
-		"url": "https://node-11.zeno.fm/0ghtfp8ztm0uv.aac",
-		"category": "Artist Radios",
-		"logo": "https://onlineradiofm.in/assets/image/radio/180/kishhorekumar.png"
-	},
-  {
-"name": "Nooran Sisters",
-"url": "http://radio.esplservers.com:8648/stream",
-"logo": "http://shortfilmsite.com/images/nooransisters.jpg",
-"category": "Artist Radios"
-},
-{
-"name": "AR Rahman Radio",
-"url": "http://207.180.250.105:8030/stream",
-"logo": "http://shortfilmsite.com/images/arrahman.jpg",
-"category": "Artist Radios"
-},
-{
-"name": "Babbu Maan Hits",
-"url": "http://149.56.195.94:8342/stream",
-"logo": "http://shortfilmsite.com/images/babbumaan.jpg",
-"category": "Artist Radios"
-},
-{
-"name": "Nusrat Fateh Ali Khan",
-"url": "http://radio.esplservers.com:8579/stream",
-"logo": "http://shortfilmsite.com/images/nusratfatehalikhan.jpg",
-"category": "Artist Radios"
-},
-{
+[{
 "name": "Dj Upendra RaX",
-"url": "http://stream.zenolive.com/e8456c0619duv",
-"logo": "http://shortfilmsite.com/images/djupendrarax.jpg",
-"category": "Artist Radios"
+"category": "Artist Radios",
+"url": "http://ample-zeno-10.radiojar.com/e8456c0619duv?rj-ttl=4&rj-token=AAABZC3iS9TEv3R-2oaMSUFPPB_4jWogyo297T3ZJlP7hgKoJmHHEQ",
+"logo": "http://hindiradioapp.com/images/djupendrarax.jpg"
+},
+{
+"name": "Amit Trivedi",
+"category": "Artist Radios",
+"url": "http://drive.uber.radio/uber/bollywoodamittrivedi/icecast.audio",
+"logo": "http://hindiradioapp.com/images/amit.jpg"
+},
+{
+"name": "Mukesh Radio",
+"category": "Artist Radios",
+"url": "http://stream.zeno.fm/btfpgcd3kg8uv",
+"logo": "http://hindiradioapp.com/images/mukeshradio.jpg"
+},
+{
+"name": "Armaan Malik",
+"category": "Artist Radios",
+"url": "http://drive.uber.radio/uber/bollywoodarmaanmalik/icecast.audio",
+"logo": "http://hindiradioapp.com/images/armaan.jpg"
 },
 {
 "name": "Udit Narayan Hits",
-"url": "http://stream.zenolive.com/saztm64ts0quv",
-"logo": "http://shortfilmsite.com/images/uditnarayan.jpg",
-"category": "Artist Radios"
+"category": "Artist Radios",
+"url": "http://drive.uber.radio/uber/bollywooduditnarayan/icecast.audio",
+"logo": "http://hindiradioapp.com/images/uditnarayan.jpg"
+},
+{
+"name": "Nusrat Fateh Ali Khan",
+"category": "Artist Radios",
+"url": "http://radio.esplservers.com:8579/stream",
+"logo": "http://hindiradioapp.com/images/nusratfatehalikhan.jpg"
 },
 {
 "name": "Asha Bhosle Radio",
+"category": "Artist Radios",
 "url": "http://stream.zenolive.com/55dqsbewxwzuv",
-"logo": "http://shortfilmsite.com/images/ashabhosleradio.jpg",
-"category": "Artist Radios"
+"logo": "http://hindiradioapp.com/images/ashabhosleradio.jpg"
 },
 {
-"name": "Kumar Sanu Radio",
-"url": "http://stream.zenolive.com/602qmg5ts0quv",
-"logo": "http://shortfilmsite.com/images/kumarsanu.jpg",
-"category": "Artist Radios"
+"name": "Mohd Rafi Radio",
+"category": "Artist Radios",
+"url": "http://radio.mohdrafi.com/rafi.mp3",
+"logo": "http://hindiradioapp.com/images/mohammedrafiradio.jpg"
 },
 {
-"name": "Sanjay desh pande",
-"url": "http://sirius.shoutca.st:8608/;",
-"logo": "http://shortfilmsite.com/images/sanjaydeshpande.jpg",
-"category": "Artist Radios"
+"name": "Alka Yagnik",
+"category": "Artist Radios",
+"url": "http://drive.uber.radio/uber/bollywoodalkayagnik/icecast.audio",
+"logo": "http://hindiradioapp.com/images/alka.jpg"
+},
+{
+"name": "Pritam Radio",
+"category": "Artist Radios",
+"url": "https://drive.uber.radio/uber/bollywoodpritam/icecast.audio",
+"logo": "http://hindiradioapp.com/images/pritam.jpg"
+},
+{
+"name": "Vishal & Shekhar",
+"category": "Artist Radios",
+"url": "https://drive.uber.radio/uber/bollywoodvishalandshekhar/icecast.audio",
+"logo": "http://hindiradioapp.com/images/vishalshekar.jpg"
+},
+{
+"name": "Mohammed Aziz Radio",
+"category": "Artist Radios",
+"url": "http://stream.zenolive.com/p5ny63td1d0uv",
+"logo": "http://hindiradioapp.com/images/aziz.jpg"
+},
+{
+"name": "Arjit Singh Radio",
+"category": "Artist Radios",
+"url": "https://drive.uber.radio/uber/bollywoodaruitsingh/icecast.audio",
+"logo": "http://hindiradioapp.com/images/arjitsinghradio.jpg"
+},
+{
+"name": "Neha Kakkar",
+"category": "Artist Radios",
+"url": "http://drive.uber.radio/uber/bollywoodneharkakkar/icecast.audio",
+"logo": "http://hindiradioapp.com/images/neka.jpg"
+},
+{
+"name": "SRK Radio",
+"category": "Artist Radios",
+"url": "https://drive.uber.radio/uber/bollywoodshahrukhkhan/icecast.audio",
+"logo": "http://hindiradioapp.com/images/radiosrk.jpg"
+},
+{
+"name": "Shreya Ghosal",
+"category": "Artist Radios",
+"url": "https://drive.uber.radio/uber/bollywoodshreyaghosal/icecast.audio",
+"logo": "http://hindiradioapp.com/images/shreyaghosal.jpg"
 },
 {
 "name": "Karan Aujla",
+"category": "Artist Radios",
 "url": "http://stream.zenolive.com/c3pvhyxchrruv",
-"logo": "http://shortfilmsite.com/images/karanaujla.jpg",
-"category": "Artist Radios"
+"logo": "http://hindiradioapp.com/images/karanaujla.jpg"
+},
+{
+"name": "Neha Kakkar",
+"category": "Artist Radios",
+"url": "http://stream.zenolive.com/bh3dndmsxd0uv",
+"logo": "http://hindiradioapp.com/images/nehakakkar.jpg"
+},
+{
+"name": "Kumar Sanu Radio",
+"category": "Artist Radios",
+"url": "http://stream.zenolive.com/602qmg5ts0quv",
+"logo": "http://hindiradioapp.com/images/kumarsanu.jpg"
+},
+{
+"name": "Nooran Sisters",
+"category": "Artist Radios",
+"url": "http://radio.esplservers.com:8648/stream",
+"logo": "http://hindiradioapp.com/images/nooransisters.jpg"
+},
+{
+"name": "Kishore Kumar Hits",
+"category": "Artist Radios",
+"url": "http://stream.zenolive.com/0ghtfp8ztm0uv",
+"logo": "http://hindiradioapp.com/images/kishorekumarradio.jpg"
+},
+{
+"name": "Mohammed Rafi",
+"category": "Artist Radios",
+"url": "http://stream.zenolive.com/161u376u2gruv",
+"logo": "http://hindiradioapp.com/images/mohammedrafiradio.jpg"
+},
+{
+"name": "Sanjay desh pande",
+"category": "Artist Radios",
+"url": "http://sirius.shoutca.st:8608/;",
+"logo": "http://hindiradioapp.com/images/sanjaydeshpande.jpg"
+},
+{
+"name": "Babbu Maan Hits",
+"category": "Artist Radios",
+"url": "http://149.56.195.94:8342/stream",
+"logo": "http://hindiradioapp.com/images/babbumaan.jpg"
 },
 {
 "name": "Lata Mangeshkar",
+"category": "Artist Radios",
 "url": "http://stream.zeno.fm/87xam8pf7tzuv",
-"logo": "http://shortfilmsite.com/images/latamangeshkarradio.jpg",
-"category": "Artist Radios"
+"logo": "http://hindiradioapp.com/images/latamangeshkarradio.jpg"
 },
 {
-"name": "Mohammed Rafi Radio",
-"url": "http://stream.zenolive.com/161u376u2gruv",
-"logo": "http://shortfilmsite.com/images/mohammedrafiradio.jpg",
-"category": "Artist Radios"
-}]
+"name": "Badshah Radio",
+"category": "Artist Radios",
+"url": "http://drive.uber.radio/uber/bollywoodbadshah/icecast.audio",
+"logo": "http://hindiradioapp.com/images/badshah.jpg"
+}
+	]
