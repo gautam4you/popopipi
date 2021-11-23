@@ -1,4 +1,28 @@
 [
+	{
+		"name": "Hindi Gold Radio",
+		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCksOClh+Ckn+CljeCksOCliyDgpKzgpYngpLLgpYDgpLXgpYHgpKE=",
+		"url": "http://azuracast.vibesounds.in:8010/radio.mp3",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood,Web",
+		"image": "http://hindiradioapp.com/images/hindigold.jpg"
+	},
+	{
+		"name": "B and W Classics",
+		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCksOClh+Ckn+CljeCksOCliyDgpKzgpYngpLLgpYDgpLXgpYHgpKE=",
+		"url": "http://103.16.47.70:7888/;",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood,Web",
+		"image": "http://hindiradioapp.com/images/bwclassics1.jpg"
+	},
+	{
+		"name": "Radio Namkin",
+		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCksOClh+Ckn+CljeCksOCliyDgpKzgpYngpLLgpYDgpLXgpYHgpKE=",
+		"url": "http://malta2044.startdedicated.com:8888/stream",
+		"samplerate": "",
+		"cat": "Hindi,Bollywood,Web",
+		"image": "http://hindiradioapp.com/images/radionamkin.jpg"
+	},
 	 {
 		"name": "Sunidhi chauhan",
 		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCksOClh+Ckn+CljeCksOCliyDgpKzgpYngpLLgpYDgpLXgpYHgpKE=",
