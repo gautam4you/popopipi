@@ -84,22 +84,10 @@
 "logo": "http://shortfilmsite.com/images/airnagpur.jpg"
 },
 {
-"name": "Udyam Radio",
-"url": "http://85.25.185.202:8413/stream",
-"category": "Marathi Radios",
-"logo": "https://shortfilmsite.com/images/udyamradio.jpg"
-},
-{
 "name": "Radio Saptrang",
 "url": "http://malta2044.startdedicated.com:8138/stream",
 "category": "Marathi Radios",
 "logo": "http://shortfilmsite.com/images/radiosaptarang.jpg"
-},
-{
-"name": "Puneri Awaz Radio Pune",
-"url": "https://icecast.bkwsu.eu/radio-awaz-pune.mp3",
-"category": "Marathi Radios",
-"logo": "http://shortfilmsite.com/images/puneriawaz.jpg"
 },
 {
 "name": "Rdaio Sugar 90.8 FM",
@@ -132,12 +120,6 @@
 "logo": "http://shortfilmsite.com/images/amravati.jpg"
 },
 {
-"name": "Mirchi Mumbai Marathi",
-"url": "https://marathimumbai-lh.akamaihd.net/i/Marathimumbai_1@710773/master.m3u8",
-"category": "Marathi Radios",
-"logo": "http://shortfilmsite.com/images/mirchimumbaimarathi.jpg"
-},
-{
 "name": "Radio Gandhar",
 "url": "http://gandhar.riggrodigital.com:8031/stream",
 "category": "Marathi Radios",
@@ -148,12 +130,6 @@
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio074/playlist.m3u8",
 "category": "Marathi Radios",
 "logo": "http://shortfilmsite.com/images/airchandrapur.jpg"
-},
-{
-"name": "Radio Pol Khol",
-"url": "http://85.25.185.202:8294/stream",
-"category": "Marathi Radios",
-"logo": "https://shortfilmsite.com/images/radiopolkhol.jpg"
 },
 {
 "name": "Anant Radio",
@@ -294,12 +270,6 @@
 "logo": "http://shortfilmsite.com/images/sammumbai.jpg"
 },
 {
-"name": "AIR Osmanabad",
-"url": "hhttp://air.pc.cdn.bitgravity.com/air/live/pbaudio132/playlist.m3u8",
-"category": "Marathi Radios",
-"logo": "http://shortfilmsite.com/images/airosmanabad.jpg"
-},
-{
 "name": "Jesus Coming FM Marathi",
 "url": "http://live.jesuscomingfm.com:8602/;",
 "category": "Marathi Radios",
@@ -364,12 +334,6 @@
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio076/playlist.m3u8",
 "category": "Marathi Radios",
 "logo": "http://shortfilmsite.com/images/airsatara.jpg"
-},
-{
-"name": "AIR Sindhudurg",
-"url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio219/playlist.m3u8",
-"category": "Marathi Radios",
-"logo": "http://shortfilmsite.com/images/airsindu.jpg"
 },
 {
 "name": "Maayboli",
@@ -486,12 +450,6 @@
 "url": "http://stream.zeno.fm/6c2aknysad0uv"
 },
 {
-"name": "ISHQ FM",
-"url": "http://ishq_mumbai-lh.akamaihd.net/i/Ishq_Mumbai_1@855087/master.m3u8",
-"category": "Hindi FM Radios",
-"logo": "http://shortfilmsite.com/images/ishqfm.jpg"
-},
-{
 "name": "Kadak FM",
 "url": "https://admdn7ta.cdn.mangomolo.com/mirchirdo/mirchirdo.stream_aac/index.m3u8",
 "category": "Hindi FM Radios",
@@ -502,12 +460,6 @@
 "url": "https://funasia.streamguys1.com/live4",
 "category": "Hindi FM Radios",
 "logo": "http://shortfilmsite.com/images/bigfm12.jpg"
-},
-{
-"name": "Mirchi Love 104.2 FM",
-"url": "https://mirchilove-lh.akamaihd.net/i/MIRCHILOVE_1@32886/master.m3u8",
-"category": "Hindi FM Radios",
-"logo": "http://shortfilmsite.com/images/mirchiloveradio.jpg"
 },
 {
 "name": "Radio Mirchi Delhi",
@@ -628,12 +580,6 @@
 "url": "https://ice7.securenetsystems.net/WWTR?",
 "category": "Hindi FM Radios",
 "logo": "http://shortfilmsite.com/images/ebcradio.jpg"
-},
-{
-"name": "Love Guru Radio city",
-"url": "http://prclive1.listenon.in:8808/;",
-"category": "Hindi FM Radios",
-"logo": "http://shortfilmsite.com/images/radiocityloveguru.jpg"
 },
 {
 "name": "Radio Mirchi RALEIGH",
@@ -3094,12 +3040,6 @@
 "url": "http://stream.zenolive.com/n1b55arwqg0uv",
 "category": "Community Radios",
 "logo": "http://shortfilmsite.com/images/radionoida1.jpg"
-},
-{
-"name": "Radio Ragini",
-"url": "http://malta2044.startdedicated.com:8090/stream",
-"category": "Community Radios",
-"logo": "http://shortfilmsite.com/images/radioraagini.jpg"
 },
 {
 "name": "BHF Radio",
