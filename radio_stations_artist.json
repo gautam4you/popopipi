@@ -367,24 +367,6 @@
 		"pub": "19-11-2020"
 	},
 	 {
-		"name": "Radio Yarana",
-		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCkr+CkvuCksOCkvuCkqOCkvg==",
-		"url": "http://us3.internet-radio.com:8250/autodj",
-		"samplerate": "",
-		"cat": "Hindi,Bollywood,Web",
-		"image": "http://shortfilmsite.com/images/radioyarana.jpg",
-		"pub": "13-11-2020"
-	},
-	 {
-		"name": "Radio Gurgaon Ki Awaaz",
-		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCkl+ClgeCkoeCkvOCkl+CkvuCkguCktSDgpJXgpYAg4KSG4KS14KS+4KSc4KS8",
-		"url": "https://audiounites.org/radio/8030/radio.mp3",
-		"samplerate": "",
-		"cat": "Hindi,Bollywood,Web",
-		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/Gurgaon-Ki-Awaaz.jpg",
-		"pub": "27-11-2020"
-	},
-	 {
 		"name": "Radio Mausam",
 		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCkruCljOCkuOCkrg==",
 		"url": "http://85.25.185.202:8318/stream",
@@ -401,25 +383,6 @@
 		"cat": "Hindi,Bollywood,Web",
 		"image": "http://shortfilmsite.com/images/922eastwave.jpg",
 		"pub": "02-11-2020"
-	},
-	 {
-		"name": "Himal",
-		"name_h": "SGltYWw=",
-		"url": "http://144.76.110.138:9950/;",
-		"samplerate": "",
-		"cat": "Hindi,Bollywood,Web",
-		"image": "http://shortfilmsite.com/images/himalradio.jpg",
-		"pub": "26-10-2020"
-	},
-	
-       {
-		"name": "Pahla Nasha",
-		"name_h": "4KSq4KS+4KS54KSy4KS+IOCkqOCktuCkvg==",
-		"url": "https://wmirchi-lh.akamaihd.net/i/WMIRCHI_1@75780/index_1_a-p.m3u8",
-		"samplerate": "",
-		"cat": "Hindi,Bollywood,Web",
-		"image": "https://static.mytuner.mobi/media/tvos_radios/4evkagl48buu.jpeg",
-		"pub": "20-10-2020"
 	},
 	{
 		"name": "ISHQ Delhi",
@@ -475,15 +438,7 @@
 		"image": "https://cdn-profiles.tunein.com/s7534/images/logoq.jpg?t=1",
 		"pub": "24-01-2021"
 	},
-	{
-		"name": "Radio Nashaa",
-		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCkqOCktuCkvg==",
-		"url": "http://s1.thailandstreaming.net:8020/nashaa.mp3",
-		"samplerate": "",
-		"cat": "Hindi,Bollywood,Web",
-		"image": "http://shortfilmsite.com/images/radionashaafm.jpg",
-		"pub": "30-08-2020"
-	},
+
 	{
 		"name": "Radio Anardana",
 		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCkheCkqOCkvuCksOCkpuCkvuCkqOCkvg==",
@@ -501,15 +456,6 @@
 		"cat": "Hindi,Bollywood,Web",
 		"image": "http://shortfilmsite.com/images/kadakfm.jpg",
 		"pub": "20-08-2020"
-	},
-	{
-		"name": "Mirchi Toota Dil",
-		"name_h": "4KSu4KS/4KSw4KWN4KSa4KWAIOCkn+ClguCkn+CkviDgpKbgpL/gpLI=",
-		"url": "https://tootadil-lh.akamaihd.net/i/tootadil_1@42539/master.m3u8",
-		"samplerate": "",
-		"cat": "Hindi,Bollywood,Web",
-		"image": "http://shortfilmsite.com/images/mirchitootadil.jpg",
-		"pub": "11-07-2020"
 	},
 	{
 		"name": "Bolly Hits Radio",
@@ -602,15 +548,6 @@
 		"pub": "11-07-2020"
 	},
 	{
-		"name": "Radio Crazy One",
-		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCkleCljeCksOClh+CknOClgCDgpLXgpKg=",
-		"url": "http://crazyone.riggrodigital.com:8174/streamstream",
-		"samplerate": "",
-		"cat": "Hindi,Bollywood,Web",
-		"image": "http://shortfilmsite.com/images/radiocrazyone.jpg",
-		"pub": "05-07-2020"
-	},
-	{
 		"name": "YO Punjabi Mirchi",
 		"name_h": "WU8g4KSq4KSC4KSc4KS+4KSs4KWAIOCkruCkv+CksOCljeCkmuClgA==",
 		"url": "https://yopunjabihdlive-lh.akamaihd.net/i/YoPunjabiHDLive_1_1@345454/master.m3u8",
@@ -618,15 +555,6 @@
 		"cat": "Hindi,Bollywood,Web",
 		"image": "http://shortfilmsite.com/images/yopunjabimirchi.jpg",
 		"pub": "05-07-2020"
-	},
-	{
-		"name": "Radio Narmada",
-		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCkqOCksOCljeCkruCkpuCkvg==",
-		"url": "http://85.25.185.202:8255/stream",
-		"samplerate": "",
-		"cat": "Hindi,Bollywood,Web",
-		"image": "http://shortfilmsite.com/images/radionarmada.jpg",
-		"pub": "02-07-2020"
 	},
 	{
 		"name": "Ever Green Bollywood",
@@ -674,30 +602,12 @@
 		"pub": "03-03-2020"
 	},
 	{
-		"name": "Mirchi Drive Radio",
-		"name_h": "4KSu4KS/4KSw4KWN4KSa4KWAIOCkoeCljeCksOCkvuCkh+CktSDgpLDgpYfgpKHgpL/gpK/gpYs=",
-		"url": "https://driveradio-lh.akamaihd.net/i/DriveRadio_1@793591/master.m3u8",
-		"samplerate": "",
-		"cat": "Hindi,bollywood",
-		"image": "http://shortfilmsite.com/images/mirchidriveradio.jpg",
-		"pub": "26-01-2020"
-	},
-	{
 		"name": "Club Mirchi",
 		"name_h": "4KSV4KWN4KSy4KSsIOCkruCkv+CksOCljeCkmuClgA==",
 		"url": "https://clubmirchihdlive-lh.akamaihd.net/i/ClubMirchiHDLive_1_1@336269/master.m3u8",
 		"samplerate": "",
 		"cat": "Hindi,bollywood",
 		"image": "http://shortfilmsite.com/images/clubmirchi.jpg",
-		"pub": "26-01-2020"
-	},
-	{
-		"name": "Meethi Mirchi",
-		"name_h": "4KSu4KWA4KSg4KWAIOCkruCkv+CksOCljeCkmuClgA==",
-		"url": "http://meethimirchihdl-lh.akamaihd.net/i/MeethiMirchiHDLive_1_1@320572/master.m3u8",
-		"samplerate": "",
-		"cat": "Hindi,bollywood",
-		"image": "http://shortfilmsite.com/images/meethimirchi.jpg",
 		"pub": "26-01-2020"
 	},
 	{
@@ -791,15 +701,6 @@
 		"pub": "06-10-2018"
 	},
 	{
-		"name": "Dhol Radio",
-		"name_h": "4KSi4KWL4KSyIOCksOClh+CkoeCkv+Ckr+Cliw==",
-		"url": "http://gill.sukhpal.net:8000/;stream.mp3",
-		"samplerate": "11025",
-		"cat": "Hindi,Bollywood,Web",
-		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/dhol.png",
-		"pub": "26-10-2018"
-	},
-	{
 		"name": "HUMM FM  ",
 		"name_h": "4KS54KSu4KWN4KSuIOCkj+Ckq+Ckj+Ckrg==",
 		"url": "https://cp12.serverse.com/proxy/hummfm?mp=/live",
@@ -872,16 +773,6 @@
 		"pub": "28-06-2019"
 	},
 	{
-		"name": "Red 93.5 FM",
-		"name_h": "4KSy4KS+4KSyIDkzLjUg4KSP4KSr4KSP4KSu",
-		"url": "http://prclive1.listenon.in:8808/;",
-		"samplerate": "",
-		"cat": "Web,Hindi",
-		"pub": "04-05-2019",
-		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/red-fm15.jpg"
-
-	},
-	{
 		"name": "Purani Jeans",
 		"name_h": "4KSq4KWB4KSw4KS+4KSj4KWAIOCknOClgOCkqOCljeCkuA==",
 		"url": "https://puranijeanshdliv-lh.akamaihd.net/i/PuraniJeansHDLive_1_1@334555/index_1_a-p.m3u8",
@@ -890,15 +781,6 @@
 		"pub": "23-04-2019",
 		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/retrohindi.png"
 
-	},
-	{
-		"name": "Gaana Meethi Mirchi",
-		"name_h": "4KSX4KS+4KSo4KS+IOCkruClgOCkoOClgCDgpK7gpL/gpLDgpY3gpJrgpYA=",
-		"url": "https://meethimirchihdl-lh.akamaihd.net//i/MeethiMirchiHDLive_1_1@320572/master.m3u8",
-		"samplerate": "44100",
-		"cat": "Hindi,Bollywood",
-		"image": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/2z69hnevkvam.jpeg",
-		"pub": "05-09-2018"
 	},
 	{
 		"name": "Gaana Club Mirchi",
@@ -926,15 +808,6 @@
 		"cat": "Hindi,Bollywood,Web",
 		"image": "https://cdn-profiles.tunein.com/s121492/images/logoq.png?t=636259",
 		"pub": "14-10-2018"
-	},
-	{
-		"name": "AIR Bangla",
-		"name_h": "QUlSIEJhbmdsYQ==",
-		"url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio134/playlist.m3u8",
-		"samplerate": "",
-		"cat": "Hindi",
-		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/air_bangla.jpg",
-		"pub": "15-09-2020"
 	},
 	{
 		"name": "AIR Almora",
@@ -1074,16 +947,6 @@
 
 	},
 	{
-		"name": "vahonfm",
-		"name_h": "dmFob25mbQ==",
-		"url": "http://94.23.148.11:8058/;",
-		"samplerate": "",
-		"cat": "Hindi,bollywood",
-		"pub": "28-12-2019",
-		"image": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/Vahon-FM-100x47.jpg"
-
-	},
-	{
 		"name": "Radio Love Guru",
 		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCksuCktSDgpJfgpYHgpLDgpYE=",
 		"url": "https://prclive4.listenon.in/Ishq",
@@ -1167,15 +1030,6 @@
 		"pub": "23-09-2019"
 	},
 	{
-		"name": "Jazbaa FM ",
-		"name_h": "4KSc4KWb4KWN4KSs4KS+IOCkq+Ckrg==",
-		"url": "https://stream.radio.co/s0e4cf6d8e/listen",
-		"samplerate": "",
-		"cat": "Hindi,Bollywood",
-		"image": "https://cdn.onlineradios.net/hindiradios/assets/img/radio-logos/jazbaa-fm-hindi-radio.jpg",
-		"pub": "09-09-2019"
-	},
-	{
 		"name": "Radio Tarana  ",
 		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCkpOCksOCkvuCkqOCkvg==",
 		"url": "http://peridot.streamguys.com:7150/Tarana.aac",
@@ -1219,15 +1073,6 @@
 		"cat": "Hindi,Devotional",
 		"image": "https://cdn.onlineradiobox.com/img/logo/8/79898.v1.png",
 		"pub": "27-08-2019"
-	},
-	{
-		"name": "Radioazad FM   ",
-		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWL4KSc4KS84KS+4KSmIOCkj+Ckq+Ckj+Ckrg==",
-		"url": "http://162.244.80.30:8234/;stream.mp3",
-		"samplerate": "",
-		"cat": "Hindi,Bollywood",
-		"image": "https://cdn.onlineradios.net/hindiradios/assets/img/radio-logos/radio-azard-fm.jpg",
-		"pub": "11-08-2019"
 	},
 	{
 		"name": "Hungama 90s SuperHits  ",
@@ -1306,24 +1151,6 @@
 
 	},
 	{
-		"name": "Hindi Cricket",
-		"name_h": "SGluZGkgQ3JpY2tldA==",
-		"url": "https://securestreams2.autopo.st:1079/sportsflashes_cricket",
-		"samplerate": "",
-		"cat": "cricket",
-		"image": "https://hindiradios.com/assets/img/radio-logos/cricket-hindi-fm.jpg",
-		"pub": "26-03-2019"
-	},
-	{
-		"name": "Nuke Hindi",
-		"name_h": "TnVrZSBIaW5kaQ==",
-		"url": "http://live.nukeradio.com:8016/stream3;",
-		"samplerate": "",
-		"cat": "Bollywood,Hindi",
-		"image": "https://radiosindia.com/images/nukehindioldhits.jpg",
-		"pub": "24-03-2019"
-	},
-	{
 		"name": "iWiFM",
 		"name_h": "aVdpRk0=",
 		"url": "http://s2.myradiostream.com:29270/;",
@@ -1352,16 +1179,6 @@
 
 	},
 	{
-		"name": "Mashup102 Radio",
-		"name_h": "TWFzaHVwMTAyIOCksOClh+CkoeCkv+Ckr+Cliw==",
-		"url": "http://163.172.213.155:8010/stream",
-		"samplerate": "",
-		"pub": "19-01-2019",
-		"cat": "Web,Hindi",
-		"image": "https://cdn.onlineradios.net/hindiradios/assets/img/radio-logos/mashup-102-radio.jpg"
-
-	},
-	{
 		"name": "JSR Radio",
 		"name_h": "4KSc4KWH4KSP4KS44KSG4KSwIOCksOClh+CkoeCkv+Ckr+Cliw==",
 		"url": "http://198.7.59.28:8078/stream/1/",
@@ -1379,15 +1196,6 @@
 		"pub": "17-01-2019",
 		"cat": "Web,Hindi",
 		"image": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/pdLYxmgsuN.png"
-
-	},
-	{
-		"name": "My Masti Radio",
-		"name_h": "4KSu4KS+4KSIIOCkruCkuOCljeCkpOClgCDgpLDgpYfgpKHgpL/gpK/gpYs=",
-		"url": "http://144.217.203.184:9056/;",
-		"samplerate": "",
-		"pub": "13-01-2019",
-		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/mymastiradio.jpg"
 
 	},
 	{
@@ -1489,15 +1297,6 @@
 		"pub": "02-12-2018"
 	},
 	{
-		"name": "Ishq 104.8 fm",
-		"name_h": "4KSH4KS24KWN4KSVIDEwNC44IOCkj+Ckq+Ckj+Ckrg==",
-		"url": "http://prclive1.listenon.in:8808/;",
-		"samplerate": "",
-		"cat": "Hindi,Bollywood,Web",
-		"image": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/yu6hkdagcyxv.png",
-		"pub": "28-11-2018"
-	},
-	{
 		"name": "Houston KI Jaan",
 		"name_h": "SG91c3RvbiBLSSBKYWFu",
 		"url": "http://ice8.securenetsystems.net/SGTRADIO?type=.flv",
@@ -1579,15 +1378,6 @@
 		"pub": "19-10-2018"
 	},
 	{
-		"name": "Bolly 102.9",
-		"name_h": "4KSs4KWL4KSy4KWAIDEwMi45",
-		"url": "http://perseus.shoutca.st:8536/;",
-		"samplerate": "",
-		"cat": "Hindi,Bollywood,Web",
-		"image": "https://media.licdn.com/dms/image/C4D0BAQHRUgWvTbcJBA/company-logo_200_200/0?e=2159024400&v=beta&t=2FKQwvPErcQt_zpA22mwRcyE_l_a3RP_L8LdOM-Wcrk",
-		"pub": "09-09-2018"
-	},
-	{
 		"name": "Kalighat Radio",
 		"name_h": "4KSV4KS+4KSy4KWA4KSY4KS+4KSfIOCksOClh+CkoeCkv+Ckr+Cliw==",
 		"url": "http://198.178.123.14:8216/;stream.mp3",
@@ -1624,15 +1414,6 @@
 		"pub": "10-10-2018"
 	},
 	{
-		"name": "Gaana Devraag",
-		"name_h": "4KSX4KS+4KSo4KS+IOCkpuClh+CkteCksOCkvuCklw==",
-		"url": "https://mt20live-lh.akamaihd.net/i/mt20live_1@346531/master.m3u8",
-		"samplerate": "44100",
-		"cat": "Hindi,Bollywood,Web",
-		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/dev.png",
-		"pub": "07-10-2018"
-	},
-	{
 		"name": "Caprice Radio Classical",
 		"name_h": "Q2FwcmljZSDgpLDgpYfgpKHgpL/gpK/gpYsg4KS24KS+4KS44KWN4KSk4KWN4KSw4KWA4KSv",
 		"url": "http://79.111.14.76:9021/",
@@ -1651,15 +1432,6 @@
 		"pub": "06-10-2018"
 	},
 	{
-		"name": "Megazone Bollywood",
-		"name_h": "4KSu4KWH4KSX4KS+4KSc4KS84KWL4KSoIOCkrOClieCksuClgOCkteClgeCkoQ==",
-		"url": "http://zas1.ndx.co.za:8128/;listen.mp3",
-		"samplerate": "44100",
-		"cat": "Hindi,Bollywood,Web",
-		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/mag.png",
-		"pub": "06-10-2018"
-	},
-	{
 		"name": "Hum Safar",
 		"name_h": "4KS54KSuIOCkuOCkq+CkvuCksA==",
 		"url": "http://ice2.securenetsystems.net/HUMSAFAR",
@@ -1667,25 +1439,6 @@
 		"cat": "Hindi,Bollywood",
 		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/hum.jpg",
 		"pub": "06-10-2018"
-	},
-	{
-		"name": "Caprice Radio",
-		"name_h": "Q2FwcmljZSDgpLDgpYfgpKHgpL/gpK/gpYs=",
-		"url": "http://79.120.39.202:9089/",
-		"samplerate": "44100",
-		"cat": "Hindi,Bollywood,Web",
-		"image": "https://us0-cdn.onlineradiobox.com/img/logo/5/62055.v13.png",
-		"pub": "05-10-2018"
-	},
-
-	{
-		"name": "Desi music mix",
-		"name_h": "4KSm4KWH4KS44KWAIOCkuOCkguCkl+ClgOCkpCDgpK7gpL/gpLbgpY3gpLDgpKM=",
-		"url": "http://desimusicmix.com:8000/HQ",
-		"samplerate": "",
-		"cat": "Hindi,Bollywood,Web",
-		"image": "http://static.radio.net/images/broadcasts/5c/a4/10456/c175.png",
-		"pub": "02-10-2018"
 	},
 	{
 		"name": "Bombay beats",
@@ -1706,30 +1459,12 @@
 		"pub": "29-09-2018"
 	},
 	{
-		"name": "Garam Masala",
-		"name_h": "4KSX4KSw4KSuIOCkruCkuOCkvuCksuCkvg==",
-		"url": "http://69.175.94.98:8146/",
-		"samplerate": "",
-		"cat": "Hindi,Bollywood",
-		"image": "http://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Garam-Masala.jpg",
-		"pub": "29-09-2018"
-	},
-	{
 		"name": "Awaz FM",
 		"name_h": "QXdheiDgpI/gpKvgpI/gpK4=",
 		"url": "http://icecast.commedia.org.uk:8000/awaz.mp3",
 		"samplerate": "11025",
 		"cat": "Hindi,Bollywood,Web",
 		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/awz.jpg",
-		"pub": "27-09-2018"
-	},
-	{
-		"name": "AIR Gujarati",
-		"name_h": "4KSP4KSv4KSwIOCkl+ClgeCknOCksOCkvuCkpOClgA==",
-		"url": "http://airgujarati-lh.akamaihd.net/i/airgujarati_1@507814/index_1_a-p.m3u8",
-		"samplerate": "44100",
-		"cat": "Hindi,Bollywood",
-		"image": "https://imgsvr.radiocut.site/get/crop/center/200/200/radio_logos/a0/25/a0252fe0-9b8c-4be7-aaf0-71ed7d6a88f3.jpg",
 		"pub": "27-09-2018"
 	},
 	{
@@ -1805,15 +1540,6 @@
 		"pub": "14-08-2018"
 	},
 	{
-		"name": "Himal Hindi Ghazals",
-		"name_h": "4KS54KS/4KSu4KS+4KSa4KSyIOCkueCkv+CkguCkpuClgCDgpJfgpJzgpLzgpLI=",
-		"url": "http://144.76.110.138:9810/;",
-		"samplerate": "",
-		"cat": "Hindi,Bollywood,Web",
-		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/himachal.png",
-		"pub": "14-08-2018"
-	},
-	{
 		"name": "Radio India",
 		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCkh+CkguCkoeCkv+Ckr+Ckvg==",
 		"url": "http://162.244.80.52:4614/stream/1/",
@@ -1832,14 +1558,6 @@
 		"pub": "04-08-2018"
 	},
 	{
-		"name": "Bollywood and beyond Hindi",
-		"name_h": "4KSs4KWJ4KSy4KWA4KS14KWB4KShIOCklOCksCDgpLngpL/gpILgpKbgpYAg4KS44KWHIOCkquCksOClhw==",
-		"url": "http://96.31.83.86:8084/;",
-		"samplerate": "",
-		"cat": "Hindi,Bollywood,Web",
-		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/bollywood-beyond11.png"
-	},
-	{
 		"name": "Madhuban Radio",
 		"name_h": "4KSu4KSn4KWB4KSs4KSoIOCksOClh+CkoeCkv+Ckr+Cliw==",
 		"url": "http://icecast.bkwsu.eu/radiomadhuban.ogg",
@@ -1847,73 +1565,12 @@
 		"cat": "Hindi,Bollywood,Web",
 		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/madhuban.jpg"
 	},
-
-	{
-		"name": "Radio City",
-		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCkuOCkv+Ckn+ClgA==",
-		"url": "http://prclive1.listenon.in:9960/;",
-		"samplerate": "",
-		"cat": "Hindi",
-		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/radiocity9911.jpg"
-
-	},
-	{
-		"name": "Radiocity ISHQ",
-		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCkuOClgOCkn+ClgCDgpIjgpLbgpJU=",
-		"url": "http://prclive1.listenon.in:8808/",
-		"samplerate": "",
-		"cat": "Hindi",
-		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/isq.jpg"
-
-	},
-	{
-		"name": "Radio City Smaran",
-		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCkuOCkv+Ckn+ClgCDgpLjgpY3gpK7gpLDgpKM=",
-		"url": "http://prclive1.listenon.in:9950/",
-		"samplerate": "",
-		"cat": "Hindi,Bollywood,Web",
-		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/simran.jpg"
-
-	},
-	{
-		"name": "Radio City Ghazal",
-		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCkuOCkv+Ckn+ClgCDgpJfgpJzgpLzgpLI=",
-		"url": "http://prclive1.listenon.in:8860/",
-		"samplerate": "",
-		"cat": "Hindi,Bollywood,Web",
-		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/gazal.jpg"
-
-	},
-	{
-		"name": "Radio Srinagar",
-		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCktuCljeCksOClgOCkqOCkl+CksA==",
-		"url": "http://streaming01.x-6.nl:8000/",
-		"samplerate": "",
-		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/shrinagar.jpg"
-
-	},
 	{
 		"name": "Ujala Radio",
 		"name_h": "4KSJ4KSc4KS+4KSy4KS+IOCksOClh+CkoeCkv+Ckr+Cliw==",
 		"url": "http://stream2.ujala.nl/stream/2/listen.mp3",
 		"samplerate": "",
 		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/ujala.jpg"
-
-	},
-	{
-		"name": "Air FM GOLD",
-		"name_h": "4KSP4KSv4KSwIOCkj+Ckq+Ckj+CkriDgpJfgpYvgpLLgpY3gpKE=",
-		"url": "http://airfmgold-lh.akamaihd.net/i/fmgold_1@507591/index_1_a-p.m3u8",
-		"samplerate": "44100",
-		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/fmgold.jpeg"
-
-	},
-	{
-		"name": "Air FM Rainbow",
-		"name_h": "4KSP4KSv4KSwIOCkj+Ckq+Ckj+CkriDgpIfgpILgpKbgpY3gpLDgpKfgpKjgpYHgpLc=",
-		"url": "https://radioindia.net/radio/rainbow_radio/icecast.audio",
-		"samplerate": "44100",
-		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/ranbow.jpg"
 
 	},
 	{
@@ -1930,22 +1587,6 @@
 		"url": "https://prclive4.listenon.in/Dance",
 		"samplerate": "",
 		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/citydance.jpg"
-
-	},
-	{
-		"name": "Aakashvani Hindi FM",
-		"name_h": "4KSG4KSV4KS+4KS24KS14KS+4KSj4KWAIOCkueCkv+CkguCkpuClgCDgpI/gpKvgpI/gpK4=",
-		"url": "http://media.guardian.co.tt:8000/aakashvaniradio",
-		"samplerate": "",
-		"image": "http://static.radio.net/images/broadcasts/51/c7/23196/c175.png"
-
-	},
-	{
-		"name": "Suno 1024 FM",
-		"name_h": "4KS44KWB4KSo4KWLIDEwMjQg4KSP4KSr4KSP4KSu",
-		"url": "http://50.7.71.27:9693/;",
-		"samplerate": "",
-		"image": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/akanwfbdks9m.png"
 
 	},
 	{
@@ -1981,29 +1622,12 @@
 
 	},
 	{
-		"name": "Radio Garam Masala",
-		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCkl+CksOCkriDgpK7gpLjgpL7gpLLgpL4=",
-		"url": "http://69.175.94.98:8146/;",
-		"samplerate": "",
-		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/garam.jpg"
-
-	},
-	{
 		"name": "Lyca Radio Fm",
 		"name_h": "4KSy4KS+4KSH4KSV4KS+IOCksOClh+CkoeCkv+Ckr+CliyDgpI/gpKvgpI/gpK4=",
 		"url": "http://tx.sharp-stream.com/http_live.php?i=1458.mp3",
 		"samplerate": "",
 		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/lyca.jpg"
 
-	},
-
-
-	{
-		"name": "Bollywood music Radio",
-		"name_h": "4KSs4KWJ4KSy4KWA4KS14KWB4KShIOCkuOCkguCkl+ClgOCkpCDgpLDgpYfgpKHgpL/gpK/gpYs=",
-		"url": "http://64.71.79.181:5124/stream",
-		"samplerate": "",
-		"image": "http://www.listenradios.com/wp-content/uploads/2011/05/Bollywood-Music-FM.jpg"
 	},
 	{
 		"name": "Luminous Radio - Hindi",
@@ -2015,14 +1639,6 @@
 
 	},
 	{
-		"name": "spiceradio.ca",
-		"name_h": "c3BpY2VyYWRpby5jYQ==",
-		"url": "http://149.56.147.197:9091/",
-		"samplerate": "",
-		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/spice.jpg",
-		"pub": "19-02-2019"
-	},
-	{
 		"name": "Gee Radio Hindu Religious ",
 		"name_h": "4KSc4KWAIOCksOClh+CkoeCkv+Ckr+CliyDgpLngpL/gpILgpKbgpYIg4KSn4KS+4KSw4KWN4KSu4KS/4KSV",
 		"url": "http://149.56.195.94:8303/",
@@ -2032,21 +1648,12 @@
 		"pub": "16-02-2019"
 	},
 	{
-		"name": "Bhajan Radio  ",
-		"name_h": "4KSt4KSc4KSoIOCksOClh+CkoeCkv+Ckr+Cliw==",
-		"url": "http://192.99.35.215:5086/stream",
-		"samplerate": "",
-		"cat": "Hindi,Devotional",
-		"image": "https://cdn.onlineradiobox.com/img/l/4/3904.v3.png",
-		"pub": "17-08-2019"
-	},
-	{
 		"name": "PRO Plus Radio",
 		"name_h": "4KSq4KWN4KSw4KWLIOCkquCljeCksuCkuCDgpLDgpYfgpKHgpL/gpK/gpYs=",
 		"url": "http://5.135.192.162:8000/;stream.mp3",
 		"samplerate": "",
 		"cat": "Hindi,Bollywood",
-		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/share.png",
+		"image": "https://www.radio.net/images/broadcasts/8c/8b/122438/1/c300.png",
 		"pub": "14-02-2019"
 	}
 
