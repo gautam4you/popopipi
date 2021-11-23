@@ -1,5 +1,28 @@
 [
 	{
+"name": "Sonu nigam",
+"url": "http://drive.uber.radio/uber/bollywoodsonunigam/icecast.audio",
+"logo": "https://cdn.citatis.com/img/a/14/21204.v8.jpg",
+"category": "Artist Radios"
+},
+	{
+"name": "Atif aslam",
+"url": "https://drive.uber.radio/uber/bollywoodatifaslam/icecast.audio",
+"logo": "https://www.filmibeat.com/img/popcorn/profile_photos/atif-aslam-774.jpg",
+"category": "Artist Radios"
+},
+	{
+"name": "Honey Singh",
+"url": "https://drive.uber.radio/uber/bollywoodyoyohoneysingh/icecast.audio",
+"logo": "https://images.8tracks.com/cover/i/000/495/332/honey-singh-2436.jpg",
+"category": "Artist Radios"
+},{
+"name": "Sunidhi chauhan",
+"url": "https://drive.uber.radio/uber/bollywoodsunidhichauhan/icecast.audio",
+"logo": "https://i1.sndcdn.com/artworks-000028560363-e4h5bw-t500x500.jpg",
+"category": "Artist Radios"
+},
+	{
 "name": "Nusrat Fateh Ali Khan",
 "url": "http://radio.esplservers.com:8579/stream",
 "logo": "http://shortfilmsite.com/images/nusratfatehalikhan.jpg",
