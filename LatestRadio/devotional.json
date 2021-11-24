@@ -6,7 +6,7 @@
 		"samplerate": "",
 		"cat": "Hindi,Bollywood,Web",
 		"pub": "09-12-2020",
-		"image": "https://live.staticflickr.com/65535/50427082341_dfd0424476_n.jpg"
+		"logo": "https://live.staticflickr.com/65535/50427082341_dfd0424476_n.jpg"
 	},
        {
     "name": "2B! Radio Sangam Shri Ram",
@@ -14,7 +14,7 @@
     "url": "http://dard.out.airtime.pro:8000/dard_a",
     "samplerate": "",
     "cat": "Hindi,Devotional",
-    "image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/shreeram.png",
+    "logo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/shreeram.png",
     "pub": "19-10-2018"
   },
   {
@@ -23,7 +23,7 @@
     "url": "http://hot.out.airtime.pro:8000/hot_a",
     "samplerate": "",
     "cat": "Hindi,Devotional",
-    "image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/shivame.png",
+    "logo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/shivame.png",
     "pub": "19-10-2018"
   },
   {
@@ -32,7 +32,7 @@
     "url": "http://millenniumhits.out.airtime.pro:8000/millenniumhits_a",
     "samplerate": "",
     "cat": "Hindi,Devotional",
-    "image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/krishna.png",
+    "logo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/krishna.png",
     "pub": "19-10-2018"
   },
   {
@@ -41,7 +41,7 @@
     "url": "http://iskon2b.out.airtime.pro:8000/iskon2b_a",
     "samplerate": "",
     "cat": "Hindi,Devotional",
-    "image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/gurun.png",
+    "logo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/gurun.png",
     "pub": "19-10-2018"
   },
   {
@@ -50,7 +50,7 @@
     "url": "http://radio2bindia.out.airtime.pro:8000/radio2bindia_a",
     "samplerate": "",
     "cat": "Hindi,Devotional",
-    "image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/ganesh.png",
+    "logo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/ganesh.png",
     "pub": "19-10-2018"
   },
    {
@@ -59,7 +59,7 @@
     "url": "https://radiobhakti.shemaroo.com/hariomradio/Stream1_aac/chunklist_w324991546.m3u8",
     "samplerate": "",
     "cat": "Hindi,Devotional",
-    "image": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/lhwpswmyudvr.png",
+    "logo": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/lhwpswmyudvr.png",
     "pub": "12-12-2019"
   },
   {
@@ -68,7 +68,7 @@
     "url": "http://hot.out.airtime.pro:8000/hot_a",
     "samplerate": "",
     "cat": "Hindi,Devotional",
-    "image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/shiva.png",
+    "logo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/shiva.png",
     "pub": "27-08-2019"
   },
   {
@@ -77,7 +77,7 @@
     "url": "http://2bhanuman.out.airtime.pro:8000/2bhanuman_a",
     "samplerate": "",
     "cat": "Hindi,Devotional",
-    "image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/hanuman.jpg",
+    "logo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/hanuman.jpg",
     "pub": "27-08-2019"
   },
   {
@@ -86,7 +86,7 @@
     "url": "http://radio2bindia.out.airtime.pro:8000/radio2bindia_a",
     "samplerate": "",
     "cat": "Hindi,Devotional",
-    "image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/ganesha.jpg",
+    "logo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/ganesha.jpg",
     "pub": "27-08-2019"
   },
   {
@@ -95,7 +95,7 @@
     "url": "http://ibadat.out.airtime.pro:8000/ibadat_a",
     "samplerate": "",
     "cat": "Hindi,Devotional",
-    "image": "https://cdn.onlineradiobox.com/img/logo/8/79898.v1.png",
+    "logo": "https://cdn.onlineradiobox.com/img/logo/8/79898.v1.png",
     "pub": "27-08-2019"
   },
    {
@@ -104,7 +104,7 @@
     "url": "http://103.16.47.70:7777/;",
     "samplerate": "",
     "cat": "Hindi,Devotional",
-    "image": "http://shortfilmsite.com/images/bhakthisagar.jpg",
+    "logo": "http://shortfilmsite.com/images/bhakthisagar.jpg",
     "pub": "17-08-2019"
   },
 {
