@@ -1,5 +1,11 @@
 [
   {
+"name": "fever FM Chennai",
+"url": "https://radio.canstream.co.uk:8115/live.mp3",
+"category": "Tamil FM Radios",
+"logo": "https://onlineradiofm.in/assets/image/radio/100/Fever.jpg"
+},
+  {
 "name": "KODAIRAGAM FM",
 "url": "http://161.97.135.229:8300/stream",
 "category": "Tamil FM Radios",
