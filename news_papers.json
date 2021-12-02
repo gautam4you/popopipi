@@ -1,5 +1,15 @@
 [
 	{
+		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/oneindia.png",
+		"name": "One India English",
+		"link": "https://www.oneindia.com/"
+},
+	{
+		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/oneindia.png",
+		"name": "One India Hindi",
+		"link": "https://hindi.oneindia.com/"
+},
+	{
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/toi.png",
 		"name": "Times of india",
 		"link": "https://timesofindia.indiatimes.com/"
