@@ -1,41 +1,41 @@
 [
 	{
-		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/times.png",
+		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/toi.png",
 		"name": "Times of india",
 		"link": "https://timesofindia.indiatimes.com/"
 },
 	{
-		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/theindianexpress.png",
+		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/indianexpress.png",
 		"name": "Indian Express",
 		"link": "https://indianexpress.com/"
 },
 	{
-		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/db.png",
+		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/dainikbhaskar.png",
 		"name": "Bhaskar",
 		"link": "https://www.bhaskar.com/"
 },
 	{
-		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/nbt.png",
+		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/navbharat.png",
 		"name": "Nav Bharat Times",
 		"link": "https://navbharattimes.indiatimes.com/"
 },
 	{
-		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/go_english.png",
+		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/gnews.png",
 		"name": "Google News English",
 		"link": "https://news.google.com/"
 },
 	{
-		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/go_hindi.png",
+		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/gnews.png",
 		"name": "Google News Hindi",
 		"link": "https://news.google.com/topstories?hl=hi&gl=IN&ceid=IN:hi"
 },
 	{
-		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/air_english.png",
+		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/air.png",
 		"name": "English On Air",
 		"link": "http://newsonair.com/"
 },
 	{
-		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/air_hindi.png",
+		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/air.png",
 		"name": "Hindi On Air",
 		"link": "http://newsonair.com/hindi/Hindi-Default.aspx"
 },
