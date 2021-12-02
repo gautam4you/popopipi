@@ -128,13 +128,13 @@
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button10.png",
 	        "name": "Hari bhoomi",
-	"type": "N",
+	"type": "E",
 		"link": "http://epaper.haribhoomi.com/"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button11.png",
 	        "name": "Nav Bharat Times",
-	"type": "N",
+	"type": "E",
 		"link": "http://epaper.navbharattimes.com/"
 },
 {
@@ -152,7 +152,7 @@
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button14.png",
 	         "name": "Divya Himachal",
-	"type": "N",
+	"type": "E",
 		"link": "http://epaper.divyahimachal.com/"
 },
 {
@@ -164,7 +164,7 @@
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button16.png",
 	        "name": "Lokmat Samachar",
-	"type": "N",
+	"type": "E",
 		"link": "http://epaperlokmat.in/lokmatsamachar/"
 },
 {
@@ -206,19 +206,19 @@
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button23.png",
 	        "name": "Rashtriya Sahara",
-	"type": "N",
+	"type": "E",
 		"link": "http://www.rashtriyasahara.com/"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button24.png",
 	        "name": "Web Milap",
-	"type": "N",
+	"type": "E",
 		"link": "http://www.webmilap.com/"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button25.png",
 	        "name": "Pratahkal",
-	"type": "N",
+	"type": "E",
 		"link": "http://epaper.pratahkal.com/"
 },
 {
@@ -278,14 +278,14 @@
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button35.png",
 	         "name": "Desh Unnati",
-	"type": "N",
+	"type": "E",
 		"link": "http://deshonnati.digitaledition.in/"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button36.png",
 	        "name": "Jansandesh Times",
-	"type": "N",
-		"link": "http://www.jansandeshtimes.net/"
+	"type": "E",
+		"link": "https://jansandeshtimes.net/"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button37.png",
@@ -302,8 +302,8 @@
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button39.png",
 	        "name": "Pradesh Today",
-	"type": "N",
-		"link": "http://www.pradeshtoday.com/"
+	"type": "E",
+		"link": "https://epaper.pradeshtoday.com/"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button40.png",
@@ -330,12 +330,6 @@
 		"link": "https://tarunmitra.in/"
 },
 {
-		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button44.png",
-	         "name": "Aaj Kaanad Papers",
-	"type": "N",
-		"link": "http://www.aajkaanandpapers.com/"
-},
-{
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button45.png",
 	        "name": "Panchjanya",
 	"type": "N",
@@ -356,7 +350,7 @@
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button48.png",
 	         "name": "JanWani",
-	"type": "N",
+	"type": "E",
 		"link": "http://www.janwani.in/"
 },
 {
@@ -368,37 +362,37 @@
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button50.png",
 	       "name": "ViraatVibhav",
-	"type": "N",
+	"type": "E",
 		"link": "http://epaper.viraatvaibhav.com/"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button51.png",
 	        "name": "Dandakaranya samachar",
-	"type": "N",
+	"type": "E",
 		"link": "http://www.dandakaranyasamachar.com/"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button52.png",
 	        "name": "Rashtriya hindi mail",
-	"type": "N",
+	"type": "E",
 		"link": "http://epaper.rashtriyahindimail.in/epaper.php"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button53.png",
 	        "name": "Daily news activist",
-	"type": "N",
+	"type": "E",
 		"link": "http://www.dailynewsactivist.com/"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button54.png",
 	        "name": "Shahtimes news",
-	"type": "N",
-		"link": "http://shahtimesnews.com/epaper/"
+	"type": "E",
+		"link": "https://www.shahtimesnews.com/page/e-paper"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button55.png",
 	        "name": "Swadesh",
-	"type": "N",
+	"type": "E",
 		"link": "http://epaper.swadesh.in/"
 },
 {
@@ -410,7 +404,7 @@
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button57.png",
 	         "name": "Janwani",
-	"type": "N",
+	"type": "E",
 		"link": "http://www.janwani.in/"
 },
 {
