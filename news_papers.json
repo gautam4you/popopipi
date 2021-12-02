@@ -1,278 +1,347 @@
 [
 	{
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/times.png",
+		"name": "Times of india",
 		"link": "https://timesofindia.indiatimes.com/"
 },
 	{
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/theindianexpress.png",
+		"name": "Indian Express",
 		"link": "https://indianexpress.com/"
 },
 	{
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/db.png",
+		"name": "Bhaskar",
 		"link": "https://www.bhaskar.com/"
 },
 	{
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/nbt.png",
+		"name": "Nav Bharat Times",
 		"link": "https://navbharattimes.indiatimes.com/"
 },
 	{
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/go_english.png",
+		"name": "Google News English",
 		"link": "https://news.google.com/"
 },
 	{
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/go_hindi.png",
+		"name": "Google News Hindi",
 		"link": "https://news.google.com/topstories?hl=hi&gl=IN&ceid=IN:hi"
 },
 	{
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/air_english.png",
+		"name": "English On Air",
 		"link": "http://newsonair.com/"
 },
 	{
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/air_hindi.png",
+		"name": "Hindi On Air",
 		"link": "http://newsonair.com/hindi/Hindi-Default.aspx"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/aajtak.png",
+	        "name": "Aaj Tak",
 		"link": "https://aajtak.intoday.in/"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button1.png",
+	        "name": "Bhaskar",
 		"link": "https://www.bhaskar.com"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button2.png",
+	        "name": "Jagran",
 		"link": "https://www.jagran.com/"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button3.png",
+	        "name": "Patrika",
 		"link": "https://www.patrika.com/india-news/"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button4.png",
+	        "name": "Amar Ujala",
 		"link": "https://www.amarujala.com/"
 },
 {
-		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button5.png",
+	 	"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button5.png",
+	        "name": "Nav Bharat",
 		"link": "http://www.navabharat.com/"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button6.png",
+	        "name": "Punjab Kesari",
 		"link": "https://www.punjabkesari.in/"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button7.png",
+	        "name": "Live Hindustan",
 		"link": "https://www.livehindustan.com/"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button8.png",
+	        "name": "Prabhat Khabar",
 		"link": "https://www.prabhatkhabar.com/"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button64.png",
+	        "name": "I Next",
 		"link": "https://inextlive.jagran.com/"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button9.png",
+	         "name": "Business Standard",
 		"link": "https://www.business-standard.com/"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button10.png",
+	        "name": "Hari bhoomi",
 		"link": "http://epaper.haribhoomi.com/"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button11.png",
+	        "name": "Nav Bharat Times",
 		"link": "http://epaper.navbharattimes.com/"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button12.png",
+	        "name": "Desh Bandhu",
 		"link": "http://www.deshbandhu.co.in/index"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button13.png",
+	        "name": "Dainik NavJyoti",
 		"link": "http://www.dainiknavajyoti.in/"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button14.png",
+	         "name": "Divya Himachal",
 		"link": "http://epaper.divyahimachal.com/"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button15.png",
+	        "name": "Jan Satta",
 		"link": "https://www.jansatta.com/"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button16.png",
+	        "name": "Lokmat Samachar",
 		"link": "http://epaperlokmat.in/lokmatsamachar/"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button17.png",
+	        "name": "Nayi Duniya Jagran",
 		"link": "https://naiduniaepaper.jagran.com/"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button18.png",
+	        "name": "Khaskhabar",
 		"link": "https://www.khaskhabar.com/"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button19.png",
+	        "name": "Prabhasakshi",
 		"link": "https://www.prabhasakshi.com/"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button20.png",
+	        "name": "Dainik Tribune Online",
 		"link": "https://www.dainiktribuneonline.com/"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button21.png",
+	        "name": "Deshdoot",
 		"link": "https://www.deshdoot.com/"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button22.png",
+	        "name": "Samachar Jagat",
 		"link": "http://www.samacharjagat.com/"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button23.png",
+	        "name": "Rashtriya Sahara",
 		"link": "http://www.rashtriyasahara.com/"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button24.png",
+	        "name": "Web Milap",
 		"link": "http://www.webmilap.com/"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button25.png",
+	        "name": "Pratahkal",
 		"link": "http://epaper.pratahkal.com/"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button26.png",
+	        "name": "Sanjeevni Today",
 		"link": "https://www.sanjeevnitoday.com/Default"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button27.png",
+	        "name": "Uttam Hindi",
 		"link": "http://www.uttamhindu.com/"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button28.png",
+	         "name": "Tehelka Hindi",
 		"link": "http://tehelkahindi.com/"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button29.png",
+	        "name": "LokTej",
 		"link": "http://www.loktej.com/"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button30.png",
+	        "name": "NavaBharat",
 		"link": "http://www.navabharat.com/"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button31.png",
+	        "name": "Ranchi Express",
 		"link": "http://ranchiexpress.com/"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button32.png",
+	        "name": "Virarjun",
 		"link": "http://www.virarjun.com/"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button33.png",
+	         "name": "Pudhari",
 		"link": "http://www.pudhari.news/"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button34.png",
+	         "name": "Punjab Kesari",
 		"link": "https://punjabkesari.com/"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button35.png",
+	         "name": "Desh Unnati",
 		"link": "http://deshonnati.digitaledition.in/"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button36.png",
+	        "name": "Jansandesh Times",
 		"link": "http://www.jansandeshtimes.net/"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button37.png",
+	        "name": "Dainik Savera Times",
 		"link": "https://www.dainiksaveratimes.com/"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button38.png",
+	        "name": "Sanmarg",
 		"link": "http://sanmarg.in/"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button39.png",
+	        "name": "Pradesh Today",
 		"link": "http://www.pradeshtoday.com/"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button40.png",
+	        "name": "Chauthiduniya",
 		"link": "http://www.chauthiduniya.com/"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button41.png",
+	           "name": "Bharat Khabar",
 		"link": "https://www.bharatkhabar.com/"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button42.png",
+	        "name": "Krishak Jagat",
 		"link": "https://www.krishakjagat.org/"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button43.png",
+	        "name": "Tarunmitra",
 		"link": "https://tarunmitra.in/"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button44.png",
+	         "name": "Aaj Kaanad Papers",
 		"link": "http://www.aajkaanandpapers.com/"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button45.png",
+	        "name": "Panchjanya",
 		"link": "http://www.panchjanya.com/"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button46.png",
+	        "name": "Aapki Khabar",
 		"link": "https://aapkikhabar.com/"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button47.png",
+	        "name": "Daily Chhattisgarh",
 		"link": "https://dailychhattisgarh.com/"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button48.png",
+	         "name": "JanWani",
 		"link": "http://www.janwani.in/"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button49.png",
+	        "name": "Jagruk Times",
 		"link": "http://jagruktimes.co.in/"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button50.png",
+	       "name": "ViraatVibhav",
 		"link": "http://epaper.viraatvaibhav.com/"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button51.png",
+	        "name": "Dandakaranya samachar",
 		"link": "http://www.dandakaranyasamachar.com/"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button52.png",
+	        "name": "Rashtriya hindi mail",
 		"link": "http://epaper.rashtriyahindimail.in/epaper.php"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button53.png",
+	        "name": "Daily news activist",
 		"link": "http://www.dailynewsactivist.com/"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button54.png",
+	        "name": "Shahtimes news",
 		"link": "http://shahtimesnews.com/epaper/"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button55.png",
+	        "name": "Swadesh",
 		"link": "http://epaper.swadesh.in/"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button56.png",
+	        "name": "Raagdesh",
 		"link": "http://raagdesh.com/"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button57.png",
+	         "name": "Janwani",
 		"link": "http://www.janwani.in/"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button58.png",
+	        "name": "Hamara Mahanagar", 
 		"link": "http://www.hamaramahanagar.in/"
 },
 {
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/News/button59.png",
+	        "name": "Sachkaujalar", 
 		"link": "http://sachkaujala.com/"
 }
 ]
