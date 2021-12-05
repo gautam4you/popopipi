@@ -1,5 +1,11 @@
 [
 	{
+		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/palpal.png",
+		"name": "PalPal India",
+		"type": "N",
+		"link": "https://www.palpalindia.com/"
+},
+	{
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/oneIndia.png",
 		"name": "One India English",
 		"type": "N",
