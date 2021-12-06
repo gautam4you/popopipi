@@ -1,6 +1,34 @@
 {
 "spList": [
 	{
+		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/hindinews.png",
+		"playStoreUrl": "https://play.google.com/store/apps/details?id=com.news.hindinews",
+		"directLink": "",
+		"info":"Hindi News | Live TV"
+
+},
+	{
+		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/Malyalam/malyalam128.png",
+		"playStoreUrl": "https://play.google.com/store/apps/details?id=com.app.malyalamradio",
+		"directLink": "",
+		"info":"Malyalam Radio"
+
+},
+	{
+		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/telugu.png",
+		"playStoreUrl": "https://play.google.com/store/apps/details?id=com.app.teluguradio",
+		"directLink": "",
+		"info":"Telugu Radio"
+
+},
+	{
+		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/tamil512.png",
+		"playStoreUrl": "https://play.google.com/store/apps/details?id=com.app.tamilradio",
+		"directLink": "",
+		"info":"Tamil Radio-News"
+
+},
+	{
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/94kb.png",
 		"playStoreUrl": "https://play.google.com/store/apps/details?id=com.app.hindiradionews",
 		"directLink": "",
