@@ -7,6 +7,21 @@
          {
             "vid": 15,
             "cat_id": 6,
+            "video_title": "DD UP",
+            "video_url": "https://m-c16-j2apps.s.llnwi.net/hls/0290.DDUP.in_360p/index.m3u8",
+            "video_id": "cda11up",
+            "video_thumbnail": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/ddup.png",
+            "video_duration": 11.02,
+            "video_description": "ABP MARATHI",
+            "video_type": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/ddup.png",
+            "size": "",
+            "total_views": 1688,
+            "date_time": "2021-06-15 05:30:52",
+            "category_name": "Hindi News"
+        },
+         {
+            "vid": 15,
+            "cat_id": 6,
             "video_title": "DD Retro",
             "video_url": "https://m-c037-j2apps.s.llnwi.net/hls/7041.DDRetro.in_360p/index_dvr.m3u8",
             "video_id": "cda11up",
