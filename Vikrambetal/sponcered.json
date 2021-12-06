@@ -5,6 +5,13 @@
 "has_more": true,
 "spList": [
 	{
+		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/hindinews.png",
+		"playStoreUrl": "https://play.google.com/store/apps/details?id=com.news.hindinews",
+		"directLink": "",
+		"info":"Hindi News | Live TV"
+
+},
+	{
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/Malyalam/malyalam128.png",
 		"playStoreUrl": "https://play.google.com/store/apps/details?id=com.app.malyalamradio",
 		"directLink": "",
