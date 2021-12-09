@@ -1,5 +1,11 @@
 [
 	{
+		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/jantv.png",
+		"name": "Jan TV",
+		"type": "N",
+		"link": "http://jantv.in/"
+},
+	{
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/palpal.png",
 		"name": "PalPal India",
 		"type": "N",
