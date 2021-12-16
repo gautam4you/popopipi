@@ -1,5 +1,11 @@
 [
 	{
+		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/wah.png",
+		"name": "Wah Cricket",
+		"type": "N",
+		"link": "https://www.abplive.com/sports/cricket"
+},
+	{
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/jantv.png",
 		"name": "Jan TV",
 		"type": "N",
