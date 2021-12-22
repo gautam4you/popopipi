@@ -4,6 +4,21 @@
     "count_total": 19,
     "pages": 1,
     "posts": [
+        {
+            "vid": 15,
+            "cat_id": 6,
+            "video_title": "Surya News Live",
+            "video_url": "https://m-c037-j2apps.s.llnwi.net/hls/6006.SuryaSamachar.in_288p/index.m3u8",
+            "video_id": "cda11up",
+            "video_thumbnail": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/surya.png",
+            "video_duration": 11.02,
+            "video_description": "ABP MARATHI",
+            "video_type": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/surya.png",
+            "size": "",
+            "total_views": 1688,
+            "date_time": "2021-06-15 05:30:52",
+            "category_name": "Hindi News"
+        },
          {
             "vid": 15,
             "cat_id": 6,
@@ -569,7 +584,7 @@
             "video_duration": 11.02,
             "video_description": "<h1>AajTak Live: अभी तक की सभी बड़ी खबरें LIVE | Hindi News Live Updates | Breaking News</h1>\r\n",
             "video_type": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/aaj.png",
-            "size": "",
+            "size": "ADS",
             "total_views": 5607,
             "date_time": "2021-06-15 05:57:33",
             "category_name": "Hindi News"
