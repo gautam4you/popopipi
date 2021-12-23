@@ -1,5 +1,11 @@
 [
 	{
+		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/sarkari.png",
+		"name": "Sarkari Results",
+		"type": "N",
+		"link": "https://sarkariresults.info/"
+},
+	{
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/wah.png",
 		"name": "Wah Cricket",
 		"type": "N",
