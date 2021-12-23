@@ -1,5 +1,11 @@
 [
 	{
+		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/cw.png",
+		"name": "Career power",
+		"type": "N",
+		"link": "https://www.careerpower.in/sarkari-result.html"
+},
+	{
 		"imgLogo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/sarkari.png",
 		"name": "Sarkari Results",
 		"type": "N",
