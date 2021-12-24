@@ -23,7 +23,7 @@
             "vid": 33,
             "cat_id": 6,
             "video_title": "Aaj Tak",
-            "video_url": "https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/aajtak_4/chunklist.m3u8",
+            "video_url": "http://feeds.intoday.in/aajtak/api/master.m3u8",
             "video_id": "cda11up",
             "video_thumbnail": "https://raw.githubusercontent.com/gautam4you/popopipi/master/LatestRadio/AajTak.png",
             "video_duration": 11.02,
