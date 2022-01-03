@@ -1,5 +1,14 @@
 [
 	{
+		"name": "Khushi radio",
+		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCksOClh+Ckn+CljeCksOCliyDgpKzgpYngpLLgpYDgpLXgpYHgpKE=",
+		"url": "http://162.244.80.52:4702/stream",
+		"samplerate": "",
+		"pub": "03-01-2022",
+		"cat": "Hindi,Bollywood,Web",
+		"image": "http://hindiradioapp.com/images/radiokhushiaustralia.jpg"
+	},
+	{
 		"name": "Jhunjhunu Radio",
 		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCksOClh+Ckn+CljeCksOCliyDgpKzgpYngpLLgpYDgpLXgpYHgpKE=",
 		"url": "http://d11zr0bktijlw0.cloudfront.net/jhunjhunuradio.m3u8",
