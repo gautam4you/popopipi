@@ -471,21 +471,6 @@
             "category_name": "Hindi News"
         },
         {
-            "vid": 21,
-            "cat_id": 6,
-            "video_title": "DD News",
-            "video_url": "https://m-c048-j2apps.s.llnwi.net/hls/0182.DDNews.in_360p/index.m3u8",
-            "video_id": "cda11up",
-            "video_thumbnail": "https://raw.githubusercontent.com/gautam4you/popopipi/master/LatestRadio/DDNews.png",
-            "video_duration": 11.02,
-            "video_description": "<h1>DD NEWS LIVE 24X7</h1>\r\n",
-            "video_type": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/ddnews.png",
-            "size": "",
-            "total_views": 81,
-            "date_time": "2021-06-15 05:46:58",
-            "category_name": "Hindi News"
-        },
-        {
             "vid": 22,
             "cat_id": 6,
             "video_title": "1st india",
