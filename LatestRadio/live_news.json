@@ -696,6 +696,21 @@
             "total_views": 1688,
             "date_time": "2021-06-15 05:30:52",
             "category_name": "Hindi News"
+        },
+          {
+            "vid": 15,
+            "cat_id": 6,
+            "video_title": "Sahara Bihar News",
+            "video_url": "https://m-c02-j2apps.s.llnwi.net/hls/0185.SamayBiharJharkhand.in_360p/index.m3u8",
+            "video_id": "cda11up",
+            "video_thumbnail": "https://raw.githubusercontent.com/gautam4you/popopipi/master/LatestRadio/saharab01.png",
+            "video_duration": 11.02,
+            "video_description": "Sahara UP News",
+            "video_type": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/saharab02.png",
+            "size": "",
+            "total_views": 1688,
+            "date_time": "2021-06-15 05:30:52",
+            "category_name": "Hindi News"
         }
     ]
 }
