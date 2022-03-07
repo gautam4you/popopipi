@@ -651,6 +651,21 @@
             "total_views": 1688,
             "date_time": "2021-06-15 05:30:52",
             "category_name": "Hindi News"
+        },
+         {
+            "vid": 15,
+            "cat_id": 6,
+            "video_title": "C News Bharat",
+            "video_url": "https://m-c037-j2apps.s.llnwi.net/hls/8079.CNewsBharat.in_480p/index.m3u8",
+            "video_id": "cda11up",
+            "video_thumbnail": "https://raw.githubusercontent.com/gautam4you/popopipi/master/LatestRadio/cnews01.png",
+            "video_duration": 11.02,
+            "video_description": "ABP MARATHI",
+            "video_type": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/cnews02.png",
+            "size": "",
+            "total_views": 1688,
+            "date_time": "2021-06-15 05:30:52",
+            "category_name": "Hindi News"
         }
     ]
 }
