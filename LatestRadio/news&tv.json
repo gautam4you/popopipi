@@ -1,10 +1,4 @@
 [
-  {
-"logo": "http://shortfilmsite.com/images/radiosportsflashes.jpg",
-"name": "Sports Flashes Hindi",
-"url": "https://azura.shoutca.st/radio/8620/radio.mp3",
-"category": "Tv - Audio"
-},
 {
 "logo": "http://shortfilmsite.com/images/air.jpg",
 "name": "Air English Morning",
@@ -171,12 +165,6 @@
 "logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/abpnews.jpg",
 "name": "ABP News",
 "url": "https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8",
-"category": "Tv - Audio"
-},
-{
-"logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/ddnews.jpg",
-"name": "DD News",
-"url": "https://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8",
 "category": "Tv - Audio"
 },
 {
