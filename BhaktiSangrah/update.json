@@ -25,7 +25,7 @@
     },
     {
       "name": "News & TV",
-      "url": "LatestRadio/news%26tv.json",
+      "url": "LatestRadio/devotional.json",
       "id": "3",
       "online": true,
       "active": true
