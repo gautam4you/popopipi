@@ -1,0 +1,62 @@
+{
+  "active": true,
+  "versionCode": 1,
+  "CategoriesList": [
+    {
+      "name": "Bhakti Sangrah",
+      "url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2dhdXRhbTR5b3UvcG9wb3BpcGkvbWFzdGVyL0xhdGVzdFJhZGlvL2Fpcl9mbS5qc29u",
+      "id": "0",
+      "online": false,
+      "active": false
+    },
+    {
+      "name": "AIR FM",
+      "url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2dhdXRhbTR5b3UvcG9wb3BpcGkvbWFzdGVyL0xhdGVzdFJhZGlvL2Fpcl9mbS5qc29u",
+      "id": "1",
+      "online": true,
+      "active": true
+    },
+    {
+      "name": "Artist Radio",
+      "url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2dhdXRhbTR5b3UvcG9wb3BpcGkvbWFzdGVyL0xhdGVzdFJhZGlvL2FydGlzdF9mbS5qc29u",
+      "id": "2",
+      "online": true,
+      "active": true
+    },
+    {
+      "name": "News & TV",
+      "url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2dhdXRhbTR5b3UvcG9wb3BpcGkvbWFzdGVyL0xhdGVzdFJhZGlvL25ld3MlMjZ0di5qc29u",
+      "id": "3",
+      "online": true,
+      "active": true
+    },
+    {
+      "name": "Devotional FM",
+      "url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2dhdXRhbTR5b3UvcG9wb3BpcGkvbWFzdGVyL0xhdGVzdFJhZGlvL2Rldm90aW9uYWwuanNvbg==",
+      "id": "4",
+      "online": true,
+      "active": true
+    },
+    {
+      "name": "Mirchi FM",
+      "url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2dhdXRhbTR5b3UvcG9wb3BpcGkvbWFzdGVyL0xhdGVzdFJhZGlvL21pcmNoaS5qc29u",
+      "id": "5",
+      "online": true,
+      "active": true
+    },
+    {
+      "name": "Hungama Radio",
+      "url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2dhdXRhbTR5b3UvcG9wb3BpcGkvbWFzdGVyL0xhdGVzdFJhZGlvL2h1bmdhbWEuanNvbg==",
+      "id": "6",
+      "online": true,
+      "active": true
+    },
+    {
+      "name": "Radio City",
+      "url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2dhdXRhbTR5b3UvcG9wb3BpcGkvbWFzdGVyL0xhdGVzdFJhZGlvL3JhZGlvX2NpdHkuanNvbg==",
+      "id": "7",
+      "online": true,
+      "active": true
+    }
+  ]
+}
