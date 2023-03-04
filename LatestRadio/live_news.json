@@ -349,21 +349,6 @@
             "date_time": "2021-06-15 05:30:52",
             "category_name": "Hindi News"
         },
-           {
-            "vid": 15,
-            "cat_id": 6,
-            "video_title": "ABP marathi",
-            "video_url": "https://abp-i.akamaihd.net/hls/live/765531/abpmajha/master_314.m3u8",
-            "video_id": "cda11up",
-            "video_thumbnail": "https://raw.githubusercontent.com/gautam4you/popopipi/master/LatestRadio/abp_marathi.png",
-            "video_duration": 11.02,
-            "video_description": "ABP MARATHI",
-            "video_type": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/abp.png",
-            "size": "",
-            "total_views": 1688,
-            "date_time": "2021-06-15 05:30:52",
-            "category_name": "Hindi News"
-        },
           {
             "vid": 15,
             "cat_id": 6,
