@@ -1,0 +1,506 @@
+[
+{
+"radio_id": 5071,
+"radio_title": "Thanthi Tv live",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/thanthio.png",
+"radio_url": "http://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live4/chunks.m3u8",
+"radio_type": "hd",
+"type": "radio"
+},
+{
+"radio_id": 6714,
+"radio_title": "Rajah Melody Radio",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/2020/08/Raja-Melody-HD.png",
+"radio_url": "http://apipermission.southradios.net/play/rajahmelody",
+"radio_type": "hd",
+"type": "radio"
+},
+{
+"radio_id": 6722,
+"radio_title": "Raajankam 3D",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/2020/08/Raajankam-3D.png",
+"radio_url": "http://apipermission.southradios.net/play/raajankam3d",
+"radio_type": "hd",
+"type": "radio"
+},
+{
+"radio_id": 8318,
+"radio_title": "Rajah Duet Radio",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/2020/12/Rajah-Duet-Radio.png",
+"radio_url": "http://apipermission.southradios.net/play/rajahduet",
+"radio_type": "hd",
+"type": "radio"
+},
+{
+"radio_id": 6660,
+"radio_title": "Ilayaraja Radio",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/2020/08/Ilayaraja-Beat-Radio.png",
+"radio_url": "http://apipermission.southradios.net/play/ilayarajaradio",
+"radio_type": "hd",
+"type": "radio"
+},
+{
+"radio_id": 6657,
+"radio_title": "Ilayaraja Super Beats Radio",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/2020/08/Ilayaraja-Beat-Radio.png",
+"radio_url": "http://apipermission.southradios.net/play/ilayarajasuperbeatradio",
+"radio_type": "hd",
+"type": "radio"
+},
+{
+"radio_id": 6663,
+"radio_title": "Ilayaraja Lite Radio",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/2020/08/Ilayaraja-Beat-Radio.png",
+"radio_url": "http://apipermission.southradios.net/play/ilayarajalite",
+"radio_type": "hd",
+"type": "radio"
+},
+{
+"radio_id": 6696,
+"radio_title": "Isaignani Voice Radio",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/2020/08/Isaignani-Voice.png",
+"radio_url": "http://apipermission.southradios.net/play/isaignaniradio",
+"radio_type": "hd",
+"type": "radio"
+},
+{
+"radio_id": 6665,
+"radio_title": "AR Rahman Radio",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/2016/10/rahman-1-1.png",
+"radio_url": "http://apipermission.southradios.net/play/arrahmanradio",
+"radio_type": "hd",
+"type": "radio"
+},
+{
+"radio_id": 6667,
+"radio_title": "AR Rahman Lite Radio",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/2016/10/rahman-1-1.png",
+"radio_url": "http://apipermission.southradios.net/play/arrahmanliteradio",
+"radio_type": "hd",
+"type": "radio"
+},
+{
+"radio_id": 6708,
+"radio_title": "Rahmaniyam 3D",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/2020/08/Rahmaniyam-3D.png",
+"radio_url": "http://apipermission.southradios.net/play/rahmaniyam3d",
+"radio_type": "hd",
+"type": "radio"
+},
+{
+"radio_id": 6711,
+"radio_title": "AR Rahman Beat Radio",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/2020/08/AR-Rahman-Beat-Radio.png",
+"radio_url": "http://apipermission.southradios.net/play/arrbeat",
+"radio_type": "hd",
+"type": "radio"
+},
+{
+"radio_id": 6671,
+"radio_title": "IlayaMaan Radio",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/2020/08/IlayaMaan-Radio.png",
+"radio_url": "http://apipermission.southradios.net/play/ilayamaanradio",
+"radio_type": "hd",
+"type": "radio"
+},
+{
+"radio_id": 6674,
+"radio_title": "IlayaMaan Lite Radio",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/2020/08/IlayaMaan-Radio.png",
+"radio_url": "http://apipermission.southradios.net/play/ilayamaanliteradio",
+"radio_type": "hd",
+"type": "radio"
+},
+{
+"radio_id": 5841,
+"radio_title": "Puradsifm 8D",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/2020/03/Puradsi-Fm-8D-1-1.png",
+"radio_url": "http://apipermission.southradios.net/play/puradsifm",
+"radio_type": "hd",
+"type": "radio"
+},
+{
+"radio_id": 8274,
+"radio_title": "Radio Mathuram",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/2020/12/Radio-Mathuram.png",
+"radio_url": "http://apipermission.southradios.net/play/radiomathuram",
+"radio_type": "hd",
+"type": "radio"
+},
+{
+"radio_id": 5806,
+"radio_title": "Harris Jayaraj Radio",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/2020/02/Harrishjeyaraj-Radio.png",
+"radio_url": "http://apipermission.southradios.net/play/harrishjeyarajradio",
+"radio_type": "hd",
+"type": "radio"
+},
+{
+"radio_id": 5723,
+"radio_title": "D Imman Radio",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/2020/01/D-Imman-Radio-1.png",
+"radio_url": "http://apipermission.southradios.net/play/immanradio",
+"radio_type": "hd",
+"type": "radio"
+},
+{
+"radio_id": 3390,
+"radio_title": "Anirudh Radio",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/2018/03/Anirudh-Radio.png",
+"radio_url": "http://apipermission.southradios.net/play/anirudhradio",
+"radio_type": "hd",
+"type": "radio"
+},
+{
+"radio_id": 6687,
+"radio_title": "Yuvan Shankar Rajah Radio",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/2020/08/Yuvan-Shankar-Radio.png",
+"radio_url": "http://apipermission.southradios.net/play/ysrradio",
+"radio_type": "hd",
+"type": "radio"
+},
+{
+"radio_id": 8378,
+"radio_title": "GV Prakash Radio",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/2020/12/GV-Prakash-Radio.png",
+"radio_url": "http://apipermission.southradios.net/play/gvprakashradio",
+"radio_type": "hd",
+"type": "radio"
+},
+{
+"radio_id": 8385,
+"radio_title": "Super Star Radio",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/2020/12/Super-Star-Radio.png",
+"radio_url": "http://apipermission.southradios.net/play/superstarradio",
+"radio_type": "hd",
+"type": "radio"
+},
+{
+"radio_id": 8382,
+"radio_title": "Kalaignani Radio",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/2020/12/Kalaignani-Radio.png",
+"radio_url": "http://apipermission.southradios.net/play/kalaignanairadio",
+"radio_type": "hd",
+"type": "radio"
+},
+{
+"radio_id": 6643,
+"radio_title": "Ajith Radio",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/2020/08/Ajith-Radios-1.png",
+"radio_url": "http://apipermission.southradios.net/play/ajithradio",
+"radio_type": "hd",
+"type": "radio"
+},
+{
+"radio_id": 5877,
+"radio_title": "Vidyasagar Radio",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/2020/03/Vidyasagar-Radio.png",
+"radio_url": "http://apipermission.southradios.net/play/vidyasagarradio",
+"radio_type": "hd",
+"type": "radio"
+},
+{
+"radio_id": 6646,
+"radio_title": "Vijay Radio",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/2020/08/Vijay-Radio.png",
+"radio_url": "http://apipermission.southradios.net/play/vijayradio",
+"radio_type": "hd",
+"type": "radio"
+},
+{
+"radio_id": 5917,
+"radio_title": "Thala Thalapathy Radio",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/2020/03/thalathalapathy-1.png",
+"radio_url": "http://apipermission.southradios.net/play/thalathalapathyradio",
+"radio_type": "hd",
+"type": "radio"
+},
+{
+"radio_id": 6693,
+"radio_title": "Deva Radio",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/2020/08/Deva-Radio.png",
+"radio_url": "http://apipermission.southradios.net/play/devaradio",
+"radio_type": "hd",
+"type": "radio"
+},
+{
+"radio_id": 6681,
+"radio_title": "SPB Radio",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/2020/08/SPB-Radio.png",
+"radio_url": "http://apipermission.southradios.net/play/spbradio",
+"radio_type": "hd",
+"type": "radio"
+},
+{
+"radio_id": 8344,
+"radio_title": "Mano Radio",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/2020/12/Mano-Radio.png",
+"radio_url": "http://apipermission.southradios.net/play/manoradio",
+"radio_type": "hd",
+"type": "radio"
+},
+{
+"radio_id": 5755,
+"radio_title": "Mohan Radio",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/2020/01/Mohan-Radio.png",
+"radio_url": "http://apipermission.southradios.net/play/mohanradio",
+"radio_type": "hd",
+"type": "radio"
+},
+{
+"radio_id": 6691,
+"radio_title": "Hariharan Radio",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/2020/08/Hariharan-Radio.png",
+"radio_url": "http://apipermission.southradios.net/play/hariharanradio",
+"radio_type": "hd",
+"type": "radio"
+},
+{
+"radio_id": 5891,
+"radio_title": "Unnikirishnan Radio",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/2020/03/Unnikrishnan-Radio-1.png",
+"radio_url": "http://apipermission.southradios.net/play/unnikrishanradio",
+"radio_type": "hd",
+"type": "radio"
+},
+{
+"radio_id": 6677,
+"radio_title": "KJ Yesudas Radio",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/2020/08/K.-J.-Yesudas.png",
+"radio_url": "http://apipermission.southradios.net/play/kjyesudas",
+"radio_type": "hd",
+"type": "radio"
+},
+{
+"radio_id": 5903,
+"radio_title": "Malaysia vasudevan Radio",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/Malaysia-Vasudevan.png",
+"radio_url": "http://apipermission.southradios.net/play/malaysiavasudevanradio",
+"radio_type": "hd",
+"type": "radio"
+},
+{
+"radio_id": 5899,
+"radio_title": "SA Rajkumar Radio",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/2020/03/SA-Rajkumar-Radio.png",
+"radio_url": "http://apipermission.southradios.net/play/sarajkumarradio",
+"radio_type": "hd",
+"type": "radio"
+},
+{
+"radio_id": 8371,
+"radio_title": "Santhosh Narayanan Radio",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/2020/12/Santhosh-Narayanan-Radio.png",
+"radio_url": "http://apipermission.southradios.net/play/santhoshnarayananradio",
+"radio_type": "hd",
+"type": "radio"
+},
+{
+"radio_id": 8393,
+"radio_title": "Naa Muthukumar Radio",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/2020/12/Naa-Muthukumaradio.png",
+"radio_url": "http://apipermission.southradios.net/play/muthukumaradio",
+"radio_type": "hd",
+"type": "radio"
+},
+{
+"radio_id": 6701,
+"radio_title": "KS Chithra Radio",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/2020/08/KS-Chithra-Radio.png",
+"radio_url": "http://apipermission.southradios.net/play/kschitra",
+"radio_type": "hd",
+"type": "radio"
+},
+{
+"radio_id": 6704,
+"radio_title": "S Janaki Radio",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/2020/08/S-Janaki-Hits.png",
+"radio_url": "http://apipermission.southradios.net/play/janakiradio",
+"radio_type": "hd",
+"type": "radio"
+},
+{
+"radio_id": 8351,
+"radio_title": "Swarnalatha Radio",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/2020/12/Swarnalatha-Radio-1.png",
+"radio_url": "http://apipermission.southradios.net/play/swarnalatharadio",
+"radio_type": "hd",
+"type": "radio"
+},
+{
+"radio_id": 8396,
+"radio_title": "Kaviyarasar Radio",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/2020/12/Kaviyarasar-Radio.png",
+"radio_url": "http://apipermission.southradios.net/play/kaviyarasarradio",
+"radio_type": "hd",
+"type": "radio"
+},
+{
+"radio_id": 8399,
+"radio_title": "Mellisai Mannar Radio",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/2020/12/Mellisai-Mannar-Radio.png",
+"radio_url": "http://apipermission.southradios.net/play/mellisaimannarradio",
+"radio_type": "hd",
+"type": "radio"
+},
+{
+"radio_id": 8402,
+"radio_title": "TMS Radio",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/2020/12/TMS-Radio.png",
+"radio_url": "http://apipermission.southradios.net/play/tmsradio",
+"radio_type": "hd",
+"type": "radio"
+},
+{
+"radio_id": 8405,
+"radio_title": "MGR Radio",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/2020/12/MGR-Radio.png",
+"radio_url": "http://apipermission.southradios.net/play/mgradio",
+"radio_type": "hd",
+"type": "radio"
+},
+{
+"radio_id": 8408,
+"radio_title": "Sivaji Radio",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/2020/12/Sivaji-Radio.png",
+"radio_url": "http://apipermission.southradios.net/play/sivajiradio",
+"radio_type": "hd",
+"type": "radio"
+},
+{
+"radio_id": 6206,
+"radio_title": "Sad Song Radio",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/Sad-Songs-Radio-1.png",
+"radio_url": "http://apipermission.southradios.net/play/sadsongsradio",
+"radio_type": "hd",
+"type": "radio"
+},
+{
+"radio_id": 544,
+"radio_title": "Pudhu paadal Radio",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/2016/10/Puthu-Paadal-Radio-1.png",
+"radio_url": "http://apipermission.southradios.net/play/puthupaadalradio",
+"radio_type": "hd",
+"type": "radio"
+},
+{
+"radio_id": 2221,
+"radio_title": "Palaiya Paadal Radio",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/Palaiya-Paadal-Radio.png",
+"radio_url": "http://apipermission.southradios.net/play/palaiyapaadalradio",
+"radio_type": "hd",
+"type": "radio"
+},
+{
+"radio_id": 6209,
+"radio_title": "Tamil Melody Radio",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/Tamil-Melody-Radio.png",
+"radio_url": "http://apipermission.southradios.net/play/tamilmelodyradio",
+"radio_type": "hd",
+"type": "radio"
+},
+{
+"radio_id": 5059,
+"radio_title": "Kadhal Radio",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/2019/01/Kadhal-Radio.png",
+"radio_url": "http://apipermission.southradios.net/play/kadhalradio",
+"radio_type": "hd",
+"type": "radio"
+},
+{
+"radio_id": 8280,
+"radio_title": "Radio Retro",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/2020/12/Radio-Retro.png",
+"radio_url": "http://apipermission.southradios.net/play/radioretro",
+"radio_type": "hd",
+"type": "radio"
+},
+{
+"radio_id": 6203,
+"radio_title": "Golden Southradios",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/Golden-Southradios.png",
+"radio_url": "http://apipermission.southradios.net/play/goldensouthradios",
+"radio_type": "hd",
+"type": "radio"
+},
+{
+"radio_id": 5896,
+"radio_title": "Tamil 80S Hit Radio",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/2020/03/Tamil-80S-Radio-1.png",
+"radio_url": "http://apipermission.southradios.net/play/tamil80shitsradio",
+"radio_type": "hd",
+"type": "radio"
+},
+{
+"radio_id": 5888,
+"radio_title": "Tamil 90S Hit Radio",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/2020/03/Tamil-90S-Radio-1.png",
+"radio_url": "http://apipermission.southradios.net/play/tamil90shitradio",
+"radio_type": "hd",
+"type": "radio"
+},
+{
+"radio_id": 5912,
+"radio_title": "Tamil 2k Hit Radio",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/Tamil-2k-Radio.png",
+"radio_url": "http://apipermission.southradios.net/play/2kradio",
+"radio_type": "hd",
+"type": "radio"
+},
+{
+"radio_id": 5871,
+"radio_title": "Tamil Beat Radio",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/2020/03/Tamil-Beat-Radio-1.png",
+"radio_url": "http://apipermission.southradios.net/play/tamilbeatradio",
+"radio_type": "hd",
+"type": "radio"
+},
+{
+"radio_id": 8301,
+"radio_title": "Tamil Dj Remix Radio",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/2020/12/Tamil-Dj-Remix-Radio.png",
+"radio_url": "http://apipermission.southradios.net/play/tamildjremix",
+"radio_type": "hd",
+"type": "radio"
+},
+{
+"radio_id": 6212,
+"radio_title": "Tamil Hits Radio",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/Tamil-Hits-Radio.png",
+"radio_url": "http://apipermission.southradios.net/play/tamilhitsradio",
+"radio_type": "hd",
+"type": "radio"
+},
+{
+"radio_id": 8305,
+"radio_title": "Gana Radio",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/2020/12/Gana-Radio.png",
+"radio_url": "http://apipermission.southradios.net/play/ganaradio",
+"radio_type": "hd",
+"type": "radio"
+},
+{
+"radio_id": 8295,
+"radio_title": "Tamil Talk Radio",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/2020/12/Tamil-Talk-Radio.png",
+"radio_url": "http://apipermission.southradios.net/play/tamiltalk",
+"radio_type": "hd",
+"type": "radio"
+},
+{
+"radio_id": 5874,
+"radio_title": "Tamil Lite Radio",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/2020/03/Tamil-Lite-Radio-1.png",
+"radio_url": "http://apipermission.southradios.net/play/tamilliteradio",
+"radio_type": "hd",
+"type": "radio"
+},
+{
+"radio_id": 5884,
+"radio_title": "Tamil Pop Radio",
+"radio_img": "http://hdfmradio.com/wp-content/uploads/2020/03/Tamil-Pop-1.png",
+"radio_url": "http://apipermission.southradios.net/play/tamilpopradio",
+"radio_type": "hd",
+"type": "radio"
+}
+]

@@ -1,0 +1,83 @@
+﻿[
+{
+		"name": "Aana mere ghar",
+		"name_h": "QWFuYSBtZXJlIGdoYXI=",
+		"url": "story/lovestory/love9.json",
+		"pub": "04-05-2019",
+                 "rent": "free",
+		"image": "https://assetsm.sgp1.digitaloceanspaces.com/cover/large/dhccu4xe.jpg"
+
+	},
+{
+		"name": "Mera bachpan ka anokha pyar",
+		"name_h": "TWVyYSBiYWNocGFuIGthIGFub2toYSBweWFy",
+		"url": "story/lovestory/love8.json",
+		"pub": "04-05-2019",
+                 "rent": "free",
+		"image": "https://hindistory.net/story_banner/do-pl-payar.jpg"
+
+	},
+{
+		"name": "Do Pal",
+		"name_h": "RG8gUGFs",
+		"url": "story/lovestory/love7.json",
+		"pub": "04-05-2019",
+                 "rent": "free",
+		"image": "https://hindistory.net/story_banner/do-pl-payar.jpg"
+
+	},
+{
+		"name": "Pyar ka chaska",
+		"name_h": "UHlhciBrYSBjaGFza2E=",
+		"url": "story/lovestory/love6.json",
+		"pub": "04-05-2019",
+                 "rent": "free",
+		"image": "https://hindistory.net/story_banner/love-marriage_2018112412525873_650x.jpg"
+
+	},
+{
+		"name": "Adhura Pyar",
+		"name_h": "QWRodXJhIFB5YXI=",
+		"url": "story/lovestory/love5.json",
+		"pub": "04-05-2019",
+                 "rent": "free",
+		"image": "https://hindistory.net/story_banner/adhuri-kahan-.jpg"
+
+	},
+{
+		"name": "Marriage Love Story",
+		"name_h": "TWFycmlhZ2UgTG92ZSBTdG9yeQ==",
+		"url": "story/lovestory/love1.json",
+		"pub": "04-05-2019",
+                 "rent": "free",
+		"image": "story/love_story.png"
+
+	},
+{
+		"name": "Rich Girl Poor Boy",
+		"name_h": "UmljaCBHaXJsIFBvb3IgQm95",
+		"url": "story/lovestory/love2.json",
+		"pub": "04-05-2019",
+                 "rent": "free",
+		"image": "story/love_story.png"
+
+	},
+{
+		"name": "Short Love Story",
+		"name_h": "4KS44KSa4KWN4KSa4KWHIOCkquCljeCkr+CkvuCksCDgpJXgpYAg4KSy4KS1IOCkuOCljeCkn+Cli+CksOClgA==",
+		"url": "story/lovestory/love3.json",
+		"pub": "04-05-2019",
+                 "rent": "free",
+		"image": "story/love_story.png"
+
+	},
+{
+		"name": "Ek ladki paheli sii",
+		"name_h": "4KSP4KSVIOCksuCkoeCkvOCkleClgCDgpKrgpLngpYfgpLLgpYAg4KS44KWA",
+		"url": "story/lovestory/love4.json",
+		"pub": "04-05-2019",
+                 "rent": "free",
+		"image": "story/love_story.png"
+
+	}
+]

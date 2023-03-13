@@ -1,0 +1,85 @@
+{
+"active": true,
+"versionCode": 127,
+"ytKey1": "AIzaSyCFGAhJY77Ql2oYH6QL3mkNujegPt7if78",
+"ytKey2": "AIzaSyCFGAhJY77Ql2oYH6QL3mkNujegPt7if78",
+"ytKey3": "AIzaSyCFGAhJY77Ql2oYH6QL3mkNujegPt7if78",
+"domain": "https://gynaecocratic-null.000webhostapp.com",
+"CategoriesList": [
+{
+"name": "Hindi Radio",
+"url": "LatestRadio/radio_stations_artist.json",
+"id": "0"
+},
+{
+"name": "Marathi Radio",
+"url": "LatestRadio/marathi_radio.json",
+"id": "1"
+},
+{
+"name": "Tamil Radio",
+"url": "LatestRadio/tamil_radio.json",
+"id": "2"
+},
+{
+"name": "Telugu Radio",
+"url": "LatestRadio/telgu_radio.json",
+"id": "3"
+},
+{
+"name": "Malayalam R..",
+"url": "LatestRadio/malyalam_radio.json",
+"id": "4"
+},
+{
+"name": "Punjabi Radio",
+"url": "LatestRadio/punjabi_fm.json",
+"id": "5"
+},
+{
+"name": "Bangla Radio",
+"url": "LatestRadio/bangla_fm.json",
+"id": "6"
+},
+{
+"name": "Odiya Radio",
+"url": "LatestRadio/odiya.json",
+"id": "6"
+},
+{
+"name": "AIR FM",
+"url": "LatestRadio/air_fm.json",
+"id": "7"
+},
+{
+"name": "Artist Radio",
+"url": "LatestRadio/artist_fm.json",
+"id": "8"
+},
+{
+"name": "News & TV",
+"url": "LatestRadio/news&tv.json",
+"id": "9"
+},
+{
+"name": "Devotional FM",
+"url": "LatestRadio/devotional.json",
+"id": "10"
+},
+{
+"name": "Mirchi FM",
+"url": "LatestRadio/mirchi.json",
+"id": "11"
+},
+{
+"name": "Hungama Radio",
+"url": "LatestRadio/hungama.json",
+"id": "12"
+},
+{
+"name": "Radio City",
+"url": "LatestRadio/radio_city.json",
+"id": "13"
+}
+]
+}

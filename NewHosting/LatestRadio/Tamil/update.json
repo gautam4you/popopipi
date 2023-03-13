@@ -1,0 +1,59 @@
+{
+	"active": true,
+        "versionCode":6,
+	  "ytKey1": "AIzaSyCFGAhJY77Ql2oYH6QL3mkNujegPt7if78",
+        "ytKey2": "AIzaSyCFGAhJY77Ql2oYH6QL3mkNujegPt7if78",
+        "ytKey3": "AIzaSyCFGAhJY77Ql2oYH6QL3mkNujegPt7if78",
+	"bannerAdsUnite": "ca-app-pub-6533269161423177/6473223053",
+	"fullAdsUnite": "ca-app-pub-6533269161423177/3847059716",
+	"rewardVideosAdsUnite": "ca-app-pub-6533269161423177/2533978044",
+	"adsAppId": "ca-app-pub-6533269161423177~4038631407",
+	"fbBanner": "1347594062243585_1347595122243479",
+	"fbfullAdsUnite": "1347594062243585_1347595408910117",
+	"fbNativeUnite": "1347594062243585_1347595678910090",
+      "domain": "https://gynaecocratic-null.000webhostapp.com",
+	"CategoriesList": [{
+			"name": "Tamil Radio",
+			"url": "LatestRadio/Tamil/tamil_live.json",
+			"id": "1"
+			
+		},
+			   {
+			"name": "South Radio",
+			"url": "LatestRadio/Tamil/south_radio.json",
+			"id": "2"
+			
+		}
+			   ,
+			   {
+			"name": "Hits Collection",
+			"url": "LatestRadio/Tamil/hitscollection.json",
+			"id": "3"
+			
+		}  ,
+			   {
+			"name": "Online Live",
+			"url": "LatestRadio/Tamil/online_radio.json",
+			"id": "4"
+			
+		} ,
+			   {
+			"name": "AIR Tamil",
+			"url": "LatestRadio/Tamil/air_tamil.json",
+			"id": "5"
+			
+		},
+			   {
+			"name": "Religion Radio",
+			"url": "LatestRadio/Tamil/religion_radio.json",
+			"id": "6"
+			
+		},
+			   {
+			"name": "Bollywood",
+			"url": "LatestRadio/radio_stations_artist.json",
+			"id": "7"
+			
+		}
+	]
+}

@@ -1,0 +1,176 @@
+[
+{
+"logo": "http://shortfilmsite.com/images/air.jpg",
+"name": "Air English Morning",
+"url": "https://afeias.com/english-morning.mp3?ver=1594809291",
+"category": "Tv - Audio"
+},
+{
+"logo": "https://pbs.twimg.com/profile_images/1191605475881603072/E42CwEiU_400x400.jpg",
+"name": "NewsNation",
+"url": "https://m-c02-j2apps.s.llnwi.net/hls/1062.NewsNation.in.m3u8",
+"category": "Tv - Audio"
+},
+{
+"logo": "https://images-eu.ssl-images-amazon.com/images/I/71B0kUlXfKL._AC_UL600_SR600,600_.png",
+"name": "India News",
+"url": "https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8",
+"category": "Tv - Audio"
+},
+{
+"logo": "https://mplan.media/wp-content/uploads/2018/03/janatatv.png",
+"name": "Janta TV",
+"url": "https://284rnk9kr7xv-hls-live.wmncdn.net/jantatv/live.stream/index.m3u8",
+"category": "Tv - Audio"
+},
+{
+"logo": "https://i.ytimg.com/vi/JZeZl26lv-Q/hqdefault.jpg",
+"name": "Abp Hindi",
+"url": "https://abp-i.akamaihd.net/hls/live/765529-b/abphindi/master.m3u8",
+"category": "Tv - Audio"
+},
+{
+"logo": "https://i.pinimg.com/736x/56/ee/1e/56ee1eebec540a5268160b926dcc518c.jpg",
+"name": "NDTV 24X7",
+"url": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8",
+"category": "Tv - Audio"
+},
+{
+"logo": "https://miro.medium.com/max/684/1*JVgw9W3CgcCcmUWysi8bmQ.png",
+"name": "Republic Bharat",
+"url": "https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8",
+"category": "Tv - Audio"
+},
+{
+"logo": "https://www.indiantelevision.com/sites/default/files/images/tv-images/2020/04/24/indiatv.jpg",
+"name": "India TV",
+"url": "https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/playlist.m3u8",
+"category": "Tv - Audio"
+},
+{
+"logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/aajtak.jpg",
+"name": "AajTak TV",
+"url": "http://feeds.intoday.in:80/aajtak/api/master.m3u8",
+"category": "Tv - Audio"
+},
+{
+"logo": "https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Tez_TV_white.png",
+"name": "TEZ TV",
+"url": "https://feeds.intoday.in/aajtak/api/tez/master.m3u8",
+"category": "Tv - Audio"
+},
+{
+"logo": "https://pbs.twimg.com/profile_images/1114818982840655873/pwZ3lNtV_400x400.png",
+"name": "K News",
+"url": "https://knews.livebox.co.in/youtubehls/live.m3u8",
+"category": "Tv - Audio"
+},
+{
+"logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Dd_national.jpg/240px-Dd_national.jpg",
+"name": "DD National",
+"url": "https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in.m3u8",
+"category": "Tv - Audio"
+},
+{
+"logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/khabrainabhitak.jpg",
+"name": "Khabrain Abhi Tak Tv",
+"url": "https://vidcdn.vidgyor.com/kat-origin/liveabr/playlist.m3u8",
+"category": "Tv - Audio"
+},
+{
+"logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/news24.jpg",
+"name": "B4U Kadak",
+"url": "http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8",
+"category": "Tv - Audio"
+},
+{
+"logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/news24.jpg",
+"name": "News 24",
+"url": "https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8",
+"category": "Tv - Audio"
+},
+{
+"logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/abpnews.jpg",
+"name": "News18 Lokmat TV",
+"url": "https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8",
+"category": "Tv - Audio"
+},
+{
+"logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/abpnews.jpg",
+"name": "Punjabi TV",
+"url": "http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8",
+"category": "Tv - Audio"
+},
+{
+"name": "NDTV Prime",
+"url": "https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680-b/ndtvprofit/masterb_480p@2.m3u8",
+"logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/ndtv.jpg",
+"category": "Tv - Audio"
+},
+{
+"name": "NDTV India",
+"url": "https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/masterb_480p@2.m3u8",
+"logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/ndtv.jpg",
+"category": "Tv - Audio"
+},
+{
+"name": "ET Now",
+"url": "http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_288_av-p.m3u8",
+"logo": "https://img.etimg.com/photo/60882360.cms",
+"category": "Tv - Audio"
+},
+{
+"name": "CNN News 18",
+"url": "http://cnnnews18-lh.akamaihd.net/i/cnnnews18_1@174950/index_3_av-p.m3u8",
+"logo": "https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2019/06/08/CNN-news18.jpg?itok=DTY8Veed",
+"category": "Tv - Audio"
+},
+{
+"name": "CNBC TV 18",
+"url": "http://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_3_av-p.m3u8",
+"logo": "https://images.news18.com/ibnlive/uploads/2018/04/cnbctv181.jpg",
+"category": "Tv - Audio"
+},
+{
+"logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/tv9.jpg",
+"name": "Tv9 Kannada",
+"url": "https://vidcdn.vidgyor.com/tv9kannada-origin/live/tv9kannada-origin/live1/chunks.m3u8",
+"category": "Tv - Audio"
+},
+{
+"logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/tv9.jpg",
+"name": "Tv9 Telugu",
+"url": "https://vidcdn.vidgyor.com/tv9telugu-origin/live/tv9telugu-origin/live1/chunks.m3u8",
+"category": "Tv - Audio"
+},
+{
+"name": "High News Bengali",
+"logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/highnews.jpg",
+"url": "http://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8",
+"category": "Tv - Audio"
+},
+{
+"name": "News18 Bengla(4G) BETA",
+"logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/New18_India.jpg",
+"url": "https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8",
+"category": "Tv - Audio"
+},
+{
+"name": "CN News",
+"logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/calcutta_news.jpg",
+"url": "https://d39iawgzv3h0yo.cloudfront.net/out/v1/1ef4344a3b4a41908915d58ac7bd5e23/index.m3u8",
+"category": "Tv - Audio"
+},
+{
+"logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/abpnews.jpg",
+"name": "ABP News",
+"url": "https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8",
+"category": "Tv - Audio"
+},
+{
+"logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/loksabha.jpg",
+"name": "Loksova TV",
+"url": "http://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8",
+"category": "Tv - Audio"
+}
+ ]

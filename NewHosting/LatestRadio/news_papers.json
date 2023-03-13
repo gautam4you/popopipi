@@ -1,0 +1,453 @@
+[
+	{
+		"imgLogo": "pic/cw.png",
+		"name": "Career power",
+		"type": "N",
+		"link": "https://www.careerpower.in/sarkari-result.html",
+            "YtKey": "AIzaSyCFGAhJY77Ql2oYH6QL3mkNujegPt7if78"
+},
+	{
+		"imgLogo": "pic/sarkari.png",
+		"name": "Sarkari Results",
+		"type": "N",
+		"link": "https://sarkariresults.info/"
+},
+	{
+		"imgLogo": "pic/wah.png",
+		"name": "Wah Cricket",
+		"type": "N",
+		"link": "https://www.abplive.com/sports/cricket"
+},
+	{
+		"imgLogo": "pic/jantv.png",
+		"name": "Jan TV",
+		"type": "N",
+		"link": "http://jantv.in/"
+},
+	{
+		"imgLogo": "pic/palpal.png",
+		"name": "PalPal India",
+		"type": "N",
+		"link": "https://palpalindia.com/index.php"
+},
+	{
+		"imgLogo": "pic/oneindia.png",
+		"name": "One India English",
+		"type": "N",
+		"link": "https://www.oneindia.com/"
+},
+	{
+		"imgLogo": "pic/oneindia.png",
+		"name": "One India Hindi",
+		"type": "N",
+		"link": "https://hindi.oneindia.com/"
+},
+	{
+		"imgLogo": "pic/toi.png",
+		"name": "Times of india",
+		"type": "N",
+		"link": "https://timesofindia.indiatimes.com/"
+},
+	{
+		"imgLogo": "pic/indianexpress.png",
+		"name": "Indian Express",
+		"type": "N",
+		"link": "https://indianexpress.com/"
+},
+	{
+		"imgLogo": "pic/dainikbhaskar.png",
+		"name": "Bhaskar",
+		"type": "N",
+		"link": "https://www.bhaskar.com/"
+},
+	{
+		"imgLogo": "pic/navbharat.png",
+		"name": "Nav Bharat Times",
+		"type": "N",
+		"link": "https://navbharattimes.indiatimes.com/"
+},
+	{
+		"imgLogo": "pic/gnews.png",
+		"name": "Google News English",
+		"type": "N",
+		"link": "https://news.google.com/"
+},
+	{
+		"imgLogo": "pic/gnews.png",
+		"name": "Google News Hindi",
+		"type": "N",
+		"link": "https://news.google.com/topstories?hl=hi&gl=IN&ceid=IN:hi"
+},
+	{
+		"imgLogo": "pic/air.png",
+		"name": "English On Air",
+		"type": "N",
+		"link": "https://newsonair.gov.in/"
+},
+	{
+		"imgLogo": "pic/air.png",
+		"name": "Hindi On Air",
+		"type": "N",
+		"link": "https://newsonair.gov.in/hindi/Hindi-Default.aspx"
+},
+{
+		"imgLogo": "News/aajtak.png",
+	        "name": "Aaj Tak",
+	        "type": "N",
+		"link": "https://aajtak.intoday.in/"
+},
+{
+		"imgLogo": "News/button1.png",
+	        "name": "Bhaskar",
+	         "type": "N",
+		"link": "https://www.bhaskar.com"
+},
+{
+		"imgLogo": "News/button2.png",
+	        "name": "Jagran",
+	        "type": "N",
+		"link": "https://www.jagran.com/"
+},
+{
+		"imgLogo": "News/button3.png",
+	        "name": "Patrika",
+	        "type": "N",
+		"link": "https://www.patrika.com/india-news/"
+},
+{
+		"imgLogo": "News/button4.png",
+	        "name": "Amar Ujala",
+	        "type": "N",
+		"link": "https://www.amarujala.com/"
+},
+{
+	 	"imgLogo": "News/button5.png",
+	        "name": "Nav Bharat",
+	        "type": "N",
+		"link": "http://www.navabharat.com/"
+},
+{
+		"imgLogo": "News/button6.png",
+	        "name": "Punjab Kesari",
+	        "type": "N",
+		"link": "https://www.punjabkesari.in/"
+},
+{
+		"imgLogo": "News/button7.png",
+	        "name": "Live Hindustan",
+	        "type": "N",
+		"link": "https://www.livehindustan.com/"
+},
+{
+		"imgLogo": "News/button8.png",
+	        "name": "Prabhat Khabar",
+	        "type": "N",
+		"link": "https://www.prabhatkhabar.com/"
+},
+{
+		"imgLogo": "News/button64.png",
+	        "name": "I Next",
+	        "type": "N",
+		"link": "https://inextlive.jagran.com/"
+},
+{
+		"imgLogo": "News/button9.png",
+	         "name": "Business Standard",
+	        "type": "N",
+		"link": "https://www.business-standard.com/"
+},
+{
+		"imgLogo": "News/button10.png",
+	        "name": "Hari bhoomi",
+	"type": "E",
+		"link": "http://epaper.haribhoomi.com/"
+},
+{
+		"imgLogo": "News/button11.png",
+	        "name": "Nav Bharat Times",
+	"type": "E",
+		"link": "http://epaper.navbharattimes.com/"
+},
+{
+		"imgLogo": "News/button12.png",
+	        "name": "Desh Bandhu",
+	"type": "N",
+		"link": "http://www.deshbandhu.co.in/index"
+},
+{
+		"imgLogo": "News/button13.png",
+	        "name": "Dainik NavJyoti",
+	"type": "N",
+		"link": "http://www.dainiknavajyoti.in/"
+},
+{
+		"imgLogo": "News/button14.png",
+	         "name": "Divya Himachal",
+	"type": "E",
+		"link": "http://epaper.divyahimachal.com/"
+},
+{
+		"imgLogo": "News/button15.png",
+	        "name": "Jan Satta",
+	"type": "N",
+		"link": "https://www.jansatta.com/"
+},
+{
+		"imgLogo": "News/button16.png",
+	        "name": "Lokmat Samachar",
+	"type": "E",
+		"link": "http://epaperlokmat.in/lokmatsamachar/"
+},
+{
+		"imgLogo": "News/button17.png",
+	        "name": "Nayi Duniya Jagran",
+	"type": "E",
+		"link": "https://naiduniaepaper.jagran.com/"
+},
+{
+		"imgLogo": "News/button18.png",
+	        "name": "Khaskhabar",
+	"type": "N",
+		"link": "https://www.khaskhabar.com/"
+},
+{
+		"imgLogo": "News/button19.png",
+	        "name": "Prabhasakshi",
+	"type": "N",
+		"link": "https://www.prabhasakshi.com/"
+},
+{
+		"imgLogo": "News/button20.png",
+	        "name": "Dainik Tribune Online",
+	"type": "N",
+		"link": "https://www.dainiktribuneonline.com/"
+},
+{
+		"imgLogo": "News/button21.png",
+	        "name": "Deshdoot",
+	"type": "N",
+		"link": "https://www.deshdoot.com/"
+},
+{
+		"imgLogo": "News/button22.png",
+	        "name": "Samachar Jagat",
+	"type": "N",
+		"link": "http://www.samacharjagat.com/"
+},
+{
+		"imgLogo": "News/button23.png",
+	        "name": "Rashtriya Sahara",
+	"type": "E",
+		"link": "http://www.rashtriyasahara.com/"
+},
+{
+		"imgLogo": "News/button24.png",
+	        "name": "Web Milap",
+	"type": "E",
+		"link": "http://www.webmilap.com/"
+},
+{
+		"imgLogo": "News/button25.png",
+	        "name": "Pratahkal",
+	"type": "E",
+		"link": "http://epaper.pratahkal.com/"
+},
+{
+		"imgLogo": "News/button26.png",
+	        "name": "Sanjeevni Today",
+	"type": "N",
+		"link": "https://www.sanjeevnitoday.com/Default"
+},
+{
+		"imgLogo": "News/button27.png",
+	        "name": "Uttam Hindi",
+	"type": "N",
+		"link": "http://www.uttamhindu.com/"
+},
+{
+		"imgLogo": "News/button28.png",
+	         "name": "Tehelka Hindi",
+	"type": "N",
+		"link": "http://tehelkahindi.com/"
+},
+{
+		"imgLogo": "News/button29.png",
+	        "name": "LokTej",
+	"type": "N",
+		"link": "http://www.loktej.com/"
+},
+{
+		"imgLogo": "News/button30.png",
+	        "name": "NavaBharat",
+	"type": "N",
+		"link": "http://www.navabharat.com/"
+},
+{
+		"imgLogo": "News/button31.png",
+	        "name": "Ranchi Express",
+	"type": "N",
+		"link": "http://ranchiexpress.com/"
+},
+{
+		"imgLogo": "News/button32.png",
+	        "name": "Virarjun",
+	"type": "N",
+		"link": "http://www.virarjun.com/"
+},
+{
+		"imgLogo": "News/button33.png",
+	         "name": "Pudhari",
+	"type": "N",
+		"link": "http://www.pudhari.news/"
+},
+{
+		"imgLogo": "News/button34.png",
+	         "name": "Punjab Kesari",
+	"type": "N",
+		"link": "https://punjabkesari.com/"
+},
+{
+		"imgLogo": "News/button35.png",
+	         "name": "Desh Unnati",
+	"type": "E",
+		"link": "http://deshonnati.digitaledition.in/"
+},
+{
+		"imgLogo": "News/button36.png",
+	        "name": "Jansandesh Times",
+	"type": "E",
+		"link": "https://jansandeshtimes.net/"
+},
+{
+		"imgLogo": "News/button37.png",
+	        "name": "Dainik Savera Times",
+	"type": "N",
+		"link": "https://www.dainiksaveratimes.com/"
+},
+{
+		"imgLogo": "News/button38.png",
+	        "name": "Sanmarg",
+	"type": "N",
+		"link": "http://sanmarg.in/"
+},
+{
+		"imgLogo": "News/button39.png",
+	        "name": "Pradesh Today",
+	"type": "E",
+		"link": "https://epaper.pradeshtoday.com/"
+},
+{
+		"imgLogo": "News/button40.png",
+	        "name": "Chauthiduniya",
+	"type": "N",
+		"link": "http://www.chauthiduniya.com/"
+},
+{
+		"imgLogo": "News/button41.png",
+	           "name": "Bharat Khabar",
+	"type": "N",
+		"link": "https://www.bharatkhabar.com/"
+},
+{
+		"imgLogo": "News/button42.png",
+	        "name": "Krishak Jagat",
+	"type": "N",
+		"link": "https://www.krishakjagat.org/"
+},
+{
+		"imgLogo": "News/button43.png",
+	        "name": "Tarunmitra",
+	"type": "N",
+		"link": "https://tarunmitra.in/"
+},
+{
+		"imgLogo": "News/button45.png",
+	        "name": "Panchjanya",
+	"type": "N",
+		"link": "http://www.panchjanya.com/"
+},
+{
+		"imgLogo": "News/button46.png",
+	        "name": "Aapki Khabar",
+	"type": "N",
+		"link": "https://aapkikhabar.com/"
+},
+{
+		"imgLogo": "News/button47.png",
+	        "name": "Daily Chhattisgarh",
+	"type": "N",
+		"link": "https://dailychhattisgarh.com/"
+},
+{
+		"imgLogo": "News/button48.png",
+	         "name": "JanWani",
+	"type": "E",
+		"link": "http://www.janwani.in/"
+},
+{
+		"imgLogo": "News/button49.png",
+	        "name": "Jagruk Times",
+	"type": "N",
+		"link": "http://jagruktimes.co.in/"
+},
+{
+		"imgLogo": "News/button50.png",
+	       "name": "ViraatVibhav",
+	"type": "E",
+		"link": "http://epaper.viraatvaibhav.com/"
+},
+{
+		"imgLogo": "News/button51.png",
+	        "name": "Dandakaranya samachar",
+	"type": "E",
+		"link": "http://www.dandakaranyasamachar.com/"
+},
+{
+		"imgLogo": "News/button52.png",
+	        "name": "Rashtriya hindi mail",
+	"type": "E",
+		"link": "http://epaper.rashtriyahindimail.in/epaper.php"
+},
+{
+		"imgLogo": "News/button53.png",
+	        "name": "Daily news activist",
+	"type": "E",
+		"link": "http://www.dailynewsactivist.com/"
+},
+{
+		"imgLogo": "News/button54.png",
+	        "name": "Shahtimes news",
+	"type": "E",
+		"link": "https://www.shahtimesnews.com/page/e-paper"
+},
+{
+		"imgLogo": "News/button55.png",
+	        "name": "Swadesh",
+	"type": "E",
+		"link": "http://epaper.swadesh.in/"
+},
+{
+		"imgLogo": "News/button56.png",
+	        "name": "Raagdesh",
+	"type": "N",
+		"link": "http://raagdesh.com/"
+},
+{
+		"imgLogo": "News/button57.png",
+	         "name": "Janwani",
+	"type": "E",
+		"link": "http://www.janwani.in/"
+},
+{
+		"imgLogo": "News/button58.png",
+	        "name": "Hamara Mahanagar", 
+	"type": "N",
+		"link": "http://www.hamaramahanagar.in/"
+},
+{
+		"imgLogo": "News/button59.png",
+	        "name": "Sachkaujalar", 
+	"type": "N",
+		"link": "http://sachkaujala.com/"
+}
+]
