@@ -1,0 +1,92 @@
+﻿[
+{
+"name": "Peace Radio",
+"url": "http://stream.peaceradio.com:8000/high",
+"category": "Muslim Radios",
+"logo": "http://shortfilmsite.com/images/peaceradio.jpg"
+},
+{
+"name": "SKICR Radio",
+"url": "http://radio.skicrtv.in:10302/stream",
+"category": "Muslim Radios",
+"logo": "http://shortfilmsite.com/images/skicrradio.jpg"
+},
+{
+"name": "Radio IlmusSalaf",
+"url": "http://equinox.shoutca.st:9023/autodj",
+"category": "Muslim Radios",
+"logo": "http://shortfilmsite.com/images/radioilmussalaf.jpg"
+},
+{
+"name": "Radio Islam",
+"url": "http://radioislamin.out.airtime.pro:8000/radioislamin_a?type=mp3",
+"category": "Muslim Radios",
+"logo": "http://shortfilmsite.com/images/radioislam1.jpg"
+},
+{
+"name": "Blueline Sunni Radio",
+"url": "http://stream.zeno.fm/zrc16mqt6yzuv",
+"category": "Muslim Radios",
+"logo": "http://shortfilmsite.com/images/bluelineradio.jpg"
+},
+{
+"name": "Manhajussalaf Radio",
+"url": "http://radio.voiceofsalaf.com/radio/8000/stream",
+"category": "Muslim Radios",
+"logo": "http://shortfilmsite.com/images/manhajussalafradio.jpg"
+},
+{
+"name": "Quran Radio",
+"url": "http://quraan.us:9968/;",
+"category": "Muslim Radios",
+"logo": "http://shortfilmsite.com/images/quranradio.jpg"
+},
+{
+"name": "Radio Tirur",
+"url": "https://sonic01.instainternet.com/8002/stream",
+"category": "Muslim Radios",
+"logo": "http://shortfilmsite.com/images/radiotirur.jpg"
+},
+{
+"name": "Ishal Thenkanam Radio",
+"url": "http://stream.zeno.fm/e8h9hwuwd5zuv",
+"category": "Muslim Radios",
+"logo": "http://shortfilmsite.com/images/ishalthenkanam.jpg"
+},
+{
+"name": "Malabar Islamic Radio",
+"url": "http://s4.voscast.com:8068/;",
+"category": "Muslim Radios",
+"logo": "http://shortfilmsite.com/images/malabarislamicradio.jpg"
+},
+{
+"name": "Malabar FM",
+"url": "http://stream.zeno.fm/9k5ku7bhb8zuv",
+"category": "Muslim Radios",
+"logo": "http://shortfilmsite.com/images/malabarfm.jpg"
+},
+{
+"name": "Quran Urdu Radio",
+"url": "http://quraan.us:9952/;*.mp3",
+"category": "Muslim Radios",
+"logo": "http://shortfilmsite.com/images/quranradio.jpg"
+},
+{
+"name": "Sunni Online Radio",
+"url": "http://198.178.123.20:7812/;stream.mp3",
+"category": "Muslim Radios",
+"logo": "http://shortfilmsite.com/images/sunnionlineradio.jpg"
+},
+{
+"name": "Muthnabi Radio",
+"url": "http://radio.zionmediait.com:5280/;",
+"category": "Muslim Radios",
+"logo": "http://shortfilmsite.com/images/muthnabiradio.jpg"
+},
+{
+"name": "Peace Radio 2",
+"url": "http://stream.peaceradio.com:8000/quran/high",
+"category": "Muslim Radios",
+"logo": "http://shortfilmsite.com/images/peaceradio.jpg"
+}
+]

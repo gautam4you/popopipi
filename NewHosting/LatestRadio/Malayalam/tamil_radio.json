@@ -1,0 +1,98 @@
+﻿[
+{
+"name": "kodai FM",
+"url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio051/playlist.m3u8",
+"category": "Tamil Radios",
+"logo": "http://shortfilmsite.com/images/air.jpg"
+},
+{
+"name": "Hot Now Tamil",
+"url": "http://103.16.47.70:9555/;",
+"category": "Tamil Radios",
+"logo": "http://shortfilmsite.com/images/hotnowtamil.jpg"
+},
+{
+"name": "Minnal FM",
+"url": "http://minnalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch021/rtm-ch021.m3u8",
+"category": "Tamil Radios",
+"logo": "http://shortfilmsite.com/images/minnalfm.jpg"
+},
+{
+"name": "Suno Tamil",
+"url": "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_SUNO_TAMIL_S01.mp3",
+"category": "Tamil Radios",
+"logo": "http://shortfilmsite.com/images/radiosunotamil.jpg"
+},
+{
+"name": "East FM 102.7",
+"url": "http://174.142.215.249:9966/;",
+"category": "Tamil Radios",
+"logo": "http://shortfilmsite.com/images/eastfm.jpg"
+},
+{
+"name": "Uthayam FM",
+"url": "http://91.121.222.81:8656/;stream/1",
+"category": "Tamil Radios",
+"logo": "http://shortfilmsite.com/images/uthayamfm1.jpg"
+},
+{
+"name": "CMR Thamil FM",
+"url": "http://live.cmr24.net:8081/CMR/CMR-MQ/icecast.audio",
+"category": "Tamil Radios",
+"logo": "http://shortfilmsite.com/images/cmrthamilfm.jpg"
+},
+{
+"name": "Tamil 89.4 FM",
+"url": "http://31.14.40.150:9000/;stream.mp3",
+"category": "Tamil Radios",
+"logo": "http://shortfilmsite.com/images/tamilfm.jpg"
+},
+{
+"name": "Mirchi Top Tukkar",
+"url": "http://mirchitoptucker-lh.akamaihd.net/i/MirchiTopTucker_1_1@66103/master.m3u8",
+"category": "Tamil Radios",
+"logo": "http://shortfilmsite.com/images/mirchitoptuckkar.jpg"
+},
+{
+"name": "Osai FM",
+"url": "https://astro4.rastream.com/osai",
+"category": "Tamil Radios",
+"logo": "http://shortfilmsite.com/images/osaifm.jpg"
+},
+{
+"name": "Shakthi FM",
+"url": "http://live.trusl.com:1160/;",
+"category": "Tamil Radios",
+"logo": "http://shortfilmsite.com/images/shaktifm.jpg"
+},
+{
+"name": "A9 Radio",
+"url": "http://195.154.217.103:8175/;stream.mp3",
+"category": "Tamil Radios",
+"logo": "http://shortfilmsite.com/images/a9radio.jpg"
+},
+{
+"name": "Capital FM",
+"url": "http://ca4.rcast.net:8060/;stream.mp3",
+"category": "Tamil Radios",
+"logo": "http://shortfilmsite.com/images/capitalfm.jpg"
+},
+{
+"name": "OLI FM 96.8",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLI968FMAAC.aac",
+"category": "Tamil Radios",
+"logo": "http://shortfilmsite.com/images/olifm.jpg"
+},
+{
+"name": "Sooriyan FM",
+"url": "http://209.133.216.3:7071/;stream.mp3",
+"category": "Tamil Radios",
+"logo": "http://shortfilmsite.com/images/sooryanfm.jpg"
+},
+{
+"name": "Star Tamil",
+"url": "http://198.178.123.8:8402/;stream.mp3",
+"category": "Tamil Radios",
+"logo": "http://shortfilmsite.com/images/startamil.jpg"
+}
+]
