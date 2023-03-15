@@ -1,10 +1,19 @@
 [
+	 {
+		"name": "Radio 90.5 FM",
+		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCksOClh+Ckn+CljeCksOCliyDgpKzgpYngpLLgpYDgpLXgpYHgpKE=",
+		"url": "https://ice42.securenetsystems.net/CR90?type=.mp3",
+		"samplerate": "",
+		"pub": "14-03-2023",
+		"cat": "Hindi,Bollywood,Web",
+		"image": "https://radiosindia.com/images/radio90fm.jpg"
+	},
  {
 		"name": "desi maska",
 		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCksOClh+Ckn+CljeCksOCliyDgpKzgpYngpLLgpYDgpLXgpYHgpKE=",
 		"url": "https://n13.radiojar.com/q9rymqdbeyduv.m4a",
 		"samplerate": "",
-		"pub": "14-11-2022",
+		"pub": "14-03-2023",
 		"cat": "Hindi,Bollywood,Web",
 		"image": "http://www.desimaskaradio.com/upload/design/58c5cda7bb8eb3.14259771.png"
 	},
@@ -13,7 +22,7 @@
 		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCksOClh+Ckn+CljeCksOCliyDgpKzgpYngpLLgpYDgpLXgpYHgpKE=",
 		"url": "https://stream.rcast.net/62178",
 		"samplerate": "",
-		"pub": "14-11-2022",
+		"pub": "14-03-2023",
 		"cat": "Hindi,Bollywood,Web",
 		"image": "https://liveradios.in/wp-content/uploads/dabanj.jpg"
 	},
