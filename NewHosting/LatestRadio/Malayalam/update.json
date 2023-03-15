@@ -13,39 +13,40 @@
 	"fbBanner": "783229385596169_783230058929435",
 	"fbfullAdsUnite": "783229385596169_783230295596078",
 	"fbNativeUnite": "783229385596169_783230568929384",
+      "domain": "https://gynaecocratic-null.000webhostapp.com",
 	"CategoriesList": [{
 			"name": "Malyalam Radio",
-			"url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2dhdXRhbTR5b3UvcG9wb3BpcGkvbWFzdGVyL01hbHlhbGFtL21hbHlhbGFtX3JhZGlvLmpzb24=",
+			"url": "LatestRadio/Malayalam/malyalam_radio.json",
 			"id": "1"
 			
 		},
 {
 			"name": "Web Radio",
-			"url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2dhdXRhbTR5b3UvcG9wb3BpcGkvbWFzdGVyL01hbHlhbGFtL3dlYl9yYWRpby5qc29u",
+			"url": "LatestRadio/Malayalam/web_radio.json",
 			"id": "1"
 			
 		},
 {
 			"name": "Tamil Radio",
-			"url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2dhdXRhbTR5b3UvcG9wb3BpcGkvbWFzdGVyL01hbHlhbGFtL3RhbWlsX3JhZGlvLmpzb24=",
+			"url": "LatestRadio/Tamil/tamil_live.json",
 			"id": "1"
 			
 		},
 {
 			"name": "Sports Radio",
-			"url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2dhdXRhbTR5b3UvcG9wb3BpcGkvbWFzdGVyL01hbHlhbGFtL3Nwb3J0X3JhZGlvLmpzb24=",
+			"url": "LatestRadio/Malayalam/sport_radio.json",
 			"id": "1"
 			
 		},
 {
 			"name": "Relaxation Radio",
-			"url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2dhdXRhbTR5b3UvcG9wb3BpcGkvbWFzdGVyL01hbHlhbGFtL3JlbGF4YXRpb25fcmFkaW8uanNvbg==",
+			"url": "LatestRadio/Malayalam/relaxation_radio.json",
 			"id": "1"
 			
 		},
 {
 			"name": "Muslim Radio",
-			"url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2dhdXRhbTR5b3UvcG9wb3BpcGkvbWFzdGVyL01hbHlhbGFtL211c2xpbV9yYWRpby5qc29u",
+			"url": "LatestRadio/Malayalam/muslim_radio.json",
 			"id": "1"
 			
 		},
@@ -53,7 +54,7 @@
 			
 			   {
 			"name": "Bollywood Radio",
-			"url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2dhdXRhbTR5b3UvcG9wb3BpcGkvbWFzdGVyL3JhZGlvX3N0YXRpb25zX2FydGlzdC5qc29u",
+			"url": "LatestRadio/radio_stations_artist.json",
 			"id": "2"
 			
 		}
