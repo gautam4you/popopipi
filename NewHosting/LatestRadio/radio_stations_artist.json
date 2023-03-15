@@ -1,5 +1,14 @@
 [
 	 {
+		"name": "Radio Haryanvi",
+		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCksOClh+Ckn+CljeCksOCliyDgpKzgpYngpLLgpYDgpLXgpYHgpKE=",
+		"url": "https://radioindia.net/radio/haraya/icecast.audio",
+		"samplerate": "",
+		"pub": "14-03-2023",
+		"cat": "Hindi,Bollywood,Web",
+		"image": "https://onlineradiofm.in/assets/image/radio/180/radio-hayarani.png"
+	},
+	 {
 		"name": "Radio 90.5 FM",
 		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCksOClh+Ckn+CljeCksOCliyDgpKzgpYngpLLgpYDgpLXgpYHgpKE=",
 		"url": "https://ice42.securenetsystems.net/CR90?type=.mp3",
