@@ -1,0 +1,1615 @@
+[ {
+    "name": "AIR Live News 24x7 Beta",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio002/hlspbaudio002_Auto.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/air-live.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "Raagam",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudioragam/hlspbaudioragam_Auto.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/raagam.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "Vividh Bharati",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio001/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/vividh-bharati.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR ESD DARI Transmission II",
+    "url": "http://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio232/hlspbaudio232_Auto.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_308665.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR ESD PASHTO IInd Transmission",
+    "url": "http://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio244/hlspbaudio244_Auto.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_713714.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Port Blair PC",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio038/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_230749.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Anantapur",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio054/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/airanantapur.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Cuddapah (Kadapa)",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio018/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/aircuddapah.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Kurnool",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio052/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/airkurnool.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Markapur",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio039/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_789049.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "Simhapuri FM Nellore",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio168/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_436373.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Tirupati",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio144/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/airtirupati.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR ANDHRA PRADESH",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio175/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/airvijayawada.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "FM Rainbow Vijayawada",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio174/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/fmrainvijayawada.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "VB : TELUGU",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio176/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_792040.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Visakhapatnam",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio080/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/airvisakhapc.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "Visakhapatnam FM Rainbow",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio081/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/airvisakhafm.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR ITANAGAR ARUN FM",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio234/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_131123.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR ITANAGAR PC",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio277/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_458761.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR PASIGHAT",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio268/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_941772.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR TAWANG",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio272/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_265072.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR TEZU",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio267/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_237299.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR DIBRUGARH",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio255/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_499538.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR DIPHU",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio271/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_399279.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Assamese",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio133/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/air-assamese.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR GUWAHATI PRAGJYOTISHPUR",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio237/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_646762.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR HAFLONG",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio258/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_226622.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR JORHAT",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio261/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_983621.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR NAGAON",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio260/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_706896.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Silchar",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio090/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/airsilchar.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR TEZPUR",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio270/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_797923.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Bhagalpur",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio292/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_687132.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Darbhanga",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio160/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_645992.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Patna",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio087/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/airpatna.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR PATNA FM RAINBOW",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio252/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_384572.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR PATNA VBS",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio251/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_681982.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Purnia Bihar",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio147/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_763725.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Sasaram",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio075/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_330465.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Chandigarh",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio111/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/airchandigarh.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Ambikapur",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio086/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_920396.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Bilaspur",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio110/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_160779.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Jagdalpur",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio201/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_320072.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Raigarh",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio196/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_477509.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Raipur",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio118/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/airraipur.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "VBS RAIPUR ",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio279/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_130541.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR SARAIPALI",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio254/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_482516.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Daman",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio208/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_294651.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Delhi FM Gold",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio005_Auto.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/fm-gold.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Delhi FM Rainbow",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio004/hlspbaudio004_Auto.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/fm-rainbow.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Delhi Indraprastha",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio006/hlspbaudio006_Auto.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_435004.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Delhi Vividh Bharati",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio238/hlspbaudio238_Auto.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_624699.jpeg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Mhadei, Panaji",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio049/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/airmhadei.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "FM Rainbow Goa",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio048/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/fmgoa.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "VBS PANAJI",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio280/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_892562.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Gujarati",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio135/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/air-gujarati.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "VBS Ahmedabad",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio037/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_519561.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR AHWA",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio236/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_483257.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Bhuj",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio195/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/bhuj.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Godhara",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio114/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_568172.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Himmatnagar",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio217/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_512587.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Rajkot",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio155/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/airrajkot.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR RAJKOT VBS",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio156/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_355425.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Surat",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio186/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/airsurat.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Vadodara",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio095/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/airvadodara.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Hissar",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio185/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_618853.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Kurukshetra",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio213/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_689198.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Rohtak",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio188/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/rohtak.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Dharamshala",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio165/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_181135.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR HAMIRPUR FM",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio243/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_247066.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Shimla",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio042/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/shimla.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Shimla PC",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio043/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_336736.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR BHADERWAH",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio246/play.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_937767.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Jammu",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio128/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/airjammu.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Kathua",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio190/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_433421.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "All India Radio Srinagar",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio136/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/radio-kashmir.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Chaibasa",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio224/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_910297.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Daltonganj",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio202/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_871753.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Hazaribagh",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio197/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_972766.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Jamshedpur PC",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio216/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_881940.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "VBS JAMSHEDPUR",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio266/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_842830.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Ranchi",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio199/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_135580.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR RANCHI RAINBOW ",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio253/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_415881.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR RANCHI VBS",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio250/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_285837.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Bellari",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio142/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_120851.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR KARNATAKA",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio030/hlspbaudio030_Auto.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/airbangaluru.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "Amrutvarshini",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio028/hlspbaudio028_Auto.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/amrutvarshini.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "Rainbow Kannada Kaamanbilu",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio027/hlspbaudio027_Auto.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/rainbowkan.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "VB: KANNADA",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio026/hlspbaudio026_Auto.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/vbbang.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Bhadravati",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio211/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/airbhadravati.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Bijapur",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio145/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_581147.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Chitradurga",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio105/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/airchitradurga.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Dharwad",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio150/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_390506.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Kalaburagi (Gulbarga)",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio015/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_797239.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Hassan",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio172/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/airhassan.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Hospet",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio184/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_998276.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Karwar",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio123/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_857926.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Mysuru",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio177/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/mysuru.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Mangalore",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio073/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/airmangalore.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Madikeri",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio068/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_329609.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Raichur",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio198/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_919759.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Devikulam",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio214/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_996461.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Kannur",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio173/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/airkannur.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Kochi",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio045/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/airkochi.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Kochi FM Rainbow",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio044/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/kochirainbow.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Calicut",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio082/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/aircalicut.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Kozhikode Real FM",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio083/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/airkozhikoderealfm.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Manjeri",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio101/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/airmanjeri.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Thrissur",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio036/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/airthrissur.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR KERALA",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio230/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/malayalam.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "VB : MALAYALAM",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio229/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/fmananthapuri.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Kargil",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio066/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_389223.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Leh",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio223/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_410707.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Kavaratti",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio189/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_387716.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Balaghat",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio091/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_104096.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Betul",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio108/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_434247.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Bhopal",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio146/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/bhopal.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR_VBS_BHOPAL",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio248/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_124534.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Chhatarpur",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio104/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/airchhatarpur.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Chhindwara",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio113/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/airchhindwara.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Guna",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio115/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_741208.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Gwalior",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio205/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/airgwalior.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Indore",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio212/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/indore.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR INDORE VBS",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio241/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_624993.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Jabalpur",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio167/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/jabalpur.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR JABALPUR FM",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio240/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_339623.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Khandwa",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio143/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_818549.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Rewa",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio225/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_671538.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Sagar",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio204/play.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_918593.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Shahdol",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio228/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_567879.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Shivpuri",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio171/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_147769.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Ahmednagar",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio019/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/airahmednagar.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Akola",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio178/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/airakola.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Amravati (MAH)",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio151/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_917014.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Aurangabad",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio065/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/airaurangabad.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Beed",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio077/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_341177.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Chandrapur",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio074/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_119620.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Dhule",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio079/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_868166.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Jalgaon",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio096/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/airjalgaon.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Kolhapur",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio063/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/airkolhapur.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Marathi Mumbai Asmita",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio010/hlspbaudio010_Auto.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/airmumbaiasmita.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR MUMBAI VBS",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio011/hlspbaudio011_Auto.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_597242.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "FM Gold Mumbai",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio007/hlspbaudio007_Auto.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/goldmumbai.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "FM Rainbow Mumbai",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio008/hlspbaudio008_Auto.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/rainmumbai.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "Samvadita Mumbai",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio009/hlspbaudio009_Auto.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/sammumbai.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Nagpur",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio069/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/airnagpur.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Nagpur VBS",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio070/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_811388.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Nanded",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio072/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/airnanded.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Nasik",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio035/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_414066.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Osmanabad",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio132/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/airosmanabad.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Parbhani",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio085/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/airparbhani.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Pune",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio012/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/airpune.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Pune FM",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio013/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/airpunefm.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Ratnagiri",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio071/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/airratnagiri.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Sindhudurg",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio219/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_934689.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Sangli",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio106/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/airsangli.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Satara",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio076/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/airsatara.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Solapur",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio093/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/airsolapur.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Yavatmal",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio109/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_795221.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR CHURACHANDPUR",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio273/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_469489.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Imphal Kangla",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio209/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_563170.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Imphal Sangai",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio210/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_711553.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Jowai",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio265/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_595144.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR_SHILLONG",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio161/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_505076.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "FM JONGPHI SHILLONG",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio264/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_268715.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "North-Eastern Livestream",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio249/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_289258.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR TURA",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio259/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_500280.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Aizawl",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio221/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_599542.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "FM ZOAWI",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio242/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_461023.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR LUNGLEI",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio269/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_236171.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Mokokchung",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio263/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_927073.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR KOHIMA PC",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio274/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_125467.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "FM Tragopan Kohima",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio220/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/airkohima.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "Air Baripada",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio158/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_705237.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Berhampur",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio180/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_339598.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Bhawanipatna",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio120/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_111466.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Balangir",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio187/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_116831.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Cuttack FM Rainbow",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio102/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_356417.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Cuttack VBS",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio103/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_289011.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Odia",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio137/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/air-odia.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Jeypore",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio112/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_413790.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR JORANDA",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio256/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_980324.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Keonjhar",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio166/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_471603.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Puri FM",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio100/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/airpurifm.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Rourkela",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio215/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_120416.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Mahanadi Sambalpur",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio182/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_945118.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Sambalpur",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio181/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_110301.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Karaikal",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio050/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_850420.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Puducherry PC",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio097/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_330207.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Puducherry Rainbow",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio098/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_224333.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Bhatinda",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio117/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_283995.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Punjabi",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio138/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/air-punjabi.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "FM Rainbow Jalandhar",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio134/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_667521.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Patiala",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio163/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/airpatiala.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Alwar",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio153/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_199064.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Banswara",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio014/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/airbanswara.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Barmer",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio200/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_742300.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Bikaner",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio053/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/airbikaner.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Chittorgarh",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio060/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/airchittorgarh.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Churu",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio226/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_898927.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Jaipur",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio192/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/airjaipur.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Jaipur VBS",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio193/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_772066.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Jaisalmer",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio206/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_391414.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Jhalawar",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio157/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_622484.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Jodhpur",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio088/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/airjodhpur.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Jodhpur Sun City FM",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio089/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/fmjodhpur.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Kota",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio084/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/airkota.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Mount Abu",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio159/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_156819.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Nagaur",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio170/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_178497.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Sawai Madhopur",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio119/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/airsawaimadhopur.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Suratgarh",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio064/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/airsuratgarh.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Udaipur",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio148/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/airudaipur.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Udaipur FM Lake CIty",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio149/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/airudaipurfmlakecity.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Gangtok",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio227/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_770774.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR CHENNAI FM GOLD",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio021/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_121071.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR CHENNAI RAINBOW",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio022/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_327320.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR TAMIL NADU",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio025/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/air-tamil.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "VB: TAMIL",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio024/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_361667.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Coimbatore",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio016/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/aircoimbatore.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Coimbatore FM Rainbow",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio017/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/aircoimbatorefmrainbow.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Dharmapuri",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio078/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_431421.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Kodaikanal",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio051/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/airkodaikanal.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Madurai",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio126/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/airmadurai.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Madurai PC",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio127/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_503678.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "Nagercoil Kumari FM",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio129/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/nagercoilkumarifm.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Ooty",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio207/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/airooty.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Tiruchirapalli PC",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio041/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_763368.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Tiruchirappalli FM",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio040/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/airtiruchirappallifm.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR TIRUNELVELI PC",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio061/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/airtirunelveli.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Tirunelveli Rainbow",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio062/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_405676.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Tuticorin",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio121/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_750850.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Adilabad",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio218/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/adilabad.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Hyderabad FM Rainbow",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio031/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_212042.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR TELANGANA",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio032/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_705851.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "VB :TELUGU",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio034/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_444750.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Kothagudem",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio116/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_509111.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Nizamabad",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio222/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_187368.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Warangal",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio154/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/airwarangal.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Agartala FM Ujjayanta",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio130/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_332705.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Agartala PC",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio131/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_690649.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR BELONIA",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio257/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_736495.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR KAILASHAHAR",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio276/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_237652.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Agra",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio059/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/airagra.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Prayagraj",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio125/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/airallahabad.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Bareilly",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio124/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_195570.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Ayodhya",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio152/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_921956.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Gorakhpur",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio203/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/airgorakhpur.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Jhansi",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio099/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/airjhansi.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Kanpur",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio194/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_345394.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Lucknow",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio046/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/airlucknow.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Mathura",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio067/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/airmathura.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Najibabad",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio162/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_517789.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Obra",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio235/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_265912.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Rampur",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio179/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_850592.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Varanasi",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio094/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/airvaranasi.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "FM Rainbow Lucknow",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio047/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_188882.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Almora",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio122/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_199564.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Dehradun",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio191/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/airdehradun.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Pauri",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio107/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_125539.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Bangla",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio137/hlspbaudio137_Auto.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/air-bangla.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Kolkata FM Gold",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio057/hlspbaudio057_Auto.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/airkolkatafmgold.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Kolkata FM Rainbow",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio058/hlspbaudio058_Auto.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/airkolkatafmrainbow.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Kolkata Geetanjali",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio055/hlspbaudio055_Auto.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_817824.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Kolkata Sanchayita",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio056/hlspbaudio056_Auto.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_480353.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "VBS KOLKATA",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio275/hlspbaudio275_Auto.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_258910.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Kurseong",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio183/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_319202.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Murshidabad",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio169/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_565906.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR SHANTINIKETAN",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio247/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_121090.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR MAITREE",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio245/hlspbaudio245_Auto.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_895638.jpg",
+    "category": "All India Radios"
+  },
+  {
+    "name": "AIR Siliguri",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio164/playlist.m3u8",
+    "logo": "http://prasarbharati.org/pb/images/RADIO_229808.jpg",
+    "category": "All India Radios"
+  }
+]

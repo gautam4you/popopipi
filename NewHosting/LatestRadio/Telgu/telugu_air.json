@@ -1,158 +1,152 @@
 [
-{
-"name": "Delhi FM Gold",
-"url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio005/playlist.m3u8",
-"category": "All India Radios",
-"logo": "http://shortfilmsite.com/images/fmgold.jpg"
-},
-{
-"name": "Visakhapatnam AIR",
-"url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio080/playlist.m3u8",
-"category": "All India Radios",
-"logo": "http://shortfilmsite.com/images/air.jpg"
-},
-{
-"name": "Adilabad AIR",
-"url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio218/playlist.m3u8",
-"category": "All India Radios",
-"logo": "http://shortfilmsite.com/images/airadilabad1.jpg"
-},
-{
-"name": "Anantapur AIR",
-"url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio054/playlist.m3u8",
-"category": "All India Radios",
-"logo": "http://shortfilmsite.com/images/air.jpg"
-},
-{
-"name": "Hyderabad Vividh Bharathi",
-"url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio034/playlist.m3u8",
-"category": "All India Radios",
-"logo": "http://shortfilmsite.com/images/vividhbharathi.jpg"
-},
-{
-"name": "Tirupati AIR",
-"url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio144/playlist.m3u8",
-"category": "All India Radios",
-"logo": "http://shortfilmsite.com/images/air.jpg"
-},
-{
-"name": "Vijayawada AIR",
-"url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio175/playlist.m3u8",
-"category": "All India Radios",
-"logo": "http://shortfilmsite.com/images/air.jpg"
-},
-{
-"name": "Warangal AIR",
-"url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio154/playlist.m3u8",
-"category": "All India Radios",
-"logo": "http://shortfilmsite.com/images/air.jpg"
-},
-{
-"name": "Kothagudem AIR",
-"url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio116/playlist.m3u8",
-"category": "All India Radios",
-"logo": "http://shortfilmsite.com/images/air.jpg"
-},
-{
-"name": "Kurnool AIR",
-"url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio052/playlist.m3u8",
-"category": "All India Radios",
-"logo": "http://shortfilmsite.com/images/air.jpg"
-},
-{
-"name": "Vijayawada Vividh Bharathi",
-"url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio176/playlist.m3u8",
-"category": "All India Radios",
-"logo": "http://shortfilmsite.com/images/vividhbharathi.jpg"
-},
-{
-"name": "Nizamabad AIR",
-"url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio222/playlist.m3u8",
-"category": "All India Radios",
-"logo": "http://shortfilmsite.com/images/air.jpg"
-},
-{
-"name": "Hyderabad AIR B",
-"url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio033/playlist.m3u8",
-"category": "All India Radios",
-"logo": "http://shortfilmsite.com/images/air.jpg"
-},
-{
-"name": "AIR News 24x7",
-"url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio002/playlist.m3u8",
-"category": "All India Radios",
-"logo": "http://shortfilmsite.com/images/air.jpg"
-},
-{
-"name": "Markapur AIR",
-"url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio039/playlist.m3u8",
-"category": "All India Radios",
-"logo": "http://shortfilmsite.com/images/air.jpg"
-},
-{
-"name": "Hyderabad AIR A",
-"url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio032/playlist.m3u8",
-"category": "All India Radios",
-"logo": "http://shortfilmsite.com/images/air.jpg"
-},
-{
-"name": "Amruthavarshini",
-"url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio028/playlist.m3u8",
-"category": "All India Radios",
-"logo": "http://shortfilmsite.com/images/airkannada.jpg"
-},
-{
-"name": "AIR Telugu",
-"url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio141/playlist.m3u8",
-"category": "All India Radios",
-"logo": "http://shortfilmsite.com/images/air.jpg"
-},
-{
-"name": "Hyderabad FM Rainbow",
-"url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio031/playlist.m3u8",
-"category": "All India Radios",
-"logo": "http://shortfilmsite.com/images/fmrainbow1.jpg"
-},
-{
-"name": "AIR Raagam",
-"url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio139/playlist.m3u8",
-"category": "All India Radios",
-"logo": "http://shortfilmsite.com/images/raagam.jpg"
-},
-{
-"name": "Vijayawada FM Rainbow",
-"url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio174/playlist.m3u8",
-"category": "All India Radios",
-"logo": "http://shortfilmsite.com/images/fmrainbow1.jpg"
-},
-{
-"name": "Visakhapatnam FM Rainbow",
-"url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio081/playlist.m3u8",
-"category": "All India Radios",
-"logo": "http://shortfilmsite.com/images/fmrainbow1.jpg"
-},
-{
-"name": "Delhi FM Rainbow",
-"url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio004/playlist.m3u8",
-"category": "All India Radios",
-"logo": "http://shortfilmsite.com/images/fmrainbow1.jpg"
-},
-{
-"name": "Vividh Bharati",
-"url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio001/playlist.m3u8",
-"category": "All India Radios",
-"logo": "http://shortfilmsite.com/images/vividhbharathi.jpg"
-},
-{
-"name": "Kadapa AIR",
-"url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio018/playlist.m3u8",
-"category": "All India Radios",
-"logo": "http://shortfilmsite.com/images/air.jpg"
-},
-{
-"name": "Nellore AIR",
-"url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio167/playlist.m3u8",
-"category": "All India Radios",
-"logo": "http://shortfilmsite.com/images/air.jpg"
-}
+ {
+    "name": "Hyderabad Fm Rainbow",
+    "category": "Air Fm",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio031/playlist.m3u8",
+    "logo": "http://telugu.b-cdn.net/wp-content/uploads/2020/05/Hyderabad-Fm-Rainbow.webp"
+  },
+  {
+    "name": "Vijayawada Fm Rainbow",
+    "category": "Air Fm",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio174/playlist.m3u8",
+    "logo": "http://telugu.b-cdn.net/wp-content/uploads/2020/10/Vijayawada-Fm-Rainbow.webp"
+  },
+  {
+    "name": "Visakhapatnam Fm Rainbow",
+    "category": "Air Fm",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio081/playlist.m3u8",
+    "logo": "http://telugu.b-cdn.net/wp-content/uploads/2020/10/Visakhapatnam-Fm-Rainbow.webp"
+  },
+  {
+    "name": "Vijayawada vividh bharati",
+    "category": "Air Fm",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio176/playlist.m3u8",
+    "logo": "http://telugu.b-cdn.net/wp-content/uploads/2020/10/Vijayawada-vividh-bharati.webp"
+  },
+  {
+    "name": "Hyderabad vividh bharati",
+    "category": "Air Fm",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio034/playlist.m3u8",
+    "logo": "http://telugu.b-cdn.net/wp-content/uploads/2020/10/Hyderabad-vividh-bharati.webp"
+  },
+  {
+    "name": "Simhapuri Fm",
+    "category": "Air Fm",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio168/playlist.m3u8",
+    "logo": "http://telugu.b-cdn.net/wp-content/uploads/2021/09/Simhapuri-Fm.webp"
+  },
+  {
+    "name": "Air Hyderabad A",
+    "category": "Air Fm",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio032/playlist.m3u8",
+    "logo": "http://telugu.b-cdn.net/wp-content/uploads/2020/10/Air-Hyderabad-A.webp"
+  },
+  {
+    "name": "Air Hyderabad B",
+    "category": "Air Fm",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio033/chunklist.m3u8",
+    "logo": "http://telugu.b-cdn.net/wp-content/uploads/2020/05/Air-Hyderabad-B.webp"
+  },
+  {
+    "name": "Air Telugu",
+    "category": "Air Fm",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio141/chunklist.m3u8",
+    "logo": "http://telugu.b-cdn.net/wp-content/uploads/2016/10/Air-Telugu.webp"
+  },
+  {
+    "name": "Air Nizamabad",
+    "category": "Air Fm",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio222/chunklist.m3u8",
+    "logo": "http://telugu.b-cdn.net/wp-content/uploads/2020/10/Air-Nizamabad.webp"
+  },
+  {
+    "name": "Air kothagudem",
+    "category": "Air Fm",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio116/chunklist.m3u8",
+    "logo": "http://telugu.b-cdn.net/wp-content/uploads/2020/10/Air-kothagudem.webp"
+  },
+  {
+    "name": "AIR Warangal",
+    "category": "Air Fm",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio154/chunklist.m3u8",
+    "logo": "http://telugu.b-cdn.net/wp-content/uploads/2019/11/AIR-Warangal.webp"
+  },
+  {
+    "name": "Air Aadilabad",
+    "category": "Air Fm",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio218/chunklist.m3u8",
+    "logo": "http://telugu.b-cdn.net/wp-content/uploads/2019/11/Air-Aadilabad.webp"
+  },
+  {
+    "name": "Air Anantapur",
+    "category": "Air Fm",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio054/chunklist.m3u8",
+    "logo": "http://telugu.b-cdn.net/wp-content/uploads/2019/11/Air-Anantapur.webp"
+  },
+  {
+    "name": "Air Cuddapah (Kadapa)",
+    "category": "Air Fm",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio018/chunklist.m3u8",
+    "logo": "http://telugu.b-cdn.net/wp-content/uploads/2020/10/Air-Cuddapah-Kadapa.webp"
+  },
+  {
+    "name": "Air Kurnool",
+    "category": "Air Fm",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio052/chunklist.m3u8",
+    "logo": "http://telugu.b-cdn.net/wp-content/uploads/2019/11/Air-Kurnool.webp"
+  },
+  {
+    "name": "Air Markapur",
+    "category": "Air Fm",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio039/chunklist.m3u8",
+    "logo": "http://telugu.b-cdn.net/wp-content/uploads/2020/10/Air-Markapur.webp"
+  },
+  {
+    "name": "Air Nellore",
+    "category": "Air Fm",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio168/chunklist.m3u8",
+    "logo": "http://telugu.b-cdn.net/wp-content/uploads/2020/10/Air-Nellore.webp"
+  },
+  {
+    "name": "Air Tirupati",
+    "category": "Air Fm",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio144/playlist.m3u8",
+    "logo": "http://telugu.b-cdn.net/wp-content/uploads/2019/11/Air-Tirupati.webp"
+  },
+  {
+    "name": "Air Vijayawada",
+    "category": "Air Fm",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio175/chunklist.m3u8",
+    "logo": "http://telugu.b-cdn.net/wp-content/uploads/2019/11/Air-Vijayawada.webp"
+  },
+  {
+    "name": "Air Visakhapatnam",
+    "category": "Air Fm",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio080/chunklist.m3u8",
+    "logo": "http://telugu.b-cdn.net/wp-content/uploads/2019/11/Air-Visakhapatnam.webp"
+  },
+ {
+    "name": "AIR Dehradun",
+    "logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/air.jpg",
+    "url": "http://nondelhi-lh.akamaihd.net/i/airdehradun_1@830452/master.m3u8",
+    "category": "Delhi Live"
+  },
+  {
+    "name": "AIR Agra",
+    "logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/air.jpg",
+    "url": "http://airlsmp-lh.akamaihd.net/i/AIRLSMP018_1@107602/master.m3u8",
+    "category": "Delhi Live"
+  },
+  {
+    "name": "AIR Mhadei, Panaji",
+    "logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/air.jpg",
+    "url": "http://nondelhi-lh.akamaihd.net/i/airlsmp004_1@838087/master.m3u8",
+    "category": "Delhi Live"
+  },
+  {
+    "name": "AIR Daman",
+    "logo": "https://raw.githubusercontent.com/dipankar08/staticcdn/master/img/air.jpg",
+    "url": "http://airlsmp5-lh.akamaihd.net/i/AIRLSMP113_1@892658/master.m3u8",
+    "category": "Delhi Live"
+  }
 ]
