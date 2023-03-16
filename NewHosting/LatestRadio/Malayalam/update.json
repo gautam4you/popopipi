@@ -39,7 +39,7 @@
 			
 		},
 {
-			"name": "Relaxation Radio",
+			"name": "Relaxation",
 			"url": "LatestRadio/Malayalam/relaxation_radio.json",
 			"id": "1"
 			
@@ -53,7 +53,7 @@
 			
 			
 			   {
-			"name": "Bollywood Radio",
+			"name": "Bollywood",
 			"url": "LatestRadio/radio_stations_artist.json",
 			"id": "2"
 			

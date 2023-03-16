@@ -1,350 +1,1801 @@
-﻿[
-{
-"name": "BBC Radio 5 live (London, UK)",
-"url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio5live_mf_p",
+﻿[{
 "category": "Sports",
-"logo": "http://cdn-radiotime-logos.tunein.com/s24943q.png"
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/0e/36/19004/1/c100.png",
+"name": "WFAN 66 AM - 101.9 FM",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WFANAM.mp3"
 },
 {
-"name": "98.7 FM ESPN New York (New York, NY)",
-"url": "http://espn.edge-1.target.abacast.net/espn-wepnmp3-32",
 "category": "Sports",
-"logo": "http://cdn-profiles.tunein.com/s22469/images/logoq.jpg"
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/b4/04/28616/1/c100.png",
+"name": "94 WIP Sportsradio",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WIPFM.mp3"
 },
 {
-"name": "1070 The Fan (Indianapolis, IN)",
-"url": "http://20263.live.streamtheworld.com:80/WFNIAM_SC",
 "category": "Sports",
-"logo": "http://cdn-profiles.tunein.com/s29499/images/logoq.png"
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/e7/39/28511/3/c100.png",
+"name": "WSCR - 670 AM The Score",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WSCRAMAAC_SC"
 },
 {
-"name": "ESPN Radio",
-"url": "http://live.wostreaming.net/direct/espn-networkmp3-48",
 "category": "Sports",
-"logo": "http://cdn-profiles.tunein.com/s25876/images/logoq.jpg"
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/0a/c6/17522/c100.png",
+"name": "105.3 The Fan - CBS Dallas",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KRLDFM.mp3"
 },
 {
-"name": "Fox Sports Radio 1340 (Florence, AL)",
-"url": "https://prod-34-83-63-130.wostreaming.net/bigriver-wsbmammp3-ibc1",
 "category": "Sports",
-"logo": "http://cdn-radiotime-logos.tunein.com/s22711q.png"
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/83/de/42383/1/c100.png",
+"name": "WXYT-FM - 97.1 The Ticket",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WXYTFM.mp3"
 },
 {
-"name": "ESPN Cleveland (Cleveland, OH)",
-"url": "http://stream.abacast.net/direct/goodkarma-wknrammp3-ibc2",
 "category": "Sports",
-"logo": "http://cdn-profiles.tunein.com/s30315/images/logoq.png"
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/07/b9/23405/c100.png",
+"name": "WEPN-FM - ESPN New York 98.7 FM",
+"url": "https://live.wostreaming.net/manifest/goodkarma-wepnfmaac-hlsc.m3u8"
 },
 {
-"name": "104.3 The Fan (Longmont, CO)",
-"url": "http://15383.live.streamtheworld.com:3690/KKFNFM_SC",
 "category": "Sports",
-"logo": "http://cdn-profiles.tunein.com/s33298/images/logoq.jpg"
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/1e/3b/3252/c100.png",
+"name": "talkSPORT",
+"url": "https://radio.talksport.com/stream"
 },
 {
-"name": "Arizona Sports (Phoenix, AZ)",
-"url": "http://18493.live.streamtheworld.com:3690/KMVPFM_SC",
 "category": "Sports",
-"logo": "http://cdn-profiles.tunein.com/s33523/images/logoq.png"
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/ac/45/3247/1/c100.png",
+"name": "BBC Radio 5 live",
+"url": "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_five_live_online_nonuk"
 },
 {
-"name": "ESPN Chicago (Chicago, IL)",
-"url": "https://prod-35-230-54-113.wostreaming.net/goodkarma-wmvpammp3-ibc1",
 "category": "Sports",
-"logo": "http://cdn-profiles.tunein.com/s21297/images/logoq.jpg"
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/19/61/26141/1/c100.png",
+"name": "KIRO - 710 ESPN Seattle 710 AM",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KIROAM.mp3"
 },
 {
-"name": "101 ESPN (St. Louis, IL)",
-"url": "http://17493.live.streamtheworld.com:3690/WXOSFM_SC",
 "category": "Sports",
-"logo": "http://cdn-radiotime-logos.tunein.com/s23633q.png"
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/b8/0d/21482/1/c100.png",
+"name": "WBZFM - The Sports Hub 98.5",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WBZFMAACHI.aac"
 },
 {
-"name": "The Fan (Columbus, OH)",
-"url": "https://oom-radiohio.streamguys1.com/cols/wbnsfm.mp3",
 "category": "Sports",
-"logo": "http://cdn-radiotime-logos.tunein.com/s27545q.png"
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/ea/9c/22525/c100.png",
+"name": "WEEI 93.7 FM - Boston Sports News",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WEEIFM.mp3"
 },
 {
-"name": "talkSPORT (London, UK)",
-"url": "http://radio.talksport.com/stream",
 "category": "Sports",
-"logo": "http://cdn-radiotime-logos.tunein.com/s17077q.png"
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/d5/6a/28477/c100.png",
+"name": "WMVP - ESPN 1000 AM",
+"url": "https://live.wostreaming.net/direct/goodkarma-wmvpamaac-ibc1"
 },
 {
-"name": "SKOR North (Saint Paul, MN)",
-"url": "http://18123.live.streamtheworld.com:80/KSTPAM_SC",
 "category": "Sports",
-"logo": "http://cdn-profiles.tunein.com/s7968/images/logoq.png"
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/8d/55/1935/c100.png",
+"name": "RMC Info Talk Sport",
+"url": "https://audio.bfmtv.com/rmcradio_128.mp3?aw_0_1st.aggregator=radio_fr"
 },
 {
-"name": "ESPN Los Angeles (Los Angeles, CA)",
-"url": "http://edge.espn.cdn.abacast.net/espn-kspnmp3-48",
 "category": "Sports",
-"logo": "http://cdn-profiles.tunein.com/s32301/images/logoq.jpg"
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/86/35/9848/c100.png",
+"name": "WGR 550 Sports Radio",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WGRAMAAC.aac"
 },
 {
-"name": "710 ESPN Seattle (Seattle-Tacoma, WA)",
-"url": "http://19223.live.streamtheworld.com:3690/KIROAM_SC",
 "category": "Sports",
-"logo": "http://cdn-radiotime-logos.tunein.com/s33213q.png"
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/26/18/23917/c100.png",
+"name": "WKRK-FM - The Fan 92.3 FM",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WKRKFM.mp3"
 },
 {
-"name": "Clare FM (Ennis, Ireland)",
-"url": "http://tx.sharp-stream.com/icecast.php?i=clarefm.mp3",
 "category": "Sports",
-"logo": "http://cdn-radiotime-logos.tunein.com/s24966q.png"
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/c4/0d/28780/c100.png",
+"name": "WQAM 560 AM",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WQAMAM.mp3"
 },
 {
-"name": "SEN Sports (Melbourne, Australia)",
-"url": "http://13.54.221.214:8000/sen.mp3",
 "category": "Sports",
-"logo": "http://cdn-profiles.tunein.com/s47357/images/logoq.png"
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/06/68/38279/1/c100.png",
+"name": "KTCK - The Ticket 1310 AM / 96.7 FM",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KTCKAM.mp3"
 },
 {
-"name": "650 CKOM News Talk Sports (Saskatoon, Canada)",
-"url": "http://rawlco.leanstream.co/CKOMAM-MP3",
 "category": "Sports",
-"logo": "http://cdn-profiles.tunein.com/s7748/images/logoq.jpg"
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/ba/df/30129/2/c100.png",
+"name": "KRKO - Everett's Greatest Hits",
+"url": "http://www.ophanim.net:9400/live"
 },
 {
-"name": "ABC Grandstand (Australia)",
-"url": "http://live-radio01.mediahubaustralia.com/GSDW/mp3/",
 "category": "Sports",
-"logo": "http://cdn-profiles.tunein.com/s47283/images/logoq.png"
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/08/3b/28615/c100.png",
+"name": "WIP - CBS Sports Radio 610 AM",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WIPFM.mp3"
 },
 {
-"name": "ESPN 97.5 Houston (Mont Belvieu, TX)",
-"url": "http://14523.live.streamtheworld.com:3690/KFNCFM_SC",
 "category": "Sports",
-"logo": "http://cdn-radiotime-logos.tunein.com/s35198q.png"
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/1f/31/31434/c100.png",
+"name": "WJFK-FM - The Fan 106.7 FM",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WJFKFMAAC.aac"
 },
 {
-"name": "AM830 KLAA (Orange, CA)",
-"url": "http://klaa.streamguys1.com/live",
 "category": "Sports",
-"logo": "http://cdn-radiotime-logos.tunein.com/s34679q.png"
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/19/21/28874/c100.png",
+"name": "WMAC 940 AM",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WMACAM.mp3"
 },
 {
-"name": "The Zone Sports Network (Salt Lake City, UT)",
-"url": "http://stream.abacast.net/direct/utahjazz-kznsammp3-ibc4",
 "category": "Sports",
-"logo": "http://cdn-profiles.tunein.com/s7939/images/logoq.png"
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/2b/72/37456/1/c100.png",
+"name": "WTXK - ESPN 107.5 The Ticket",
+"url": "https://ice6.securenetsystems.net/WTXK"
 },
 {
-"name": "NBC Sports Radio",
-"url": "http://tunein.streamguys1.com/NBC_Sports_Radio",
 "category": "Sports",
-"logo": "http://cdn-profiles.tunein.com/s179779/images/logoq.png"
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/1a/24/28046/c100.png",
+"name": "WTIG - ESPN 990 AM",
+"url": "https://ic1.christiannetcast.com/wtig-am"
 },
 {
-"name": "ESPN Radio Las Vegas (Las Vegas, NV)",
-"url": "http://14943.live.streamtheworld.com:80/KWWNAM_SC",
 "category": "Sports",
-"logo": "http://cdn-radiotime-logos.tunein.com/s68358q.png"
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/f5/a3/23915/c100.png",
+"name": "WKNR - ESPN 850 AM",
+"url": "http://stream.abacast.net/direct/goodkarma-wknramaac-ibc2"
 },
 {
-"name": "The Horn (Austin, TX)",
-"url": "http://arn.leanstream.co/KTXXFM-MP3",
 "category": "Sports",
-"logo": "http://cdn-radiotime-logos.tunein.com/s26594q.png"
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/69/2f/31293/c100.png",
+"name": "WHAP - Fox Sports 1340 AM",
+"url": "https://ice6.securenetsystems.net/WHAP"
 },
 {
-"name": "BYU Radio - KBYU-HD2 (Provo, UT)",
-"url": "http://cdn.byub.org/byuradio/byuradio_mp3",
 "category": "Sports",
-"logo": "http://cdn-profiles.tunein.com/s52547/images/logoq.jpg"
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/33/e7/42248/1/c100.png",
+"name": "ESPN College Football 1",
+"url": "https://live.wostreaming.net/manifest/espn-network-cloud.m3u8/"
 },
 {
-"name": "ESPN Milwaukee (Jackson, WI)",
-"url": "http://stream.abacast.net/direct/goodkarma-waukammp3-ibc2",
 "category": "Sports",
-"logo": "http://cdn-profiles.tunein.com/s22569/images/logoq.jpg"
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/c1/47/24137/1/c100.png",
+"name": "WILK-FM News Radio 103.1",
+"url": "http://playerservices.streamtheworld.com/api/livestream-redirect/WILKAM.mp3"
 },
 {
-"name": "ESPN Madison (Madison, WI)",
-"url": "http://stream.abacast.net/direct/goodkarma-wtlxfmmp3-ibc2",
 "category": "Sports",
-"logo": "http://cdn-radiotime-logos.tunein.com/s23193q.png"
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/2c/aa/14193/c100.png",
+"name": "KNBR 680 AM/1050 - The Sports Leader",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KNBRAM.mp3"
 },
 {
-"name": "1029 The Game (Portland, OR)",
-"url": "https://live.wostreaming.net/direct/alphacorporate-kxtgammp3-ibc4",
 "category": "Sports",
-"logo": "http://cdn-profiles.tunein.com/s26496/images/logoq.png"
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/b9/bc/132718/6/c100.png",
+"name": "106.5 The Wolf - WDAF FM",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WDAFFMAAC.aac"
 },
 {
-"name": "KNBR 680 (San Francisco, CA)",
-"url": "http://15363.live.streamtheworld.com:80/KNBRAM_SC",
 "category": "Sports",
-"logo": "http://cdn-profiles.tunein.com/s34231/images/logoq.png"
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/4d/0a/17618/c100.png",
+"name": "SportsRadio 610 AM",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KILTAM.mp3"
 },
 {
-"name": "The Game (Pegram, TN)",
-"url": "http://cromwell.leanstream.co/WPRTFM-MP3",
 "category": "Sports",
-"logo": "http://cdn-profiles.tunein.com/s22301/images/logoq.png"
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/16/77/29791/1/c100.png",
+"name": "WNAV 1430 AM",
+"url": "https://rocket.surfernetwork.com:10001/live/wnav-am_aac/playlist.m3u8"
 },
 {
-"name": "RSN Racing Sport (Melbourne, Australia)",
-"url": "http://rsnshout.dyn.rsn.net.au:8000/rsn",
 "category": "Sports",
-"logo": "http://cdn-radiotime-logos.tunein.com/s3007q.png"
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/b2/25/42255/1/c100.png",
+"name": "KSTP - 1500 ESPN",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KSTPAM.mp3"
 },
 {
-"name": "talkSPORT 2 (UK)",
-"url": "http://radio.talksport.com/stream2",
 "category": "Sports",
-"logo": "http://cdn-radiotime-logos.tunein.com/s265443q.png"
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/e7/cd/22823/c100.png",
+"name": "WBNS -  ESPN Columbus 1460 AM",
+"url": "https://oom-radiohio.streamguys1.com/cols/wbnsam.mp3"
 },
 {
-"name": "Sports Radio 1450 (Springfield, IL)",
-"url": "http://18123.live.streamtheworld.com:80/WFMBAM_SC",
 "category": "Sports",
-"logo": "http://cdn-profiles.tunein.com/s28790/images/logoq.png"
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/a4/1c/26127/c100.png",
+"name": "KGA - CBS Sports 1510 AM",
+"url": "https://ice6.securenetsystems.net/KGA"
 },
 {
-"name": "The Rick Bubba Show",
-"url": "http://s3.voscast.com:8916/",
 "category": "Sports",
-"logo": "http://cdn-radiotime-logos.tunein.com/s208566q.png"
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/ec/b1/20976/c100.png",
+"name": "WNCX 98.5 FM",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WNCXFM.mp3"
 },
 {
-"name": "Sports Radio 810 WHB (Kansas City, MO)",
-"url": "https://ais-sa2.cdnstream1.com/2270_64.mp3",
 "category": "Sports",
-"logo": "http://cdn-radiotime-logos.tunein.com/s29237q.png"
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/bb/b5/25847/c100.png",
+"name": "WDUZ - The Fan 107.5 FM",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WDUZFM.mp3"
 },
 {
-"name": "The Roar (Clemson, SC)",
-"url": "http://s2.radioreformation.com:8056/",
 "category": "Sports",
-"logo": "http://cdn-radiotime-logos.tunein.com/s27782q.png"
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/a6/6c/25191/1/c100.png",
+"name": "WJZ-FM - CBS Baltimore 105.7 FM",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WJZFM.mp3"
 },
 {
-"name": "talkRADIO (UK)",
-"url": "http://radio.talkradio.co.uk/stream",
 "category": "Sports",
-"logo": "http://cdn-radiotime-logos.tunein.com/s265666q.png"
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/e9/0c/17543/c100.png",
+"name": "CBS Sports Radio 650",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KIKKAM.mp3"
 },
 {
-"name": "Family Stations, Inc. (Philadelphia, PA)",
-"url": "http://19293.live.streamtheworld.com:80/FAMILYRADIO_EAST_SC",
 "category": "Sports",
-"logo": "http://cdn-profiles.tunein.com/s183552/images/logoq.png"
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/c7/03/30489/c100.png",
+"name": "WJJB-FM - Big Jab 96.3 FM",
+"url": "https://ic1.mainstreamnetwork.com/wjab-am?type=.mp3"
 },
 {
-"name": "Helen FM (St. Lucia, Saint Lucia)",
-"url": "http://media.carib.pro:80/radio100",
 "category": "Sports",
-"logo": "http://cdn-radiotime-logos.tunein.com/s25068q.png"
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/cf/30/24115/c100.png",
+"name": "KYCA - The News 1490",
+"url": "http://streaming.kahm.info:8030/stream"
 },
 {
-"name": "The Score WI (Appleton, WI)",
-"url": "http://147.135.84.28:80/wsco-am.mp3",
 "category": "Sports",
-"logo": "http://cdn-profiles.tunein.com/s18813/images/logoq.png"
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/cf/56/23802/c100.png",
+"name": "WFOM - Sports Radio 1230 AM The Fan 2",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WFOMAM.mp3"
 },
 {
-"name": "ESPN Arkansas (Barling, AR)",
-"url": "http://18853.live.streamtheworld.com:80/ESPN_ARKANSAS_SC",
 "category": "Sports",
-"logo": "http://cdn-profiles.tunein.com/s35785/images/logoq.jpg"
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/53/43/24843/c100.png",
+"name": "WJQX 100.5 - JOX 2 - ESPN 100.5",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WJQXFM.mp3"
 },
 {
-"name": "FCUM Radio (Manchester, UK)",
-"url": "https://s2.radio.co/s847c08ad4/listen",
-"logo": "http://cdn-radiotime-logos.tunein.com/s96326q.png",
-"category": "Sports"
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/29/a8/14174/2/c100.png",
+"name": "Radio Sportiva",
+"url": "https://sportiva.inmystream.it/stream/sportiva"
 },
 {
-"name": "Stones Live (UK)",
-"url": "http://uk5.internet-radio.com:8288/stream",
-"logo": "http://cdn-radiotime-logos.tunein.com/s132334q.png",
-"category": "Sports"
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/6b/38/21364/c100.png",
+"name": "97.5 WONE FM",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WONEFMAAC.aac"
 },
 {
-"name": "Radio Radio (Lazio, Italy)",
-"url": "http://mp3.radioradio.it:8102/;",
-"logo": "https://cdn.raddio.net/storage/photos/785/b7wv5c2544abd6662599721764.png",
-"category": "Sports"
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/a9/ee/36097/2/c100.png",
+"name": "CJCL Sportsnet 590 The FAN",
+"url": "http://rogers-hls.leanstream.co/rogers/tor590.stream/icy"
 },
 {
-"name": "Tele Radio Stereo (Lazio, Italy)",
-"url": "http://sr8.inmystream.it:8016/stream",
-"logo": "http://cdn-radiotime-logos.tunein.com/s17518q.png",
-"category": "Sports"
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/cc/8c/24987/c100.png",
+"name": "KMVI - ESPN 900 Maui",
+"url": "https://prod-54-163-55-17.wostreaming.net/pacificradio-kmviamaac-hlsc1.m3u8"
 },
 {
-"name": "Centro Suono Sport (Lazio, Italy)",
-"url": "http://www.radiocentrosuono.it:8000/rcss",
-"logo": "http://cdn-radiotime-logos.tunein.com/s70995q.png",
-"category": "Sports"
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/49/fb/31286/c100.png",
+"name": "WFVA - News Talk 1230 AM",
+"url": "http://stream.abacast.net/direct/centennialb-wfvaamaac-ibc3"
 },
 {
-"name": "Radio Sportiva (Tuscany, Italy)",
-"url": "http://46.105.114.57:8000/stream",
-"logo": "http://cdn-radiotime-logos.tunein.com/s95059q.png",
-"category": "Sports"
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/60/5f/132719/6/c100.png",
+"name": "610 Sports Radio KCSP",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KCSPAMAAC.aac"
 },
 {
-"name": "Rete Sport (Lazio, Italy)",
-"url": "https://retesport.newradio.it/1",
-"logo": "http://cdn-radiotime-logos.tunein.com/s94166q.png",
-"category": "Sports"
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/f2/9e/25601/c100.png",
+"name": "WCCP-FM - Talk Sports 104.9 FM",
+"url": "http://s2.radioreformation.com:8060/stream/1/"
 },
 {
-"name": "Futbol de Primera (US)",
-"url": "http://playerservices.streamtheworld.com/api/livestream-redirect/FDPRADIO_ONLINE.MP3",
-"logo": "https://www.fdpradio.com/wp-content/themes/fdp-radio/img/logo-fdp.jpg",
-"category": "Sports"
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/82/df/36110/c100.png",
+"name": "WWIC - Radio 1050 AM",
+"url": "https://ice7.securenetsystems.net/WWIC"
 },
 {
-"name": "Radio Olympia (Lazio, Italy)",
-"url": "http://sr7.inmystream.info:8153/",
-"logo": "http://cdn-radiotime-logos.tunein.com/s137937q.png",
-"category": "Sports"
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/09/ea/12900/c100.png",
+"name": "Radio Marca",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_NACIONAL.mp3?dist=radioes"
 },
 {
-"name": "Radio Cartago (San Jose, Costa Rica)",
-"url": "http://s3.voscast.com:8576/;",
-"logo": "http://cdn-radiotime-logos.tunein.com/s155776q.png",
-"category": "Sports"
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/8a/60/23590/c100.png",
+"name": "WHLD - The Fan 1270 AM",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WHLDAM.mp3"
 },
 {
-"name": "RadioFanat1k (Russia)",
-"url": "http://radio.fanat1k.ru:8000/live",
-"logo": "http://cdn-radiotime-logos.tunein.com/s193244q.png",
-"category": "Sports"
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/74/5b/22596/1/c100.png",
+"name": "KCUB - Sports Radio 1290 AM",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KCUBAM.mp3"
 },
 {
-"name": "UDA Radio (Spain)",
-"url": "http://sd395-a.lcinternet.com:9148/livelq",
-"logo": "http://cdn-radiotime-logos.tunein.com/s181515q.png",
-"category": "Sports"
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/2a/bb/25651/2/c100.png",
+"name": "KDKT - Sportsradio 1410/106.5 ",
+"url": "https://ice6.securenetsystems.net/KDKT"
 },
 {
-"name": "Radio Tua (Marche, Italy)",
-"url": "http://5.135.39.189:8006/;",
-"logo": "http://cdn-radiotime-logos.tunein.com/s93556q.png",
-"category": "Sports"
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/8a/d4/21756/1/c100.png",
+"name": "CKGM TSN 690 Montreal",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CKGMAM.mp3"
 },
 {
-"name": "MiMiLLOS RADIO (Colombia)",
-"url": "http://stream.zeno.fm/ccat658avceuv",
-"logo": "http://cdn-radiotime-logos.tunein.com/s215862q.png",
-"category": "Sports"
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/65/0d/25189/c100.png",
+"name": "WJFK - CBS Sports Radio 1580 AM",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WJFKAM.mp3"
 },
 {
-"name": "Roma Radio",
-"url": "http://ice2.hystream.com:8000/asroma",
-"logo": "http://cdn-radiotime-logos.tunein.com/s231817q.png",
-"category": "Sports"
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/22/10/28669/c100.png",
+"name": "WLLF - Sports Radio 96.7 FM",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WLLFFM.mp3"
 },
 {
-"name": "Camerino Juniorista RADIO (Colombia)",
-"url": "http://209.126.107.182:8012/;",
-"logo": "http://cdn-radiotime-logos.tunein.com/s256684q.png",
-"category": "Sports"
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/98/c1/16043/c100.png",
+"name": "ESPN USA 980",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WTEMAM.mp3"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/a6/bb/22684/c100.png",
+"name": "KFIG - 940 AM ESPN Radio",
+"url": "https://ice5.securenetsystems.net/KFIG"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/42/d2/22788/c100.png",
+"name": "WAXY - 790 AM The Ticket",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WAXYAMAAC.AAC"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/0f/3c/22597/c100.png",
+"name": "KDUS - NBC Sports AM 1060",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KDUSAM.mp3"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/dc/35/17413/c100.png",
+"name": "Radio Marca Madrid 103.5 FM",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_NACIONAL.mp3"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/b0/48/23787/c100.png",
+"name": "WCNN - Sports Radio 680 The Fan",
+"url": "https://stream.zeno.fm/q9458433dm8uv"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/a7/b8/31466/c100.png",
+"name": "WNIS - News Talk 790 AM",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WNISAMAAC.aac"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/aa/c1/25337/c100.png",
+"name": "The Pulse of NH",
+"url": "https://ice64.securenetsystems.net/WTSN"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/2e/dc/22547/2/c100.png",
+"name": "ENERGY Fitness",
+"url": "https://scdn.nrjaudio.fm/adwz1/de/33047/mp3_128.mp3?origine=radio.net"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/47/41/31537/c100.png",
+"name": "KGIR - SEMO ESPN 1220 AM",
+"url": "https://ice23.securenetsystems.net/KGIR"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/e2/46/30635/c100.png",
+"name": "KXLX - ESPN Spokane 700 AM",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KXLXAMAAC.aac"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/5f/7f/132714/2/c100.png",
+"name": "WBGG 970 AM - ESPN Pittsburg",
+"url": "https://stream.revma.ihrhls.com/zc2013/hls.m3u8"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/6f/5e/24128/1/c100.png",
+"name": "WHGB - CBS Sports Radio Harrisburg 95.3",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WHGBAM.mp3"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/fc/7b/20742/c100.png",
+"name": "ABC Grandstand Sport",
+"url": "http://live-radio02.mediahubaustralia.com/GSDW/mp3/"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/35/1b/23961/c100.png",
+"name": "KTAR-AM - Arizona Sports 620",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KTARAM.mp3"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/eb/a9/30874/1/c100.png",
+"name": "KXST - CBS Sports Radio 1140 AM",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KXSTAM.mp3"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/de/4a/37188/1/c100.png",
+"name": "Nigeria Info 99.3 FM Lagos",
+"url": "https://stream.coolwazobiainfo.com/niginf_lag"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/b8/6b/17596/c100.png",
+"name": "The Ticket Sports Radio 1310 AM",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KTCKAM.mp3"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/c2/4c/25400/1/c100.png",
+"name": "WCMC-FM - 99.9 The Fan",
+"url": "https://ais-sa8.cdnstream1.com/2750_64.aac"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/16/f8/31461/c100.png",
+"name": "WMNA-FM - Lynchburg's Talk Station 106.3 FM",
+"url": "https://ice6.securenetsystems.net/WMNAFM"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/3a/51/28682/c100.png",
+"name": "WOYK 1350 AM",
+"url": "https://ic2.mainstreamnetwork.com/woyk-am"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/b6/f6/27138/c100.png",
+"name": "Fútbol de Primera Radio",
+"url": "https://stream.zeno.fm/5w5d2eqpeg8uv"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/b8/e6/25049/c100.png",
+"name": "KJAC - ESPN Denver's Sports Station 105.5 FM",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KKFNFMAAC.aac"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/42/52/15009/2/c100.png",
+"name": "Radio Rivadavia AM 630",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RIVADAVIAAAC.aac"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/3e/b1/23450/c100.png",
+"name": "WGEM - ESPN 1440 AM",
+"url": "https://ice7.securenetsystems.net/WGEMFM"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/2e/84/110328/1/c100.png",
+"name": "ATP Tennis Radio",
+"url": "https://live-tennisradio.sharp-stream.com/tennisradio.mp3"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/f3/af/21754/1/c100.png",
+"name": "CFRW TSN 1290 Winnipeg",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CFRWAM_SC.mp3"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/6f/4a/132715/6/c100.png",
+"name": "96.9 The Game",
+"url": "https://stream.revma.ihrhls.com/zc601/hls.m3u8"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/09/b1/36100/c100.png",
+"name": "CHED 630 AM",
+"url": "https://live.leanstream.co/CHEDAM"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/c0/f9/29928/c100.png",
+"name": "KLOG 1490 AM",
+"url": "http://www.streamcontrol.net:11050/live"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/bd/ba/30945/c100.png",
+"name": "KNTK - The Ticket 93.7 FM",
+"url": "https://ice8.securenetsystems.net/KNTK"
+},
+{
+"category": "Sports",
+"logo": "",
+"name": "Sportsnet 960 The Fan",
+"url": "https://rogers-hls.leanstream.co/rogers/cal960.stream/icy"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/35/ce/21751/1/c100.png",
+"name": "CHUM TSN 1050 Toronto",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CHUMAM.mp3"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/79/2b/22956/c100.png",
+"name": "WCCI - 100.3 FM",
+"url": "https://ice6.securenetsystems.net/WCCI?"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/fb/0f/23388/c100.png",
+"name": "WCPV - ESPN 101.3",
+"url": "https://crystalout.surfernetwork.com:8001/WCPV_MP3"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/71/77/23661/c100.png",
+"name": "WHFS - CBS Sports Radio 1010 AM",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WHFSAMFL.mp3"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/47/c9/31663/c100.png",
+"name": "WRHD - The Game 94.3 FM",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WRHDFM.mp3"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/d7/41/28552/c100.png",
+"name": "WSJK - ESPN 93.5 FM",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WSJKFMAAC.aac"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/38/f9/111311/1/c100.png",
+"name": "ANTENA 2",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ANTENA_2_BOGAAC.aac"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/90/a8/25538/c100.png",
+"name": "KCRC - ESPN Radio 1390 AM",
+"url": "https://ice6.securenetsystems.net/KCRC"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/9a/db/24981/c100.png",
+"name": "KKEA - ESPN 1420",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KKEAAM_MP3.mp3"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/b5/75/25469/c100.png",
+"name": "CKNW AM980",
+"url": "https://live.leanstream.co/CKNWAM?"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/4e/ed/28445/c100.png",
+"name": "WKRS - ESPN 1220 AM",
+"url": "http://stream.abacast.net/direct/alphacorporate-wkrsamaac-ibc4"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/39/8f/31220/c100.png",
+"name": "WMGC-FM - Detroit Sports 105.1 FM",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WMGCFM.mp3"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/9b/77/16639/c100.png",
+"name": "CHQR News Talk 770",
+"url": "https://live.leanstream.co/CHQRAM"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/d6/b5/25067/c100.png",
+"name": "KAKS - The Hog 99.5 FM",
+"url": "https://ice5.securenetsystems.net/KAKSFM?"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/48/2a/31110/c100.png",
+"name": "KMRS 1230 AM",
+"url": "https://ice8.securenetsystems.net/KMRS"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/95/45/30857/1/c100.png",
+"name": "KSHP - K Shop 1400 AM",
+"url": "https://ice24.securenetsystems.net/KSHP"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/e8/d6/30870/c100.png",
+"name": "KWWN - ESPN Radio 1100 AM",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KWWNAM.mp3"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/b6/1b/21363/c100.png",
+"name": "WCLV 104.9 FM",
+"url": "http://audio1.ideastream.org/wclv.mp3"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/71/10/23611/2/c100.png",
+"name": "WGSU 89.3 FM",
+"url": "http://wgsu-live.geneseo.edu:8000/icy_0"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/c4/5b/28632/c100.png",
+"name": "WLPA - ESPN 1490 AM",
+"url": "http://ctcstream.com:8000/stream/1/"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/dc/0e/29793/c100.png",
+"name": "WNST 1570 AM",
+"url": "https://ice6.securenetsystems.net/WNST"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/d3/64/29405/c100.png",
+"name": "WWJB - News-Talk 1450 AM",
+"url": "https://ice3.securenetsystems.net/WWJB"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/3c/33/36156/c100.png",
+"name": "WZZN-FM - ESPN 97.7 The Zone ",
+"url": "https://ic2.mainstreamnetwork.com/wzzn-fm"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/4e/91/21752/c100.png",
+"name": "SN 960 The Fan",
+"url": "https://rogers-hls.leanstream.co/rogers/cal960.stream/playlist.m3u8"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/c5/c2/42249/1/c100.png",
+"name": "ESPN College Football 2",
+"url": "http://stream.abacast.net/direct/espn-networkmp3-48"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/6a/80/15405/2/c100.png",
+"name": "Imagen Radio - XEDA FM",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XEDAFM.mp3"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/4e/e3/30084/c100.png",
+"name": "KLWB-FM - The Game 103.7 FM",
+"url": "https://ice6.securenetsystems.net/KLWB?type=.mp3"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/4b/d1/30083/2/c100.png",
+"name": "KPEL-FM - ESPN 1420 AM",
+"url": "http://stream.abacast.net/direct/townsquare-kpelamaac-ibc3"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/30/6f/22770/c100.png",
+"name": "KXPS - Team 1010",
+"url": "https://ice6.securenetsystems.net/KXPS"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/31/7d/21859/c100.png",
+"name": "RG 690",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RG690.mp3"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/3d/94/18357/c100.png",
+"name": "Sky Sports News Radio",
+"url": "https://video.news.sky.com/snr/news/snrnews.mp3"
+},
+{
+"category": "Sports",
+"logo": "",
+"name": "Steelers Nation Radio",
+"url": "https://cdn3.wowza.com/1/T0RzenNieVdQZlhj/OTd3RUJW/hls/live/playlist.m3u8"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/70/83/39289/4/c100.png",
+"name": "TMW Radio",
+"url": "https://stream17.tmwradio.com/tmw.aac?FLID=7"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/7b/85/36095/1/c100.png",
+"name": "CFRN TSN 1260 Edmonton",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CFRNAMAAC.aac"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/1c/db/23432/c100.png",
+"name": "WDZ - 1050 AM ESPN Decatur",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WSOYAMAAC.aac"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/0a/ff/23658/1/c100.png",
+"name": "WHBO - Sports Talk Florida 1040 AM",
+"url": "https://ice41.securenetsystems.net/WHBO"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/95/0a/23499/c100.png",
+"name": "WHLL - Sports Radio 1450 The Hall",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WHLLAM.mp3"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/d4/6d/24134/c100.png",
+"name": "WICK 1400 AM - The Game Sports Radio",
+"url": "https://ice6.securenetsystems.net/WICK"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/b7/5b/23777/c100.png",
+"name": "WIFN - The Fan 3 1340 AM",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WIFNAM.mp3"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/d3/1b/25190/c100.png",
+"name": "WJZ - CBS Sports Radio 1300 AM",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WJZAM.mp3"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/7e/0a/31826/1/c100.png",
+"name": "WRNR 740 AM",
+"url": "https://streaming.radio.co/sd2c75a914/listen"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/8c/c3/29000/c100.png",
+"name": "WSRQ - Sarasota Talk Radio 1220 AM",
+"url": "https://ice6.securenetsystems.net/WSRQ"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/e7/5f/31427/c100.png",
+"name": "WTON 1240 AM",
+"url": "https://ice7.securenetsystems.net/WTONAM"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/48/ab/10430/2/c100.png",
+"name": "Cadena Cuscatlan 98.5 FM",
+"url": "http://198.204.234.10:8298/;"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/ad/0c/36536/c100.png",
+"name": "CHOI Radio X 98.1 FM",
+"url": "https://icecast-choi.rncm.ca/choi.mp3"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/ee/f7/15249/c100.png",
+"name": "CKOI 96.9",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CKOIFMAAC.aac"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/d6/88/42393/1/c100.png",
+"name": "ESPN Fantasy",
+"url": "https://tunein.streamguys1.com/ESPNFantasySports"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/f0/26/36185/c100.png",
+"name": "Greensboro Sports Radio 2 ",
+"url": "http://199.180.72.2:8590/;"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/ff/40/31881/c100.png",
+"name": "KQDJ - ESPN 1400 AM",
+"url": "https://ice23.securenetsystems.net/KQDJ"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/89/ff/31891/c100.png",
+"name": "KVOX - The Fan 740 AM",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KVOXAM.mp3"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/ff/cd/15007/3/c100.png",
+"name": "Radio Nacional AM 870",
+"url": "https://sa.mp3.icecast.magma.edge-access.net/sc_rad1"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/fa/ea/35756/c100.png",
+"name": "Radio Planet FM",
+"url": "http://91.121.104.139:8100/;"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/b7/07/112556/1/c100.png",
+"name": "Roland Garros Radio",
+"url": "http://chai5she.cdn.dvmr.fr/roland-garros.mp3"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/c6/6b/36561/c100.png",
+"name": "SPORT 24 Radio 103.3 FM",
+"url": "https://stream.radiojar.com/r2aezx4wxxquv"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/33/85/36666/2/c100.png",
+"name": "Sportsnet Vancouver AM 650 ",
+"url": "https://rogers-hls.leanstream.co/rogers/van650.stream/icy"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/72/21/30448/1/c100.png",
+"name": "WEZQ - The Ticket 92.9 FM",
+"url": "http://stream.abacast.net/direct/townsquare-wezqfmaac-ibc3"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/f9/2f/23443/c100.png",
+"name": "WFMB - ESPN Sports Radio 1450 AM",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WFMBAMAAC.aac"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/d1/dd/28723/1/c100.png",
+"name": "WMEN - 640 The Hurricane",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WMENAM.mp3"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/5d/d0/30540/c100.png",
+"name": "WNKT - 107-5 The Game 107.5 FM",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WNKTFM.mp3"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/4c/33/28356/c100.png",
+"name": "WPIE - ESPN Ithaca 1160 AM",
+"url": "https://ais-sa2.cdnstream1.com/2056_128.mp3"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/9b/98/25338/c100.png",
+"name": "WTSL - The Pulse Of The Valley 1400 AM",
+"url": "https://ice8.securenetsystems.net/WTSL"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/78/ad/25340/c100.png",
+"name": "WTSV - The Pulse 1230 AM",
+"url": "https://ice8.securenetsystems.net/WTSL"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/7a/a9/129493/1/c100.png",
+"name": "WYBC - Sports Yale Radio",
+"url": "https://wybcx-stream.creek.org/stream"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/3b/56/29222/c100.png",
+"name": "WYSL - WYSL 1040 AM",
+"url": "http://sc03.warpradio.com:8566/;stream.mp3"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/3a/99/132602/2/c100.png",
+"name": "98ROCK",
+"url": "https://stream.revma.ihrhls.com/zc697/hls.m3u8"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/aa/f5/20957/c100.png",
+"name": "Radio Amanecer",
+"url": "https://streaming2.locucionar.com/proxy/radioamanecer?mp=/stream"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/b6/8c/8750/c100.png",
+"name": "Bel RTL",
+"url": "https://belrtl.ice.infomaniak.ch/belrtl-mp3-192.mp3"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/19/75/115106/3/c100.png",
+"name": "BPM Sports",
+"url": "https://stream0.bpmsports.ca/chxx.aac"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/3f/6a/39369/3/c100.png",
+"name": "John Reed Radio",
+"url": "https://streams.fluxfm.de/john-reed/mp3-128/radiode/"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/bd/ee/112384/1/c100.png",
+"name": "ICE Radio",
+"url": "http://icepe3.infomaniak.ch/iceradiocom-192.mp3"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/e9/03/30730/c100.png",
+"name": "KARN - The Sports Animal 920 AM",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KARNAM.mp3"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/1f/e1/25098/1/c100.png",
+"name": "KBFL - The JOCK 99.9 FM",
+"url": "https://ais-sa1.streamon.fm/7680_48k.aac"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/fa/d9/25631/c100.png",
+"name": "KBLG - ESPN Billings 910 AM",
+"url": "https://desertmountainbroadcasting.streamguys1.com/KBLG"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/5b/7d/17584/c100.png",
+"name": "WBAP 96.7 FM",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WBAPAM.mp3"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/ea/a2/37002/1/c100.png",
+"name": "ANTENNE BAYERN - Workout Hits",
+"url": "https://stream.antenne.de/workout-hits/stream/mp3?aw_0_1st.playerid=radio.de"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/9e/8a/23855/1/c100.png",
+"name": "WPEN - The Fanatic 97.5 FM",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WPENFMAAC.aac"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/19/39/29246/c100.png",
+"name": "KHTK - Sports 1140 AM",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KHTKAM.mp3"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/0b/a6/24808/c100.png",
+"name": "WJOX FM 94.5",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WJOXFM.mp3"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/f0/dd/1400/1/c100.png",
+"name": "95.7 The Game",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KGMZFMAAC.aac"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/c1/68/37816/1/c100.png",
+"name": "WXLM NewsTalk Sports 980 AM",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WXLMAM.mp3"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/4f/19/41145/1/c100.png",
+"name": "CKOM 650 AM",
+"url": "https://rawlco.leanstream.co/CKOMAM"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/a4/3a/37186/1/c100.png",
+"name": "Nigeria Info 92.3 FM Port-Harcourt",
+"url": "https://stream.coolwazobiainfo.com/niginf_ph"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/e3/6f/111315/1/c100.png",
+"name": "Radio Exitosa",
+"url": "https://7.innovatestream.pe:2020/stream/exitosaoficial/stream"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/28/b6/26796/1/c100.png",
+"name": "OpenFM - Trening",
+"url": "https://stream.open.fm/101"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/ac/50/29862/c100.png",
+"name": "BFBS Radio 2",
+"url": "https://icy-e-01.sharp-stream.com/ssvcbfbs2.mp3"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/1e/cb/106839/1/c100.png",
+"name": "FFH Workout",
+"url": "https://streams.ffh.de/ffhchannels/mp3/hqworkout.mp3?amsparams=playerid:RTFFHRadioDE"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/94/4b/26167/1/c100.png",
+"name": "ABC Hobart",
+"url": "http://live-radio01.mediahubaustralia.com/7LRW/mp3/"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/89/a2/17403/c100.png",
+"name": "Metropolis 95.5 FM",
+"url": "https://metromedia.live24.gr/metropolis955thess"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/5d/f0/2614/1/c100.png",
+"name": "La Red Rosario 98.3 fm",
+"url": "http://stream.lt8.com.ar:8080/laredrosario.mp3"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/64/50/17002/c100.png",
+"name": "Centro Suono Sport",
+"url": "https://streaming.centrosuono.com:8443/cssport.mp3"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/15/48/21687/c100.png",
+"name": "88.9 Noticias",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHMFM.mp3"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/b7/cd/13882/2/c100.png",
+"name": "Libero 107.4",
+"url": "https://radio.libero.fm:10750/128"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/e7/3e/121567/1/c100.png",
+"name": "Radio Cyclo ",
+"url": "https://listen.radioking.com/radio/199108/stream/241663"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/28/09/41502/1/c100.png",
+"name": "WCCN - Sports Radio 680 The Fan",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WCNNAM.mp3"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/c9/f5/39311/3/c100.png",
+"name": "talkSPORT 2",
+"url": "https://radio.talksport.com/stream2"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/5c/0e/10896/c100.png",
+"name": "CFAM Radio 950",
+"url": "https://live2.tensila.com/cool-v-1.arubara/hls/live/mystream.m3u8"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/7d/a2/29740/c100.png",
+"name": "Radio Bruno Toscana",
+"url": "http://onair20.xdevel.com:8182/"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/91/76/114508/3/c100.png",
+"name": "CFTE BNN Bloomberg Radio 1410",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CFTEAMAAC_SC.mp3"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/90/22/30185/1/c100.png",
+"name": "WJLT - ESPN 105.3 FM",
+"url": "http://stream.abacast.net/direct/townsquare-wjltfmaac-ibc3"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/f5/c5/27736/c100.png",
+"name": "Radio Manà Manà Sport",
+"url": "http://5.39.95.59:8904/;"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/66/44/12554/c100.png",
+"name": "Radio Faycan 104.2 FM",
+"url": "https://radio.streamenginelogin.com:8018/stream"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/e3/a7/9977/5/c100.png",
+"name": "Gold FM",
+"url": "https://mmradios.ice.infomaniak.ch/goldfm.mp3"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/21/eb/17284/4/c100.png",
+"name": "Polskie Radio Białystok",
+"url": "http://stream4.nadaje.com:15476/radiobialystok"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/e4/4b/21755/c100.png",
+"name": "CFGO TSN 1200 Ottawa",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CFGOAM.mp3"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/ba/10/41576/1/c100.png",
+"name": "RER - Radio Est Réunion",
+"url": "https://rerreunion.ice.infomaniak.ch/rerreunion-64.aac"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/58/7f/33594/c100.png",
+"name": "Radio Club Tenerife",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_TENERIFE.mp3"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/ae/2c/13889/c100.png",
+"name": "Nova Sport FM",
+"url": "https://sportfm.live24.gr/sportfm7712"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/8e/ab/11007/1/c100.png",
+"name": "P4 Blekinge",
+"url": "https://http-live.sr.se/p4blekinge-aac-32"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/c1/83/32280/c100.png",
+"name": "Radio Guatapuri AM 740",
+"url": "http://198.27.88.38:7106/"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/5d/c4/27738/1/c100.png",
+"name": "Retesport",
+"url": "https://icecast.ithost.it/retesport.ogg"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/33/38/106404/2/c100.png",
+"name": "radio SAW Fitness",
+"url": "https://stream.saw-musikwelt.de/saw-fitness/mp3-128/radiode"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/15/32/32902/c100.png",
+"name": "Radijas Tau",
+"url": "http://radijas.tau.lt:8000/stream"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/c4/21/31865/c100.png",
+"name": "KMAV-FM 105.5 FM",
+"url": "https://ice6.securenetsystems.net/KMAV?"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/51/a4/4441/1/c100.png",
+"name": "Tonic Radio",
+"url": "https://tonicradiohd.ice.infomaniak.ch/tonicradiohd-128.mp3"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/3e/b2/120122/1/c100.png",
+"name": "ANTENNE FITNESSHITS",
+"url": "https://live.antenne.at/fnh"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/1e/e6/26076/4/c100.png",
+"name": "NRJ Hits For Running",
+"url": "https://scdn.nrjaudio.fm/adwz1/fr/30057/mp3_128.mp3?origine=radio.net"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/4b/bb/30175/c100.png",
+"name": "WIMS 1420 AM",
+"url": "http://amber.streamguys.com:5120/;stream.nsv"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/ea/e2/117264/1/c100.png",
+"name": "Zona Libre De Humo",
+"url": "http://108.163.229.102:8152/;stream.mp3"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/d1/70/103015/4/c100.png",
+"name": "Emisora Frecuencia Estéreo 88.4 F.M ",
+"url": "https://listen.usuarios.space/frecuenciaestereo/"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/89/18/40459/2/c100.png",
+"name": "Ballina Killaloe Local Radio",
+"url": "https://www.ballinakillaloelocalradio.com/"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/aa/dd/15844/c100.png",
+"name": "FIVEaa",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/FIVEAA_AAC48.aac"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/22/0e/23441/c100.png",
+"name": "WFIW - 1390 AM",
+"url": "https://ice5.securenetsystems.net/WFIW?"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/43/5e/31202/c100.png",
+"name": "KXPN - The ESPN Superstation 1460 AM",
+"url": "https://platteriverradio.broadcasttool.com/kxpn-aac"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/f2/84/13257/2/c100.png",
+"name": "Radio Leliwa",
+"url": "https://streaming.g-news.pl/radio/8050/leliwa"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/61/4b/29024/c100.png",
+"name": "WSJZ-FM - Sports Radio 95.9 FM",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WLZRAM.mp3"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/17/25/21828/c100.png",
+"name": "Radio Bi",
+"url": "https://radiobi.streaming.radiogrupo.com/"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/fa/57/25371/c100.png",
+"name": "WBCN - CBS Sports Radio 1660 AM",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WBCNAM.mp3"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/87/04/34557/c100.png",
+"name": "ACCRA24.COM",
+"url": "https://listen.openstream.co/4362/audio"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/ce/db/25053/c100.png",
+"name": "KKFN - 104.3 The Fan",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KKFNFM.mp3"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/e9/00/20691/c100.png",
+"name": "Radio Del Plata 1030 AM",
+"url": "https://streaming01.shockmedia.com.ar:10217/stream/1/"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/c2/0c/31594/c100.png",
+"name": "KMAM - KMOE 1530 AM",
+"url": "https://ice5.securenetsystems.net/KMOE"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/97/06/104086/1/c100.png",
+"name": "NewsTalkSports 97.1 WBCF Radio",
+"url": "https://ice23.securenetsystems.net/WBCF"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/98/02/31432/1/c100.png",
+"name": "Radio IQ - WVTF ",
+"url": "https://wvtf.streamguys1.com/wvtf-edge/radioiq-mp3-64/icecast.audio"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/92/b8/36094/2/c100.png",
+"name": "CKST TSN 1040 Vancouver",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CKSTAM_SC.mp3"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/da/39/33003/1/c100.png",
+"name": "Radio Marca Málaga 96.9 FM",
+"url": "https://nodo08-cloud01.streaming-pro.com:8131/malagafmmobile"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/d0/ad/29276/c100.png",
+"name": "KFPT - ESPN 940 AM",
+"url": "https://ice5.securenetsystems.net/KFIG?type=.mp3"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/da/94/4432/1/c100.png",
+"name": "RDC Warszawa",
+"url": "https://stream2.nadaje.com:11141/rdc"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/d6/b3/106406/1/c100.png",
+"name": "1A Fitness",
+"url": "https://stream.1a-webradio.de/saw-fitness/mp3-128/radiode/stream.mp3"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/50/00/32779/1/c100.png",
+"name": "Allzic Fitness",
+"url": "https://allzic13.ice.infomaniak.ch/allzic13.mp3"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/e7/c9/23631/6/c100.png",
+"name": "kronehit retro",
+"url": "https://secureonair.krone.at/kronehit04.mp3"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/7a/fc/25546/c100.png",
+"name": "KGND 1470 AM - KXOJ",
+"url": "https://ice7.securenetsystems.net/KXOJ"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/ff/ba/31206/c100.png",
+"name": "KZOT - The Zone 2 1180 AM",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KZOTAMAAC.aac"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/9f/4a/100713/4/c100.png",
+"name": "Radio Laguna 1350 AM",
+"url": "https://freeuk2.listen2myradio.com/live.mp3?typeportmount=s1_34121_stream_243571811"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/0d/86/114480/1/c100.png",
+"name": "Radio Pescara - One O One",
+"url": "http://94.23.67.20:8048/;"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/8f/0d/109945/1/c100.png",
+"name": "CALM RADIO - Workout",
+"url": "https://streams.calmradio.com:19428/stream/1/"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/45/3d/38179/1/c100.png",
+"name": "CHANSONS ROUGES MOSAIK RADIO",
+"url": "https://sv6.vestaradio.com/CHANSONSROUGESMOSAIKRADIO"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/39/46/30964/c100.png",
+"name": "WQNT - Sportsradio 1450",
+"url": "https://ice5.securenetsystems.net/WQNT"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/3a/f6/26794/1/c100.png",
+"name": "OpenFM - Bieganie",
+"url": "https://stream.open.fm/116"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/5e/d6/115633/1/c100.png",
+"name": "Radio Wellness",
+"url": "http://audio1.meway.tv:8102/stream/1/"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/11/b4/19869/c100.png",
+"name": "Stockholm Närradio 95.3 FM",
+"url": "http://live.narradio.se:8020/stream/1/"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/b6/10/22919/c100.png",
+"name": "WAYS - SPORTS RADIO 1500 The Fan",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WAYSAM.mp3"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/91/7c/35823/6/c100.png",
+"name": "3AK SEN 1116 AM",
+"url": "http://13.54.221.214:8000/sen.mp3"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/2f/c4/12234/c100.png",
+"name": "7.7 Radio",
+"url": "http://45.80.86.10:8133/stream/1/"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/82/89/4783/1/c100.png",
+"name": "90elf EM News & Hits",
+"url": "https://streams.regiocast.de/90elf/mp3-128/radiode/"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/20/49/116278/1/c100.png",
+"name": "Radio Ailone",
+"url": "http://servidor36.brlogic.com:8124/live"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/5b/d7/19173/1/c100.png",
+"name": "CADENA SER - Radio Alcoy",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ALCOY.mp3"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/49/77/35934/c100.png",
+"name": "Der 100'5 Alemannia-Livestream",
+"url": "https://stream.dashitradio.de/alemannia/mp3-128/;stream.nsv?ref=radiode"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/65/9c/20735/1/c100.png",
+"name": "AM 990 Formosa",
+"url": "http://cdn.instream.audio:9145/stream"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/bc/87/124629/1/c100.png",
+"name": "Arco Fm Cantabria",
+"url": "http://arcofm.duckdns.org:8090/stream/1/"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/5b/01/19506/c100.png",
+"name": "Rádio Assunção Cearense 620 AM",
+"url": "http://stream.7br.com.br:9010/stream/1/"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/c7/ae/121272/1/c100.png",
+"name": "BaatShaat",
+"url": "https://stream.zenolive.com/csk6dqf685quv"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/06/f7/123341/2/c100.png",
+"name": "Bal FM",
+"url": "https://stream.zeno.fm/fer7h58a3d0uv"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/51/28/16923/c100.png",
+"name": "Radio Blu Toscana",
+"url": "http://46.105.114.57:8009/stream2"
+},
+{
+"category": "Sports",
+"logo": "",
+"name": "CFAC - The Fan 960 AM",
+"url": "https://21423.live.streamtheworld.com/T_RAD_HITS_S01AAC.aac?"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/dc/83/122364/1/c100.png",
+"name": "Chicho Betancur Radio",
+"url": "http://163.172.77.142:8045/autodj"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/74/51/116947/1/c100.png",
+"name": "City Fitness Recklinghausen Radio",
+"url": "http://5.39.54.107:9657/stream/1/"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/fd/3f/124130/1/c100.png",
+"name": "Radio Ciwara 89.00 FM",
+"url": "http://stream.zeno.fm/ucherhafvqruv.m3u"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/49/18/17899/1/c100.png",
+"name": "Rádio Clube do Pará 690 AM",
+"url": "https://ice01.kshost.com.br:8000/live"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/99/18/35672/c100.png",
+"name": "Rádio Clube Marinhense ",
+"url": "http://185.164.137.42:8000/stream/1/"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/0b/07/29557/c100.png",
+"name": "Rádio Condestável",
+"url": "http://centova.radios.pt:8427/stream/1/"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/7b/e8/40270/1/c100.png",
+"name": "Radio Delta International",
+"url": "http://s6.mediastreaming.it:9098"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/b3/87/40662/1/c100.png",
+"name": "DSC-Webradio ",
+"url": "https://server4.streamserver24.com:61422/stream/1/"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/51/0f/6646/1/c100.png",
+"name": "Eisradio - Das Eishockey Radio",
+"url": "https://stream.eisradio.de/radio/8000/radio.mp3"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/0c/64/17131/c100.png",
+"name": "Radio Elka Głogów",
+"url": "http://live.elka.pl:8000/miedziowe"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/5e/9f/29726/2/c100.png",
+"name": "Radio Emme",
+"url": "https://onair15.xdevel.com/proxy/radioemme?mp=/;stream/;"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/8f/7b/13867/1/c100.png",
+"name": "ERAspor 101,8 Έρασπορ",
+"url": "https://radiostreaming.ert.gr/ert-erasport"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/81/e2/33687/1/c100.png",
+"name": "Radio Esport Valencia 91.4 FM",
+"url": "https://streaming.radioesport914.com:58000/stream"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/27/c0/122240/1/c100.png",
+"name": "Fit24 Radio",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM09AAC164_SC.mp3"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/e1/e1/101553/1/c100.png",
+"name": "Foecki.Live - Euer Sportradio",
+"url": "http://foecki.live:8000/stream/1/"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/bf/c5/17190/c100.png",
+"name": "Radio Fuenlabrada 89.4 FM",
+"url": "http://radioserver7.profesionalhosting.com:41008/;stream.mp3"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/30/a4/124698/1/c100.png",
+"name": "Glaring Star World Radio",
+"url": "http://s9.reliastream.com:8117/stream?type=http&nocache=9"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/d8/89/124522/1/c100.png",
+"name": "Golo FM",
+"url": "http://95.217.75.38:7988/stream/1/"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/8c/c5/33470/c100.png",
+"name": "GreensboroSports Radio",
+"url": "http://199.180.72.2:8590/"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/60/0e/122873/1/c100.png",
+"name": "Happy 98.9 FM",
+"url": "https://atunwadigital.streamguys1.com/happyfm989accra"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/ab/7c/120808/2/c100.png",
+"name": "Radiowelle Pirna Sportarena",
+"url": "http://s5.stream-webradiotechnik.de:9450/stream/1/"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/20/b7/117464/1/c100.png",
+"name": "Heartland Newsfeed Radio Network",
+"url": "https://secure1.reliastream.com/heartland1/2449_128.mp3"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/3a/fa/26958/c100.png",
+"name": "Radio Incontro Sport 105.8 FM",
+"url": "http://sr7.inmystream.it:8153/stream"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/db/00/11361/c100.png",
+"name": "IR-Radio4you",
+"url": "http://213.239.220.196:8000/;"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/5d/14/117324/2/c100.png",
+"name": "JAM FM Workout",
+"url": "https://stream.jam.fm/workout/mp3-128/radioDE/"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/cd/d9/2716/c100.png",
+"name": "Ràdio Kanal Barcelona 106.9 FM",
+"url": "https://radioserver10.profesionalhosting.com:60970/stream"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/82/3d/25529/c100.png",
+"name": "KBIX - The Sports Animal 1490 AM",
+"url": "https://ice6.securenetsystems.net/KYAL"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/92/b5/31525/c100.png",
+"name": "KESJ - ESPN St. Joseph 1550 AM",
+"url": "http://stream.abacast.net/direct/eagleradio-kesjammp3-ibc4"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/4f/7e/30332/c100.png",
+"name": "KGIM - ESPN Radio 1420",
+"url": "https://ice23.securenetsystems.net/KGIMAM?type=.mp3"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/13/7b/24405/c100.png",
+"name": "KGYM - ESPN 1600 AM",
+"url": "https://live.wostreaming.net/manifest/kziainc-kgymamaac-hlsc2.m3u8"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/41/3d/17679/1/c100.png",
+"name": "Sports Radio Beaumont 1510 AM",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KIKRAM.mp3"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/79/09/30799/c100.png",
+"name": "KLAD - The Sports Legend 960 AM",
+"url": "https://ice5.securenetsystems.net/KLADAM"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/e2/54/31589/c100.png",
+"name": "KLSC - Semo ESPN 92.9 FM",
+"url": "https://ice23.securenetsystems.net/KGIR"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/d5/fc/31598/c100.png",
+"name": "KMIS - Sports Radio 1050 AM",
+"url": "https://ice8.securenetsystems.net/KMIS"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/42/23/31602/c100.png",
+"name": "KMOE - 921 News 92.1 FM",
+"url": "https://ice5.securenetsystems.net/KMOE"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/3b/6f/23978/c100.png",
+"name": "KNTR Sports 980 AM",
+"url": "https://ic2.mainstreamnetwork.com/kntr-am"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/bb/ac/30949/c100.png",
+"name": "KOOQ - ESPN 1410 AM",
+"url": "https://ice10.securenetsystems.net/KOOQ"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/0f/7f/30951/c100.png",
+"name": "KOZN - The Zone 1620 AM",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KOZNAMAAC.aac"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/de/f1/14198/1/c100.png",
+"name": "KTCT - KNBR 1050 AM",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KTCTAM.mp3"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/50/f0/30625/c100.png",
+"name": "KTEL - ESPN 1490 AM",
+"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KTELAM.mp3"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/c0/2d/30615/1/c100.png",
+"name": "KUTI  - ESPN 1460 AM",
+"url": "http://stream.abacast.net/direct/townsquare-kutiamaac-ibc3"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/dd/24/29562/c100.png",
+"name": "Rádio Lafões",
+"url": "http://centova.radio.com.pt:9564/stream/1/"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/08/a0/20803/c100.png",
+"name": "La Ocho AM 830 ",
+"url": "http://stream.lt8.com.ar:8080/lt8radio.mp3"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/9d/c6/9171/1/c100.png",
+"name": "fanblock",
+"url": "https://stream.laut.fm/fanblock?ref=radiode"
+},
+{
+"category": "Sports",
+"logo": "",
+"name": "workout",
+"url": "https://stream.laut.fm/workout?ref=radiode"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/8e/60/14835/c100.png",
+"name": "Lecco Channel ",
+"url": "http://onair11.xdevel.com:8204/stream/1/"
+},
+{
+"category": "Sports",
+"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/db/16/26516/c100.png",
+"name": "Radio Linea Attiva",
+"url": "http://ice02.fluidstream.net/playstudio.mp3?FLID=6"
 }
 ]
