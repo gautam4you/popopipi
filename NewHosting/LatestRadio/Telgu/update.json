@@ -25,7 +25,7 @@
 			
 		},
 			      {
-			"name": "All India Radios",
+			"name": "All India",
 			"url": "LatestRadio/Telgu/telugu_all_india_radio.json",
 			"id": "3"
 			
@@ -38,7 +38,7 @@
 		},
 			 
 			   {
-			"name": "Bollywood Radio",
+			"name": "Bollywood",
 			"url": "LatestRadio/radio_stations_artist.json",
 			"id": "5"
 			
