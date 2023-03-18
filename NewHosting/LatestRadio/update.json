@@ -57,6 +57,11 @@
 "id": "7"
 },
 {
+"name": "All india Radio",
+"url": "LatestRadio/Telgu/telugu_all_india_radio.json",
+"id": "15"
+},
+{
 "name": "News & TV",
 "url": "LatestRadio/news&tv.json",
 "id": "9"
