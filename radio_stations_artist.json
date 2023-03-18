@@ -1,12 +1,48 @@
 [
 	{
-		"name": "Bollywood radio",
+		"name": "Radio Srinagar",
 		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCksOClh+Ckn+CljeCksOCliyDgpKzgpYngpLLgpYDgpLXgpYHgpKE=",
-		"url": "https://radiosindia.com/images/bollywoodradio.jpg",
+		"url": "http://streaming01.x-6.nl:8000/;",
 		"samplerate": "",
-		"pub": "10-03-2023",
+		"pub": "14-03-2023",
 		"cat": "Hindi,Bollywood,Web",
-		"image": "https://radiosindia.com/images/bollywoodradio.jpg"
+		"image": "http://cdn.onlineradiobox.com/img/l/4/3924.v3.png"
+	},
+	 {
+		"name": "Radio Haryanvi",
+		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCksOClh+Ckn+CljeCksOCliyDgpKzgpYngpLLgpYDgpLXgpYHgpKE=",
+		"url": "http://weareharyanvi.com:8000/listen",
+		"samplerate": "",
+		"pub": "14-03-2023",
+		"cat": "Hindi,Bollywood,Web",
+		"image": "https://onlineradiofm.in/assets/image/radio/180/radio-hayarani.png"
+	},
+	 {
+		"name": "Radio 90.5 FM",
+		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCksOClh+Ckn+CljeCksOCliyDgpKzgpYngpLLgpYDgpLXgpYHgpKE=",
+		"url": "https://ice42.securenetsystems.net/CR90?type=.mp3",
+		"samplerate": "",
+		"pub": "14-03-2023",
+		"cat": "Hindi,Bollywood,Web",
+		"image": "https://radiosindia.com/images/radio90fm.jpg"
+	},
+ {
+		"name": "desi maska",
+		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCksOClh+Ckn+CljeCksOCliyDgpKzgpYngpLLgpYDgpLXgpYHgpKE=",
+		"url": "https://n13.radiojar.com/q9rymqdbeyduv.m4a",
+		"samplerate": "",
+		"pub": "14-03-2023",
+		"cat": "Hindi,Bollywood,Web",
+		"image": "http://www.desimaskaradio.com/upload/design/58c5cda7bb8eb3.14259771.png"
+	},
+   {
+		"name": "Radio Dabang",
+		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCksOClh+Ckn+CljeCksOCliyDgpKzgpYngpLLgpYDgpLXgpYHgpKE=",
+		"url": "https://stream.rcast.net/62178",
+		"samplerate": "",
+		"pub": "14-03-2023",
+		"cat": "Hindi,Bollywood,Web",
+		"image": "https://liveradios.in/wp-content/uploads/dabanj.jpg"
 	},
 	{
 		"name": "IndiFun FM",
@@ -65,9 +101,9 @@
 	{
 		"name": "Radio Badal",
 		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCksOClh+Ckn+CljeCksOCliyDgpKzgpYngpLLgpYDgpLXgpYHgpKE=",
-		"url": "https://strw1.openstream.co/1717",
+		"url": "https://stream-27.zeno.fm/nhrtcxg09u8uv",
 		"samplerate": "",
-		"pub": "27-11-2021",
+		"pub": "13-03-2023",
 		"cat": "Hindi,Bollywood,Web",
 		"image": "https://liveradios.in/wp-content/uploads/radiobadal.jpg"
 	},
@@ -87,7 +123,7 @@
 		"samplerate": "",
 		"pub": "27-11-2021",
 		"cat": "Hindi,Bollywood,Web",
-		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/gaanepurane.png"
+		"image": "pic/gaanepurane.png"
 	},
 	{
 		"name": "Radio Rock",
@@ -327,7 +363,7 @@
 		"samplerate": "",
 		"cat": "Hindi,Bollywood,Web",
 		"pub": "02-07-2021",
-		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/radio-mirchi11111.jpg"
+		"image": "pic/radio-mirchi11111.jpg"
 	},
 	{
 		"name": "Desi Maska",
@@ -362,7 +398,7 @@
 		"url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/playlist.m3u8",
 		"samplerate": "44100",
 		"pub": "11-07-2020",
-		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/vividh.png"
+		"image": "pic/vividh.png"
 
 	},
 	{
@@ -566,7 +602,7 @@
 		"url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio163/playlist.m3u8",
 		"samplerate": "",
 		"cat": "Bollywood",
-		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/air-patiala.jpg",
+		"image": "pic/air-patiala.jpg",
 		"pub": "28-11-2020"
 	},
 {
@@ -575,7 +611,7 @@
 		"url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio117/playlist.m3u8",
 		"samplerate": "",
 		"cat": "Bollywood",
-		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/air-bhatinda.jpg",
+		"image": "pic/air-bhatinda.jpg",
 		"pub": "28-11-2020"
 	},
 {
@@ -756,7 +792,7 @@
 		"url": "http://185.80.220.12:8046/stream",
 		"samplerate": "",
 		"cat": "Hindi,bollywood",
-		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/bollywood-beyond11.png",
+		"image": "pic/bollywood-beyond11.png",
 		"pub": "01-04-2020"
 	},
 	{
@@ -846,7 +882,7 @@
 		"url": "http://sc-bb.1.fm:8017/",
 		"samplerate": "",
 		"cat": "Hindi,bollywood",
-		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/jodhpur.jpg",
+		"image": "pic/jodhpur.jpg",
 		"pub": "29-01-2019"
 	},
 	{
@@ -873,7 +909,7 @@
 		"url": "http://s9.voscast.com:7354/;stream.nsv",
 		"samplerate": "",
 		"cat": "Hindi,Bollywood,Web",
-		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/mas.jpg",
+		"image": "pic/mas.jpg",
 		"pub": "06-10-2018"
 	},
 	{
@@ -927,7 +963,7 @@
 		"url": "http://103.16.47.70:7222/;stream.nsv",
 		"samplerate": "",
 		"cat": "Hindi,Bollywood",
-		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/LatestRadio/hot-now-bollywood.jpg",
+		"image": "LatestRadio/hot-now-bollywood.jpg",
 		"pub": "19-08-2018"
 	},
 	{
@@ -955,7 +991,7 @@
 		"samplerate": "",
 		"cat": "Web,Hindi",
 		"pub": "23-04-2019",
-		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/retrohindi.png"
+		"image": "pic/retrohindi.png"
 
 	},
 	{
@@ -1137,7 +1173,7 @@
 		"url": "http://radio.bongonet.net:8012/rhi",
 		"samplerate": "",
 		"cat": "Hindi,news",
-		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/bongonet.png",
+		"image": "pic/bongonet.png",
 		"pub": "14-12-2019"
 	},
 
@@ -1156,7 +1192,7 @@
 		"url": "http://node-23.zeno.fm/uqxv1xvuzrquv.aac?rj-ttl=5&rj-tok=AAABboRtn2MAagx_n7kB50VPKA",
 		"samplerate": "",
 		"cat": "Hindi,Bollywood",
-		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/ciberfmindia.png",
+		"image": "pic/ciberfmindia.png",
 		"pub": "19-11-2019"
 	},
 	{
@@ -1165,7 +1201,7 @@
 		"url": "https://abee.radioca.st/stream",
 		"samplerate": "",
 		"cat": "Hindi,Bollywood",
-		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/abeeradio.png",
+		"image": "pic/abeeradio.png",
 		"pub": "19-11-2019"
 	},
 	{
@@ -1174,7 +1210,7 @@
 		"url": "https://streams.radio.co/s69032f19e/listen",
 		"samplerate": "",
 		"cat": "Hindi,Bollywood",
-		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/radio-selfie.png",
+		"image": "pic/radio-selfie.png",
 		"pub": "19-11-2019"
 	},
 	{
@@ -1183,7 +1219,7 @@
 		"url": "http://node-18.zeno.fm/1k0y9f0cm0quv?rj-ttl=5&rj-tok=AAABboRo2dYAx9HyD1m-UZeG3w",
 		"samplerate": "",
 		"cat": "Hindi,Bollywood",
-		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/bollywood-punjabi-radio-logo.png",
+		"image": "pic/bollywood-punjabi-radio-logo.png",
 		"pub": "19-11-2019"
 	},
 
@@ -1220,7 +1256,7 @@
 		"url": "http://hot.out.airtime.pro:8000/hot_a",
 		"samplerate": "",
 		"cat": "Hindi,Devotional",
-		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/shiva.png",
+		"image": "pic/shiva.png",
 		"pub": "27-08-2019"
 	},
 	{
@@ -1229,7 +1265,7 @@
 		"url": "http://2bhanuman.out.airtime.pro:8000/2bhanuman_a",
 		"samplerate": "",
 		"cat": "Hindi,Devotional",
-		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/hanuman.jpg",
+		"image": "pic/hanuman.jpg",
 		"pub": "27-08-2019"
 	},
 	{
@@ -1238,7 +1274,7 @@
 		"url": "http://radio2bindia.out.airtime.pro:8000/radio2bindia_a",
 		"samplerate": "",
 		"cat": "Hindi,Devotional",
-		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/ganesha.jpg",
+		"image": "pic/ganesha.jpg",
 		"pub": "27-08-2019"
 	},
 	{
@@ -1351,7 +1387,7 @@
 		"samplerate": "",
 		"pub": "21-01-2019",
 		"cat": "Web,Hindi",
-		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/radiomastana.jpg"
+		"image": "pic/radiomastana.jpg"
 
 	},
 	{
@@ -1361,7 +1397,7 @@
 		"samplerate": "",
 		"pub": "17-01-2019",
 		"cat": "Web,Hindi",
-		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/RadioJSR.png"
+		"image": "pic/RadioJSR.png"
 
 	},
 	{
@@ -1391,7 +1427,7 @@
 		"samplerate": "",
 		"pub": "05-01-2018",
 		"cat": "Web,Hindi",
-		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/taj.png"
+		"image": "pic/taj.png"
 
 	},
 	{
@@ -1430,7 +1466,7 @@
 		"url": "http://live.itechnepal.com:8374/stream",
 		"samplerate": "22050",
 		"cat": "Hindi",
-		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/bhorukawa.png",
+		"image": "bhorukawa.png",
 		"pub": "09-12-2018"
 
 	},
@@ -1441,7 +1477,7 @@
 		"url": "http://s1.voscast.com:9484/;stream.mp3",
 		"samplerate": "",
 		"cat": "Hindi",
-		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/radioteental.jpg"
+		"image": "pic/radioteental.jpg"
 
 	},
 	{
@@ -1487,7 +1523,7 @@
 		"url": "http://nickerie.webhop.net:8000",
 		"samplerate": "44100",
 		"cat": "Hindi,Bollywood",
-		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/ishara.jpg",
+		"image": "ishara.jpg",
 		"pub": "15-11-2018"
 	},
 	{
@@ -1496,7 +1532,7 @@
 		"url": "https://cp12.serverse.com/proxy/hummfm?mp=/live",
 		"samplerate": "",
 		"cat": "Hindi,Bollywood,Web",
-		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/hmm.png",
+		"image": "pic/hmm.png",
 		"pub": "31-10-2018"
 	},
 	{
@@ -1505,7 +1541,7 @@
 		"url": "http://sc18.strictlyhosting.co.uk:8000/;stream.mp3",
 		"samplerate": "22050",
 		"cat": "Hindi,Bollywood,Web",
-		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/radioxl.png",
+		"image": "pic/radioxl.png",
 		"pub": "23-10-2018"
 	},
 	{
@@ -1514,7 +1550,7 @@
 		"url": "http://dard.out.airtime.pro:8000/dard_a",
 		"samplerate": "",
 		"cat": "Hindi,Devotional",
-		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/shreeram.png",
+		"image": "pic/shreeram.png",
 		"pub": "19-10-2018"
 	},
 	{
@@ -1523,7 +1559,7 @@
 		"url": "http://hot.out.airtime.pro:8000/hot_a",
 		"samplerate": "",
 		"cat": "Hindi,Devotional",
-		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/shivame.png",
+		"image": "pic/shivame.png",
 		"pub": "19-10-2018"
 	},
 	{
@@ -1532,7 +1568,7 @@
 		"url": "http://millenniumhits.out.airtime.pro:8000/millenniumhits_a",
 		"samplerate": "",
 		"cat": "Hindi,Devotional",
-		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/krishna.png",
+		"image": "pic/krishna.png",
 		"pub": "19-10-2018"
 	},
 	{
@@ -1541,7 +1577,7 @@
 		"url": "http://iskon2b.out.airtime.pro:8000/iskon2b_a",
 		"samplerate": "",
 		"cat": "Hindi,Devotional",
-		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/gurun.png",
+		"image": "pic/gurun.png",
 		"pub": "19-10-2018"
 	},
 	{
@@ -1550,7 +1586,7 @@
 		"url": "http://radio2bindia.out.airtime.pro:8000/radio2bindia_a",
 		"samplerate": "",
 		"cat": "Hindi,Devotional",
-		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/ganesh.png",
+		"image": "pic/ganesh.png",
 		"pub": "19-10-2018"
 	},
 	{
@@ -1586,7 +1622,7 @@
 		"url": "http://ice8.securenetsystems.net/CINA?&playSessionID=38D1C936-C443-7619-6C4477E916F7CC6B",
 		"samplerate": "44100",
 		"cat": "Hindi,Bollywood,Web",
-		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/cina.jpg",
+		"image": "pic/cina.jpg",
 		"pub": "10-10-2018"
 	},
 	{
@@ -1613,7 +1649,7 @@
 		"url": "http://ice2.securenetsystems.net/HUMSAFAR",
 		"samplerate": "",
 		"cat": "Hindi,Bollywood",
-		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/hum.jpg",
+		"image": "pic/hum.jpg",
 		"pub": "06-10-2018"
 	},
 	{
@@ -1640,7 +1676,7 @@
 		"url": "http://icecast.commedia.org.uk:8000/awaz.mp3",
 		"samplerate": "11025",
 		"cat": "Hindi,Bollywood,Web",
-		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/awz.jpg",
+		"image": "pic/awz.jpg",
 		"pub": "27-09-2018"
 	},
 	{
@@ -1649,7 +1685,7 @@
 		"url": "http://103.16.47.70:7444/;stream.nsv",
 		"samplerate": "",
 		"cat": "Hindi,Bollywood",
-		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/LatestRadio/Hungama90sOnceAgain.jpg",
+		"image": "LatestRadio/Hungama90sOnceAgain.jpg",
 		"pub": "16-09-2018"
 	},
 	{
@@ -1676,7 +1712,7 @@
 		"url": "http://ibadat.out.airtime.pro:8000/ibadat_b",
 		"samplerate": "",
 		"cat": "Hindi,Bollywood,Devotional",
-		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/2b.png",
+		"image": "pic/2b.png",
 		"pub": "15-09-2018"
 	},
 	{
@@ -1694,7 +1730,7 @@
 		"url": "http://cast5.servcast.net:8048/;stream.mp3",
 		"samplerate": "",
 		"cat": "Hindi,Bollywood",
-		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/ristey.jpg",
+		"image": "pic/ristey.jpg",
 		"pub": "14-09-2018"
 	},
 	{
@@ -1721,7 +1757,7 @@
 		"url": "http://162.244.80.52:4614/stream/1/",
 		"samplerate": "",
 		"cat": "Hindi,Bollywood,Web",
-		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/default.png",
+		"image": "pic/default.png",
 		"pub": "12-08-2018"
 	},
 	{
@@ -1739,14 +1775,14 @@
 		"url": "http://icecast.bkwsu.eu/radiomadhuban.ogg",
 		"samplerate": "",
 		"cat": "Hindi,Bollywood,Web",
-		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/madhuban.jpg"
+		"image": "pic/madhuban.jpg"
 	},
 	{
 		"name": "Ujala Radio",
 		"name_h": "4KSJ4KSc4KS+4KSy4KS+IOCksOClh+CkoeCkv+Ckr+Cliw==",
 		"url": "http://stream2.ujala.nl/stream/2/listen.mp3",
 		"samplerate": "",
-		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/ujala.jpg"
+		"image": "pic/ujala.jpg"
 
 	},
 	{
@@ -1762,7 +1798,7 @@
 		"name_h": "4KS44KS/4KSf4KWAIOCkoeCkvuCkguCkuCDgpI/gpKvgpI/gpK4=",
 		"url": "https://prclive4.listenon.in/Dance",
 		"samplerate": "",
-		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/citydance.jpg"
+		"image": "pic/citydance.jpg"
 
 	},
 	{
@@ -1770,7 +1806,7 @@
 		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCkuOCljeCkquCkvuCkh+CkuCDgpKzgpYngpJXgpY3gpLgg4KSq4KSC4KSc4KS+4KSs4KWA",
 		"url": "http://mehramedia.com:8039/;",
 		"samplerate": "",
-		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/246x0w.png"
+		"image": "pic/246x0w.png"
 
 	},
 	{
@@ -1794,7 +1830,7 @@
 		"name_h": "4KS24KS+4KSC4KSkIOCksOClh+CkoeCkv+Ckr+CliyDgpI/gpKvgpI/gpK4=",
 		"url": "http://streams.calmradio.com/api/295/128/stream",
 		"samplerate": "",
-		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/calm.png"
+		"image": "pic/calm.png"
 
 	},
 	{
@@ -1802,7 +1838,7 @@
 		"name_h": "4KSy4KS+4KSH4KSV4KS+IOCksOClh+CkoeCkv+Ckr+CliyDgpI/gpKvgpI/gpK4=",
 		"url": "http://tx.sharp-stream.com/http_live.php?i=1458.mp3",
 		"samplerate": "",
-		"image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/lyca.jpg"
+		"image": "pic/lyca.jpg"
 
 	},
 	{
