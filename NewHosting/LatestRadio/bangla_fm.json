@@ -1,264 +1,278 @@
-[{
-"name": "Kolkata FM Rainbow",
-"url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio058/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/fmrainbow1.jpg",
-"category": "Bangla Radio"
-},{
-"name": "Sabras Radio",
-"url": "https://radioindia.net/radio/sabrasradio/icecast.audio",
-"logo": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/gDNcx62Jaq.png",
-"category": "Bangla Radio"
-},
+[
+ {
+    "category": "Bangla Radio",
+    "logo": "http://hindiradioapp.com/images/jagofm.webp",
+    "name": "Jago FM",
+    "url": "http://128.199.184.111:12496/;stream/1"
+  },
   {
-"name": "Air Assamese",
-"url": "https://radioindia.net/radio/air_assamese_radio/icecast.audio",
-"logo": "https://static.mytuner.mobi/media/tvos_radios/rpkmsysrwtux.jpg",
-"category": "Bangla Radio"
-},
-    {
-"name": "SPORTSFLASHES BANGLA",
-"url": "https://radioindia.net/radio/bangla-sports/icecast.audio",
-"logo": "https://cdn.webrad.io/images/logos/onlineradios-in/sport-flashes-bangla.png",
-"category": "Bangla Radio"
-},
+    "category": "Bangla Radio",
+    "logo": "http://hindiradioapp.com/images/hotnowbangla.webp",
+    "name": "Hot Now Bangla",
+    "url": "http://103.16.47.70:6227/;"
+  },
   {
-"name": "Radio Today",
-"url": "http://stream.zenolive.com/8wv4d8g4344tv",
-"logo": "https://onlinebanglaradio.com/wp-content/uploads/2015/10/todayess.jpg",
-"category": "Bangla Radio"
-},
-{
-"name": "NSH YFM 91.2",
-"url": "http://radio.bongonet.net:8028/stream",
-"logo": "http://shortfilmsite.com/images/nshyfm.jpg",
-"category": "Bangla Radio"
-},
-{
-"name": "Geetanjali AIR Kolkata",
-"url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio055/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "Bangla Radio"
-},
-{
-"name": "Discobani Kolkata",
-"url": "http://radio.bongonet.net:8008/discobanikolkata",
-"logo": "http://shortfilmsite.com/images/bd/discobanikolkata.jpg",
-"category": "Bangla Radio"
-},
-{
-"name": "Betar Bangla 1503 AM",
-"url": "http://stream.zenolive.com/ykrq6wgrkfeuv",
-"logo": "http://shortfilmsite.com/images/betarbangla.jpg",
-"category": "Bangla Radio"
-},
-{
-"name": "Hot Now Bangla",
-"url": "http://103.16.47.70:6227/;",
-"logo": "http://shortfilmsite.com/images/hotnowbangla.jpg",
-"category": "Bangla Radio"
-},
-{
-"name": "Radio Bangla Rock",
-"url": "http://radio.bongonet.net:8020/radiobanglarock",
-"logo": "http://shortfilmsite.com/images/bd/radiobanglarock.jpg",
-"category": "Bangla Radio"
-},
-{
-"name": "Radio Foorti 88.0",
-"url": "http://119.148.23.88:1021/;",
-"logo": "http://shortfilmsite.com/images/bd/radiofoorti.jpg",
-"category": "Bangla Radio"
-},
-{
-"name": "AIR Murshidabad",
-"url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio169/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "Bangla Radio"
-},
-{
-"name": "Bangla Radio 95.2 FM",
-"url": "http://103.23.42.189:6020/;stream.mp3",
-"logo": "http://shortfilmsite.com/images/banglaradiofm.jpg",
-"category": "Bangla Radio"
-},
-{
-"name": "FNF FM Bangla",
-"url": "http://eu6.fastcast4u.com:5099/stream/1/",
-"logo": "http://shortfilmsite.com/images/fnffmbangla.jpg",
-"category": "Bangla Radio"
-},
-{
-"name": "Radio Din Raat 93.6",
-"url": "http://103.118.79.134:8000/",
-"logo": "http://shortfilmsite.com/images/bd/radiodinraat.jpg",
-"category": "Bangla Radio"
-},
-{
-"name": "TJ Radio",
-"url": "http://103.250.84.122:8000/stream",
-"logo": "http://shortfilmsite.com/images/tjradio.jpg",
-"category": "Bangla Radio"
-},
-{
-"name": "Go Yester Years",
-"url": "http://radio.bongonet.net:8016/goyesteryears",
-"logo": "http://shortfilmsite.com/images/bd/goyesteryears.jpg",
-"category": "Bangla Radio"
-},
-{
-"name": "Nityananda Janavani",
-"url": "http://d1osc21vqenkv0.cloudfront.net/radiomant.m3u8",
-"logo": "http://shortfilmsite.com/images/nityanandajanavani.jpg",
-"category": "Bangla Radio"
-},
-{
-"name": "AIR Siliguri",
-"url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio164/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "Bangla Radio"
-},
-{
-"name": "Radio Dhol 94.0",
-"url": "http://128.199.184.111:11331/stream/;",
-"logo": "http://shortfilmsite.com/images/bd/radiodhol.jpg",
-"category": "Bangla Radio"
-},
-{
-"name": "Radio Sports Flashes ",
-"url": "http://protostar.shoutca.st:9183/stream",
-"logo": "http://shortfilmsite.com/images/radiosportsflashes.jpg",
-"category": "Bangla Radio"
-},
-{
-"name": "AIR Bangla",
-"url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio134/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "Bangla Radio"
-},
-{
-"name": "ABC Radio 89.2",
-"url": "http://stream.zenolive.com/h7n8ug96eeruv",
-"logo": "http://shortfilmsite.com/images/bd/abcradio.jpg",
-"category": "Bangla Radio"
-},
-{
-"name": "Akashvani Maitree",
-"url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio231/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/akashvanimaitree.jpg",
-"category": "Bangla Radio"
-},
-{
-"name": "Robichhaya",
-"url": "http://radio.bongonet.net:8032/robichhaya",
-"logo": "http://shortfilmsite.com/images/bd/robichhaya.jpg",
-"category": "Bangla Radio"
-},
-{
-"name": "Radio Milan",
-"url": "http://stream.zenolive.com/x934ttpx72quv",
-"logo": "http://shortfilmsite.com/images/radiomilan.jpg",
-"category": "Bangla Radio"
-},
-{
-"name": "Dhaka FM 90.4",
-"url": "http://118.179.219.244:8000/;",
-"logo": "http://shortfilmsite.com/images/bd/dhakafm.jpg",
-"category": "Bangla Radio"
-},
-{
-"name": "Jago FM",
-"url": "http://128.199.184.111:12496/;stream/1",
-"logo": "http://shortfilmsite.com/images/jagofm.jpg",
-"category": "Bangla Radio"
-},
-{
-"name": "Folk Nama",
-"url": "http://radio.bongonet.net:8004/folknama",
-"logo": "http://shortfilmsite.com/images/bd/folknama.jpg",
-"category": "Bangla Radio"
-},
-{
-"name": "Jago FM 94.4",
-"url": "http://128.199.184.111:12496/;stream/1",
-"logo": "http://shortfilmsite.com/images/bd/jagofm.jpg",
-"category": "Bangla Radio"
-},
-{
-"name": "ISHQ Kolkata",
-"url": "http://ishq_kolkata-lh.akamaihd.net/i/Ishq_Kolkata_1@854569/master.m3u8",
-"logo": "http://shortfilmsite.com/images/ishqfm.jpg",
-"category": "Bangla Radio"
-},
-{
-"name": "Radio Today 89.6",
-"url": "http://stream.zenolive.com/0zha3rfq02quv",
-"logo": "http://shortfilmsite.com/images/bd/radiotoday.jpg",
-"category": "Bangla Radio"
-},
-{
-"name": "Sanchayita AIR Kolkata",
-"url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio056/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "Bangla Radio"
-},
-{
-"name": "Kolkata FM Gold",
-"url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio057/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/fmgold.jpg",
-"category": "Bangla Radio"
-},
-{
-"name": "Peoples Radio 91.6",
-"url": "http://s3.myradiostream.com:14498/",
-"logo": "http://shortfilmsite.com/images/bd/peoplesradio.jpg",
-"category": "Bangla Radio"
-},
-{
-"name": "Radio Bhumi 92.8",
-"url": "https://radiobhumilive.radioca.st/;stream.mp3",
-"logo": "http://shortfilmsite.com/images/bd/radiobhumi.jpg",
-"category": "Bangla Radio"
-},
-{
-"name": "Radio Dhoni 91.2",
-"url": "http://182.160.110.180:1020/;stream.mp3",
-"logo": "http://shortfilmsite.com/images/bd/radiodhoni.jpg",
-"category": "Bangla Radio"
-},
-{
-"name": "Radio Veritas Bengali",
-"url": "http://stream.rveritas-asia.org:8000/Bengali.mp3",
-"logo": "http://shortfilmsite.com/images/bd/radioveritas.jpg",
-"category": "Bangla Radio"
-},
-{
-"name": "Kurseong AIR",
-"url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio183/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "Bangla Radio"
-},
-{
-"name": "RHI",
-"url": "http://radio.bongonet.net:8012/rhi",
-"logo": "http://shortfilmsite.com/images/bongonet.jpg",
-"category": "Bangla Radio"
-},
-{
-"name": "Radio Bongonet",
-"url": "http://radio.bongonet.net:8000/radiobongonet",
-"logo": "http://shortfilmsite.com/images/bd/bongonet.jpg",
-"category": "Bangla Radio"
-},
-{
-"name": "Colours FM 101.6",
-"url": "http://45.64.135.88:8000/stream1",
-"logo": "http://shortfilmsite.com/images/bd/coloursfm.jpg",
-"category": "Bangla Radio"
-},
-{
-"name": "Rabindra Sangeet",
-"url": "https://tagoreradio-lh.akamaihd.net/i/TagoreRadio_1@435590/master.m3u8",
-"logo": "http://shortfilmsite.com/images/rabindrasangeet.jpg",
-"category": "Bangla Radio"
-}
+    "category": "Bangla Radio",
+    "logo": "http://hindiradioapp.com/images/airnew.webp",
+    "name": "Bangla FM",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio137/hlspbaudio137_Auto.m3u8"
+  },
+  {
+    "category": "Bangla Radio",
+    "logo": "http://hindiradioapp.com/images/radiomirchi.webp",
+    "name": "Mirchi Kolkatta",
+    "url": "https://listen.openstream.co/5710/audio"
+  },
+  {
+    "category": "Bangla Radio",
+    "logo": "http://hindiradioapp.com/images/airnew.webp",
+    "name": "Vividh Bharathi Kolkatta",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio275/hlspbaudio275_Auto.m3u8"
+  },
+  {
+    "category": "Bangla Radio",
+    "logo": "http://hindiradioapp.com/images/radiobanglanet.webp",
+    "name": "Radio Bangla Net",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3563475_SC"
+  },
+  {
+    "category": "Bangla Radio",
+    "logo": "http://hindiradioapp.com/images/abpnews.webp",
+    "name": "ABP Anandha",
+    "url": "https://abplivetv.akamaized.net/hls/live/2043012/ananda/master_180.m3u8"
+  },
+  {
+    "category": "Bangla Radio",
+    "logo": "http://hindiradioapp.com/images/rabindrasangeet.webp",
+    "name": "Rabindra Sangeet",
+    "url": "http://sp14.instainternet.com:8114/stream"
+  },
+  {
+    "category": "Bangla Radio",
+    "logo": "http://hindiradioapp.com/images/airnew.webp",
+    "name": "Kolkatta Rainbow FM",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio058/hlspbaudio058_Auto.m3u8"
+  },
+  {
+    "category": "Bangla Radio",
+    "logo": "http://hindiradioapp.com/images/banglaradiofm.webp",
+    "name": "Bangla Radio 95.2 FM",
+    "url": "http://103.23.42.189:6020/;stream.mp3"
+  },
+  {
+    "category": "Bangla Radio",
+    "logo": "http://hindiradioapp.com/images/airnew.webp",
+    "name": "Bangla Gold",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio057/hlspbaudio057_Auto.m3u8"
+  },
+  {
+    "category": "Bangla Radio",
+    "logo": "http://hindiradioapp.com/images/elitefm.webp",
+    "name": "Elite FM",
+    "url": "http://carina.streamerr.co:8114/stream"
+  },
+  {
+    "category": "Bangla Radio",
+    "logo": "http://hindiradioapp.com/images/radiomilan.webp",
+    "name": "Radio Milan",
+    "url": "http://stream.zeno.fm/x934ttpx72quv"
+  },
+  {
+    "category": "Bangla Radio",
+    "logo": "http://hindiradioapp.com/images/airnew.webp",
+    "name": "Geethanjali",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio055/hlspbaudio055_Auto.m3u8"
+  },
+  {
+    "category": "Bangla Radio",
+    "logo": "http://shortfilmsite.com/images/oldgoldradio.webp",
+    "name": "Old Gold Bangla",
+    "url": "http://audio.streamcast.xyz/radio/8050/stream"
+  },
+  {
+    "category": "Bangla Radio",
+    "logo": "http://hindiradioapp.com/images/bd/spicefm.webp",
+    "name": "Spice FM 96.4",
+    "url": "http://audio.streamcast.xyz/radio/8040/stream"
+  },
+  {
+    "category": "Bangla Radio",
+    "logo": "http://hindiradioapp.com/images/airnew.webp",
+    "name": "Maitree FM",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio245/hlspbaudio245_Auto.m3u8"
+  },
+  {
+    "category": "Bangla Radio",
+    "logo": "http://hindiradioapp.com/images/radiomalda.webp",
+    "name": "Radio Malda 90.4",
+    "url": "http://stream.zeno.fm/xx0u1tpf6ehvv"
+  },
+  {
+    "category": "Bangla Radio",
+    "logo": "http://hindiradioapp.com/images/airnew.webp",
+    "name": "Sanchayita",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio056/hlspbaudio056_Auto.m3u8"
+  },
+  {
+    "category": "Bangla Radio",
+    "logo": "http://hindiradioapp.com/images/radiohigh.webp",
+    "name": "Radio High",
+    "url": "http://stream.zeno.fm/89zztr1dec9uv"
+  },
+  {
+    "category": "Bangla Radio",
+    "logo": "http://hindiradioapp.com/images/airnew.webp",
+    "name": "Siliguri FM",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio164/playlist.m3u8"
+  },
+  {
+    "category": "Bangla Radio",
+    "logo": "http://hindiradioapp.com/images/fnffmbangla.webp",
+    "name": "FNF FM Bangla",
+    "url": "http://eu6.fastcast4u.com:5099/stream/1/"
+  },
+  {
+    "category": "Bangla Radio",
+    "logo": "http://hindiradioapp.com/images/airnew.webp",
+    "name": "Gold FM",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio057/hlspbaudio057_Auto.m3u8"
+  },
+  {
+    "category": "Bangla Radio",
+    "logo": "http://hindiradioapp.com/images/airnew.webp",
+    "name": "Kurseong FM",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio183/playlist.m3u8"
+  },
+  {
+    "category": "Bangla Radio",
+    "logo": "http://hindiradioapp.com/images/airnew.webp",
+    "name": "Murshidabad FM",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio169/playlist.m3u8"
+  },
+  {
+    "category": "Bangla Radio",
+    "logo": "http://hindiradioapp.com/images/airnew.webp",
+    "name": "Belonia FM",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio257/playlist.m3u8"
+  },
+  {
+    "category": "Bangla Radio",
+    "logo": "http://hindiradioapp.com/images/airnew.webp",
+    "name": "SHANTINIKETAN FM",
+    "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio247/playlist.m3u8"
+  },
+  {
+    "category": "Bangla Radio",
+    "logo": "http://hindiradioapp.com/images/nityanandajanavani.webp",
+    "name": "Nityananda Janavani",
+    "url": "http://d1osc21vqenkv0.cloudfront.net/radiomant.m3u8"
+  },
+  {
+    "category": "Bangla Radio",
+    "logo": "http://hindiradioapp.com/images/bd/radiofoorti.webp",
+    "name": "Radio Foorti 88.0",
+    "url": "http://119.148.23.88:1021/;"
+  },
+  {
+    "category": "Bangla Radio",
+    "logo": "http://hindiradioapp.com/images/radiogongoon.webp",
+    "name": "Radio Gongoon",
+    "url": "https://audio.streamcast.xyz/radio/8000/stream"
+  },
+  {
+    "category": "Bangla Radio",
+    "logo": "http://hindiradioapp.com/images/bd/abcradio.webp",
+    "name": "ABC Radio 89.2",
+    "url": "http://stream.zeno.fm/aqs8z2kn944tv"
+  },
+  {
+    "category": "Bangla Radio",
+    "logo": "http://hindiradioapp.com/images/bd/radiotoday.webp",
+    "name": "Radio Today 89.6",
+    "url": "http://stream.zeno.fm/0zha3rfq02quv"
+  },
+  {
+    "category": "Bangla Radio",
+    "logo": "http://hindiradioapp.com/images/bd/dhakafm.webp",
+    "name": "Dhaka FM 90.4",
+    "url": "http://118.179.219.244:8000/;"
+  },
+  {
+    "category": "Bangla Radio",
+    "logo": "http://hindiradioapp.com/images/bd/peoplesradio.webp",
+    "name": "Peoples Radio 91.6",
+    "url": "http://s3.myradiostream.com:14498/;"
+  },
+  {
+    "category": "Bangla Radio",
+    "logo": "http://hindiradioapp.com/images/bd/radioshadhin.webp",
+    "name": "Radio Shadhin 92.4",
+    "url": "http://stream.zeno.fm/eabgu655puquv"
+  },
+  {
+    "category": "Bangla Radio",
+    "logo": "http://hindiradioapp.com/images/bd/bongonet.webp",
+    "name": "Radio Bongonet",
+    "url": "http://radio.bongonet.net:8000/radiobongonet"
+  },
+  {
+    "category": "Bangla Radio",
+    "logo": "http://shortfilmsite.com/images/radiobhumi.webp",
+    "name": "Radio Bhumi Bangla",
+    "url": "http://stream.zeno.fm/ybf1umk1k18uv"
+  },
+  {
+    "category": "Bangla Radio",
+    "logo": "http://hindiradioapp.com/images/bd/radiodinraat.webp",
+    "name": "Radio Din Raat 93.6",
+    "url": "http://103.118.79.134:8000/"
+  },
+  {
+    "category": "Bangla Radio",
+    "logo": "http://hindiradioapp.com/images/nshyfm.webp",
+    "name": "NSH YFM 91.2",
+    "url": "http://radio.bongonet.net:8028/stream"
+  },
+  {
+    "category": "Bangla Radio",
+    "logo": "http://hindiradioapp.com/images/bd/jagofm.webp",
+    "name": "Jago FM 94.4",
+    "url": "http://128.199.184.111:12496/;stream/1"
+  },
+  {
+    "category": "Bangla Radio",
+    "logo": "http://hindiradioapp.com/images/bd/robichhaya.webp",
+    "name": "Robichhaya",
+    "url": "http://radio.bongonet.net:8032/robichhaya"
+  },
+  {
+    "category": "Bangla Radio",
+    "logo": "http://hindiradioapp.com/images/bd/discobanikolkata.webp",
+    "name": "Discobani Kolkata",
+    "url": "http://radio.bongonet.net:8008/discobanikolkata"
+  },
+  {
+    "category": "Bangla Radio",
+    "logo": "http://hindiradioapp.com/images/bd/folknama.webp",
+    "name": "Folk Nama",
+    "url": "http://radio.bongonet.net:8004/folknama"
+  },
+  {
+    "category": "Bangla Radio",
+    "logo": "http://hindiradioapp.com/images/bd/coloursfm.webp",
+    "name": "Colours FM 101.6",
+    "url": "http://45.64.135.88:8000/stream1"
+  },
+  {
+    "category": "Bangla Radio",
+    "logo": "http://hindiradioapp.com/images/bengaliradiolive.webp",
+    "name": "Bengali Radio Live",
+    "url": "http://s2.xrad.io:8072/;stream/2"
+  },
+  {
+    "category": "Bangla Radio",
+    "logo": "http://hindiradioapp.com/images/bd/radioveritas.webp",
+    "name": "Radio Veritas Bengali",
+    "url": "https://livestream.rvasia.org:8443/Bengali.mp3"
+  }
 ]

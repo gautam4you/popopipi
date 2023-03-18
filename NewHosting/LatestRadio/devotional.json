@@ -1,4 +1,46 @@
 [
+ {
+    "category": "Bhakthi Radios",
+    "logo": "http://hindiradioapp.com/images/bhakthisagar.webp",
+    "name": "Bhakti Sagar",
+    "url": "http://103.16.47.70:7777/;"
+  },
+ {
+    "category": "Bhakthi Radios",
+    "logo": "http://hindiradioapp.com/images/devimaa.webp",
+    "name": "Radio Devi Maa",
+    "url": "http://ibadat.out.airtime.pro:8000/ibadat_a"
+  },
+  {
+    "category": "Bhakthi Radios",
+    "logo": "http://hindiradioapp.com/images/saigayatri.webp",
+    "name": "Sai Gayathri",
+    "url": "https://stream.sssmediacentre.org:8443/saigayathri"
+  },
+  {
+    "category": "Bhakthi Radios",
+    "logo": "http://hindiradioapp.com/images/gayatrimantra.webp",
+    "name": "Gayathri Mantra",
+    "url": "https://stream.sssmediacentre.org:8443/gayathri"
+  },
+  {
+    "category": "Bhakthi Radios",
+    "logo": "http://hindiradioapp.com/images/shivpanchakshari.webp",
+    "name": "Shiv Panchakshari",
+    "url": "https://stream.sssmediacentre.org:8443/shivapanchakshari"
+  },
+  {
+    "category": "Bhakthi Radios",
+    "logo": "http://hindiradioapp.com/images/prasanthi.webp",
+    "name": "Sai Prasanthi",
+    "url": "https://stream.sssmediacentre.org:8443/asia"
+  },
+{
+    "category": "Bhakthi Radios",
+    "logo": "http://hindiradioapp.com/images/babaramdev.webp",
+    "name": "Baba Ramdev Radio",
+    "url": "http://broadcast.campusradio.rocks/index.php/stream?id=159"
+  },
     	{
 		"name": "Bhakti Sangeet",
 		"name_h": "4KSt4KSV4KWN4KSk4KS/IOCkuOCkguCkl+ClgOCkpA==",
@@ -54,12 +96,12 @@
     "pub": "19-10-2018"
   },
    {
-    "name": "Shemaroo Bhakti",
+    "name": "Radio City Smaran",
     "name_h": "4KS24KWH4KSu4KS+4KSw4KWCIOCkreCkleCljeCkpOCkvyDgpLDgpYfgpKHgpL/gpK/gpYs=",
-    "url": "https://radiobhakti.shemaroo.com/hariomradio/Stream1_aac/chunklist_w324991546.m3u8",
+    "url": "http://69.162.124.24:8888/Smaran",
     "samplerate": "",
     "category": "Hindi,Devotional",
-    "logo": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/lhwpswmyudvr.png",
+    "logo": "http://hindiradioapp.com/images/radiocitysmaran.webp",
     "pub": "12-12-2019"
   },
   {

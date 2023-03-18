@@ -1,0 +1,614 @@
+[
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/hotnowbollywoodradio2.webp",
+    "name": "Hot Now Bollywood",
+    "url": "http://103.16.47.70:7222/;stream.mp3"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/retrobollywood.webp",
+    "name": "Retro Bollywood",
+    "url": "http://stream.zeno.fm/v2zfmxef798uv"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/diversefmnew1.webp",
+    "name": "Diverse FM",
+    "url": "https://carol.epichosts.co.uk:8292/;"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/bollyhitsradio.webp",
+    "name": "Bolly Hits Radio",
+    "url": "http://hoth.alonhosting.com:1100/stream"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/radiobollyfm1.webp",
+    "name": "Radio Bolly FM",
+    "url": "http://158.69.254.140:8156/stream"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/jeoradio.webp",
+    "name": "Jeo Radio",
+    "url": "https://uksouth.streaming.broadcast.radio:16020/jeodabstream"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/nonstophindi.webp",
+    "name": "Non Stop Hindi",
+    "url": "http://158.69.254.140:8168/stream"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/bollywood90s.webp",
+    "name": "Bollywood 90s",
+    "url": "http://stream.zeno.fm/fdgs82xkzhhvv"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/br1.webp",
+    "name": "Bollywood 2010's",
+    "url": "http://drive.uber.radio/uber/bollywood2010s/icecast.audio"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/bollywoodworkout.webp",
+    "name": "Workout Radio",
+    "url": "https://drive.uber.radio/uber/sportifybollywood/icecast.audio"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/mixify.webp",
+    "name": "Mixify Radio",
+    "url": "https://server.mixify.in/listen/listen/radio.mp3"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/indiabeat.webp",
+    "name": "India Beat Radio",
+    "url": "http://listen.openstream.co/7045/audio"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/90soldhitsh.webp",
+    "name": "Bollywood 90s Romantic",
+    "url": "http://158.69.254.140:8098/stream"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/loveradiobolly.webp",
+    "name": "Love Radio",
+    "url": "https://drive.uber.radio/uber/lrbollywood/icecast.audio"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/bollyradio.webp",
+    "name": "Bolly Radio",
+    "url": "http://perseverance.shoutca.st:8204/stream"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/br3.webp",
+    "name": "Bollywood Now",
+    "url": "http://drive.uber.radio/uber/bollywoodnow/icecast.audio"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/bollywoodradioandbeyond.webp",
+    "name": "Bollywood Radio & Beyond",
+    "url": "https://s6.yesstreaming.net/proxy/john1237?mp=/live"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/bombaybeats.webp",
+    "name": "Bombay Beats",
+    "url": "http://sc-bb.1.fm:7044/"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/br2.webp",
+    "name": "Bollywood Diwali Party",
+    "url": "http://drive.uber.radio/uber/bollywooddiwali/icecast.audio"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/bollywooddance.webp",
+    "name": "Bollywood Dance",
+    "url": "http://drive.uber.radio/uber/bollywooddance/icecast.audio"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/4lobosbollywood.webp",
+    "name": "4 Lobos Bollywood Radio",
+    "url": "http://puma.streemlion.com:4130/stream"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/radio44.webp",
+    "name": "Radio 44",
+    "url": "https://main.smanelcast.com/radio/8030/radio.mp3"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/radiofmbollywood.webp",
+    "name": "Radio FM Bollywood",
+    "url": "https://s3.radio.co/s2f19d44d0/listen"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/bigmelodies.webp",
+    "name": "Big Melodies",
+    "url": "https://funasia.streamguys1.com/live9"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/bolly4uradio.webp",
+    "name": "Bolly 4U Radio",
+    "url": "http://ingest2.astro3.rastream.com/astro-raaga-bolly4u"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/br1.webp",
+    "name": "Bollywood Love",
+    "url": "http://drive.uber.radio/uber/bollywoodlove/icecast.audio"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/instrumental.webp",
+    "name": "Instrumental Music Radio",
+    "url": "http://azuracast.vibesounds.in:8030/radio.mp3"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/instrumentalmusicradio.webp",
+    "name": "Instrumental Radio",
+    "url": "http://s2.oppusmedia.com:8140/radio.mp3"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/gegarhindi.webp",
+    "name": "Hindi Power",
+    "url": "http://ingest2.astro1.rastream.com/astro-gegar-hindi"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/spiceradioca.jpg",
+    "name": "Spice Radio CA",
+    "url": "http://149.56.147.197:8026/stream"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/rhi.webp",
+    "name": "Radio Hindi Int RHI",
+    "url": "http://radio.bongonet.net:8012/rhi"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/bollywooddilseradio1.webp",
+    "name": "Bollywood Dil Se",
+    "url": "http://103.16.47.70:7333/;stream.mp3"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/hitsofbollywoodnew.webp",
+    "name": "Hits Bollywood",
+    "url": "http://stream.zeno.fm/a2gyqzwpwfeuv"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/radiooliveclub.webp",
+    "name": "Radio Olive Club",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_OLIVE_CLUB_S04_SC"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/rzunplugged.webp",
+    "name": "Radio Zindagi Unplugged",
+    "url": "http://107.182.234.197:7403/stream"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/hitsofbollywood.webp",
+    "name": "Hits of Bollywood",
+    "url": "http://198.50.156.92:8255/stream"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/br1.webp",
+    "name": "Bollywood Work Out",
+    "url": "http://drive.uber.radio/uber/bollywoodworkout/icecast.audio"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/bollyvibes.webp",
+    "name": "Bolly Vibes Radio",
+    "url": "http://bollyvibes.radioca.st/stream"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/hitsofbollywood.webp",
+    "name": "New Hits of Bollywood",
+    "url": "http://stream.zeno.fm/rqqps6cbe3quv"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/desihits2000a.webp",
+    "name": "Desi Hits 2000",
+    "url": "http://www.desizone.nl:8000/relay2"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/90sonceagainradio.webp",
+    "name": "90S Once Again",
+    "url": "http://103.16.47.70:7444/;stream.mp3"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/rz90s.webp",
+    "name": "RZ Sizzling 90s",
+    "url": "http://107.182.234.197:7425/stream"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/bollywood90sa.webp",
+    "name": "Nostalagic Bollywood 90s",
+    "url": "http://www.desizone.nl:8000/relay3"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/exclusiveradio.webp",
+    "name": "Exclusive Bollywood",
+    "url": "http://streaming.exclusive.radio/er/bollywood/icecast.audio"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/bollywoodradio23.webp",
+    "name": "Bollywood Radio Love",
+    "url": "http://drive.uber.radio/uber/bollywoodlove/icecast.audio"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/radiorain.webp",
+    "name": "Radio Rainbow",
+    "url": "http://cast1.my-control-panel.com/proxy/buradiom/stream"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/litradio.webp",
+    "name": "LIT Radio",
+    "url": "http://peridot.streamguys.com:7150/Tarana2.aac"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/lovejunctionradio.webp",
+    "name": "Love Junction Radio",
+    "url": "http://stream.zeno.fm/d9mbtnhd8tzuv"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/bollywoodbio.webp",
+    "name": "Bollywood Bio",
+    "url": "http://ais-sa2.cdnstream1.com/1925_192"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/aadiwasiradio.webp",
+    "name": "Aadiwasi Radio",
+    "url": "https://stream.rcast.net/69041"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/rzclubdj.webp",
+    "name": "RZ Club DJ",
+    "url": "http://107.182.234.197:7397/stream"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/aasmanradio.webp",
+    "name": "Aasman Radio",
+    "url": "http://aasman_radio.ice.infomaniak.ch/aasmanradio"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/danceasiaradionew.webp",
+    "name": "Dance Asia FM",
+    "url": "https://s1.citrus3.com:8124/stream"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/vybezstation.webp",
+    "name": "Vybez Station",
+    "url": "http://us2.internet-radio.com:8281/live"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/desidance.webp",
+    "name": "Desi Dance",
+    "url": "https://usa6.fastcast4u.com/proxy/vinsingh?mp=/stream"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/rzromance.webp",
+    "name": "RZ Romance",
+    "url": "http://107.182.234.197:7466/stream"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/himalradio.webp",
+    "name": "Himal Hindi Filmy",
+    "url": "http://streaming.webhostnepal.com/8020/stream"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/fnffm.webp",
+    "name": "FNF FM Bollywood",
+    "url": "http://192.99.8.192:5032/stream"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/404.webp",
+    "name": "Red Chat Bollywood Radio",
+    "url": "http://5.9.63.157:8000/stream"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/dancemastibollywoodradio.webp",
+    "name": "Dance Masti",
+    "url": "http://103.16.47.70:9222/;stream.mp3"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/calmradio.webp",
+    "name": "Calm Radio Bollywood",
+    "url": "http://streams.calmradio.com:7028/;"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/radiodil.webp",
+    "name": "Radio Dil",
+    "url": "https://us3.streamingpulse.com/ssl/radiodil2"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/megazonebollywood.webp",
+    "name": "Megazone Bollywood",
+    "url": "https://streaming.fabrik.fm/megazone/echocast/audio/high/index.m3u8"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/bollywoodfm.webp",
+    "name": "Bollywood FM",
+    "url": "http://www.abm2.com.au:8000/CONTAINER34"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/radiocityhiphop.webp",
+    "name": "Radio City HIP HOP",
+    "url": "http://69.162.124.24:8888/HipHop"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/sbspopdesi.webp",
+    "name": "SBS Pop Desi",
+    "url": "http://sbs-ice.streamguys1.com/sbs-popdesi"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/radioshruti.webp",
+    "name": "Radio Shruti",
+    "url": "https://rs.suricloud.com/radio/8000/radio.mp3"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/abeeradio.webp",
+    "name": "Abee Radio",
+    "url": "http://stream.zeno.fm/3pb072s7hqzuv"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/vdesi.webp",
+    "name": "VDesi",
+    "url": "http://stream.radio.co/s42e977b6c/listen"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/radiomausam.webp",
+    "name": "Radio Mausam",
+    "url": "http://85.25.185.202:8318/stream"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/vdesi.webp",
+    "name": "VDesi Radio",
+    "url": "http://ice66.securenetsystems.net/WVDESI"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/awsmradio.webp",
+    "name": "Awsm Radio",
+    "url": "http://stream.radio.co/s9c44032cc/listen"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/radiorccaprice.webp",
+    "name": "RC Caprice",
+    "url": "http://79.120.39.202:9089/;"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/radiorccaprice.webp",
+    "name": "Caprice Indian Cinema",
+    "url": "http://79.120.39.202:8000/indiancinema"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/mehefilradio.webp",
+    "name": "Mehefil Radio",
+    "url": "http://mehefil.no-ip.com/mehefil"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/apnafrankfurt1.webp",
+    "name": "Apna Frankfurt",
+    "url": "https://stream.radio.co/s798135a6d/low"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/djcdindianradio.webp",
+    "name": "DJ CD Indian Radio",
+    "url": "http://s7.voscast.com:10844/stream"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/radiobulanamaste.webp",
+    "name": "Radio Bula Namaste",
+    "url": "http://162.244.80.30:8126/:Stream.mp3"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/radiomeharban.webp",
+    "name": "Radio Meharban",
+    "url": "http://stream.zeno.fm/1qhzc7v1xqzuv"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/radiowow.webp",
+    "name": "Radio WOW",
+    "url": "http://cast2.my-control-panel.com/proxy/radiowow/stream"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/csmr.webp",
+    "name": "Caribbean Super Mix Radio",
+    "url": "http://198.178.121.76:8063/;"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/radiodhishum.webp",
+    "name": "Radio Dhishum",
+    "url": "https://radiodhishum.out.airtime.pro/Radiodhishum_a"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/joshfm.webp",
+    "name": "Josh FM",
+    "url": "http://stream.zeno.fm/cm1fkgbv1ceuv"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/euphonicradio.webp",
+    "name": "Euphonic Radio",
+    "url": "http://stream.zeno.fm/zszmz90uz1zuv"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/hindimusicradio.webp",
+    "name": "Hindi Music Radio",
+    "url": "http://stream.zeno.fm/8e9q38tg7zquv"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/ganabajao.webp",
+    "name": "Gana Bajao",
+    "url": "http://stream.zeno.fm/uyzbn70kkuquv"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/dilfm.webp",
+    "name": "103 Dil FM HD",
+    "url": "http://s4.myradiostream.com:14348/listen.mp3"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/404.webp",
+    "name": "Bollywood Music HD",
+    "url": "http://185.33.21.173:8017/"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/justmusic.webp",
+    "name": "Just Music",
+    "url": "https://live.wostreaming.net/direct/humfm-fm1062mp3-ibc1"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/bestofindiepopradio.webp",
+    "name": "Best of Indie Pop",
+    "url": "http://103.16.47.70:7111/;stream.mp3"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/joshfmindipophits.webp",
+    "name": "Indi Pop Hits",
+    "url": "http://stream.zeno.fm/y3fy7bwb0mzuv"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/bollywoodinstrumentalsradio.webp",
+    "name": "Instrumentals Radio",
+    "url": "http://103.16.47.70:8333/;stream.mp3"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/intensedmvradio.webp",
+    "name": "Intensedmv Bollywood",
+    "url": "http://ice6.securenetsystems.net/INTRADIO?type=.mp3"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/indifun.webp",
+    "name": "Indi Fun Radio",
+    "url": "http://indifun.net:7000/;"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/masalabeats.webp",
+    "name": "Masala Beats",
+    "url": "http://usa10.fastcast4u.com:7070/;"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/indifun.webp",
+    "name": "Fun X Desi",
+    "url": "http://icecast.omroep.nl/funx-bb-mp3"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/desizoneradioa.webp",
+    "name": "Desi Zone",
+    "url": "http://www.desizone.nl:8000/"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/akaashfm.webp",
+    "name": "Akaash FM",
+    "url": "http://stream.akaashfm.com:8000/live"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/nitnutradio.webp",
+    "name": "Nit Nut Radio",
+    "url": "http://103.179.56.26:8000/radio.aac"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/desiworld.webp",
+    "name": "Desi World Radio",
+    "url": "http://stream.zeno.fm/4mbfcn4mf24tv"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/desimaska.webp",
+    "name": "Desi Maska",
+    "url": "http://ample.radiojar.com/q9rymqdbeyduv"
+  },
+  {
+    "category": "Bollywood Radios",
+    "logo": "http://hindiradioapp.com/images/desinetworks.webp",
+    "name": "Desi Dance",
+    "url": "http://usa6.fastcast4u.com:5029/stream"
+  }
+]

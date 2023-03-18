@@ -12,23 +12,28 @@
 "id": "0"
 },
 {
+"name": "Artist Radio",
+"url": "LatestRadio/artist_fm.json",
+"id": "8"
+},
+{
 "name": "Marathi Radio",
-"url": "LatestRadio/marathi_radio.json",
+"url": "LatestRadio/Marathi/marathi_radio.json",
 "id": "1"
 },
 {
 "name": "Tamil Radio",
-"url": "LatestRadio/tamil_radio.json",
+"url": "LatestRadio/Tamil/tamil_radio.json",
 "id": "2"
 },
 {
 "name": "Telugu Radio",
-"url": "LatestRadio/telgu_radio.json",
+"url": "LatestRadio/Telgu/telgu_radio.json",
 "id": "3"
 },
 {
 "name": "Malayalam R..",
-"url": "LatestRadio/malyalam_radio.json",
+"url": "LatestRadio/Malayalam/malyalam_radio.json",
 "id": "4"
 },
 {
@@ -50,11 +55,6 @@
 "name": "AIR FM",
 "url": "LatestRadio/air_fm.json",
 "id": "7"
-},
-{
-"name": "Artist Radio",
-"url": "LatestRadio/artist_fm.json",
-"id": "8"
 },
 {
 "name": "News & TV",
@@ -80,6 +80,11 @@
 "name": "Radio City",
 "url": "LatestRadio/radio_city.json",
 "id": "13"
+},
+{
+"name": "Bollywood FM",
+"url": "LatestRadio/bollywood.json",
+"id": "14"
 }
 ]
 }

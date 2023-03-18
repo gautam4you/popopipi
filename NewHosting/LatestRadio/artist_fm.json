@@ -1,4 +1,16 @@
 [
+ {
+    "category": "Artist Radios",
+    "logo": "http://hindiradioapp.com/images/chauhan.webp",
+    "name": "Sunidhi Chauhan",
+    "url": "http://drive.uber.radio/uber/bollywoodsunidhichauhan/icecast.audio"
+  },
+ {
+    "category": "Artist Radios",
+    "logo": "http://hindiradioapp.com/images/rdburmanradio.jpg",
+    "name": "RD Burman Radio",
+    "url": "http://stream.zeno.fm/h9vqwpmcbkhvv"
+  },
 	{
 "name": "Sonu nigam",
 "url": "http://drive.uber.radio/uber/bollywoodsonunigam/icecast.audio",
