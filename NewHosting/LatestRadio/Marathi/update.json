@@ -23,6 +23,24 @@
 			"url": "LatestRadio/radio_stations_artist.json",
 			"id": "2"
 			
+		},
+          {
+			"name": "All India Radio",
+			"url": "LatestRadio/Telgu/telugu_all_india_radio.json",
+			"id": "3"
+			
+		},
+{
+			"name": "Devotional",
+			"url": "LatestRadio/devotional.json",
+			"id": "4"
+			
+		},
+{
+			"name": "Classics Radio",
+			"url": "LatestRadio/classics_radio.json",
+			"id": "5"
+			
 		}
 	]
 }

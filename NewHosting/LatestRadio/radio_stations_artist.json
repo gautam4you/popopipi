@@ -1,4 +1,58 @@
 [
+{
+		"name": "Exclusive Bollywood",
+		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCksOClh+Ckn+CljeCksOCliyDgpKzgpYngpLLgpYDgpLXgpYHgpKE=",
+		"url": "http://streaming.exclusive.radio/er/bollywood/icecast.audio",
+		"samplerate": "",
+		"pub": "19-03-2023",
+		"cat": "Hindi,Bollywood,Web",
+		"image": "http://hindiradioapp.com/images/exclusiveradio.webp"
+	},
+{
+		"name": "Bollywood dance",
+		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCksOClh+Ckn+CljeCksOCliyDgpKzgpYngpLLgpYDgpLXgpYHgpKE=",
+		"url": "http://drive.uber.radio/uber/bollywooddance/icecast.audio",
+		"samplerate": "",
+		"pub": "19-03-2023",
+		"cat": "Hindi,Bollywood,Web",
+		"image": "http://hindiradioapp.com/images/bollywooddance.webp"
+	},
+{
+		"name": "Workout Radio",
+		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCksOClh+Ckn+CljeCksOCliyDgpKzgpYngpLLgpYDgpLXgpYHgpKE=",
+		"url": "https://drive.uber.radio/uber/sportifybollywood/icecast.audio",
+		"samplerate": "",
+		"pub": "19-03-2023",
+		"cat": "Hindi,Bollywood,Web",
+		"image": "http://hindiradioapp.com/images/bollywoodworkout.webp"
+	},
+{
+		"name": "Bollywood 90s",
+		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCksOClh+Ckn+CljeCksOCliyDgpKzgpYngpLLgpYDgpLXgpYHgpKE=",
+		"url": "http://stream.zeno.fm/fdgs82xkzhhvv",
+		"samplerate": "",
+		"pub": "19-03-2023",
+		"cat": "Hindi,Bollywood,Web",
+		"image": "http://hindiradioapp.com/images/bollywood90s.webp"
+	},
+{
+		"name": "Bollywood 90s Romantic",
+		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCksOClh+Ckn+CljeCksOCliyDgpKzgpYngpLLgpYDgpLXgpYHgpKE=",
+		"url": "http://158.69.254.140:8098/stream",
+		"samplerate": "",
+		"pub": "19-03-2023",
+		"cat": "Hindi,Bollywood,Web",
+		"image": "http://hindiradioapp.com/images/90soldhitsh.webp"
+	},
+{
+		"name": "Hot Now Bollywood",
+		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCksOClh+Ckn+CljeCksOCliyDgpKzgpYngpLLgpYDgpLXgpYHgpKE=",
+		"url": "http://103.16.47.70:7222/;stream.mp3",
+		"samplerate": "",
+		"pub": "19-03-2023",
+		"cat": "Hindi,Bollywood,Web",
+		"image": "http://hindiradioapp.com/images/hotnowbollywoodradio2.webp"
+	},
 	{
 		"name": "Radio Srinagar",
 		"name_h": "4KSw4KWH4KSh4KS/4KSv4KWLIOCksOClh+Ckn+CljeCksOCliyDgpKzgpYngpLLgpYDgpLXgpYHgpKE=",
