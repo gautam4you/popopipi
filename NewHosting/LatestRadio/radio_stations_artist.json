@@ -931,21 +931,12 @@
 		"pub": "30-08-2018"
 	},
 	{
-		"name": "Hungama Classical",
-		"name_h": "SHVuZ2FtYSDgpLbgpL7gpLjgpY3gpKTgpY3gpLDgpYDgpK8=",
-		"url": "http://103.16.47.70:9999/;stream.nsv",
-		"samplerate": "",
-		"cat": "Hindi,Bollywood",
-		"image": "https://d368qv66y0shpj.cloudfront.net/featured_content/946f1eeebc4ae350cd011b5e65ba6a92_200x200.jpg",
-		"pub": "30-08-2018"
-	},
-	{
 		"name": "Hungama Dance Masti",
 		"name_h": "4KS54KSC4KSX4KS+4KSu4KS+IOCkoeCkvuCkguCkuCDgpK7gpLjgpY3gpKTgpYA=",
 		"url": "http://103.16.47.70:9222/;stream.nsv",
 		"samplerate": "",
 		"cat": "Hindi,Bollywood",
-		"image": "https://d368qv66y0shpj.cloudfront.net/featured_content/9db33d20bf6eb622b88ac5240031a5a0_200x200.jpg",
+		"image": "https://onlineradiofm.in/assets/image/radio/180/Hungama-Dance-Masti-International.jpg",
 		"pub": "30-08-2018"
 	},
 	{
@@ -963,7 +954,7 @@
 		"url": "http://103.16.47.70:7222/;stream.nsv",
 		"samplerate": "",
 		"cat": "Hindi,Bollywood",
-		"image": "LatestRadio/hot-now-bollywood.jpg",
+		"image": "https://onlineradiofm.in/assets/image/radio/180/hot-now-bollywood.jpg",
 		"pub": "19-08-2018"
 	},
 	{
@@ -1685,7 +1676,7 @@
 		"url": "http://103.16.47.70:7444/;stream.nsv",
 		"samplerate": "",
 		"cat": "Hindi,Bollywood",
-		"image": "LatestRadio/Hungama90sOnceAgain.jpg",
+		"image": "pic/Hungama90sOnceAgain.jpg",
 		"pub": "16-09-2018"
 	},
 	{
@@ -1849,25 +1840,8 @@
 		"image": "https://cdn.onlineradiobox.com/img/logo/2/4002.v1.png",
 		"pub": "05-12-2018"
 
-	},
-	{
-		"name": "Gee Radio Hindu Religious ",
-		"name_h": "4KSc4KWAIOCksOClh+CkoeCkv+Ckr+CliyDgpLngpL/gpILgpKbgpYIg4KSn4KS+4KSw4KWN4KSu4KS/4KSV",
-		"url": "http://149.56.195.94:8303/",
-		"samplerate": "",
-		"cat": "Hindi,Devotional",
-		"image": "https://lh3.googleusercontent.com/sYW16w5AVdB676idSo0kUOtFJu8EsBhcWyLcvqPf9eZQsc1E1ugJntrzwEqsvQKVSYk",
-		"pub": "16-02-2019"
-	},
-	{
-		"name": "PRO Plus Radio",
-		"name_h": "4KSq4KWN4KSw4KWLIOCkquCljeCksuCkuCDgpLDgpYfgpKHgpL/gpK/gpYs=",
-		"url": "http://5.135.192.162:8000/;stream.mp3",
-		"samplerate": "",
-		"cat": "Hindi,Bollywood",
-		"image": "https://www.radio.net/images/broadcasts/8c/8b/122438/1/c300.png",
-		"pub": "14-02-2019"
 	}
+
 
 
 ]
