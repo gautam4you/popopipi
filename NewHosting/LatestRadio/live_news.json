@@ -7,6 +7,21 @@
 {
 "vid": 32,
 "cat_id": 6,
+"video_title": "Bansal News",
+"video_url": "wJctQFrJTpM",
+"video_id": "cda11up",
+"video_thumbnail": "LatestRadio/bansal.png",
+"video_duration": 11.02,
+"video_description": "<h1>ABP News LIVE | Latest Headlines LIVE | Hindi News LIVE TV | Inflation Woes | Ram Mandir Controversy</h1>\r\n",
+"video_type": "pic/bansal.png",
+"size": "ADS",
+"total_views": 2218,
+"date_time": "2021-06-15 05:56:56",
+"category_name": "Hindi News"
+},
+{
+"vid": 32,
+"cat_id": 6,
 "video_title": "ABP News ",
 "video_url": "nyd-xznCpJc",
 "video_id": "cda11up",
