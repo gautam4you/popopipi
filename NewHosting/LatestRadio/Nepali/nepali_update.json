@@ -1,0 +1,34 @@
+{
+	 "active": true,
+        "versionCode":1,
+	  "ytKey1": "AIzaSyCFGAhJY77Ql2oYH6QL3mkNujegPt7if78",
+        "ytKey2": "AIzaSyCFGAhJY77Ql2oYH6QL3mkNujegPt7if78",
+        "ytKey3": "AIzaSyCFGAhJY77Ql2oYH6QL3mkNujegPt7if78",
+	"bannerAdsUnite": "",
+	"fullAdsUnite": "",
+	"rewardVideosAdsUnite": "",
+	"adsAppId": "",
+	"fbBanner": "",
+	"fbfullAdsUnite": "",
+	"fbNativeUnite": "",
+      "domain": "https://gynaecocratic-null.000webhostapp.com",
+	"CategoriesList": [
+          {
+			"name": "Nepali Radio",
+			"url": "LatestRadio/Telgu/telgu_radio.json",
+			"id": "1"
+			
+		},      {
+			"name": "All India Radio",
+			"url": "LatestRadio/Telgu/telugu_all_india_radio.json",
+			"id": "3"
+			
+		}, 
+			   {
+			"name": "Bollywood",
+			"url": "LatestRadio/radio_stations_artist.json",
+			"id": "5"
+			
+		}
+	]
+}
