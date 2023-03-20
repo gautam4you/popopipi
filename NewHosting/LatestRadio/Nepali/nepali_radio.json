@@ -1,10 +1,5 @@
 [
 {
-"name": "adio Bindas - 94.8 MHz",
-"logo": "https://onaircode.com//myfmradio/nepalifmradio/upload/5466-2020-05-21.jpg",
-"url": "http://live.itechnepal.com:9132/stream"
-},
-{
 "name": "Nepali Radio Network - NRN",
 "logo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/Nepali/unnamed.png",
 "url": "http://streaming.hamropatro.com:8387/"
@@ -17,12 +12,7 @@
 {
 "name": "Radio Kantipur - 96.1 MHz",
 "logo": "https://dl.dropboxusercontent.com/s/w0n053n9a48zsmw/radio_kantipur.jpg",
-"url": "http://kantipur-stream.softnep.com:7248"
-},
-{
-"name": "Image FM - 97.9 MHz",
-"logo": "https://dl.dropboxusercontent.com/s/8x452r3wjaa7vr5/image_fm.jpg",
-"url": "http://streaming.hamropatro.com:8631/;stream.mp3"
+"url": "http:\/\/broadcast.radiokantipur.com:7248\/stream\/;"
 },
 {
 "name": "Ujyaalo 90 Network - 90 MHz",
@@ -42,7 +32,7 @@
 {
 "name": "BBC Nepali Radio",
 "logo": "https://dl.dropboxusercontent.com/s/up89f1ik9xcagfy/bbc_nepali.jpg",
-"url": "http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-nepla"
+"url": "https:\/\/emp.bbci.co.uk\/emp\/media\/blank.mp3"
 },
 {
 "name": "Star FM - 95.2 MHz",
@@ -60,39 +50,9 @@
 "url": "http://usa4.fastcast4u.com:5098/"
 },
 {
-"name": "Radio Nepal - 100 MHz",
-"logo": "https://cdn-radiotime-logos.tunein.com/s17747d.png",
-"url": "http://radionepal.gov.np:40100/stream"
-},
-{
-"name": "Times FM - 90.6 MHz",
-"logo": "http://www.liveonlineradio.net/wp-content/uploads/2011/06/Times-FM-90.6-MHZ.jpg",
-"url": "http://78.129.224.15:32499/"
-},
-{
 "name": "Radio Namaste 92.8 MHz",
 "logo": "https://us0-cdn.onlineradiobox.com/img/logo/7/30127.v1.png",
 "url": "http://live.itechnepal.com:7014/stream"
-},
-{
-"name": "Antenna Foundation Nepal - Online",
-"logo": "http://www.ejobsnepal.com/wp-content/uploads/2017/06/NFFCFfgVNGHHjVBvBb.gif",
-"url": "http://live.itechnepal.com:8170/stream?type=.mp3"
-},
-{
-"name": "Nepaliko Radio - 88.8 MHz",
-"logo": "https://pbs.twimg.com/profilelogos/446803709192704000/pa5I0_ms_400x400.jpeg",
-"url": "http://144.76.110.154:9888/"
-},
-{
-"name": "Classic FM - 101.2 MHz",
-"logo": "http://www.liveonlineradio.net/wp-content/uploads/2011/06/Classic-FM.jpg",
-"url": "http://live.itechnepal.com:8530/stream?type=.mp3"
-},
-{
-"name": "Godavari FM - 87.9 MHz",
-"logo": "http://www.listenfmradios.com/wp-content/uploads/2013/03/Godavari-FM-87.9-Logo.jpg",
-"url": "http://live.itechnepal.com:9335/stream"
 },
 {
 "name": "Prime FM - 105.2 MHz",
@@ -100,24 +60,9 @@
 "url": "http://live.itechnepal.com:7067/stream"
 },
 {
-"name": "Radio Vision - 91.6 MHz",
-"logo": "https://cdn.onlineradiobox.com/img/logo/8/30468.v2.png",
-"url": "http://streaming.hamropatro.com:8427"
-},
-{
-"name": "Radio Sagarmatha - 102.4 MHz",
-"logo": "https://dl.dropboxusercontent.com/s/sgeeb3fp54gxglx/radio_station.jpg",
-"url": "http://streaming.hamropatro.com:8004/"
-},
-{
 "name": "Shuklaphanta FM - 99.4 MHz",
 "logo": "https://i1.sndcdn.com/avatars-000290595828-a2n4ho-t500x500.jpg",
 "url": "http://streaming.hamropatro.com:8489/"
-},
-{
-"name": "Synergy FM - 91.6 MHz",
-"logo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/synergyfm.jpg",
-"url": "http://streaming.hamropatro.com:8399/"
 },
 {
 "name": "Kalika FM - 95.2 MHz",
@@ -128,11 +73,6 @@
 "name": "Radio Sarangi - 101.3 MHz",
 "logo": "https://pbs.twimg.com/profilelogos/463545842440216576/Kv_uhZzA.png",
 "url": "http://streaming.softnep.net:8037/"
-},
-{
-"name": "Sky FM 106.6",
-"logo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/sky.jpg",
-"url": "http://live.websoftitnepal.com:9302/"
 },
 {
 "name": "Mithilanchal FM 105.0",
@@ -150,29 +90,9 @@
 "url": "http://streaming.hamropatro.com:8313"
 },
 {
-"name": "Bulbule FM - 103.4 MHz",
-"logo": "http://www.liveonlineradio.net/wp-content/uploads/2015/11/Bulbule-FM.jpg",
-"url": "http://live.itech.host:8380/stream"
-},
-{
 "name": "Radio Birgunj - 99 MHz",
 "logo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/birgunj.png",
 "url": "http://streaming.softnep.net:8017/"
-},
-{
-"name": "Radio Terai - 107 MHz",
-"logo": "http://www.radioonlinelive.com/wp-content/uploads/2018/09/Radio-terai-107.jpg",
-"url": "http://streaming.softnep.net:8031/"
-},
-{
-"name": "Radio Sunrise - 105.9 MHz",
-"logo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/sunrise.jpg",
-"url": "http://direct.sharp-stream.com/sunrise.mp3"
-},
-{
-"name": "Tinau FM - 98.2 MHz",
-"logo": "https://dl.dropboxusercontent.com/s/sgeeb3fp54gxglx/radio_station.jpg",
-"url": "http://streaming.hamropatro.com:8024/"
 },
 {
 "name": "Gunjan FM - 105.3 MHz",
@@ -185,34 +105,9 @@
 "url": "http://live.itechnepal.com:8834/stream"
 },
 {
-"name": "Radio Chitwan - 94.6 MHz",
-"logo": "https://dl.dropboxusercontent.com/s/sgeeb3fp54gxglx/radio_station.jpg",
-"url": "http://192.190.84.25:9914/"
-},
-{
-"name": "Radio Arpan - 104.5 MHz",
-"logo": "https://dl.dropboxusercontent.com/s/sgeeb3fp54gxglx/radio_station.jpg",
-"url": "http://216.55.141.189:8138/;"
-},
-{
-"name": "Damauli FM - 94.2 MHz",
-"logo": "https://dl.dropboxusercontent.com/s/sgeeb3fp54gxglx/radio_station.jpg",
-"url": "http://live.itech.host:8786/stream"
-},
-{
-"name": "Dinesh FM - 93.8 MHz",
-"logo": "https://dl.dropboxusercontent.com/s/sgeeb3fp54gxglx/radio_station.jpg",
-"url": "http://streaming.hamropatro.com:8280/"
-},
-{
 "name": "Radio Paschim Today - 88.8 MHz",
 "logo": "https://dl.dropboxusercontent.com/s/sgeeb3fp54gxglx/radio_station.jpg",
 "url": "http://live.itech.host:7023/stream"
-},
-{
-"name": "Ganatantra FM - 95.1 MHz",
-"logo": "https://dl.dropboxusercontent.com/s/sgeeb3fp54gxglx/radio_station.jpg",
-"url": "http://live.itech.host:9162/stream"
 },
 {
 "name": "Radio Rajmarga - 92.1 MHz",
@@ -220,34 +115,14 @@
 "url": "http://streaming.hamropatro.com:8012/"
 },
 {
-"name": "QN Radio - Online",
-"logo": "https://dl.dropboxusercontent.com/s/sgeeb3fp54gxglx/radio_station.jpg",
-"url": "http://188.165.232.7:8612/"
-},
-{
 "name": "Kalinchowk FM - 106.4 MHz",
 "logo": "https://dl.dropboxusercontent.com/s/sgeeb3fp54gxglx/radio_station.jpg",
 "url": "http://streaming.softnep.net:8109"
 },
 {
-"name": "Galyang- 92.2 MHz",
-"logo": "https://dl.dropboxusercontent.com/s/sgeeb3fp54gxglx/radio_station.jpg",
-"url": "http://live.itechnepal.com:9102/stream"
-},
-{
-"name": "Choice FM - 90.4 MHz",
-"logo": "https://dl.dropboxusercontent.com/s/sgeeb3fp54gxglx/radio_station.jpg",
-"url": "http://live.itech.host:8466/stream"
-},
-{
 "name": "Radio Resunga - 106.2 MHz",
 "logo": "https://dl.dropboxusercontent.com/s/sgeeb3fp54gxglx/radio_station.jpg",
 "url": "http://live.itechnepal.com:9066/stream"
-},
-{
-"name": "Radio Sarobar - 92.5 MHz",
-"logo": "https://dl.dropboxusercontent.com/s/sgeeb3fp54gxglx/radio_station.jpg",
-"url": "http://live.itechnepal.com:7112/stream"
 },
 {
 "name": "Radio Makawanpur - 101.3 MHz",
@@ -260,54 +135,9 @@
 "url": "http://streaming.softnep.net:8025/"
 },
 {
-"name": "Holy Vision Radio - Online",
-"logo": "https://dl.dropboxusercontent.com/s/sgeeb3fp54gxglx/radio_station.jpg",
-"url": "http://live.itechnepal.com:8236/stream"
-},
-{
-"name": "Radio Pariwartan - 89.4 MHz",
-"logo": "https://dl.dropboxusercontent.com/s/sgeeb3fp54gxglx/radio_station.jpg",
-"url": "http://37.59.42.207:8166/stream"
-},
-{
-"name": "Kanchanjungha FM - 92.6 MHz",
-"logo": "https://dl.dropboxusercontent.com/s/sgeeb3fp54gxglx/radio_station.jpg",
-"url": "http://live.itechnepal.com:8420/stream"
-},
-{
 "name": "Pathivara FM - 93.6 MHz",
 "logo": "https://dl.dropboxusercontent.com/s/sgeeb3fp54gxglx/radio_station.jpg",
 "url": "http://live.itechnepal.com:8744/stream"
-},
-{
-"name": "Aagan FM - 89.6 MHz",
-"logo": "https://dl.dropboxusercontent.com/s/sgeeb3fp54gxglx/radio_station.jpg",
-"url": "http://live.itech.host:8274/stream"
-},
-{
-"name": "Chomolungma FM - 98.6 MHz",
-"logo": "https://dl.dropboxusercontent.com/s/sgeeb3fp54gxglx/radio_station.jpg",
-"url": "http://live.itechnepal.com:8484/stream"
-},
-{
-"name": "Hamro Malika FM - 107 MHz",
-"logo": "https://dl.dropboxusercontent.com/s/sgeeb3fp54gxglx/radio_station.jpg",
-"url": "http://streaming.hamropatro.com:8280"
-},
-{
-"name": "Radio Nagarik 100.4",
-"logo": "https://dl.dropboxusercontent.com/s/sgeeb3fp54gxglx/radio_station.jpg",
-"url": "http://live.websoftitnepal.com:9988/"
-},
-{
-"name": "Radio Annapurna - 93.4 MHz",
-"logo": "https://dl.dropboxusercontent.com/s/sgeeb3fp54gxglx/radio_station.jpg",
-"url": "http://live.itech.host:8964/stream"
-},
-{
-"name": "Machhapuchhre FM - 91 MHz",
-"logo": "https://dl.dropboxusercontent.com/s/sgeeb3fp54gxglx/radio_station.jpg",
-"url": "http://167.114.131.90:5037/stream"
 },
 {
 "name": "Radio Himalaya - Online",
@@ -315,49 +145,9 @@
 "url": "http://live.itechnepal.com:8541/stream"
 },
 {
-"name": "Radio Chhahari - Online",
-"logo": "https://dl.dropboxusercontent.com/s/sgeeb3fp54gxglx/radio_station.jpg",
-"url": "http://stream.webhostnepal.com:9950"
-},
-{
-"name": "Radio PMC Nepal - Online",
-"logo": "https://dl.dropboxusercontent.com/s/sgeeb3fp54gxglx/radio_station.jpg",
-"url": "http://s8.voscast.com:8654"
-},
-{
-"name": "Radio Lekhnath - 106.6 MHz",
-"logo": "https://dl.dropboxusercontent.com/s/sgeeb3fp54gxglx/radio_station.jpg",
-"url": "http://fm.mycomputersathi.net:5018/stream"
-},
-{
-"name": "Guransh FM - 107.5 MHz",
-"logo": "https://dl.dropboxusercontent.com/s/sgeeb3fp54gxglx/radio_station.jpg",
-"url": "http://live.itechnepal.com:9461/stream"
-},
-{
-"name": "Sunakhari Radio Live - 91.4 MHz",
-"logo": "https://dl.dropboxusercontent.com/s/sgeeb3fp54gxglx/radio_station.jpg",
-"url": "http://live.itech.host:9521/stream"
-},
-{
-"name": "Radio Kushum - 90 MHz",
-"logo": "https://dl.dropboxusercontent.com/s/sgeeb3fp54gxglx/radio_station.jpg",
-"url": "http://streaming.hamropatro.com:8056/"
-},
-{
 "name": "Radio Samagra - 107 MHz",
 "logo": "https://dl.dropboxusercontent.com/s/sgeeb3fp54gxglx/radio_station.jpg",
 "url": "http://live.itechnepal.com:9389/stream"
-},
-{
-"name": "Radio Langtang - 90.3 MHz",
-"logo": "https://dl.dropboxusercontent.com/s/sgeeb3fp54gxglx/radio_station.jpg",
-"url": "http://streaming.hamropatro.com:8032/"
-},
-{
-"name": "Radio Marsyangdi - 95 MHz",
-"logo": "https://dl.dropboxusercontent.com/s/sgeeb3fp54gxglx/radio_station.jpg",
-"url": "http://live.itechnepal.com:9120/stream"
 },
 {
 "name": "Radio Paschim Awaj - 104.7 MHz",
@@ -375,19 +165,9 @@
 "url": "http://streaming.softnep.net:8091/"
 },
 {
-"name": "Radio Ramechhap - 95.8 MHz",
-"logo": "https://dl.dropboxusercontent.com/s/sgeeb3fp54gxglx/radio_station.jpg",
-"url": "http://live.itech.host:8994/stream"
-},
-{
 "name": "Radio Terhathum - 92.4 MHz",
 "logo": "https://dl.dropboxusercontent.com/s/sgeeb3fp54gxglx/radio_station.jpg",
 "url": "http://live.itech.host:9150/stream"
-},
-{
-"name": "Krishnasar FM - 94 MHz",
-"logo": "https://dl.dropboxusercontent.com/s/sgeeb3fp54gxglx/radio_station.jpg",
-"url": "http://streaming.hamropatro.com:8381/"
 },
 {
 "name": "Radio Dhading - 106 MHz",
@@ -395,29 +175,9 @@
 "url": "http://live.itechnepal.com:9449/stream"
 },
 {
-"name": "Nuwakot FM - 106.8 MHz",
-"logo": "https://dl.dropboxusercontent.com/s/sgeeb3fp54gxglx/radio_station.jpg",
-"url": "http://ample-zeno-19.radiojar.com/wtuvp08xq1duv?"
-},
-{
-"name": "Radio Parasi - 90.2 MHz",
-"logo": "https://dl.dropboxusercontent.com/s/sgeeb3fp54gxglx/radio_station.jpg",
-"url": "http://live.itech.host:8804/stream"
-},
-{
-"name": "Radio Saligram - 100.6 MHz",
-"logo": "https://dl.dropboxusercontent.com/s/sgeeb3fp54gxglx/radio_station.jpg",
-"url": "http://live.itech.host:9341/stream"
-},
-{
 "name": "Eagle FM - 99.2 MHz",
 "logo": "https://dl.dropboxusercontent.com/s/sgeeb3fp54gxglx/radio_station.jpg",
 "url": "http://live.itechnepal.com:9048/stream"
-},
-{
-"name": "Singalila FM - 97.3 MHz",
-"logo": "https://dl.dropboxusercontent.com/s/sgeeb3fp54gxglx/radio_station.jpg",
-"url": "http://live.itech.host:7018/stream"
 },
 {
 "name": "Sumhatlung FM - 104.2 MHz",
@@ -428,21 +188,6 @@
 "name": "3 Angels Community Radio - 94.6 MHz",
 "logo": "https://dl.dropboxusercontent.com/s/sgeeb3fp54gxglx/radio_station.jpg",
 "url": "http://live.itechnepal.com:7554/stream"
-},
-{
-"name": "Radio Sunaaulo - 105.6 MHz",
-"logo": "https://dl.dropboxusercontent.com/s/sgeeb3fp54gxglx/radio_station.jpg",
-"url": "http://live.itechnepal.com:8014/stream"
-},
-{
-"name": "Big FM - 101.2 MHz",
-"logo": "https://dl.dropboxusercontent.com/s/sgeeb3fp54gxglx/radio_station.jpg",
-"url": "http://50.7.99.163:16118/stream"
-},
-{
-"name": "C FM - 94.7 MHz",
-"logo": "https://dl.dropboxusercontent.com/s/sgeeb3fp54gxglx/radio_station.jpg",
-"url": "http://live.itechnepal.com:8386/stream"
 },
 {
 "name": "Bhorukawa FM - 92.8 MHz",
@@ -490,21 +235,6 @@
 "url": "http://live.itechnepal.com:9545/stream"
 },
 {
-"name": "Khandbari FM - 105.8 MHz",
-"logo": "https://dl.dropboxusercontent.com/s/sgeeb3fp54gxglx/radio_station.jpg",
-"url": "http://live.itechnepal.com:8286/stream"
-},
-{
-"name": "Radio Sarlahi - 105.7 MHz",
-"logo": "https://dl.dropboxusercontent.com/s/sgeeb3fp54gxglx/radio_station.jpg",
-"url": "http://live.itech.host:9665/stream"
-},
-{
-"name": "Radio Planet - 89.1 MHz",
-"logo": "https://dl.dropboxusercontent.com/s/sgeeb3fp54gxglx/radio_station.jpg",
-"url": "http://37.59.42.207:8313"
-},
-{
 "name": "Gurkhali Radio - 106 MHz",
 "logo": "https://dl.dropboxusercontent.com/s/sgeeb3fp54gxglx/radio_station.jpg",
 "url": "http://live.itech.host:9497/stream"
@@ -520,29 +250,9 @@
 "url": "http://live.itech.host:8561/stream"
 },
 {
-"name": "Radio Gulmi - FM 91.2 MHZ",
-"logo": "https://dl.dropboxusercontent.com/s/sgeeb3fp54gxglx/radio_station.jpg",
-"url": "http://167.114.64.181:8220/"
-},
-{
-"name": "Radio Dhorbarahi - 88.2 MHz",
-"logo": "https://dl.dropboxusercontent.com/s/sgeeb3fp54gxglx/radio_station.jpg",
-"url": "http://fm.mycomputersathi.com:5718"
-},
-{
 "name": "Radio Tanahun - 97.2 MHz",
 "logo": "https://dl.dropboxusercontent.com/s/sgeeb3fp54gxglx/radio_station.jpg",
 "url": "http://live.itechnepal.com:8976/stream"
-},
-{
-"name": "Shreenagar FM - 93.2 MHz",
-"logo": "https://dl.dropboxusercontent.com/s/sgeeb3fp54gxglx/radio_station.jpg",
-"url": "http://live.itech.host:9593/stream"
-},
-{
-"name": "Radio Hamro Sansar - Online",
-"logo": "https://dl.dropboxusercontent.com/s/sgeeb3fp54gxglx/radio_station.jpg",
-"url": "http://live.itechnepal.com:8172/stream"
 },
 {
 "name": "Radio Prakriti - 93.4 MHz",
@@ -550,19 +260,9 @@
 "url": "http://live.itech.host:8934/stream"
 },
 {
-"name": "Radio Tulsipur FM - 100.2 MHz",
-"logo": "https://dl.dropboxusercontent.com/s/sgeeb3fp54gxglx/radio_station.jpg",
-"url": "http://live.itechnepal.com:9210/stream"
-},
-{
 "name": "BFBS Gurkha Radio - Online",
 "logo": "https://dl.dropboxusercontent.com/s/sgeeb3fp54gxglx/radio_station.jpg",
 "url": "http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs3.mp3"
-},
-{
-"name": "Radio Indreni - 97.5 MHz",
-"logo": "https://dl.dropboxusercontent.com/s/sgeeb3fp54gxglx/radio_station.jpg",
-"url": "http://live.itechnepal.com:8732/stream"
 },
 {
 "name": "Radio Andhikhola - 105.4 MHz",
