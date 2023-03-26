@@ -1,5 +1,11 @@
 [
   {
+    "name": "Svbc Radio",
+    "category": "Religion",
+    "url": "https://radio.mslivecdn.com:6013/stream",
+    "logo": "http://telugu.b-cdn.net/wp-content/uploads/2021/09/SVBC-2-1.webp"
+  },
+  {
     "name": "Ghantasala Hits",
     "category": "Hits Colections",
     "url": "http://stream.zeno.fm/rw9vthhvuikuv ",
