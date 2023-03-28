@@ -4,6 +4,36 @@
 "count_total": 19,
 "pages": 1,
 "posts": [
+ {
+"vid": 35,
+"cat_id": 6,
+"video_title": "News18 Lokmat",
+"video_url": "https://nw18live.cdn.jio.com/bpk-tv/News18_Lokmat_NW18_MOB/output01/News18_Lokmat_NW18_MOB-audio_100034_eng=100000-video=750000.m3u8",
+"video_id": "cda11up",
+"video_thumbnail": "LatestRadio/lok.png",
+"video_duration": 11.02,
+"video_description": "<h1TV9 Marathi</h1>\r\n",
+"video_type": "pic/tv9.png",
+"size": "",
+"total_views": 5607,
+"date_time": "2021-06-15 05:57:33",
+"category_name": "Marathi News"
+},
+  {
+"vid": 35,
+"cat_id": 6,
+"video_title": "Zee Marathi",
+"video_url": "https://d3vy3je10jkn7h.cloudfront.net/out/v1/f610383ba97c47e3b04d2e1593ff8549/index_3.m3u8",
+"video_id": "cda11up",
+"video_thumbnail": "LatestRadio/zee24.png",
+"video_duration": 11.02,
+"video_description": "<h1TV9 Marathi</h1>\r\n",
+"video_type": "pic/tv9.png",
+"size": "",
+"total_views": 5607,
+"date_time": "2021-06-15 05:57:33",
+"category_name": "Marathi News"
+},
   {
 "vid": 35,
 "cat_id": 6,
