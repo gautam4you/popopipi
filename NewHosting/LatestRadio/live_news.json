@@ -7,6 +7,36 @@
  {
 "vid": 35,
 "cat_id": 6,
+"video_title": "V6 News",
+"video_url": "_xtceKvlVYQ",
+"video_id": "cda11up",
+"video_thumbnail": "LatestRadio/24.png",
+"video_duration": 11.02,
+"video_description": "<h1TV9 Marathi</h1>\r\n",
+"video_type": "pic/v6.png",
+"size": "",
+"total_views": 5607,
+"date_time": "2021-06-15 05:57:33",
+"category_name": "Telugu News"
+},
+ {
+"vid": 35,
+"cat_id": 6,
+"video_title": "Sakshi News",
+"video_url": "8McTsOqeueE",
+"video_id": "cda11up",
+"video_thumbnail": "LatestRadio/24.png",
+"video_duration": 11.02,
+"video_description": "<h1TV9 Marathi</h1>\r\n",
+"video_type": "pic/sakshi.png",
+"size": "",
+"total_views": 5607,
+"date_time": "2021-06-15 05:57:33",
+"category_name": "Telugu News"
+},
+ {
+"vid": 35,
+"cat_id": 6,
 "video_title": "ABP Bangla",
 "video_url": "PKwLsAu-z10",
 "video_id": "cda11up",
@@ -242,7 +272,7 @@
 "size": "ADS",
 "total_views": 1688,
 "date_time": "2021-06-15 05:30:52",
-"category_name": "Marathi News"
+"category_name": "Telugu News"
 },
 {
 "vid": 15,
