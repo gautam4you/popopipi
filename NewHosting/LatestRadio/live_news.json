@@ -7,6 +7,21 @@
  {
 "vid": 35,
 "cat_id": 6,
+"video_title": "T News",
+"video_url": "nkq4s4k3--k",
+"video_id": "cda11up",
+"video_thumbnail": "LatestRadio/24.png",
+"video_duration": 11.02,
+"video_description": "<h1TV9 Marathi</h1>\r\n",
+"video_type": "pic/tnews.png",
+"size": "",
+"total_views": 5607,
+"date_time": "2021-06-15 05:57:33",
+"category_name": "Telugu News"
+},
+ {
+"vid": 35,
+"cat_id": 6,
 "video_title": "V6 News",
 "video_url": "_xtceKvlVYQ",
 "video_id": "cda11up",
@@ -603,6 +618,21 @@
 "total_views": 1688,
 "date_time": "2021-06-15 05:30:52",
 "category_name": "Marathi News"
+},
+ {
+"vid": 35,
+"cat_id": 6,
+"video_title": "Sai TV",
+"video_url": "0e_E4S7k1VI",
+"video_id": "cda11up",
+"video_thumbnail": "LatestRadio/24.png",
+"video_duration": 11.02,
+"video_description": "<h1TV9 Marathi</h1>\r\n",
+"video_type": "pic/sai.png",
+"size": "",
+"total_views": 5607,
+"date_time": "2021-06-15 05:57:33",
+"category_name": "Telugu News"
 }
 ]
 }
