@@ -1,56 +1,50 @@
-﻿[{
-		"name": "Akbar Birbal",
-		"name_h": "4KSF4KSV4KSs4KSwIOCkrOClgOCksOCkrOCksg==",
-		"url": "story/akbarbirbal.json",
-		"pub": "04-05-2019",
-                 "rent": "free",
-		"image": "story/akbar.jpg"
-
-	},
-{
-		"name": "Munsi Premchandra",
-		"name_h": "4KSu4KWB4KSC4KS24KWAIOCkquCljeCksOClh+CkruCkmuCkguCkpg==",
-		"url": "story/munshi.json",
-		"pub": "04-05-2019",
-                "rent": "free",
-		"image": "https://miro.medium.com/max/2800/1*gZPjFicI5v9Miqpoz7Q2iA.jpeg"
-
-	},
-{
-		"name": "Tenali Raman",
-		"name_h": "4KSk4KWH4KSo4KS+4KSy4KWA4KSw4KS+4KSu",
-		"url": "story/tenali/cat.json",
-		"pub": "04-05-2019",
-                 "rent": "free",
-		"image": "https://www.achhikhabar.com/wp-content/uploads/2016/04/Tenaliram-stories-in-Hindi-%E0%A4%A4%E0%A5%87%E0%A4%A8%E0%A4%BE%E0%A4%B2%E0%A5%80%E0%A4%B0%E0%A4%BE%E0%A4%AE.jpg?x66484"
-
-	},
-{
-		"name": "Love Story",
-		"name_h": "4KSq4KWN4KSw4KWH4KSu4KSV4KSl4KS+",
-		"url": "story/lovestory/love_cat.json",
-		"pub": "04-05-2019",
-                 "rent": "paid",
-		"image": "pic/love.png"
-
-	},
-{
-		"name": "Horror Story",
-		"name_h": "SG9ycm9yIFN0b3J5",
-		"url": "story/Horror/horror_cat.json",
-		"pub": "04-05-2019",
-                 "rent": "paid",
-		"image": "pic/horror.jpg"
-
-	},
-
-   {
-		"name": "Wo Sawali Si Ladki",
-		"name_h": "4KS14KS5IOCkuOCkvuCkgeCkteCksuClgCDgpLLgpZzgpJXgpYA=",
-		"url": "story/EkSawalisiladki/ekswli_cat.json",
-		"pub": "04-05-2019",
-                 "rent": "paid",
-		"image": "https://www.pustak.org/images/products/7186Vah-Sanwli-Ladki_m.jpg"
-
-	}
+﻿[
+  {
+    "name": "Akbar Birbal",
+    "name_h": "4KSF4KSV4KSs4KSwIOCkrOClgOCksOCkrOCksg==",
+    "url": "story/akbarbirbal.json",
+    "pub": "04-05-2019",
+    "rent": "free",
+    "image": "story/akbar.jpg"
+  },
+  {
+    "name": "Munsi Premchandra",
+    "name_h": "4KSu4KWB4KSC4KS24KWAIOCkquCljeCksOClh+CkruCkmuCkguCkpg==",
+    "url": "story/munshi.json",
+    "pub": "04-05-2019",
+    "rent": "free",
+    "image": "https://miro.medium.com/max/2800/1*gZPjFicI5v9Miqpoz7Q2iA.jpeg"
+  },
+  {
+    "name": "Tenali Raman",
+    "name_h": "4KSk4KWH4KSo4KS+4KSy4KWA4KSw4KS+4KSu",
+    "url": "story/tenali/cat.json",
+    "pub": "04-05-2019",
+    "rent": "free",
+    "image": "https://www.achhikhabar.com/wp-content/uploads/2016/04/Tenaliram-stories-in-Hindi-%E0%A4%A4%E0%A5%87%E0%A4%A8%E0%A4%BE%E0%A4%B2%E0%A5%80%E0%A4%B0%E0%A4%BE%E0%A4%AE.jpg?x66484"
+  },
+  {
+    "name": "Love Story",
+    "name_h": "4KSq4KWN4KSw4KWH4KSu4KSV4KSl4KS+",
+    "url": "story/lovestory/love_cat.json",
+    "pub": "04-05-2019",
+    "rent": "paid",
+    "image": "pic/love.png"
+  },
+  {
+    "name": "Horror Story",
+    "name_h": "SG9ycm9yIFN0b3J5",
+    "url": "story/Horror/horror_cat.json",
+    "pub": "04-05-2019",
+    "rent": "paid",
+    "image": "pic/horror.jpg"
+  },
+  {
+    "name": "Wo Sawali Si Ladki",
+    "name_h": "4KS14KS5IOCkuOCkvuCkgeCkteCksuClgCDgpLLgpZzgpJXgpYA=",
+    "url": "story/EkSawalisiladki/ekswli_cat.json",
+    "pub": "04-05-2019",
+    "rent": "paid",
+    "image": "https://www.pustak.org/images/products/7186Vah-Sanwli-Ladki_m.jpg"
+  }
 ]
