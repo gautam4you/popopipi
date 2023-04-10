@@ -1,0 +1,236 @@
+{
+	"active": true,
+	"ads": {
+		"active": true,
+		"bannerAdsUnite": "243701613837791_243705073837445",
+		"fullAdsUnite": "243701613837791_243705300504089",
+		"rewardVideosAdsUnite": "243701613837791_243705833837369",
+		"adsAppId": "243701613837791_243706073837345"
+	},
+	"ytKey": "AIzaSyB_YoT1sMzMbknZDFYXammOqi8LAu7tPpk",
+	"GridSize": 2,
+	"HomeVideosList": [{
+			"videosListId": "topbanner.json",
+			"type": "YP",
+			"extraLink": "",
+		 "isLive": true,
+			"title": "Breaking",
+			"moreButton": true
+		},
+		{
+			"videosListId": "jai_ganga_maiya_01.json",
+			"type": "DM",
+			 "isLive": false,
+			"extraLink": "",
+			"title": "Jai Ganga Maiya-Episode 1 to 50",
+			"moreButton": true
+		},
+           {
+			"videosListId": "jai_ganga_maiya_02.json",
+			"type": "DM",
+			 "isLive": false,
+			"extraLink": "",
+			"title": "Jai Ganga Maiya-Episode 51 to 104",
+			"moreButton": true
+		},
+               {
+			"videosListId": "sponcered.json",
+			"type": "ADS-NATIVE",
+			"extraLink": "",
+                        "isLive": false,
+			"title": "Ads. Suggested for you",
+			"moreButton": false
+		},
+			   {
+			"videosListId": "harishchandra.json",
+			"type": "YP",
+			"extraLink": "",
+				    "isLive": false,
+			"title": "Raja Harishchandra",
+			"moreButton": true
+		},
+			   {
+			"videosListId": "sponcered.json",
+			"type": "ADS-REC-BANNER",
+			"extraLink": "",
+                        "isLive": false,
+			"title": "Ads. Suggested for you",
+			"moreButton": true
+		},
+			   {
+			"videosListId": "shivpuran.json",
+			"type": "DM",
+			"extraLink": "",
+				    "isLive": false,
+			"title": "Shiv Puran",
+			"moreButton": true
+		},
+			{
+			"videosListId": "bhojpuri_movie.json",
+			"type": "YP",
+			"extraLink": "",
+				 "isLive": false,
+			"title": "Bhpjpuri Movies",
+			"moreButton": true
+		},
+			    {
+			"videosListId": "sponcered.json",
+			"type": "SP",
+			"extraLink": "",
+				     "isLive": false,
+			"title": "Ads. Suggested for you",
+			"moreButton": false
+		},
+			{
+			"videosListId": "bhojpuri_doubed.json",
+			"type": "YP",
+			"extraLink": "",
+				 "isLive": false,
+			"title": "Bhojpuri Dubbed Movies",
+			"moreButton": true
+		},
+			{
+			"videosListId": "bhojpuri_horror.json",
+			"type": "YP",
+			"extraLink": "",
+				 "isLive": false,
+			"title": "Horror movies",
+			"moreButton": true
+		},
+		
+		 
+			{
+			"videosListId": "sponcered.json",
+			"type": "ADS-REC-BANNER",
+			"extraLink": "",
+                        "isLive": false,
+			"title": "Ads. Suggested for you",
+			"moreButton": false
+		}
+	],
+	"ExtraHomeVideosList": [
+		  {
+			"videosListId": "old_bhojpuri.json",
+			"type": "YP",
+			"extraLink": "",
+                        "isLive": false,
+			"title": "Old Bhojpuri songs",
+			"moreButton": true
+		} ,
+		  {
+			"videosListId": "amrapali.json",
+			"type": "YP",
+			"extraLink": "",
+                        "isLive": false,
+			"title": "Amrapali Dubey(आम्रपाली दुबे)",
+			"moreButton": true
+		} ,
+		   {
+			"videosListId": "sponcered.json",
+			"type": "ADS-NATIVE",
+			"extraLink": "",
+                        "isLive": false,
+			"title": "Ads. Suggested for you",
+			"moreButton": false
+		},
+		  {
+			"videosListId": "akshara_singh.json",
+			"type": "YP",
+			"extraLink": "",
+                        "isLive": false,
+			"title": "Akshara Singh(अक्षरा सिंह)",
+			"moreButton": true
+		} ,  {
+			"videosListId": "sneha_pandey.json",
+			"type": "YP",
+			"extraLink": "",
+                        "isLive": false,
+			"title": "Sneha Pandey(स्नेहा पांडेय)",
+			"moreButton": true
+		} ,
+		{
+			"videosListId": "rani_chattaergy.json",
+			"type": "YP",
+			"extraLink": "",
+                        "isLive": false,
+			"title": "Rani Chatterjee(रानी चटर्जी)",
+			"moreButton": true
+		} ,
+		   {
+			"videosListId": "sponcered.json",
+			"type": "ADS-NATIVE",
+			"extraLink": "",
+                        "isLive": false,
+			"title": "Ads. Suggested for you",
+			"moreButton": false
+		},
+		{
+			"videosListId": "monalisa.json",
+			"type": "YP",
+			"extraLink": "",
+                        "isLive": false,
+			"title": "Monalisa(मोना लीसा)",
+			"moreButton": true
+		} ,
+		{
+			"videosListId": "anjana_singh.json",
+			"type": "YP",
+			"extraLink": "",
+                        "isLive": false,
+			"title": "Anjana Singh(अंजना सिंहा)",
+			"moreButton": true
+		} ,
+		{
+			"videosListId": "yamini_singh.json",
+			"type": "YP",
+			"extraLink": "",
+                        "isLive": false,
+			"title": "Yamini Singh(यामिनी सिंहा)",
+			"moreButton": true
+		} ,
+		   {
+			"videosListId": "sponcered.json",
+			"type": "ADS-NATIVE",
+			"extraLink": "",
+                        "isLive": false,
+			"title": "Ads. Suggested for you",
+			"moreButton": false
+		},
+		  {
+			"videosListId": "kajal_raghwani.json",
+			"type": "YP",
+			"extraLink": "",
+                        "isLive": false,
+			"title": "Kajal Raghwani(काजल राघवानी)",
+			"moreButton": true
+		} ,
+		{
+			"videosListId": "sponcered.json",
+			"type": "ADS-BANNER",
+			"extraLink": "",
+                        "isLive": false,
+			"title": "Ads. Suggested for you",
+			"moreButton": true
+		},
+		 {
+			"videosListId": "ritesh_pandey.json",
+			"type": "YP",
+			"extraLink": "",
+                        "isLive": false,
+			"title": "Ritesh Pandey(रितेश पांडेी)",
+			"moreButton": true
+		} ,
+	     {
+			"videosListId": "app-ad.json",
+			"imgUrl": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/notification_latest_radio.png",
+			"type": "APP-AD",
+			"extraLink": "https://play.google.com/store/apps/details?id=com.app.hindiradionews",
+                        "isLive": false,
+			"title": "",
+			"moreButton": true
+		}
+			
+             
+		
+	]
+}
