@@ -20,7 +20,7 @@
 		{
 			"videosListId": "jai_ganga_maiya_01.json",
 			"type": "DM",
-			 "isLive": false,
+			 "isLive": true,
 			"extraLink": "",
 			"title": "Jai Ganga Maiya-Episode 1 to 50",
 			"moreButton": true
@@ -28,7 +28,7 @@
            {
 			"videosListId": "jai_ganga_maiya_02.json",
 			"type": "DM",
-			 "isLive": false,
+			 "isLive": true,
 			"extraLink": "",
 			"title": "Jai Ganga Maiya-Episode 51 to 104",
 			"moreButton": true
@@ -37,7 +37,7 @@
 			"videosListId": "sponcered.json",
 			"type": "ADS-NATIVE",
 			"extraLink": "",
-                        "isLive": false,
+                        "isLive": true,
 			"title": "Ads. Suggested for you",
 			"moreButton": false
 		},
@@ -45,7 +45,7 @@
 			"videosListId": "harishchandra.json",
 			"type": "YP",
 			"extraLink": "",
-				    "isLive": false,
+				    "isLive": true,
 			"title": "Raja Harishchandra",
 			"moreButton": true
 		},
@@ -61,7 +61,7 @@
 			"videosListId": "shivpuran.json",
 			"type": "DM",
 			"extraLink": "",
-				    "isLive": false,
+				    "isLive": true,
 			"title": "Shiv Puran",
 			"moreButton": true
 		},
@@ -77,7 +77,7 @@
 			"videosListId": "sponcered.json",
 			"type": "SP",
 			"extraLink": "",
-				     "isLive": false,
+				     "isLive": true,
 			"title": "Ads. Suggested for you",
 			"moreButton": false
 		},

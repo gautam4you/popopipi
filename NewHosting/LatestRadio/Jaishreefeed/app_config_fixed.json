@@ -1,0 +1,168 @@
+{
+	"active": true,
+	"ads": {
+		"active": true,
+		"bannerAdsUnite": "ca-app-pub-6533269161423177/8572363703",
+		"fullAdsUnite": "ca-app-pub-6533269161423177~4462809873",
+		"rewardVideosAdsUnite": "ca-app-pub-6533269161423177/7997648631",
+		"adsAppId": "ca-app-pub-6533269161423177~4462809873"
+	},
+	"ytKey": "AIzaSyATjnGM3cOyLdrTdFtmQLS-XO0ywJjcCnI",
+	"GridSize": 2,
+	"HomeVideosList": [{
+			"videosListId": "neha_banner.json",
+			"type": "YP",
+			"extraLink": "",
+                         "isLive": true,
+			"title": "Breaking",
+			"moreButton": true
+		},
+                {
+			"videosListId": "jaishree_interview.json",
+			"type": "YP",
+			"extraLink": "",
+                        "isLive": true,
+			"title": "Interview Videos",
+			"moreButton": true
+		},
+		{
+			"videosListId": "jaishree_stage.json",
+			"type": "YP",
+			"extraLink": "",
+                        "isLive": true,
+			"title": "Stage Videos",
+			"moreButton": true
+		},
+{
+			"videosListId": "jaishreekrishna-dailymotion01.json",
+			"type": "DM",
+			"extraLink": "",
+                        "isLive": true,
+			"title": "Episode 1 to 50",
+			"moreButton": true
+		},
+{
+			"videosListId": "jaishreekrishna-dailymotion02.json",
+			"type": "DM",
+			"extraLink": "",
+                        "isLive": true,
+			"title": "Episode 51 to 100",
+			"moreButton": true
+		},
+			      {
+			"videosListId": "sponcered.json",
+			"type": "SP",
+			"extraLink": "",
+                        "isLive": true,
+			"title": "Ads. Suggested for you",
+			"moreButton": false
+		} ,
+{
+			"videosListId": "jaishreekrishna-dailymotion03.json",
+			"type": "DM",
+			"extraLink": "",
+                        "isLive": true,
+			"title": "Episode 101 to 250",
+			"moreButton": true
+		},
+			   {
+			"videosListId": "jaishreekrishna-dailymotion04.json",
+			"type": "DM",
+			"extraLink": "",
+                        "isLive": true,
+			"title": "Episode 251 to 350",
+			"moreButton": true
+		},
+			   
+			   {
+			"videosListId": "jaishreekrishna-dailymotion05.json",
+			"type": "DM",
+			"extraLink": "",
+                        "isLive": true,
+			"title": "Episode 351 to 375",
+			"moreButton": true
+		},
+			   	   {
+			"videosListId": "jaishreekrishna-dailymotion06.json",
+			"type": "DM",
+			"extraLink": "",
+                        "isLive": true,
+			"title": "Episode 376 to 400",
+			"moreButton": true
+		},
+			      {
+			"videosListId": "jaishreekrishna-dailymotion07.json",
+			"type": "DM",
+			"extraLink": "",
+                        "isLive": true,
+			"title": "Episode 401 to 422",
+			"moreButton": true
+		},   {
+			"videosListId": "KRISHNA_BHAKTA_SUDAMA.json",
+			"type": "DM",
+			"extraLink": "",
+                        "isLive": true,
+			"title": "Krishna Bhakt Sudama-Movie",
+			"moreButton": true
+		}, {
+			"videosListId": "Krishna_Krishna.json",
+			"type": "DM",
+			"extraLink": "",
+                        "isLive": true,
+			"title": "Krishna Krishna-Movie",
+			"moreButton": true
+		},{
+			"videosListId": "Krishna _Tere _Desh_Mein.json",
+			"type": "DM",
+			"extraLink": "",
+                        "isLive": true,
+			"title": "Krishna Tere Desh Mein-Movie",
+			"moreButton": true
+		},
+	
+			
+			{
+			"videosListId": "hindi_radio.json",
+			"type": "RD",
+			"extraLink": "",
+                        "isLive": true,
+			"title": "Live Radio ",
+			"moreButton": true
+		}    
+	],
+	"ExtraHomeVideosList": [{
+			"videosListId": "jaishreekrishna-dailymotion02.json",
+			"type": "DM",
+			"extraLink": "",
+                        "isLive": false,
+			"title": "Episode 51 to 100",
+			"moreButton": true
+		},
+	       {
+			"videosListId": "sponcered.json",
+			"type": "SP",
+			"extraLink": "",
+                        "isLive": false,
+			"title": "Ads. Suggested for you",
+			"moreButton": false
+		} ,
+				{
+			"videosListId": "app-ad.json",
+			"imgUrl": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/notification_latest_radio.png",
+			"type": "APP-AD",
+			"extraLink": "https://play.google.com/store/apps/details?id=com.app.hindiradionews",
+                        "isLive": false,
+			"title": "",
+			"moreButton": true
+		},
+				{
+			"videosListId": "jaishree_stage.json",
+			"type": "YP",
+			"extraLink": "",
+                        "isLive": false,
+			"title": "Stage Videos",
+			"moreButton": true
+		} 
+			
+	]
+}

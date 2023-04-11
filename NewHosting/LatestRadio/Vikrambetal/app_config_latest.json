@@ -1,0 +1,70 @@
+﻿{
+	"active": true,
+	"ads": {
+		"active": true,
+		"bannerAdsUnite": "687110051955053_687110425288349",
+		"fullAdsUnite": "687110051955053_687110861954972",
+		"rewardVideosAdsUnite": "687110051955053_687112255288166",
+		"adsAppId": "687110051955053_687112521954806"
+	},
+	"ytKey": "AIzaSyB_YoT1sMzMbknZDFYXammOqi8LAu7tPpk",
+	"GridSize": 2,
+	"HomeVideosList": [{
+			"videosListId": "Banner_top.json",
+			"type": "YP",
+			"extraLink": "",
+		 "isLive": true,
+			"title": "Breaking",
+			"moreButton": true
+		},
+           {
+			"videosListId": "sponcered.json",
+			"type": "ADS-NATIVE",
+			"extraLink": "",
+                        "isLive": false,
+			"title": "Ads. Suggested for you",
+			"moreButton": true
+		},
+		{
+			"videosListId": "vikrambetaal01.json",
+			"type": "DM",
+			 "isLive": false,
+			"extraLink": "",
+			"title": "Episode 1 to 10",
+			"moreButton": true
+		},
+            
+			   {
+			"videosListId": "vikrambetaal02.json",
+			"type": "DM",
+			"extraLink": "",
+				    "isLive": false,
+			"title": "Episode 11 to 20",
+			"moreButton": true
+		},
+			 
+			   {
+			"videosListId": "vikrambetaal03.json",
+			"type": "DM",
+			"extraLink": "",
+				    "isLive": false,
+			"title": "Episode 21 to 26",
+			"moreButton": true
+		},
+	
+			    {
+			"videosListId": "sponcered.json",
+			"type": "SP",
+			"extraLink": "",
+				     "isLive": false,
+			"title": "Ads. Suggested for you",
+			"moreButton": false
+		}
+        
+	],
+	"ExtraHomeVideosList": [
+			
+             
+		
+	]
+}

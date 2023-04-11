@@ -648,6 +648,21 @@
 "total_views": 5607,
 "date_time": "2021-06-15 05:57:33",
 "category_name": "Telugu News"
+},
+ {
+"vid": 35,
+"cat_id": 6,
+"video_title": "Zee News Telugu",
+"video_url": "https://d8ba55t6wa9p9.cloudfront.net/out/v1/1abef7be5629479a91eeb77e41701f86/index_2.m3u8",
+"video_id": "cda11up",
+"video_thumbnail": "LatestRadio/24.png",
+"video_duration": 11.02,
+"video_description": "<h1TV9 Marathi</h1>\r\n",
+"video_type": "pic/zeenews.png",
+"size": "",
+"total_views": 5607,
+"date_time": "2021-06-15 05:57:33",
+"category_name": "Telugu News"
 }
 ]
 }

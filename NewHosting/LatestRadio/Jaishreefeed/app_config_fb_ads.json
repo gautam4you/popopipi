@@ -1,0 +1,137 @@
+﻿{
+"active": true,
+"ads": {
+"active": true,
+"bannerAdsUnite": "794353377787880_7943548844543961",
+"fullAdsUnite": "794353377787880_7943556344543211",
+"rewardVideosAdsUnite": "794353377787880_7943560144542831",
+"adsAppId": "794353377787880_7944097344489111"
+},
+"ytKey": "AIzaSyB_YoT1sMzMbknZDFYXammOqi8LAu7tPpk",
+"GridSize": 2,
+"HomeVideosList": [
+{
+"videosListId": "neha_banner.json",
+"type": "YP",
+"extraLink": "",
+"isLive": true,
+"title": "Breaking",
+"moreButton": true
+},
+{
+"videosListId": "jaishree_interview.json",
+"type": "YP",
+"isLive": true,
+"extraLink": "",
+"title": "Interview Videos",
+"moreButton": true
+},
+{
+"videosListId": "sponcered.json",
+"type": "ADS-NATIVE",
+"extraLink": "",
+"isLive": true,
+"title": "Ads. Suggested for you",
+"moreButton": false
+},
+{
+"videosListId": "jaishree_stage.json",
+"type": "YP",
+"extraLink": "",
+"isLive": true,
+"title": "Stage Videos",
+"moreButton": true
+},
+{
+"videosListId": "jaishreekrishna-dailymotion01.json",
+"type": "DM",
+"extraLink": "",
+"isLive": false,
+"title": "Episode 1 to 50",
+"moreButton": false
+},
+{
+"videosListId": "jaishreekrishna-dailymotion02.json",
+"type": "DM",
+"extraLink": "",
+"isLive": false,
+"title": "Episode 51 to 100",
+"moreButton": false
+},
+{
+"videosListId": "sponcered.json",
+"type": "SP",
+"extraLink": "",
+"isLive": true,
+"title": "Ads. Suggested for you",
+"moreButton": false
+},
+{
+"videosListId": "jaishreekrishna-dailymotion03.json",
+"type": "DM",
+"extraLink": "",
+"isLive": false,
+"title": "Episode 101 to 250",
+"moreButton": false
+},
+{
+"videosListId": "jaishreekrishna-dailymotion04.json",
+"type": "DM",
+"extraLink": "",
+"isLive": false,
+"title": "Episode 251 to 350",
+"moreButton": false
+},
+{
+"videosListId": "sponcered.json",
+"type": "ADS-REC-BANNER",
+"extraLink": "",
+"isLive": true,
+"title": "Ads. Suggested for you",
+"moreButton": false
+}
+],
+"ExtraHomeVideosList": [
+{
+"videosListId": "jaishreekrishna-dailymotion05.json",
+"type": "DM",
+"extraLink": "",
+"isLive": false,
+"title": "Episode 351 to 375",
+"moreButton": false
+},
+{
+"videosListId": "jaishreekrishna-dailymotion06.json",
+"type": "DM",
+"extraLink": "",
+"isLive": false,
+"title": "Episode 376 to 400",
+"moreButton": false
+},
+{
+"videosListId": "sponcered.json",
+"type": "ADS-NATIVE",
+"extraLink": "",
+"isLive": true,
+"title": "Ads. Suggested for you",
+"moreButton": false
+},
+{
+"videosListId": "jaishreekrishna-dailymotion07.json",
+"type": "DM",
+"extraLink": "",
+"isLive": false,
+"title": "Episode 401 to 422",
+"moreButton": false
+},
+{
+"videosListId": "app-ad.json",
+"imgUrl": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/notification_latest_radio.png",
+"type": "APP-AD",
+"extraLink": "https://play.google.com/store/apps/details?id=com.app.hindiradionews",
+"isLive": false,
+"title": "",
+"moreButton": true
+}
+]
+}
