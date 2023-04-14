@@ -663,6 +663,36 @@
 "total_views": 5607,
 "date_time": "2021-06-15 05:57:33",
 "category_name": "Telugu News"
+},
+ {
+"vid": 35,
+"cat_id": 6,
+"video_title": "SVBC",
+"video_url": "http://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/chunks.m3u8",
+"video_id": "cda11up",
+"video_thumbnail": "LatestRadio/24.png",
+"video_duration": 11.02,
+"video_description": "<h1TV9 Marathi</h1>\r\n",
+"video_type": "pic/svbc.png",
+"size": "",
+"total_views": 5607,
+"date_time": "2021-06-15 05:57:33",
+"category_name": "Telugu News"
+},
+ {
+"vid": 35,
+"cat_id": 6,
+"video_title": "NTV",
+"video_url": "_kPE2uUR8SI",
+"video_id": "cda11up",
+"video_thumbnail": "LatestRadio/24.png",
+"video_duration": 11.02,
+"video_description": "<h1TV9 Marathi</h1>\r\n",
+"video_type": "pic/ntv.png",
+"size": "",
+"total_views": 5607,
+"date_time": "2021-06-15 05:57:33",
+"category_name": "Telugu News"
 }
 ]
 }
