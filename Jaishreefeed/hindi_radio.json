@@ -2,239 +2,239 @@
 	"active": true,
 	"RadioList":[
 	 {
-    "category": "Artist Radios",
-    "logo": "http://hindiradioapp.com/images/aziz.webp",
+    "cat": "Artist Radios",
+    "image": "http://hindiradioapp.com/images/aziz.webp",
     "name": "Mohammed Aziz Radio",
     "url": "http://stream.zeno.fm/p5ny63td1d0uv"
   },
  {
-    "category": "Artist Radios",
-    "logo": "http://hindiradioapp.com/images/rdburmanradio.jpg",
+    "cat": "Artist Radios",
+    "image": "http://hindiradioapp.com/images/rdburmanradio.jpg",
     "name": "RD Burman Radio",
     "url": "http://stream.zeno.fm/h9vqwpmcbkhvv"
   },
 	{
 "name": "Sonu nigam",
 "url": "http://drive.uber.radio/uber/bollywoodsonunigam/icecast.audio",
-"logo": "https://cdn.citatis.com/img/a/14/21204.v8.jpg",
-"category": "Artist Radios"
+"image": "https://cdn.citatis.com/img/a/14/21204.v8.jpg",
+"cat": "Artist Radios"
 },
 	{
 "name": "Atif aslam",
 "url": "https://drive.uber.radio/uber/bollywoodatifaslam/icecast.audio",
-"logo": "https://www.filmibeat.com/img/popcorn/profile_photos/atif-aslam-774.jpg",
-"category": "Artist Radios"
+"image": "https://www.filmibeat.com/img/popcorn/profile_photos/atif-aslam-774.jpg",
+"cat": "Artist Radios"
 },
 	{
 "name": "Honey Singh",
 "url": "https://drive.uber.radio/uber/bollywoodyoyohoneysingh/icecast.audio",
-"logo": "https://images.8tracks.com/cover/i/000/495/332/honey-singh-2436.jpg",
-"category": "Artist Radios"
+"image": "https://images.8tracks.com/cover/i/000/495/332/honey-singh-2436.jpg",
+"cat": "Artist Radios"
 },{
 "name": "Sunidhi chauhan",
 "url": "https://drive.uber.radio/uber/bollywoodsunidhichauhan/icecast.audio",
-"logo": "https://i1.sndcdn.com/artworks-000028560363-e4h5bw-t500x500.jpg",
-"category": "Artist Radios"
+"image": "https://i1.sndcdn.com/artworks-000028560363-e4h5bw-t500x500.jpg",
+"cat": "Artist Radios"
 },
 	{
 "name": "Nusrat Fateh Ali Khan",
 "url": "http://radio.esplservers.com:8579/stream",
-"logo": "http://shortfilmsite.com/images/nusratfatehalikhan.jpg",
-"category": "Artist Radios"
+"image": "http://shortfilmsite.com/images/nusratfatehalikhan.jpg",
+"cat": "Artist Radios"
 },{
 "name": "AR Rahman Radio",
 "url": "http://207.180.250.105:8030/stream",
-"logo": "http://shortfilmsite.com/images/arrahman.jpg",
-"category": "Artist Radios"
+"image": "http://shortfilmsite.com/images/arrahman.jpg",
+"cat": "Artist Radios"
 },{
 "name": "Dj Upendra RaX",
-"category": "Artist Radios",
+"cat": "Artist Radios",
 "url": "http://ample-zeno-10.radiojar.com/e8456c0619duv?rj-ttl=4&rj-token=AAABZC3iS9TEv3R-2oaMSUFPPB_4jWogyo297T3ZJlP7hgKoJmHHEQ",
-"logo": "http://hindiradioapp.com/images/djupendrarax.jpg"
+"image": "http://hindiradioapp.com/images/djupendrarax.jpg"
 },
 {
 "name": "Amit Trivedi",
-"category": "Artist Radios",
+"cat": "Artist Radios",
 "url": "http://drive.uber.radio/uber/bollywoodamittrivedi/icecast.audio",
-"logo": "http://hindiradioapp.com/images/amit.jpg"
+"image": "http://hindiradioapp.com/images/amit.jpg"
 },
 {
 "name": "Mukesh Radio",
-"category": "Artist Radios",
+"cat": "Artist Radios",
 "url": "http://stream.zeno.fm/btfpgcd3kg8uv",
-"logo": "http://hindiradioapp.com/images/mukeshradio.jpg"
+"image": "http://hindiradioapp.com/images/mukeshradio.jpg"
 },
 {
 "name": "Armaan Malik",
-"category": "Artist Radios",
+"cat": "Artist Radios",
 "url": "http://drive.uber.radio/uber/bollywoodarmaanmalik/icecast.audio",
-"logo": "http://hindiradioapp.com/images/armaan.jpg"
+"image": "http://hindiradioapp.com/images/armaan.jpg"
 },
 {
 "name": "Udit Narayan Hits",
-"category": "Artist Radios",
+"cat": "Artist Radios",
 "url": "http://drive.uber.radio/uber/bollywooduditnarayan/icecast.audio",
-"logo": "http://hindiradioapp.com/images/uditnarayan.jpg"
+"image": "http://hindiradioapp.com/images/uditnarayan.jpg"
 },
 {
 "name": "Nusrat Fateh Ali Khan",
-"category": "Artist Radios",
+"cat": "Artist Radios",
 "url": "http://radio.esplservers.com:8579/stream",
-"logo": "http://hindiradioapp.com/images/nusratfatehalikhan.jpg"
+"image": "http://hindiradioapp.com/images/nusratfatehalikhan.jpg"
 },
 {
 "name": "Asha Bhosle Radio",
-"category": "Artist Radios",
+"cat": "Artist Radios",
 "url": "http://stream.zenolive.com/55dqsbewxwzuv",
-"logo": "http://hindiradioapp.com/images/ashabhosleradio.jpg"
+"image": "http://hindiradioapp.com/images/ashabhosleradio.jpg"
 },
 {
 "name": "Alka Yagnik",
-"category": "Artist Radios",
+"cat": "Artist Radios",
 "url": "http://drive.uber.radio/uber/bollywoodalkayagnik/icecast.audio",
-"logo": "http://hindiradioapp.com/images/alka.jpg"
+"image": "http://hindiradioapp.com/images/alka.jpg"
 },
 {
 "name": "Pritam Radio",
-"category": "Artist Radios",
+"cat": "Artist Radios",
 "url": "https://drive.uber.radio/uber/bollywoodpritam/icecast.audio",
-"logo": "http://hindiradioapp.com/images/pritam.jpg"
+"image": "http://hindiradioapp.com/images/pritam.jpg"
 },
 {
 "name": "Vishal & Shekhar",
-"category": "Artist Radios",
+"cat": "Artist Radios",
 "url": "https://drive.uber.radio/uber/bollywoodvishalandshekhar/icecast.audio",
-"logo": "http://hindiradioapp.com/images/vishalshekar.jpg"
+"image": "http://hindiradioapp.com/images/vishalshekar.jpg"
 },
 {
 "name": "Mohammed Aziz Radio",
-"category": "Artist Radios",
+"cat": "Artist Radios",
 "url": "http://stream.zenolive.com/p5ny63td1d0uv",
-"logo": "http://hindiradioapp.com/images/aziz.jpg"
+"image": "http://hindiradioapp.com/images/aziz.jpg"
 },
 {
 "name": "Arjit Singh Radio",
-"category": "Artist Radios",
+"cat": "Artist Radios",
 "url": "https://drive.uber.radio/uber/bollywoodaruitsingh/icecast.audio",
-"logo": "http://hindiradioapp.com/images/arjitsinghradio.jpg"
+"image": "http://hindiradioapp.com/images/arjitsinghradio.jpg"
 },
 {
 "name": "Neha Kakkar",
-"category": "Artist Radios",
+"cat": "Artist Radios",
 "url": "http://drive.uber.radio/uber/bollywoodneharkakkar/icecast.audio",
-"logo": "http://hindiradioapp.com/images/neka.jpg"
+"image": "http://hindiradioapp.com/images/neka.jpg"
 },
 {
 "name": "SRK Radio",
-"category": "Artist Radios",
+"cat": "Artist Radios",
 "url": "https://drive.uber.radio/uber/bollywoodshahrukhkhan/icecast.audio",
-"logo": "http://hindiradioapp.com/images/radiosrk.jpg"
+"image": "http://hindiradioapp.com/images/radiosrk.jpg"
 },
 {
 "name": "Shreya Ghosal",
-"category": "Artist Radios",
+"cat": "Artist Radios",
 "url": "https://drive.uber.radio/uber/bollywoodshreyaghosal/icecast.audio",
-"logo": "http://hindiradioapp.com/images/shreyaghosal.jpg"
+"image": "http://hindiradioapp.com/images/shreyaghosal.jpg"
 },
 {
 "name": "Karan Aujla",
-"category": "Artist Radios",
+"cat": "Artist Radios",
 "url": "http://stream.zenolive.com/c3pvhyxchrruv",
-"logo": "http://hindiradioapp.com/images/karanaujla.jpg"
+"image": "http://hindiradioapp.com/images/karanaujla.jpg"
 },
 {
 "name": "Neha Kakkar",
-"category": "Artist Radios",
+"cat": "Artist Radios",
 "url": "http://stream.zenolive.com/bh3dndmsxd0uv",
-"logo": "http://hindiradioapp.com/images/nehakakkar.jpg"
+"image": "http://hindiradioapp.com/images/nehakakkar.jpg"
 },
 {
 "name": "Kumar Sanu Radio",
-"category": "Artist Radios",
+"cat": "Artist Radios",
 "url": "http://stream.zenolive.com/602qmg5ts0quv",
-"logo": "http://hindiradioapp.com/images/kumarsanu.jpg"
+"image": "http://hindiradioapp.com/images/kumarsanu.jpg"
 },
 {
 "name": "Nooran Sisters",
-"category": "Artist Radios",
+"cat": "Artist Radios",
 "url": "http://radio.esplservers.com:8648/stream",
-"logo": "http://hindiradioapp.com/images/nooransisters.jpg"
+"image": "http://hindiradioapp.com/images/nooransisters.jpg"
 },
 {
 "name": "Kishore Kumar Hits",
-"category": "Artist Radios",
+"cat": "Artist Radios",
 "url": "http://stream.zenolive.com/0ghtfp8ztm0uv",
-"logo": "http://hindiradioapp.com/images/kishorekumarradio.jpg"
+"image": "http://hindiradioapp.com/images/kishorekumarradio.jpg"
 },
 {
 "name": "Mohammed Rafi",
-"category": "Artist Radios",
+"cat": "Artist Radios",
 "url": "https://stream.zeno.fm/2xx62x8ztm0uv",
-"logo": "http://hindiradioapp.com/images/mohammedrafiradio.jpg"
+"image": "http://hindiradioapp.com/images/mohammedrafiradio.jpg"
 },
 {
 "name": "Sanjay desh pande",
-"category": "Artist Radios",
+"cat": "Artist Radios",
 "url": "http://sirius.shoutca.st:8608/;",
-"logo": "http://hindiradioapp.com/images/sanjaydeshpande.jpg"
+"image": "http://hindiradioapp.com/images/sanjaydeshpande.jpg"
 },
 {
 "name": "Babbu Maan Hits",
-"category": "Artist Radios",
+"cat": "Artist Radios",
 "url": "http://149.56.195.94:8342/stream",
-"logo": "http://hindiradioapp.com/images/babbumaan.jpg"
+"image": "http://hindiradioapp.com/images/babbumaan.jpg"
 },
 {
 "name": "Lata Mangeshkar",
-"category": "Artist Radios",
+"cat": "Artist Radios",
 "url": "http://stream.zeno.fm/87xam8pf7tzuv",
-"logo": "http://hindiradioapp.com/images/latamangeshkarradio.jpg"
+"image": "http://hindiradioapp.com/images/latamangeshkarradio.jpg"
 },
 {
 "name": "Badshah Radio",
-"category": "Artist Radios",
+"cat": "Artist Radios",
 "url": "http://drive.uber.radio/uber/bollywoodbadshah/icecast.audio",
-"logo": "http://hindiradioapp.com/images/badshah.jpg"
+"image": "http://hindiradioapp.com/images/badshah.jpg"
 },
 {
-    "category": "Bhakthi Radios",
-    "logo": "http://hindiradioapp.com/images/bhakthisagar.webp",
+    "cat": "Bhakthi Radios",
+    "image": "http://hindiradioapp.com/images/bhakthisagar.webp",
     "name": "Bhakti Sagar",
     "url": "http://103.16.47.70:7777/;"
   },
  {
-    "category": "Bhakthi Radios",
-    "logo": "http://hindiradioapp.com/images/devimaa.webp",
+    "cat": "Bhakthi Radios",
+    "image": "http://hindiradioapp.com/images/devimaa.webp",
     "name": "Radio Devi Maa",
     "url": "http://ibadat.out.airtime.pro:8000/ibadat_a"
   },
   {
-    "category": "Bhakthi Radios",
-    "logo": "http://hindiradioapp.com/images/saigayatri.webp",
+    "cat": "Bhakthi Radios",
+    "image": "http://hindiradioapp.com/images/saigayatri.webp",
     "name": "Sai Gayathri",
     "url": "https://stream.sssmediacentre.org:8443/saigayathri"
   },
   {
-    "category": "Bhakthi Radios",
-    "logo": "http://hindiradioapp.com/images/gayatrimantra.webp",
+    "cat": "Bhakthi Radios",
+    "image": "http://hindiradioapp.com/images/gayatrimantra.webp",
     "name": "Gayathri Mantra",
     "url": "https://stream.sssmediacentre.org:8443/gayathri"
   },
   {
-    "category": "Bhakthi Radios",
-    "logo": "http://hindiradioapp.com/images/shivpanchakshari.webp",
+    "cat": "Bhakthi Radios",
+    "image": "http://hindiradioapp.com/images/shivpanchakshari.webp",
     "name": "Shiv Panchakshari",
     "url": "https://stream.sssmediacentre.org:8443/shivapanchakshari"
   },
   {
-    "category": "Bhakthi Radios",
-    "logo": "http://hindiradioapp.com/images/prasanthi.webp",
+    "cat": "Bhakthi Radios",
+    "image": "http://hindiradioapp.com/images/prasanthi.webp",
     "name": "Sai Prasanthi",
     "url": "https://stream.sssmediacentre.org:8443/asia"
   },
 {
-    "category": "Bhakthi Radios",
-    "logo": "http://hindiradioapp.com/images/babaramdev.webp",
+    "cat": "Bhakthi Radios",
+    "image": "http://hindiradioapp.com/images/babaramdev.webp",
     "name": "Baba Ramdev Radio",
     "url": "http://broadcast.campusradio.rocks/index.php/stream?id=159"
   },
@@ -243,17 +243,17 @@
 		"name_h": "4KSt4KSV4KWN4KSk4KS/IOCkuOCkguCkl+ClgOCkpA==",
 		"url": "http://stream.zeno.fm/ut3kgm1vsa0uv",
 		"samplerate": "",
-		"category": "Bhakthi Radios",
+		"cat": "Bhakthi Radios",
 		"pub": "09-12-2020",
-		"logo": "https://live.staticflickr.com/65535/50427082341_dfd0424476_n.jpg"
+		"image": "https://live.staticflickr.com/65535/50427082341_dfd0424476_n.jpg"
 	},
        {
     "name": "2B! Radio Sangam Shri Ram",
     "name_h": "MiDgpKzgpYAhIOCksOClh+CkoeCkv+Ckr+CliyDgpLjgpILgpJfgpK4g4KS24KWN4KSw4KWAIOCksOCkvuCkrg==",
     "url": "http://dard.out.airtime.pro:8000/dard_a",
     "samplerate": "",
-    "category": "Bhakthi Radios",
-    "logo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/shreeram.png",
+    "cat": "Bhakthi Radios",
+    "image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/shreeram.png",
     "pub": "19-10-2018"
   },
   {
@@ -261,8 +261,8 @@
     "name_h": "MiDgpKzgpYAhIOCksOClh+CkoeCkv+Ckr+CliyDgpLjgpILgpJfgpK4g4KS24KS/4KS1",
     "url": "http://hot.out.airtime.pro:8000/hot_a",
     "samplerate": "",
-    "category": "Bhakthi Radios",
-    "logo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/shivame.png",
+    "cat": "Bhakthi Radios",
+    "image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/shivame.png",
     "pub": "19-10-2018"
   },
   {
@@ -270,8 +270,8 @@
     "name_h": "MiDgpKzgpYAhIOCksOClh+CkoeCkv+Ckr+CliyDgpLjgpILgpJfgpK4g4KSV4KWD4KS34KWN4KSj",
     "url": "http://millenniumhits.out.airtime.pro:8000/millenniumhits_a",
     "samplerate": "",
-    "category": "Bhakthi Radios",
-    "logo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/krishna.png",
+    "cat": "Bhakthi Radios",
+    "image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/krishna.png",
     "pub": "19-10-2018"
   },
   {
@@ -279,8 +279,8 @@
     "name_h": "MiDgpKzgpYAhIOCksOClh+CkoeCkv+Ckr+CliyDgpLjgpILgpJfgpK4g4KSX4KWB4KSw4KWB4KS14KS+4KSw",
     "url": "http://iskon2b.out.airtime.pro:8000/iskon2b_a",
     "samplerate": "",
-    "category": "Bhakthi Radios",
-    "logo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/gurun.png",
+    "cat": "Bhakthi Radios",
+    "image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/gurun.png",
     "pub": "19-10-2018"
   },
   {
@@ -288,8 +288,8 @@
     "name_h": "MiDgpKzgpYAhIOCksOClh+CkoeCkv+Ckr+CliyDgpLjgpILgpJfgpK4g4KSX4KSj4KWH4KS2",
     "url": "http://radio2bindia.out.airtime.pro:8000/radio2bindia_a",
     "samplerate": "",
-    "category": "Bhakthi Radios",
-    "logo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/ganesh.png",
+    "cat": "Bhakthi Radios",
+    "image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/ganesh.png",
     "pub": "19-10-2018"
   },
    {
@@ -297,8 +297,8 @@
     "name_h": "4KS24KWH4KSu4KS+4KSw4KWCIOCkreCkleCljeCkpOCkvyDgpLDgpYfgpKHgpL/gpK/gpYs=",
     "url": "http://69.162.124.24:8888/Smaran",
     "samplerate": "",
-    "category": "Bhakthi Radios",
-    "logo": "http://hindiradioapp.com/images/radiocitysmaran.webp",
+    "cat": "Bhakthi Radios",
+    "image": "http://hindiradioapp.com/images/radiocitysmaran.webp",
     "pub": "12-12-2019"
   },
   {
@@ -306,8 +306,8 @@
     "name_h": "4KSt4KSV4KWN4KSk4KS/IOCkteCkv+CktuCljeCktSAtIOCktuCkv+CktQ==",
     "url": "http://hot.out.airtime.pro:8000/hot_a",
     "samplerate": "",
-    "category": "Bhakthi Radios",
-    "logo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/shiva.png",
+    "cat": "Bhakthi Radios",
+    "image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/shiva.png",
     "pub": "27-08-2019"
   },
   {
@@ -315,8 +315,8 @@
     "name_h": "4KSt4KSV4KWN4KSk4KS/IOCkteCkv+CktuCljeCktSAtIOCkueCkqOClgeCkruCkvuCkqA==",
     "url": "http://2bhanuman.out.airtime.pro:8000/2bhanuman_a",
     "samplerate": "",
-    "category": "Bhakthi Radios",
-    "logo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/hanuman.jpg",
+    "cat": "Bhakthi Radios",
+    "image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/hanuman.jpg",
     "pub": "27-08-2019"
   },
   {
@@ -324,8 +324,8 @@
     "name_h": "4KSt4KSV4KWN4KSk4KS/IOCkteCkv+CktuCljeCktSAtIOCkl+Cko+Clh+Cktg==",
     "url": "http://radio2bindia.out.airtime.pro:8000/radio2bindia_a",
     "samplerate": "",
-    "category": "Bhakthi Radios",
-    "logo": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/ganesha.jpg",
+    "cat": "Bhakthi Radios",
+    "image": "https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/ganesha.jpg",
     "pub": "27-08-2019"
   },
   {
@@ -333,8 +333,8 @@
     "name_h": "4KSt4KSV4KWN4KSk4KS/IOCknOCkl+CkpA==",
     "url": "http://ibadat.out.airtime.pro:8000/ibadat_a",
     "samplerate": "",
-    "category": "Bhakthi Radios",
-    "logo": "https://cdn.onlineradiobox.com/img/logo/8/79898.v1.png",
+    "cat": "Bhakthi Radios",
+    "image": "https://cdn.onlineradiobox.com/img/image/8/79898.v1.png",
     "pub": "27-08-2019"
   },
    {
@@ -342,1182 +342,1182 @@
     "name_h": "4KSt4KSc4KSoIOCksOClh+CkoeCkv+Ckr+Cliw==",
     "url": "http://103.16.47.70:7777/;",
     "samplerate": "",
-    "category": "Bhakthi Radios",
-    "logo": "http://shortfilmsite.com/images/bhakthisagar.jpg",
+    "cat": "Bhakthi Radios",
+    "image": "http://shortfilmsite.com/images/bhakthisagar.jpg",
     "pub": "17-08-2019"
   },
 {
 "name": "TWR India",
 "url": "https://fm.radio882.com/radio/8020/hindi.mp3",
-"logo": "http://shortfilmsite.com/images/twrindia.jpg",
-"category": "Bhakthi Radios"
+"image": "http://shortfilmsite.com/images/twrindia.jpg",
+"cat": "Bhakthi Radios"
 },{
 "name": "Sanathana Vani",
 "url": "http://eu6.fastcast4u.com:5010/autodj",
-"logo": "http://shortfilmsite.com/images/sanathanavani.jpg",
-"category": "Bhakthi Radios"
+"image": "http://shortfilmsite.com/images/sanathanavani.jpg",
+"cat": "Bhakthi Radios"
 },{
 "name": "Bible Radio FM",
 "url": "http://genesis.liveaudiosystems.com:8060/stream",
-"logo": "http://shortfilmsite.com/images/brfm.jpg",
-"category": "Bhakthi Radios"
+"image": "http://shortfilmsite.com/images/brfm.jpg",
+"cat": "Bhakthi Radios"
 },{
 "name": "Jinvani",
 "url": "http://s4.voscast.com:7756/;",
-"logo": "http://shortfilmsite.com/images/jinvani.jpg",
-"category": "Bhakthi Radios"
+"image": "http://shortfilmsite.com/images/jinvani.jpg",
+"cat": "Bhakthi Radios"
 },
 {
 "name": "2B! Radio Devi Maa",
 "url": "http://ibadat.out.airtime.pro:8000/ibadat_a",
-"logo": "http://shortfilmsite.com/images/2bradioretro.jpg",
-"category": "Bhakthi Radios"
+"image": "http://shortfilmsite.com/images/2bradioretro.jpg",
+"cat": "Bhakthi Radios"
 },
  {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/hotnowbollywoodradio2.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/hotnowbollywoodradio2.webp",
     "name": "Hot Now Bollywood",
     "url": "http://103.16.47.70:7222/;stream.mp3"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/retrobollywood.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/retrobollywood.webp",
     "name": "Retro Bollywood",
     "url": "http://stream.zeno.fm/v2zfmxef798uv"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/diversefmnew1.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/diversefmnew1.webp",
     "name": "Diverse FM",
     "url": "https://carol.epichosts.co.uk:8292/;"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/bollyhitsradio.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/bollyhitsradio.webp",
     "name": "Bolly Hits Radio",
     "url": "http://hoth.alonhosting.com:1100/stream"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/radiobollyfm1.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/radiobollyfm1.webp",
     "name": "Radio Bolly FM",
     "url": "http://158.69.254.140:8156/stream"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/jeoradio.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/jeoradio.webp",
     "name": "Jeo Radio",
     "url": "https://uksouth.streaming.broadcast.radio:16020/jeodabstream"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/nonstophindi.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/nonstophindi.webp",
     "name": "Non Stop Hindi",
     "url": "http://158.69.254.140:8168/stream"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/bollywood90s.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/bollywood90s.webp",
     "name": "Bollywood 90s",
     "url": "http://stream.zeno.fm/fdgs82xkzhhvv"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/br1.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/br1.webp",
     "name": "Bollywood 2010's",
     "url": "http://drive.uber.radio/uber/bollywood2010s/icecast.audio"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/bollywoodworkout.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/bollywoodworkout.webp",
     "name": "Workout Radio",
     "url": "https://drive.uber.radio/uber/sportifybollywood/icecast.audio"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/mixify.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/mixify.webp",
     "name": "Mixify Radio",
     "url": "https://server.mixify.in/listen/listen/radio.mp3"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/indiabeat.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/indiabeat.webp",
     "name": "India Beat Radio",
     "url": "http://listen.openstream.co/7045/audio"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/90soldhitsh.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/90soldhitsh.webp",
     "name": "Bollywood 90s Romantic",
     "url": "http://158.69.254.140:8098/stream"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/loveradiobolly.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/loveradiobolly.webp",
     "name": "Love Radio",
     "url": "https://drive.uber.radio/uber/lrbollywood/icecast.audio"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/bollyradio.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/bollyradio.webp",
     "name": "Bolly Radio",
     "url": "http://perseverance.shoutca.st:8204/stream"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/br3.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/br3.webp",
     "name": "Bollywood Now",
     "url": "http://drive.uber.radio/uber/bollywoodnow/icecast.audio"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/bollywoodradioandbeyond.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/bollywoodradioandbeyond.webp",
     "name": "Bollywood Radio & Beyond",
     "url": "https://s6.yesstreaming.net/proxy/john1237?mp=/live"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/bombaybeats.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/bombaybeats.webp",
     "name": "Bombay Beats",
     "url": "http://sc-bb.1.fm:7044/"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/br2.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/br2.webp",
     "name": "Bollywood Diwali Party",
     "url": "http://drive.uber.radio/uber/bollywooddiwali/icecast.audio"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/bollywooddance.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/bollywooddance.webp",
     "name": "Bollywood Dance",
     "url": "http://drive.uber.radio/uber/bollywooddance/icecast.audio"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/4lobosbollywood.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/4lobosbollywood.webp",
     "name": "4 Lobos Bollywood Radio",
     "url": "http://puma.streemlion.com:4130/stream"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/radio44.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/radio44.webp",
     "name": "Radio 44",
     "url": "https://main.smanelcast.com/radio/8030/radio.mp3"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/radiofmbollywood.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/radiofmbollywood.webp",
     "name": "Radio FM Bollywood",
     "url": "https://s3.radio.co/s2f19d44d0/listen"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/bigmelodies.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/bigmelodies.webp",
     "name": "Big Melodies",
     "url": "https://funasia.streamguys1.com/live9"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/bolly4uradio.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/bolly4uradio.webp",
     "name": "Bolly 4U Radio",
     "url": "http://ingest2.astro3.rastream.com/astro-raaga-bolly4u"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/br1.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/br1.webp",
     "name": "Bollywood Love",
     "url": "http://drive.uber.radio/uber/bollywoodlove/icecast.audio"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/instrumental.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/instrumental.webp",
     "name": "Instrumental Music Radio",
     "url": "http://azuracast.vibesounds.in:8030/radio.mp3"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/instrumentalmusicradio.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/instrumentalmusicradio.webp",
     "name": "Instrumental Radio",
     "url": "http://s2.oppusmedia.com:8140/radio.mp3"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/gegarhindi.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/gegarhindi.webp",
     "name": "Hindi Power",
     "url": "http://ingest2.astro1.rastream.com/astro-gegar-hindi"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/spiceradioca.jpg",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/spiceradioca.jpg",
     "name": "Spice Radio CA",
     "url": "http://149.56.147.197:8026/stream"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/rhi.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/rhi.webp",
     "name": "Radio Hindi Int RHI",
     "url": "http://radio.bongonet.net:8012/rhi"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/bollywooddilseradio1.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/bollywooddilseradio1.webp",
     "name": "Bollywood Dil Se",
     "url": "http://103.16.47.70:7333/;stream.mp3"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/hitsofbollywoodnew.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/hitsofbollywoodnew.webp",
     "name": "Hits Bollywood",
     "url": "http://stream.zeno.fm/a2gyqzwpwfeuv"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/radiooliveclub.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/radiooliveclub.webp",
     "name": "Radio Olive Club",
     "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_OLIVE_CLUB_S04_SC"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/rzunplugged.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/rzunplugged.webp",
     "name": "Radio Zindagi Unplugged",
     "url": "http://107.182.234.197:7403/stream"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/hitsofbollywood.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/hitsofbollywood.webp",
     "name": "Hits of Bollywood",
     "url": "http://198.50.156.92:8255/stream"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/br1.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/br1.webp",
     "name": "Bollywood Work Out",
     "url": "http://drive.uber.radio/uber/bollywoodworkout/icecast.audio"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/bollyvibes.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/bollyvibes.webp",
     "name": "Bolly Vibes Radio",
     "url": "http://bollyvibes.radioca.st/stream"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/hitsofbollywood.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/hitsofbollywood.webp",
     "name": "New Hits of Bollywood",
     "url": "http://stream.zeno.fm/rqqps6cbe3quv"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/desihits2000a.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/desihits2000a.webp",
     "name": "Desi Hits 2000",
     "url": "http://www.desizone.nl:8000/relay2"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/90sonceagainradio.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/90sonceagainradio.webp",
     "name": "90S Once Again",
     "url": "http://103.16.47.70:7444/;stream.mp3"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/rz90s.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/rz90s.webp",
     "name": "RZ Sizzling 90s",
     "url": "http://107.182.234.197:7425/stream"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/bollywood90sa.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/bollywood90sa.webp",
     "name": "Nostalagic Bollywood 90s",
     "url": "http://www.desizone.nl:8000/relay3"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/exclusiveradio.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/exclusiveradio.webp",
     "name": "Exclusive Bollywood",
     "url": "http://streaming.exclusive.radio/er/bollywood/icecast.audio"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/bollywoodradio23.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/bollywoodradio23.webp",
     "name": "Bollywood Radio Love",
     "url": "http://drive.uber.radio/uber/bollywoodlove/icecast.audio"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/radiorain.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/radiorain.webp",
     "name": "Radio Rainbow",
     "url": "http://cast1.my-control-panel.com/proxy/buradiom/stream"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/litradio.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/litradio.webp",
     "name": "LIT Radio",
     "url": "http://peridot.streamguys.com:7150/Tarana2.aac"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/lovejunctionradio.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/lovejunctionradio.webp",
     "name": "Love Junction Radio",
     "url": "http://stream.zeno.fm/d9mbtnhd8tzuv"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/bollywoodbio.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/bollywoodbio.webp",
     "name": "Bollywood Bio",
     "url": "http://ais-sa2.cdnstream1.com/1925_192"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/aadiwasiradio.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/aadiwasiradio.webp",
     "name": "Aadiwasi Radio",
     "url": "https://stream.rcast.net/69041"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/rzclubdj.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/rzclubdj.webp",
     "name": "RZ Club DJ",
     "url": "http://107.182.234.197:7397/stream"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/aasmanradio.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/aasmanradio.webp",
     "name": "Aasman Radio",
     "url": "http://aasman_radio.ice.infomaniak.ch/aasmanradio"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/danceasiaradionew.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/danceasiaradionew.webp",
     "name": "Dance Asia FM",
     "url": "https://s1.citrus3.com:8124/stream"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/vybezstation.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/vybezstation.webp",
     "name": "Vybez Station",
     "url": "http://us2.internet-radio.com:8281/live"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/desidance.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/desidance.webp",
     "name": "Desi Dance",
     "url": "https://usa6.fastcast4u.com/proxy/vinsingh?mp=/stream"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/rzromance.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/rzromance.webp",
     "name": "RZ Romance",
     "url": "http://107.182.234.197:7466/stream"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/himalradio.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/himalradio.webp",
     "name": "Himal Hindi Filmy",
     "url": "http://streaming.webhostnepal.com/8020/stream"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/fnffm.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/fnffm.webp",
     "name": "FNF FM Bollywood",
     "url": "http://192.99.8.192:5032/stream"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/404.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/404.webp",
     "name": "Red Chat Bollywood Radio",
     "url": "http://5.9.63.157:8000/stream"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/dancemastibollywoodradio.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/dancemastibollywoodradio.webp",
     "name": "Dance Masti",
     "url": "http://103.16.47.70:9222/;stream.mp3"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/calmradio.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/calmradio.webp",
     "name": "Calm Radio Bollywood",
     "url": "http://streams.calmradio.com:7028/;"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/radiodil.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/radiodil.webp",
     "name": "Radio Dil",
     "url": "https://us3.streamingpulse.com/ssl/radiodil2"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/megazonebollywood.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/megazonebollywood.webp",
     "name": "Megazone Bollywood",
     "url": "https://streaming.fabrik.fm/megazone/echocast/audio/high/index.m3u8"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/bollywoodfm.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/bollywoodfm.webp",
     "name": "Bollywood FM",
     "url": "http://www.abm2.com.au:8000/CONTAINER34"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/radiocityhiphop.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/radiocityhiphop.webp",
     "name": "Radio City HIP HOP",
     "url": "http://69.162.124.24:8888/HipHop"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/sbspopdesi.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/sbspopdesi.webp",
     "name": "SBS Pop Desi",
     "url": "http://sbs-ice.streamguys1.com/sbs-popdesi"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/radioshruti.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/radioshruti.webp",
     "name": "Radio Shruti",
     "url": "https://rs.suricloud.com/radio/8000/radio.mp3"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/abeeradio.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/abeeradio.webp",
     "name": "Abee Radio",
     "url": "http://stream.zeno.fm/3pb072s7hqzuv"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/vdesi.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/vdesi.webp",
     "name": "VDesi",
     "url": "http://stream.radio.co/s42e977b6c/listen"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/radiomausam.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/radiomausam.webp",
     "name": "Radio Mausam",
     "url": "http://85.25.185.202:8318/stream"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/vdesi.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/vdesi.webp",
     "name": "VDesi Radio",
     "url": "http://ice66.securenetsystems.net/WVDESI"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/awsmradio.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/awsmradio.webp",
     "name": "Awsm Radio",
     "url": "http://stream.radio.co/s9c44032cc/listen"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/radiorccaprice.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/radiorccaprice.webp",
     "name": "RC Caprice",
     "url": "http://79.120.39.202:9089/;"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/radiorccaprice.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/radiorccaprice.webp",
     "name": "Caprice Indian Cinema",
     "url": "http://79.120.39.202:8000/indiancinema"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/mehefilradio.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/mehefilradio.webp",
     "name": "Mehefil Radio",
     "url": "http://mehefil.no-ip.com/mehefil"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/apnafrankfurt1.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/apnafrankfurt1.webp",
     "name": "Apna Frankfurt",
     "url": "https://stream.radio.co/s798135a6d/low"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/djcdindianradio.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/djcdindianradio.webp",
     "name": "DJ CD Indian Radio",
     "url": "http://s7.voscast.com:10844/stream"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/radiobulanamaste.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/radiobulanamaste.webp",
     "name": "Radio Bula Namaste",
     "url": "http://162.244.80.30:8126/:Stream.mp3"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/radiomeharban.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/radiomeharban.webp",
     "name": "Radio Meharban",
     "url": "http://stream.zeno.fm/1qhzc7v1xqzuv"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/radiowow.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/radiowow.webp",
     "name": "Radio WOW",
     "url": "http://cast2.my-control-panel.com/proxy/radiowow/stream"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/csmr.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/csmr.webp",
     "name": "Caribbean Super Mix Radio",
     "url": "http://198.178.121.76:8063/;"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/radiodhishum.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/radiodhishum.webp",
     "name": "Radio Dhishum",
     "url": "https://radiodhishum.out.airtime.pro/Radiodhishum_a"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/joshfm.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/joshfm.webp",
     "name": "Josh FM",
     "url": "http://stream.zeno.fm/cm1fkgbv1ceuv"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/euphonicradio.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/euphonicradio.webp",
     "name": "Euphonic Radio",
     "url": "http://stream.zeno.fm/zszmz90uz1zuv"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/hindimusicradio.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/hindimusicradio.webp",
     "name": "Hindi Music Radio",
     "url": "http://stream.zeno.fm/8e9q38tg7zquv"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/ganabajao.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/ganabajao.webp",
     "name": "Gana Bajao",
     "url": "http://stream.zeno.fm/uyzbn70kkuquv"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/dilfm.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/dilfm.webp",
     "name": "103 Dil FM HD",
     "url": "http://s4.myradiostream.com:14348/listen.mp3"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/404.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/404.webp",
     "name": "Bollywood Music HD",
     "url": "http://185.33.21.173:8017/"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/justmusic.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/justmusic.webp",
     "name": "Just Music",
     "url": "https://live.wostreaming.net/direct/humfm-fm1062mp3-ibc1"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/bestofindiepopradio.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/bestofindiepopradio.webp",
     "name": "Best of Indie Pop",
     "url": "http://103.16.47.70:7111/;stream.mp3"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/joshfmindipophits.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/joshfmindipophits.webp",
     "name": "Indi Pop Hits",
     "url": "http://stream.zeno.fm/y3fy7bwb0mzuv"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/bollywoodinstrumentalsradio.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/bollywoodinstrumentalsradio.webp",
     "name": "Instrumentals Radio",
     "url": "http://103.16.47.70:8333/;stream.mp3"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/intensedmvradio.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/intensedmvradio.webp",
     "name": "Intensedmv Bollywood",
     "url": "http://ice6.securenetsystems.net/INTRADIO?type=.mp3"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/indifun.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/indifun.webp",
     "name": "Indi Fun Radio",
     "url": "http://indifun.net:7000/;"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/masalabeats.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/masalabeats.webp",
     "name": "Masala Beats",
     "url": "http://usa10.fastcast4u.com:7070/;"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/indifun.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/indifun.webp",
     "name": "Fun X Desi",
     "url": "http://icecast.omroep.nl/funx-bb-mp3"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/desizoneradioa.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/desizoneradioa.webp",
     "name": "Desi Zone",
     "url": "http://www.desizone.nl:8000/"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/akaashfm.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/akaashfm.webp",
     "name": "Akaash FM",
     "url": "http://stream.akaashfm.com:8000/live"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/nitnutradio.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/nitnutradio.webp",
     "name": "Nit Nut Radio",
     "url": "http://103.179.56.26:8000/radio.aac"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/desiworld.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/desiworld.webp",
     "name": "Desi World Radio",
     "url": "http://stream.zeno.fm/4mbfcn4mf24tv"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/desimaska.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/desimaska.webp",
     "name": "Desi Maska",
     "url": "http://ample.radiojar.com/q9rymqdbeyduv"
   },
   {
-    "category": "Bollywood Radios",
-    "logo": "http://hindiradioapp.com/images/desinetworks.webp",
+    "cat": "Bollywood Radios",
+    "image": "http://hindiradioapp.com/images/desinetworks.webp",
     "name": "Desi Dance",
     "url": "http://usa6.fastcast4u.com:5029/stream"
   },
 {
 "name": "AIR Almora",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio122/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/air.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "AIR Chhatarpur",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio104/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/air.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "AIR Mount Abu",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio159/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/air.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "AIR Mathura",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio067/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/air.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "AIR Shahdol",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio228/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/air.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "AIR Bhopal",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio146/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/air.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "AIR Sagar",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio204/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/air.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "AIR Delhi Indraprastha",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio006/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/air.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "AIR Raipur",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio118/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/air.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "Ranchi AIR",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio199/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/air.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "AIR Gorakhpur",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio203/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/air.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "AIR Jhansi",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio099/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/air.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "AIR Jamshedpur PC",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio216/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/air.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "AIR Raagam",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio139/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/raagam.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/raagam.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "AIR Prayagraj",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio125/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/air.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "Vividh Bharathi Jaipur",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio193/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/vividhbharathi.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/vividhbharathi.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "AIR Dehradun",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio191/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/air.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "Mumbai FM Rainbow ",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio008/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/fmrainbow1.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/fmrainbow1.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "AIR Pauri",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio107/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/air.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "AIR Port Blair",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio038/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/air.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "AIR Alwar",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio153/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/air.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "AIR Suratgarh",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio064/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/air.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "Mumbai FM Gold",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio007/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/fmgold.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/fmgold.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "AIR Delhi Rajdhani",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio003/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/air.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "AIR Jaisalmer",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio206/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/air.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "AIR Srinagar",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio136/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/air.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "AIR Churu",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio226/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/air.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "AIR Daltonganj",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio202/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/air.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "AIR Shimla",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio042/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/airshimla.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/airshimla.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "AIR Jodhpur",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio088/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/airjodhpur.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/airjodhpur.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "Vividh Bharati",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio001/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/vividhbharathi.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/vividhbharathi.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "AIR Jabalpur",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio167/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/air.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "AIR Faizabad",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio152/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/air.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "AIR Kathua",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio190/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/air.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "AIR Jammu",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio128/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/air.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "AIR News 24x7",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio002/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/air.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "AIR Lucknow",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio046/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/air.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "AIR Kota",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio084/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/air.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "AIR Leh",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio223/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/air.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "AIR Nagaur",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio170/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/air.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "AIR Indore",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio212/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/air.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "AIR Kargil",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio066/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/air.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "Sun City FM Jodhpur",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio089/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/air.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "AIR Purnia Bihar",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio147/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/air.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "AIR Gwalior",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio204/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/air.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "AIR Patna",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio087/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/air.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "AIR Darbhanga",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio160/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/air.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "AIR Bikaner",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio053/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/air.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "AIR Najibabad",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio162/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/air.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "AIR Shivpuri",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio171/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/air.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "Udaipur FM Lake City",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio149/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/air.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "AIR Jaipur",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio192/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/air.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "AIR Aizawl",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio221/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/air.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "AIR Shimla PC",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio043/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/airshimla.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/airshimla.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "AIR Barmer",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio200/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/air.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "Delhi FM Rainbow",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio004/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/fmrainbow1.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/fmrainbow1.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "AIR Betul",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio108/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/air.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "Chhindwara AIR",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio113/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/air.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "AIR Banswara",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio014/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/air.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "Lucknow FM Rainbow",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio047/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/fmrainbow1.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/fmrainbow1.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "AIR Kanpur",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio194/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/air.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "AIR Sawai Madhopur",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio119/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/air.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "AIR Chittorgarh",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio060/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/air.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "AIR Agartala FM",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio130/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/air.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "Delhi FM Gold",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio005/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/fmgold.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/fmgold.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "AIR Rohtak",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio188/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/air.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "AIR Chandigarh",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio111/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/air.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "Bhopal Vividh Bharathi",
 "url": "http://117.223.156.12:1234/stream.mp3",
-"logo": "http://shortfilmsite.com/images/vividhbharathi.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/vividhbharathi.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "AIR Varanasi",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio094/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/air.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "Raigarh AIR",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio196/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/air.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "AIR Bilaspur",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio110/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/air.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "AIR Khandwa",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio143/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/air.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "AIR Udaipur",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio148/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/air.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "AIR Ambikapur",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio086/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/air.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "AIR Jhalawar",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio157/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/air.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "AIR Agra",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio059/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/air.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "AIR Sasaram",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio075/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/air.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "AIR Hazaribagh",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio197/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/air.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "Guna AIR",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio115/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/air.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "AIR Rewa",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio225/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/air.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "AIR Chaibasa",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio224/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/air.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "AIR Obra",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio235/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/air.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "AIR Balaghat",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio091/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/air.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "Jagdalpur AIR",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio201/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/air.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "AIR Rampur",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio179/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/air.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "AIR Agartala",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio131/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/air.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "AIR Dharamshala",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio165/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/air.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "AIR Daman",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio208/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/air.jpg",
+"cat": "All India Radios"
 },
 {
 "name": "AIR Bareilly",
 "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio124/playlist.m3u8",
-"logo": "http://shortfilmsite.com/images/air.jpg",
-"category": "All India Radios"
+"image": "http://shortfilmsite.com/images/air.jpg",
+"cat": "All India Radios"
 }
 ]
 }
