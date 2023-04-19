@@ -1,6 +1,13 @@
 {
 "spList": [
 {
+		"imgLogo": "pic/hanu.png",
+		"playStoreUrl": "https://play.google.com/store/apps/details?id=com.look.devotional.hanumanchalisa",
+		"directLink": "",
+		"info":"Hanuman Chalisa"
+
+},
+{
 		"imgLogo": "pic/bhudh_splash.png",
 		"playStoreUrl": "https://play.google.com/store/apps/details?id=com.devotional.buddhachants",
 		"directLink": "",

@@ -5,6 +5,13 @@
 "has_more": true,
 "spList": [
 {
+		"imgLogo": "ttps://onlineradio24.s3.ap-south-1.amazonaws.com/NewHosting/LatestRadio/pic/hanu.png",
+		"playStoreUrl": "https://play.google.com/store/apps/details?id=com.look.devotional.hanumanchalisa",
+		"directLink": "",
+		"info":"Hanuman Chalisa"
+
+},
+{
 		"imgLogo": "https://onlineradio24.s3.ap-south-1.amazonaws.com/NewHosting/LatestRadio/pic/bhudh_splash.png",
 		"playStoreUrl": "https://play.google.com/store/apps/details?id=com.devotional.buddhachants",
 		"directLink": "",
