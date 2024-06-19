@@ -18,12 +18,6 @@
 "logo": "http://shortfilmsite.com/images/radiovani.jpg"
 },
 {
-"name": "Telugu NRI Radio",
-"url": "http://104.167.4.67:8332/stream",
-"category": "Telugu Radios",
-"logo": "http://shortfilmsite.com/images/telugunriradio.jpg"
-},
-{
 "name": "E FM",
 "url": "http://stream.zenolive.com/vfvpf083mg0uv",
 "category": "Telugu Radios",
@@ -442,12 +436,6 @@
 "url": "http://stream.zeno.fm/870vywh3a5zuv",
 "category": "Music Radios",
 "logo": "http://shortfilmsite.com/images/carnaticradio.jpg"
-},
-{
-"name": "Telugu Melodies Radio",
-"url": "https://azuracast.vibesounds.in:8020/radio.mp3",
-"category": "Music Radios",
-"logo": "http://shortfilmsite.com/images/telugumelodies.jpg"
 },
 {
 "name": "KNR Radio",
