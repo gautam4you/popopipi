@@ -72,12 +72,6 @@
     "logo": "http://telugu.b-cdn.net/wp-content/uploads/2021/09/Melody-Radio.webp"
   },
   {
-    "name": "Telugu Melodies Radio",
-    "category": "Hits Colections",
-    "url": "https://azuracast.vibesounds.in:8020/radio.mp3",
-    "logo": "http://telugu.b-cdn.net/wp-content/uploads/2021/09/Telugu-Melodies-Radio.webp"
-  },
-  {
     "name": "80s Telugu Hits",
     "category": "Hits Colections",
     "url": "http://stream.zeno.fm/krxebetq0ddvv",
@@ -130,12 +124,6 @@
     "category": "Online Radios",
     "url": "https://radioking.com/play/telangananriradio",
     "logo": "http://telugu.b-cdn.net/wp-content/uploads/2021/09/TNRI-Tadio-1.webp"
-  },
-  {
-    "name": "Telugu NRI Radio",
-    "category": "Online Radios",
-    "url": "http://104.167.4.67:8332/;stream.mp3",
-    "logo": "http://telugu.b-cdn.net/wp-content/uploads/2017/04/Telugu-NRI-Radio.webp"
   },
   {
     "name": "Telugu One Tori",
